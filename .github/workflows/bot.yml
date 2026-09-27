@@ -2,8 +2,15 @@ name: Football bot
 
 on:
   schedule:
-    - cron: "7 */2 * * *"
+    - cron: "7 1-23/2 * * *"   # обычные посты: раз в 2 часа (00:07, 02:07 ... по Москве)
+    - cron: "45 19 * * *"      # «Итоги дня»: ~23:00 по Москве (GitHub часто опаздывает на 10–15 мин)
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "Что запустить"
+        type: choice
+        options: [post, digest]
+        default: post
 
 permissions:
   contents: write
@@ -24,6 +31,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          MODE: ${{ github.event.schedule == '45 19 * * *' && 'digest' || inputs.mode || 'post' }}
       - name: Save state
         run: |
           if [ -f posted.json ]; then
