@@ -36,7 +36,19 @@ FEEDS = {
     "Kicker": "https://newsfeed.kicker.de/news/fussball",
     "L'Équipe": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/",
     "Record": "https://www.record.pt/rss",
+    # местные лиги
+    "NOS (Нидерланды)": "https://feeds.nos.nl/nosvoetbal",
+    "Football Oranje": "https://football-oranje.com/feed",
+    "Turkish League": "https://turkishleague.net/feed",
+    "Fanatik (Турция)": "https://www.fanatik.com.tr/rss/futbol",
+    "Sporza (Бельгия)": "https://sporza.be/nl/categorie/voetbal.rss.xml",
+    "Walfoot (Бельгия)": "https://www.walfoot.be/rss",
+    "Daily Record (Шотландия)": "https://www.dailyrecord.co.uk/sport/football/?service=rss",
+    "The Scotsman": "https://www.scotsman.com/sport/football/rss",
 }
+LOCAL_SOURCES = {"NOS (Нидерланды)", "Football Oranje", "Turkish League", "Fanatik (Турция)",
+                 "Sporza (Бельгия)", "Walfoot (Бельгия)", "Daily Record (Шотландия)",
+                 "The Scotsman", "BBC Sport (Шотландия)", "Record"}
 
 # Какие бесплатные модели OpenRouter предпочитаем (по порядку)
 PREFERRED_MODELS = ["gpt-oss-120b", "deepseek", "gemma-4", "llama-3.3-70b", "qwen3", "nemotron-3-ultra",
@@ -69,6 +81,7 @@ def load_state():
     s.setdefault("links", [])
     s.setdefault("src_titles", [])
     s.setdefault("recent", [])
+    s.setdefault("day_posts", [])
     return s
 
 
@@ -76,6 +89,7 @@ def save_state(s):
     s["links"] = s["links"][-1000:]
     s["src_titles"] = s["src_titles"][-1000:]
     s["recent"] = s["recent"][-40:]
+    s["day_posts"] = s["day_posts"][-40:]
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(s, f, ensure_ascii=False, indent=1)
 
@@ -96,11 +110,11 @@ def entry_time(e):
     return dt.datetime.fromtimestamp(calendar.timegm(t), dt.timezone.utc)
 
 
-def fetch_candidates(state):
+def fetch_candidates(state, max_age=MAX_AGE_HOURS, skip_seen=True):
     now = dt.datetime.now(dt.timezone.utc)
-    seen_links = set(state["links"])
-    seen_titles = set(state["src_titles"])
-    recent_kws = [keywords(t) for t in state["src_titles"][-50:]]
+    seen_links = set(state["links"]) if skip_seen else set()
+    seen_titles = set(state["src_titles"]) if skip_seen else set()
+    recent_kws = [keywords(t) for t in state["src_titles"][-50:]] if skip_seen else []
     items = []
     for source, url in FEEDS.items():
         try:
@@ -122,7 +136,7 @@ def fetch_candidates(state):
             if any(len(kw & r) >= 3 for r in recent_kws):
                 continue
             t = entry_time(e)
-            if t and (now - t).total_seconds() > MAX_AGE_HOURS * 3600:
+            if t and (now - t).total_seconds() > max_age * 3600:
                 continue
             items.append({
                 "source": source,
@@ -136,7 +150,10 @@ def fetch_candidates(state):
     add_buzz(items)
     far_past = dt.datetime(2000, 1, 1, tzinfo=dt.timezone.utc)
     items.sort(key=lambda x: (x["buzz"], x["time"] or far_past), reverse=True)
-    return items[:MAX_CANDIDATES]
+    # чтобы местные лиги не терялись среди англоязычного потока
+    top = items[:MAX_CANDIDATES - 12]
+    local = [i for i in items[MAX_CANDIDATES - 12:] if i["source"] in LOCAL_SOURCES][:12]
+    return top + local
 
 
 def keywords(title):
@@ -270,6 +287,9 @@ SELECT_SYSTEM = """Ты главный редактор русскоязычно
 2) итоги крупных матчей, которые только что закончились;
 3) интересная аналитика.
 Не выбирай истории, которые уже были в недавних постах, даже в другой формулировке.
+Следи за разнообразием: если в последних 5–6 постах не было Турции, Нидерландов, Бельгии,
+Шотландии или Португалии, а среди статей есть заметная история оттуда (громкий матч, скандал,
+трансфер известного игрока), можно выбрать её.
 Не выбирай статьи не по темам канала, лайв-трансляции, тесты, опросы, рекламу, ставки.
 Ответь ОДНОЙ строкой в формате НОМЕР|ТИП, например: 12|match
 Если достойного нет, ответь: НЕТ
@@ -284,6 +304,12 @@ WRITE_SYSTEM = """Ты автор Telegram-канала о футболе «С �
 Для match обязательно укажи счёт, если он есть в тексте.
 Имена игроков и клубов пиши так, как принято в русских спортивных СМИ (Мбаппе, «Бавария»).
 Можно 1–2 уместных эмодзи. Без хэштегов, без markdown, без ссылок, без подписи канала.
+Заголовок должен цеплять: живой, с интригой или лёгкой иронией, как в хорошем
+спортивном паблике, а не сухая газетная строка. Хорошо работают вопросы и контраст.
+Примеры хорошего стиля: «Сити» виновен. Что теперь будет с титулами? /
+«Бавария» снова забыла, как защищаться / Ламин Ямаль и 90 минут, которые сломали «Атлетико».
+Плохо: «Последствия приговора для „Манчестер Сити“», «Итоги матча „Барселона“ — „Атлетико“».
+Заголовок не должен преувеличивать или менять смысл статьи.
 Формат ответа строго такой, без пояснений:
 первая строка — короткий заголовок до 80 символов, начинается с одного эмодзи;
 дальше — текст поста."""
@@ -313,12 +339,69 @@ def send_to_telegram(text, link):
         raise RuntimeError(f"Telegram отказал: {data.get('description')}")
 
 
+
+# ---------------- ДАЙДЖЕСТ «ИТОГИ ДНЯ» ----------------
+MONTHS = ["января", "февраля", "марта", "апреля", "мая", "июня", "июля",
+          "августа", "сентября", "октября", "ноября", "декабря"]
+
+DIGEST_SYSTEM = """Ты автор Telegram-канала о европейском футболе «С ударом!». Составь вечерний дайджест «Итоги дня».
+Пиши по-русски, живо, с лёгкой иронией. Используй ТОЛЬКО факты из присланных материалов, ничего не выдумывай.
+Формат строго такой, без вступлений и пояснений:
+Главное:
+• эмодзи + одна-две фразы о событии
+(4–6 пунктов, самые важные и обсуждаемые истории дня)
+
+Счета:
+• «Команда» 2:1 «Команда» (турнир)
+(только крупные матчи топ-лиг, еврокубков и сборных; бери счёт ТОЛЬКО если он прямо указан в материалах.
+Если ни одного счёта нет — раздел «Счета» не пиши вообще)
+Без хэштегов, без ссылок, без markdown."""
+
+
+def parse_digest(text):
+    t = clean_answer(text)
+    if "Главное" not in t or t.count("•") < 3:
+        raise ValueError("Дайджест не похож на дайджест")
+    return t[t.index("Главное"):]
+
+
+def run_digest(state):
+    now = dt.datetime.now(dt.timezone.utc)
+    posts = [p for p in state["day_posts"]
+             if (now - dt.datetime.fromisoformat(p["time"])).total_seconds() < 24 * 3600]
+    news = fetch_candidates(state, max_age=24, skip_seen=False)
+    if not posts and not news:
+        print("За день ничего нет, дайджест пропускаем.")
+        return
+    material = "Посты канала за сегодня:\n" + ("\n".join(
+        f"- {p['title']}: {p['body']}" for p in posts) or "(нет)")
+    material += "\n\nЗаголовки новостей за сутки (ищи здесь счета матчей):\n" + "\n".join(
+        f"- ({n['source']}) {n['title']} — {n['summary'][:150]}" for n in news)
+    text = ask_ai(get_models(), DIGEST_SYSTEM, material, parse_digest)
+
+    msk = now + dt.timedelta(hours=3)
+    head = f"🌙 <b>Итоги дня · {msk.day} {MONTHS[msk.month - 1]}</b>"
+    body = html.escape(text)
+    body = re.sub(r"^(Главное|Счета):", r"<b>\1:</b>", body, flags=re.M)
+    r = requests.post(
+        f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
+        json={"chat_id": CHANNEL, "text": f"{head}\n\n{body}", "parse_mode": "HTML",
+              "link_preview_options": {"is_disabled": True}},
+        timeout=30,
+    )
+    if not r.json().get("ok"):
+        raise RuntimeError(f"Telegram отказал: {r.json().get('description')}")
+    print("🌙 Дайджест опубликован:\n" + text)
+
 # ---------------- ГЛАВНОЕ ----------------
 def main():
     if not TG_TOKEN or not OR_KEY:
         raise SystemExit("❌ Нет секретов TELEGRAM_BOT_TOKEN или OPENROUTER_API_KEY")
 
     state = load_state()
+    if os.environ.get("MODE") == "digest":
+        run_digest(state)
+        return
     cands = fetch_candidates(state)
     print(f"📰 Кандидатов: {len(cands)}")
     if not cands:
@@ -358,6 +441,8 @@ def main():
     state["links"].append(item["link"])
     state["src_titles"].append(norm(item["title"]))
     state["recent"].append(post["title"])
+    state["day_posts"].append({"time": dt.datetime.now(dt.timezone.utc).isoformat(),
+                               "title": post["title"], "body": post["body"][:400]})
     save_state(state)
 
 
