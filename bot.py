@@ -9,6 +9,7 @@ import json
 import time
 import html
 import calendar
+from concurrent.futures import ThreadPoolExecutor
 import datetime as dt
 
 import requests
@@ -51,8 +52,9 @@ LOCAL_SOURCES = {"NOS (Нидерланды)", "Football Oranje", "Turkish Leagu
                  "The Scotsman", "BBC Sport (Шотландия)", "Record"}
 
 # Какие бесплатные модели OpenRouter предпочитаем (по порядку)
-PREFERRED_MODELS = ["gpt-oss-120b", "deepseek", "gemma-4", "llama-3.3-70b", "qwen3", "nemotron-3-ultra",
-                    "hy3", "gemma", "gpt-oss", "llama", "mistral", "nemotron"]
+# сначала модели, которые лучше пишут по-русски
+PREFERRED_MODELS = ["deepseek", "gemma-4", "qwen3", "gpt-oss-120b", "gemma", "hy3",
+                    "mistral", "llama-3.3-70b", "gpt-oss", "llama", "nemotron"]
 # узкоспециальные модели, которые не умеют писать тексты
 BAD_MODEL_WORDS = ["safety", "guard", "embed", "rerank", "coder", "code", "vl", "vision",
                    "ocr", "math", "lightning", "nano", "mini", "tiny", "1b", "3b", "4b", "8b"]
@@ -116,12 +118,21 @@ def fetch_candidates(state, max_age=MAX_AGE_HOURS, skip_seen=True):
     seen_titles = set(state["src_titles"]) if skip_seen else set()
     recent_kws = [keywords(t) for t in state["src_titles"][-50:]] if skip_seen else []
     items = []
-    for source, url in FEEDS.items():
+
+    def load(pair):
+        source, url = pair
         try:
-            r = requests.get(url, headers=UA, timeout=20)
-            feed = feedparser.parse(r.content)
+            r = requests.get(url, headers=UA, timeout=10)
+            return source, feedparser.parse(r.content), None
         except Exception as ex:
-            print(f"⚠️ {source}: не загрузился ({ex})")
+            return source, None, ex
+
+    with ThreadPoolExecutor(max_workers=10) as pool:
+        results = list(pool.map(load, FEEDS.items()))
+
+    for source, feed, err in results:
+        if err is not None:
+            print(f"⚠️ {source}: не загрузился ({err})")
             continue
         count = 0
         for e in feed.entries[:30]:
@@ -131,7 +142,6 @@ def fetch_candidates(state, max_age=MAX_AGE_HOURS, skip_seen=True):
                 continue
             if link in seen_links or norm(title) in seen_titles:
                 continue
-            # та же история у другого издания, о которой уже писали
             kw = keywords(title)
             if any(len(kw & r) >= 3 for r in recent_kws):
                 continue
@@ -146,7 +156,7 @@ def fetch_candidates(state, max_age=MAX_AGE_HOURS, skip_seen=True):
                 "time": t,
             })
             count += 1
-        print(f"✅ {source}: {count} свежих")
+        print(f"{'✅' if count else '⚪'} {source}: {count} свежих")
     add_buzz(items)
     far_past = dt.datetime(2000, 1, 1, tzinfo=dt.timezone.utc)
     items.sort(key=lambda x: (x["buzz"], x["time"] or far_past), reverse=True)
@@ -173,7 +183,7 @@ def add_buzz(items):
 
 def fetch_article_text(link):
     try:
-        r = requests.get(link, headers=UA, timeout=20)
+        r = requests.get(link, headers=UA, timeout=15)
         soup = BeautifulSoup(r.text, "html.parser")
         for tag in soup(["script", "style", "nav", "header", "footer", "aside"]):
             tag.decompose()
@@ -244,7 +254,7 @@ def ask_ai(models, system, user, parser):
     """Спрашиваем ИИ. Бесплатные модели часто перегружены (ошибка 429),
     поэтому пробуем разные модели и ждём между попытками."""
     last_error = ""
-    for attempt in range(4):
+    for attempt in range(3):
         # на каждой попытке ставим первой другую модель, остальные — запасные
         k = attempt % len(models)
         order = models[k:] + models[:k]
@@ -260,6 +270,8 @@ def ask_ai(models, system, user, parser):
             if r.status_code in (401, 402, 403):
                 raise SystemExit(f"❌ OpenRouter отказал ({r.status_code}): {r.text[:300]}\n"
                                  "Проверь ключ и его лимит в openrouter.ai → Keys.")
+            if r.status_code == 429 and "per-day" in r.text:
+                raise SystemExit("⛔ Дневной лимит бесплатных запросов OpenRouter исчерпан, ждём завтра.")
             if r.status_code != 200:
                 last_error = f"{r.status_code}: {r.text[:300]}"
                 print(f"⚠️ Попытка {attempt + 1}: {last_error}")
@@ -300,8 +312,10 @@ WRITE_SYSTEM = """Ты автор Telegram-канала о футболе «С �
 но без кринжа и без оскорблений. Перескажи статью СВОИМИ словами, не копируй фразы оригинала.
 Используй ТОЛЬКО факты из текста статьи. Ничего не выдумывай: ни счёт, ни цитаты, ни цифры.
 Если это слух — прямо укажи, кто об этом сообщает, и не подавай как факт.
-Длина: news и rumor — 2–3 предложения; analysis и match — до двух коротких абзацев.
-Для match обязательно укажи счёт, если он есть в тексте.
+Длина текста: СТРОГО 3–4 предложения одним абзацем, для любого типа поста. Только самое главное —
+кому интересны детали, перейдёт по ссылке. Для match обязательно укажи счёт, если он есть в тексте.
+Пиши грамотно и естественно, как пишет русский спортивный журналист, а не как машинный перевод:
+никаких калек с английского, у каждого предложения должна быть ясная мысль и логичная связь с предыдущим.
 Имена игроков и клубов пиши так, как принято в русских спортивных СМИ (Мбаппе, «Бавария»).
 Можно 1–2 уместных эмодзи. Без хэштегов, без markdown, без ссылок, без подписи канала.
 Заголовок должен цеплять: живой, с интригой или лёгкой иронией, как в хорошем
@@ -312,6 +326,20 @@ WRITE_SYSTEM = """Ты автор Telegram-канала о футболе «С �
 Заголовок не должен преувеличивать или менять смысл статьи.
 Формат ответа строго такой, без пояснений:
 первая строка — короткий заголовок до 80 символов, начинается с одного эмодзи;
+дальше — текст поста."""
+
+
+EDIT_SYSTEM = """Ты строгий литературный редактор и корректор русскоязычного спортивного Telegram-канала.
+Тебе дают черновик поста и текст исходной статьи. Проверь и исправь:
+1) орфографию, пунктуацию, согласование слов, падежи;
+2) кальки и машинный перевод — перепиши так, как сказал бы русский спортивный журналист;
+3) логику: каждое предложение понятно, связано с предыдущим, нет противоречий и обрывков мысли;
+4) факты: всё должно совпадать со статьёй — счёт, имена, клубы, кто что сказал. Убери то, чего в статье нет;
+5) имена и клубы в привычном русском написании («Бавария», Мбаппе, Ямаль);
+6) длина: 3–4 предложения одним абзацем, заголовок до 80 символов с одним эмодзи в начале.
+Сохрани живой тон и лёгкую иронию, но не добавляй новых фактов.
+Верни ТОЛЬКО исправленный пост без комментариев:
+первая строка — заголовок;
 дальше — текст поста."""
 
 
@@ -433,6 +461,18 @@ def main():
     post = ask_ai(models, WRITE_SYSTEM,
                   f"Тип поста: {kind}\nИздание: {item['source']}\n"
                   f"Заголовок: {item['title']}\n\nТекст статьи:\n{text}", parse_post)
+
+    print(f"📝 Черновик:\n{post['title']}\n{post['body']}")
+    try:
+        post = ask_ai(models, EDIT_SYSTEM,
+                      f"Черновик:\n{post['title']}\n{post['body']}\n\n"
+                      f"Исходная статья ({item['source']}):\n{text[:3500]}", parse_post)
+    except SystemExit:
+        raise
+    except Exception as ex:
+        # без проверки не публикуем — лучше пропустить слот, чем выложить кривой текст
+        print(f"⚠️ Корректор не сработал ({ex}), пост пропускаем до следующего запуска.")
+        return
 
     message = build_post(post, kind, item["source"], item["link"])
     send_to_telegram(message, item["link"])
