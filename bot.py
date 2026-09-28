@@ -73,6 +73,14 @@ del los las por con para una que como sus mas der die das und mit von den ist
 les des pour avec dans sur une che per con gli della dos das com para uma""".split())
 
 
+class Overloaded(Exception):
+    """ИИ перегружен или ответил ерундой — стоит повторить позже."""
+
+
+class DailyLimit(Exception):
+    """Кончился дневной лимит бесплатных запросов."""
+
+
 # ---------------- СОСТОЯНИЕ (что уже публиковали) ----------------
 def load_state():
     try:
@@ -129,6 +137,9 @@ def fetch_candidates(state, max_age=MAX_AGE_HOURS, skip_seen=True):
 
     with ThreadPoolExecutor(max_workers=10) as pool:
         results = list(pool.map(load, FEEDS.items()))
+
+    if all(err is not None for _, _, err in results):
+        raise RuntimeError("Не загрузился ни один источник новостей — похоже, проблема с сетью")
 
     for source, feed, err in results:
         if err is not None:
@@ -271,7 +282,7 @@ def ask_ai(models, system, user, parser):
                 raise SystemExit(f"❌ OpenRouter отказал ({r.status_code}): {r.text[:300]}\n"
                                  "Проверь ключ и его лимит в openrouter.ai → Keys.")
             if r.status_code == 429 and "per-day" in r.text:
-                raise SystemExit("⛔ Дневной лимит бесплатных запросов OpenRouter исчерпан, ждём завтра.")
+                raise DailyLimit("Дневной лимит бесплатных запросов OpenRouter исчерпан (обнулится в 03:00 по Москве)")
             if r.status_code != 200:
                 last_error = f"{r.status_code}: {r.text[:300]}"
                 print(f"⚠️ Попытка {attempt + 1}: {last_error}")
@@ -281,13 +292,13 @@ def ask_ai(models, system, user, parser):
             content = data["choices"][0]["message"]["content"]
             print(f"🤖 Ответила модель {data.get('model', order[0])}")
             return parser(content)
-        except SystemExit:
+        except (SystemExit, DailyLimit):
             raise
         except Exception as ex:
             last_error = str(ex)
             print(f"⚠️ Попытка {attempt + 1}: {ex}")
             time.sleep(5)
-    raise RuntimeError(f"Ни одна модель не ответила. Последняя ошибка: {last_error}")
+    raise Overloaded(f"ИИ не справился за 3 попытки. Последняя ошибка: {last_error}")
 
 
 SELECT_SYSTEM = """Ты главный редактор русскоязычного Telegram-канала о европейском футболе «С ударом!».
@@ -308,8 +319,12 @@ SELECT_SYSTEM = """Ты главный редактор русскоязычно
 ТИП: rumor — трансферный слух или неподтверждённая информация; match — итоги матча;
 analysis — разбор/мнение/лонгрид; news — подтверждённая новость."""
 
-WRITE_SYSTEM = """Ты автор Telegram-канала о футболе «С ударом!». Пишешь по-русски живо, с лёгкой иронией,
-но без кринжа и без оскорблений. Перескажи статью СВОИМИ словами, не копируй фразы оригинала.
+WRITE_SYSTEM = """Ты автор Telegram-канала о футболе «С ударом!». Пишешь по-русски дерзко и с юмором,
+как остроумный фанат, который разбирается в футболе: подколки, сарказм, яркие сравнения.
+Шутишь над ситуацией, результатами и решениями, но без оскорблений игроков, болельщиков,
+национальностей и без мата.
+Если в статье есть интересный факт или цифра (рекорд, серия, статистика, сумма трансфера),
+обязательно вставь одну такую деталь — это делает пост ценнее. Бери цифры ТОЛЬКО из статьи. Перескажи статью СВОИМИ словами, не копируй фразы оригинала.
 Используй ТОЛЬКО факты из текста статьи. Ничего не выдумывай: ни счёт, ни цитаты, ни цифры.
 Если это слух — прямо укажи, кто об этом сообщает, и не подавай как факт.
 Длина текста: СТРОГО 3–4 предложения одним абзацем, для любого типа поста. Только самое главное —
@@ -321,6 +336,7 @@ WRITE_SYSTEM = """Ты автор Telegram-канала о футболе «С �
 Заголовок должен цеплять: живой, с интригой или лёгкой иронией, как в хорошем
 спортивном паблике, а не сухая газетная строка. Хорошо работают вопросы и контраст.
 Примеры хорошего стиля: «Сити» виновен. Что теперь будет с титулами? /
+«Челси» потратил миллиард, чтобы проиграть «Брентфорду» /
 «Бавария» снова забыла, как защищаться / Ламин Ямаль и 90 минут, которые сломали «Атлетико».
 Плохо: «Последствия приговора для „Манчестер Сити“», «Итоги матча „Барселона“ — „Атлетико“».
 Заголовок не должен преувеличивать или менять смысл статьи.
@@ -337,7 +353,8 @@ EDIT_SYSTEM = """Ты строгий литературный редактор �
 4) факты: всё должно совпадать со статьёй — счёт, имена, клубы, кто что сказал. Убери то, чего в статье нет;
 5) имена и клубы в привычном русском написании («Бавария», Мбаппе, Ямаль);
 6) длина: 3–4 предложения одним абзацем, заголовок до 80 символов с одним эмодзи в начале.
-Сохрани живой тон и лёгкую иронию, но не добавляй новых фактов.
+Сохрани дерзкий тон, шутки и интересные цифры — исправляй ошибки, а не вычищай характер.
+Если шутка грубая, оскорбительная или непонятная — замени её на более удачную. Новых фактов не добавляй.
 Верни ТОЛЬКО исправленный пост без комментариев:
 первая строка — заголовок;
 дальше — текст поста."""
@@ -422,11 +439,7 @@ def run_digest(state):
     print("🌙 Дайджест опубликован:\n" + text)
 
 # ---------------- ГЛАВНОЕ ----------------
-def main():
-    if not TG_TOKEN or not OR_KEY:
-        raise SystemExit("❌ Нет секретов TELEGRAM_BOT_TOKEN или OPENROUTER_API_KEY")
-
-    state = load_state()
+def run(state):
     if os.environ.get("MODE") == "digest":
         run_digest(state)
         return
@@ -463,16 +476,10 @@ def main():
                   f"Заголовок: {item['title']}\n\nТекст статьи:\n{text}", parse_post)
 
     print(f"📝 Черновик:\n{post['title']}\n{post['body']}")
-    try:
-        post = ask_ai(models, EDIT_SYSTEM,
-                      f"Черновик:\n{post['title']}\n{post['body']}\n\n"
-                      f"Исходная статья ({item['source']}):\n{text[:3500]}", parse_post)
-    except SystemExit:
-        raise
-    except Exception as ex:
-        # без проверки не публикуем — лучше пропустить слот, чем выложить кривой текст
-        print(f"⚠️ Корректор не сработал ({ex}), пост пропускаем до следующего запуска.")
-        return
+    # без проверки корректором не публикуем
+    post = ask_ai(models, EDIT_SYSTEM,
+                  f"Черновик:\n{post['title']}\n{post['body']}\n\n"
+                  f"Исходная статья ({item['source']}):\n{text[:3500]}", parse_post)
 
     message = build_post(post, kind, item["source"], item["link"])
     send_to_telegram(message, item["link"])
@@ -483,7 +490,53 @@ def main():
     state["recent"].append(post["title"])
     state["day_posts"].append({"time": dt.datetime.now(dt.timezone.utc).isoformat(),
                                "title": post["title"], "body": post["body"][:400]})
+    state["last_post"] = dt.datetime.now(dt.timezone.utc).isoformat()
     save_state(state)
+
+
+def fail(message):
+    """Сообщение для уведомления в личку (его отправит шаг в bot.yml) и код ошибки."""
+    print(f"❌ {message}")
+    with open("error.txt", "w", encoding="utf-8") as f:
+        f.write(message[:800])
+    raise SystemExit(1)
+
+
+def main():
+    if not TG_TOKEN or not OR_KEY:
+        fail("Нет секретов TELEGRAM_BOT_TOKEN или OPENROUTER_API_KEY")
+
+    state = load_state()
+    now = dt.datetime.now(dt.timezone.utc)
+    is_retry = os.environ.get("RETRY") == "1"
+    is_manual = os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
+
+    # запасной запуск: нужен, только если основной за последний час ничего не выложил
+    if is_retry and state.get("last_post"):
+        ago = (now - dt.datetime.fromisoformat(state["last_post"])).total_seconds()
+        if ago < 70 * 60:
+            print("Основной запуск уже выложил пост, запасной не нужен.")
+            return
+
+    today = (now + dt.timedelta(hours=3)).date().isoformat()
+    if state.get("limit_day") == today and not is_manual:
+        print("Сегодня лимит ИИ уже кончился, ждём завтра.")
+        return
+
+    try:
+        run(state)
+    except DailyLimit as ex:
+        state["limit_day"] = today
+        save_state(state)
+        fail(str(ex))
+    except Overloaded as ex:
+        if is_retry or is_manual:
+            fail(f"Пост пропущен: {ex}")
+        print(f"⏳ {ex}\nПопробую снова через 30 минут.")
+    except SystemExit:
+        raise
+    except Exception as ex:
+        fail(f"{type(ex).__name__}: {ex}")
 
 
 if __name__ == "__main__":
