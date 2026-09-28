@@ -1,0 +1,35 @@
+name: Scores
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # проверка результатов каждые 30 минут
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: scores
+
+jobs:
+  scores:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python scores.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+      - name: Save state
+        run: |
+          if [ -f scores.json ]; then
+            git config user.name "s-ydarom-bot"
+            git config user.email "bot@users.noreply.github.com"
+            git add scores.json
+            git diff --cached --quiet || (git commit -m "update scores" && git pull --rebase && git push)
+          fi
