@@ -2,7 +2,8 @@ name: Football bot
 
 on:
   schedule:
-    - cron: "7 1-23/2 * * *"   # посты раз в 2 часа (00:07, 02:07 ... по Москве)
+    - cron: "7 1-23/2 * * *"    # основные запуски: 00:07, 02:07 ... по Москве
+    - cron: "37 1-23/2 * * *"   # запасные: через 30 минут, только если основной не выложил пост
   workflow_dispatch:
     inputs:
       mode:
@@ -30,12 +31,33 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-          MODE: ${{ github.event.schedule == '45 19 * * *' && 'digest' || inputs.mode || 'post' }}
+          MODE: ${{ inputs.mode || 'post' }}
+          RETRY: ${{ github.event.schedule == '37 1-23/2 * * *' && '1' || '0' }}
       - name: Save state
+        if: always()
         run: |
           if [ -f posted.json ]; then
             git config user.name "s-ydarom-bot"
             git config user.email "bot@users.noreply.github.com"
             git add posted.json
-            git diff --cached --quiet || (git commit -m "update state" && git push)
+            if ! git diff --cached --quiet; then
+              git commit -m "update state"
+              git pull --rebase -X theirs || true
+              git push
+            fi
           fi
+      - name: Alert
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          ADMIN_CHAT_ID: ${{ secrets.ADMIN_CHAT_ID }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          [ -z "$ADMIN_CHAT_ID" ] && exit 0
+          REASON=$(cat error.txt 2>/dev/null || echo "Сбой на этапе GitHub (не в коде бота)")
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${ADMIN_CHAT_ID}" \
+            --data-urlencode "text=⚠️ Бот «С ударом!» дал сбой
+          ${REASON}
+
+          Лог: ${RUN_URL}" > /dev/null
