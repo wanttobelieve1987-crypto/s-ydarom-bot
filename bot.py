@@ -495,10 +495,8 @@ def run(state):
 
 
 def fail(message):
-    """Сообщение для уведомления в личку (его отправит шаг в bot.yml) и код ошибки."""
+    """Пишем причину в лог и завершаем запуск с ошибкой (красный крестик в Actions)."""
     print(f"❌ {message}")
-    with open("error.txt", "w", encoding="utf-8") as f:
-        f.write(message[:800])
     raise SystemExit(1)
 
 
