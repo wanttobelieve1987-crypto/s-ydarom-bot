@@ -43,7 +43,8 @@
   "https://www.kicker.de/krisentreffen-glaettet-offenbar-die-wogen-zwischen-ronaldo-und-trainer-jesus-1257303/artikel#omrss",
   "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/oficial-chris-smalling-e-jogador-do-fc-porto",
   "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
-  "https://sporza.be/nl/2026/09/30/zelf-begrepen-ze-er-niks-van-arsenal-geeft-cl-zege-tegen-paris-fc-letterlijk-uit-handen-na-bizarre-ontknoping~1790798354035/"
+  "https://sporza.be/nl/2026/09/30/zelf-begrepen-ze-er-niks-van-arsenal-geeft-cl-zege-tegen-paris-fc-letterlijk-uit-handen-na-bizarre-ontknoping~1790798354035/",
+  "https://www.skysports.com/football/olympiques-lyon-women-vs-chelsea-women/report/578243"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -89,10 +90,10 @@
   "krisentreffen glättet offenbar die wogen zwischen ronaldo und trainer jesus",
   "oficial chris smalling é jogador do fc porto",
   "ronaldo leaves portugal camp after coach denies rift",
-  "zelf begrepen ze er niks van arsenal geeft cl zege tegen paris fc letterlijk uit handen na bizarre ontknoping"
+  "zelf begrepen ze er niks van arsenal geeft cl zege tegen paris fc letterlijk uit handen na bizarre ontknoping",
+  "james penalty overturned as chelsea earn draw in lyon"
  ],
  "recent": [
-  "🇩🇰 Дания 2–0 Уэльс: Беллами без очков и голов — как выживать дальше?",
   "⚽ Ирландия разгромила Израиль 3:0, но в Дебрецене запомнились не голы",
   "⚽ Германия уступила Греции: Клопп впервые проиграл",
   "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Макгинн: «Шотландия» Поконьоли проснулась во втором тайме — 0:0 с Словенией",
@@ -131,14 +132,10 @@
   "⚽️ Кризис между Роналду и Жезушем, похоже, улажен",
   "⚽️ Смоллинг — игрок «Порту» до лета с опцией продления",
   "⚽ Роналду ушёл из сбора: правда выйдет «во время»",
-  "🤯 Арсенал отдал победу в ЛЧ из-за рук в штрафной"
+  "🤯 Арсенал отдал победу в ЛЧ из-за рук в штрафной",
+  "⚽️ «Челси» в Лионе: 0:0 и отменённый пенальти"
  ],
  "day_posts": [
-  {
-   "time": "2026-09-27T19:22:46.888184+00:00",
-   "title": "🇩🇰 Дания 2–0 Уэльс: Беллами без очков и голов — как выживать дальше?",
-   "body": "В Копенгагене уэльцы были слабее во всём и ушли на перерыв вничью только удачей, а во втором тайме автогол Бена Дэвиза и точный удар Густава Исаксена закрепили за Данией заслуженную победу. У Беллами после двух туров нулевая статистика, а впереди — матч с Норвегией Холянда и ответная игра с датчанами в Кардиффе. Хозяева могли разгромить соперника, но Патрик Доргу ушёл с поля с травмой — тревожный "
-  },
   {
    "time": "2026-09-27T20:41:47.929911+00:00",
    "title": "⚽ Ирландия разгромила Израиль 3:0, но в Дебрецене запомнились не голы",
@@ -333,7 +330,12 @@
    "time": "2026-09-30T21:31:37.486449+00:00",
    "title": "🤯 Арсенал отдал победу в ЛЧ из-за рук в штрафной",
    "body": "«Арсенал» вёл 2:0 после голов Руссо и Стэнвэй, но в 72-й минуте Матео забила для «Париж FC». В концовке Родригес в своей штрафной откатила мяч Уильямсон, и та, решив, что игра не возобновлена, взяла его руками. Судья Деметреску сочла первый пас Родригес возобновлением игры и насвистела пенальти, который Менди реализовала в 87-й минуте — 2:2. Лондонки теряют ценные очки в Европе после неудачного ст"
+  },
+  {
+   "time": "2026-09-30T23:24:09.965650+00:00",
+   "title": "⚽️ «Челси» в Лионе: 0:0 и отменённый пенальти",
+   "body": "Женский «Челси» в гостях у «Лиона» — восьмикратного победителя женского ЛЧ — сыграл вничью 0:0, хотя обе команды могли выиграть. Судья сначала отсудила пенальти в пользу Лорен Джеймс, но VAR отменил решение, а её же удар в вратаря стал главным разочарованием вечера. В добавленное время Ада Хегерберг не смогла переиграть Ханну Хэмптон, и «Лион» остался без победы. Для Сони Бомпастор, вернувшейся в "
   }
  ],
- "last_post": "2026-09-30T21:31:37.486462+00:00"
+ "last_post": "2026-09-30T23:24:09.965667+00:00"
 }
