@@ -57,7 +57,8 @@
   "https://www.lequipe.fr/Football/Actualites/Lionel-messi-devient-le-proprietaire-d-eldense-club-de-d2-espagnole/1722678#at_medium=RSS_feeds",
   "https://www.walfoot.be/news/2026-10-01/sa-derniere-annee-le-real-madrid-prepare-lapres-courtois-avec-une-cible-de-taille",
   "https://www.theguardian.com/football/2026/oct/01/cristiano-ronaldos-portugal-walkout-divides-a-nation-as-jorge-jesus-asserts-control",
-  "https://www.theguardian.com/football/2026/oct/01/manchester-city-real-madrid-womens-champions-league-league-stage-match-report"
+  "https://www.theguardian.com/football/2026/oct/01/manchester-city-real-madrid-womens-champions-league-league-stage-match-report",
+  "https://www.theguardian.com/football/2026/oct/01/pro-palestine-protests-interrupt-game-ireland-draw-austria-nations-league"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -117,10 +118,10 @@
   "lionel messi devient le propriétaire d eldense club de d2 espagnole",
   "sa dernière année le real madrid prépare l après courtois avec une cible de taille",
   "cristiano ronaldo s portugal walkout divides a nation as jorge jesus asserts control",
-  "shaw secures wcl draw against real madrid as manchester city show spirit after week of turmoil"
+  "shaw secures wcl draw against real madrid as manchester city show spirit after week of turmoil",
+  "pro palestine protests interrupt game as ireland pass up 2 0 lead in draw against austria"
  ],
  "recent": [
-  "⚽ Фергусон отмахнулся от «Рейнджерс», но мечту об Айброксе не списал",
   "🇧🇪 Бельгия 0:1 Франция: Зидан выиграл первое тренерское дуэль с Ван Боммелем",
   "⚠️ Защита Португалии на грани: только Мендеш спит спокойно",
   "🇮🇹 Бастонни должен Италии четыре года — и начал отдавать долг в Турции",
@@ -159,14 +160,10 @@
   "⚽ Месси официально стал владельцем «Эльденсе» из Д2",
   "🧤 «Реал» уже думает, кто сменит Куртуа",
   "⚽ Роналду против Жезуша: кто теперь рулит в Португалии?",
-  "⚽ Женский «Сити» спас очко у «Реала» в ЛЧ"
+  "⚽ Женский «Сити» спас очко у «Реала» в ЛЧ",
+  "⚽ Ирландия вела 2:0, но Австрия всё-таки спаслась"
  ],
  "day_posts": [
-  {
-   "time": "2026-09-28T19:28:30.493785+00:00",
-   "title": "⚽ Фергусон отмахнулся от «Рейнджерс», но мечту об Айброксе не списал",
-   "body": "Льюис Фергусон честно признался, что летний переход в «Рейнджерс» так и не был близок, хотя трансферное окно закрылось на фоне его старта: пять матчей из пяти — с первой до последней минуты. Капитан, выигравший для «Болоньи» первый Кубок Италии за полвека, не закрывает дверь в Глазго, где дядя Барри был капитаном и даже тренировал «Рейнджерс», а Дерек Макиннес открыто говорил о «очевидной связи». "
-  },
   {
    "time": "2026-09-28T21:28:51.413621+00:00",
    "title": "🇧🇪 Бельгия 0:1 Франция: Зидан выиграл первое тренерское дуэль с Ван Боммелем",
@@ -361,7 +358,12 @@
    "time": "2026-10-02T01:27:31.085944+00:00",
    "title": "⚽ Женский «Сити» спас очко у «Реала» в ЛЧ",
    "body": "«Манчестер Сити» и «Реал Мадрид» сыграли вничью в женской Лиге чемпионов: Хадижа Шоу бескомпромиссным ударом принесла «Сити» очко. Матч получился равным и зрелищным, а обе команды набрали по два очка после двух туров. Главный тренер Андре Йеглерт уверяет, что шум вокруг вердикта Премьер-лиги не отнял у его игроков ни одного процента качества."
+  },
+  {
+   "time": "2026-10-02T03:26:10.772916+00:00",
+   "title": "⚽ Ирландия вела 2:0, но Австрия всё-таки спаслась",
+   "body": "В Дублине матч Лиги наций дважды останавливали из-за протестов: сначала на поле летели теннисные мячи, а потом охрана утащила с поля человека с флагом. Трой Паррот красиво открыл счёт на 12-й минуте и на исходе первого тайма довёл счёт до 2:0 пенальти, но Австрия во втором тайме решила, что проигрывать не в кассу. Итог — 2:2, а Ирландия так и не поднялась выше третьего места в группе B3."
   }
  ],
- "last_post": "2026-10-02T01:27:31.085960+00:00"
+ "last_post": "2026-10-02T03:26:10.772932+00:00"
 }
