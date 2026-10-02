@@ -58,7 +58,8 @@
   "https://www.walfoot.be/news/2026-10-01/sa-derniere-annee-le-real-madrid-prepare-lapres-courtois-avec-une-cible-de-taille",
   "https://www.theguardian.com/football/2026/oct/01/cristiano-ronaldos-portugal-walkout-divides-a-nation-as-jorge-jesus-asserts-control",
   "https://www.theguardian.com/football/2026/oct/01/manchester-city-real-madrid-womens-champions-league-league-stage-match-report",
-  "https://www.theguardian.com/football/2026/oct/01/pro-palestine-protests-interrupt-game-ireland-draw-austria-nations-league"
+  "https://www.theguardian.com/football/2026/oct/01/pro-palestine-protests-interrupt-game-ireland-draw-austria-nations-league",
+  "https://www.theguardian.com/football/2026/oct/01/wales-norway-nations-league-league-a-group-4-match-report"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -119,10 +120,10 @@
   "sa dernière année le real madrid prépare l après courtois avec une cible de taille",
   "cristiano ronaldo s portugal walkout divides a nation as jorge jesus asserts control",
   "shaw secures wcl draw against real madrid as manchester city show spirit after week of turmoil",
-  "pro palestine protests interrupt game as ireland pass up 2 0 lead in draw against austria"
+  "pro palestine protests interrupt game as ireland pass up 2 0 lead in draw against austria",
+  "neco williams fires revitalised wales to fightback win against 10 man norway"
  ],
  "recent": [
-  "🇧🇪 Бельгия 0:1 Франция: Зидан выиграл первое тренерское дуэль с Ван Боммелем",
   "⚠️ Защита Португалии на грани: только Мендеш спит спокойно",
   "🇮🇹 Бастонни должен Италии четыре года — и начал отдавать долг в Турции",
   "⚽ Ушли в Чемпионшип — и выдохнули: фанаты «Вест Хэма» радуются понижению из-за отсутствия ВАРа",
@@ -161,14 +162,10 @@
   "🧤 «Реал» уже думает, кто сменит Куртуа",
   "⚽ Роналду против Жезуша: кто теперь рулит в Португалии?",
   "⚽ Женский «Сити» спас очко у «Реала» в ЛЧ",
-  "⚽ Ирландия вела 2:0, но Австрия всё-таки спаслась"
+  "⚽ Ирландия вела 2:0, но Австрия всё-таки спаслась",
+  "⚽ Уэльс отряхнулся: Уильямс дожал Норвегию в 10 человек"
  ],
  "day_posts": [
-  {
-   "time": "2026-09-28T21:28:51.413621+00:00",
-   "title": "🇧🇪 Бельгия 0:1 Франция: Зидан выиграл первое тренерское дуэль с Ван Боммелем",
-   "body": "В Лиге наций Бельгия проиграла Франции 0:1 — решающий гол в концовке забил с замены Майкл Олизе. Ван Боммель и Зидан впервые встретились как тренеры, хотя 20 лет назад делили центр поля в «Класико». В официальных матчах «красные дьяволы» не побеждают соседей 45 лет, а последняя вообще победа — 11 лет назад. Получается, главная традиция Бельгии против Франции — проигрывать."
-  },
   {
    "time": "2026-09-28T23:30:33.350156+00:00",
    "title": "⚠️ Защита Португалии на грани: только Мендеш спит спокойно",
@@ -363,7 +360,12 @@
    "time": "2026-10-02T03:26:10.772916+00:00",
    "title": "⚽ Ирландия вела 2:0, но Австрия всё-таки спаслась",
    "body": "В Дублине матч Лиги наций дважды останавливали из-за протестов: сначала на поле летели теннисные мячи, а потом охрана утащила с поля человека с флагом. Трой Паррот красиво открыл счёт на 12-й минуте и на исходе первого тайма довёл счёт до 2:0 пенальти, но Австрия во втором тайме решила, что проигрывать не в кассу. Итог — 2:2, а Ирландия так и не поднялась выше третьего места в группе B3."
+  },
+  {
+   "time": "2026-10-02T05:26:55.838992+00:00",
+   "title": "⚽ Уэльс отряхнулся: Уильямс дожал Норвегию в 10 человек",
+   "body": "Уэльс обыграл Норвегию 2:1 и впервые с прошлого ноября победил, а Неко Уильямс дожал соперника, оставшегося в 10 человек, ударом со штрафного, назначенного через 17 секунд после перерыва. Крэйг Беллами наконец выдохнул после серии без побед, включая болезненное поражение от Боснии и Герцеговины в стыковом матче отбора на ЧМ. Холанд тем временем бродил по полю, а трибуны в Кардиффе не стеснялись в "
   }
  ],
- "last_post": "2026-10-02T03:26:10.772932+00:00"
+ "last_post": "2026-10-02T05:26:55.839011+00:00"
 }
