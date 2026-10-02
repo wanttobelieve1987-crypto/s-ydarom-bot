@@ -62,7 +62,8 @@
   "https://www.theguardian.com/football/2026/oct/01/wales-norway-nations-league-league-a-group-4-match-report",
   "https://sporza.be/nl/matches/voetbal/eur/uefa-nations-league/2026-2027/groep-2/03/duitsland-servie-de-eerste-onder-jurgen-klopp-is-een-feit-sterk-duitsland-neemt-vlot-afstand-van-servie-en-grijpt-eerste-zege~1770981964532/",
   "https://www.lequipe.fr/Football/Article/Zinedine-zidane-et-l-italie-une-histoire-sans-fin-qui-reprend-au-stade-de-france-un-peu-plus-de-vingt-ans-apres-la-finale-de-la-coupe-du-monde-2006-a-berlin/1722690#at_medium=RSS_feeds",
-  "https://www.walfoot.be/news/2026-10-02/lheritage-de-kevin-de-bruyne-a-manchester-city-menace-je-serais-furieux"
+  "https://www.walfoot.be/news/2026-10-02/lheritage-de-kevin-de-bruyne-a-manchester-city-menace-je-serais-furieux",
+  "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -127,10 +128,10 @@
   "neco williams fires revitalised wales to fightback win against 10 man norway",
   "de eerste onder jürgen klopp is een feit sterk duitsland neemt vlot afstand van servië en grijpt eerste zege",
   "zinédine zidane et l italie une histoire sans fin qui reprend au stade de france un peu plus de vingt ans après la finale de la coupe du monde 2006 à berlin",
-  "l héritage de kevin de bruyne à manchester city menacé je serais furieux"
+  "l héritage de kevin de bruyne à manchester city menacé je serais furieux",
+  "robertson s scotland career in numbers as 100th cap looms"
  ],
  "recent": [
-  "🔥 «Барса» Флика — пулемёт: 36 голов за 8 матчей и дуэт, ломающий Лигу",
   "🇪🇸 Де ла Фуэнте требует «Золотой мяч» для своих игроков",
   "🥊 ФИФА обвинила УЕФА в дезинформации: битва за FFE и выборы Инфантино",
   "🚫 Вигман устранила Тун и Келли из сборной Англии на плей-офф ЧМ",
@@ -169,14 +170,10 @@
   "⚽ Уэльс отряхнулся: Уильямс дожал Норвегию в 10 человек",
   "🇩🇪 Клипп разогнался: Германия давила, промахивалась, но Сербию разобрала 2:0",
   "🇫🇷 Зидан возвращается на «Стад де Франс»: Италия и ностальгия",
-  "⚽ Каррагер: Де Брёйне рискует получить «звёздочку» к десятилетию в «Сити»"
+  "⚽ Каррагер: Де Брёйне рискует получить «звёздочку» к десятилетию в «Сити»",
+  "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Робертсон на пороге 100 матчей: обгонит ли «Короля Кенни»?"
  ],
  "day_posts": [
-  {
-   "time": "2026-09-29T05:27:58.561156+00:00",
-   "title": "🔥 «Барса» Флика — пулемёт: 36 голов за 8 матчей и дуэт, ломающий Лигу",
-   "body": "«Барселона» Флика разорвала все записи: 8 побед из 8, 36 голов (31 в «Ла Лиге») и 5:1 «Фейеноорду» в ЛЧ. Рафинья на фальшивом «девятке» уже набрал 14 мячей с двумя хет-триками и ведёт гонку за «Пичичи», а в паре с Ямалем (8+6 за 8 матчей) они формируют самый страшный дуэт чемпионата. Новички — Родри, Адеями и Гордон — мгновенно вписались в систему, а юноша Эспарт пока только 12 минут на поле, усту"
-  },
   {
    "time": "2026-09-29T07:27:14.640078+00:00",
    "title": "🇪🇸 Де ла Фуэнте требует «Золотой мяч» для своих игроков",
@@ -371,7 +368,12 @@
    "time": "2026-10-02T11:30:13.978353+00:00",
    "title": "⚽ Каррагер: Де Брёйне рискует получить «звёздочку» к десятилетию в «Сити»",
    "body": "Джейми Каррагер уверен: если «Манчестер Сити» лишат трофеев 2009–2018 годов за финансовые нарушения, из истории стерут три титула АПЛ, ФА-кубок, три Кубка лиги и Щит сообщества. Главная жертва скандала — Кевин Де Брёйне, который, по мнению бывшего ливерпульца, сознательно выбрал «Сити», возможно, из-за завышенной зарплаты на фоне махинаций, и теперь его 10 лет в клубе могут сочтут фарсом. Каррагер"
+  },
+  {
+   "time": "2026-10-02T13:28:57.938031+00:00",
+   "title": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Робертсон на пороге 100 матчей: обгонит ли «Короля Кенни»?",
+   "body": "Энди Робертсон шагает к сотому матчу за Шотландию: он может стать вторым игроком, сыгравшим 100 матчей за 150 с лишним лет. Сейчас у него 99, а рекорд Даглиша в 102 игры может пасть уже в ноябре, если защитник «Тоттенхэма» сыграет во всех оставшихся матчах Лиги наций. Робертсон шутит, что «Король Кенни» может похвастаться соотношением лет к матчам: в его времена не было Лиги наций."
   }
  ],
- "last_post": "2026-10-02T11:30:13.978370+00:00"
+ "last_post": "2026-10-02T13:28:57.938044+00:00"
 }
