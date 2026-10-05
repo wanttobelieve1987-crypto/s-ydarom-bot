@@ -89,7 +89,8 @@
   "https://www.walfoot.be/news/2026-10-05/un-duo-inedit-contre-la-france-je-serais-curieux-de-les-voir-ensemble",
   "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss",
   "https://www.skysports.com/football/republic-of-ireland-vs-israel/report/554064",
-  "https://www.kicker.de/fa-bestaetigt-scott-und-konsa-fehlen-england-gegen-tschechien-1258528/artikel#omrss"
+  "https://www.kicker.de/fa-bestaetigt-scott-und-konsa-fehlen-england-gegen-tschechien-1258528/artikel#omrss",
+  "https://www.lequipe.fr/Football/Article/Decrypyage-lionel-messi-les-76-coups-francs-et-le-record-introuvable/1723340#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -181,10 +182,10 @@
   "un duo inédit contre la france je serais curieux de les voir ensemble",
   "portugal boss says door open for ronaldo return",
   "republic of ireland draw with israel in second nations league meeting",
-  "fa bestätigt scott und konsa fehlen england gegen tschechien"
+  "fa bestätigt scott und konsa fehlen england gegen tschechien",
+  "décryptage lionel messi les 76 coups francs et le record introuvable"
  ],
  "recent": [
-  "⚽ Шотландия U-21 разгромила Азербайджан 5:2 и начала копировать Поконьоли",
   "🥊 Тони выбрал суд присяжных: £40 млн и сломанный нос в Сохо",
   "⚖️ «Реал» завалил УЕФА документами по Негрейре: «Барсе» грозит бан и 30 титулов",
   "🏴󠁧󠁢󠁳󠁣󠁴󠁿 13 игроков «Рейнджерсов» в сборных: кто в основе, а кто — запасной",
@@ -223,14 +224,10 @@
   "⚽ Бельгия без Де Брёйне: Рашкин и Лавия вместе?",
   "⚽ Роналду покинул лагерь, но дверь в сборную осталась открытой",
   "⚽ Ирландия и Израиль: 1:1, скандал на перерыве",
-  "⚽ Сборная Англии без Консы и Скотта против Чехии"
+  "⚽ Сборная Англии без Консы и Скотта против Чехии",
+  "🐐 Месси и один шаг до вечности"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-01T11:25:49.554649+00:00",
-   "title": "⚽ Шотландия U-21 разгромила Азербайджан 5:2 и начала копировать Поконьоли",
-   "body": "Новый тренер Тони Дохерти поставил команду в свой любимый 3-4-2-1, и «молодая Шотландия» сразу показала тот же агрессивный прессинг и вертикальный футбол, что требует от взрослых Себастьян Поконьоли. Финдли Кёртис из «Рейнджерс» причастен ко всем пяти голам, а Тайлер Флетчер и Джеймс Уилсон отметились точными ударами — тройка не уныла после возвращения из лагеря основной сборной, а взяла ответстве"
-  },
   {
    "time": "2026-10-01T13:33:00.928940+00:00",
    "title": "🥊 Тони выбрал суд присяжных: £40 млн и сломанный нос в Сохо",
@@ -425,7 +422,12 @@
    "time": "2026-10-05T11:27:23.206540+00:00",
    "title": "⚽ Сборная Англии без Консы и Скотта против Чехии",
    "body": "Английская федерация подтвердила, что Эзри Конса и Алекс Скотт пропустят последний матч Лиги наций в текущем игровом отрезке. Томасу Тухелу придётся перекраивать стартовый состав против Чехии. Оба игрока покинули сборную из-за травм."
+  },
+  {
+   "time": "2026-10-05T13:31:55.144274+00:00",
+   "title": "🐐 Месси и один шаг до вечности",
+   "body": "Лео за карьеру умудрился забить 76 штрафных ударов, начав этот путь ровно 18 лет и один день назад. Теперь до рекорда по штрафным аргентинцу не хватает всего одного точного удара. Посмотрим, хватит ли у него терпения и точности, чтобы поставить финальную точку в этой гонке 🎯"
   }
  ],
- "last_post": "2026-10-05T11:27:23.206555+00:00"
+ "last_post": "2026-10-05T13:31:55.144289+00:00"
 }
