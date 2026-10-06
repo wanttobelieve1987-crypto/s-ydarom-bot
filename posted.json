@@ -97,7 +97,8 @@
   "https://www.scotsman.com/sport/football/international/billy-gilmour-on-his-wembley-high-world-cup-low-and-new-role-leading-scotlands-next-generation-9267913",
   "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/roberto-mancini-deixa-elogios-a-issa-doumbia-ja-joga-num-nivel-de-liga-dos-campeoes",
   "https://sporza.be/nl/matches/voetbal/eur/uefa-nations-league/2026-2027/groep-1/04/italie-turkije-malaise-compleet-bij-turkije-na-nieuwe-tik-tegen-italie-die-ook-impact-heeft-op-de-rode-duivels~1770981721939/",
-  "https://nos.nl/l/2633815"
+  "https://nos.nl/l/2633815",
+  "https://www.skysports.com/football/northern-ireland-vs-georgia/report/554072"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -197,10 +198,10 @@
   "billy gilmour on his wembley high world cup low and new role leading scotland s next generation",
   "roberto mancini deixa elogios a issa doumbia já joga num nível de liga dos campeões",
   "malaise compleet bij turkije na nieuwe tik tegen italië die ook impact heeft op de rode duivels",
-  "interlandbreak xl waslijst aan blessures en kritiek maar ook eindelijk tijd voor clubs"
+  "interlandbreak xl waslijst aan blessures en kritiek maar ook eindelijk tijd voor clubs",
+  "mamardashvili s late penalty save denies northern ireland win vs georgia"
  ],
  "recent": [
-  "⚽ Ирландия вела 2:0, но Австрия всё-таки спаслась",
   "⚽ Уэльс отряхнулся: Уильямс дожал Норвегию в 10 человек",
   "🇩🇪 Клипп разогнался: Германия давила, промахивалась, но Сербию разобрала 2:0",
   "🇫🇷 Зидан возвращается на «Стад де Франс»: Италия и ностальгия",
@@ -239,14 +240,10 @@
   "⚽ Гилмур: от дрожи на Вембли до лидера Шотландии без участия в МЧ",
   "⚽ Манчини в восторге от Дубия: «Уже уровень Лиги чемпионов»",
   "⚽ Италия разобрала Турцию и обогнала Бельгию в таблице",
-  "🤕 Интерлендбрейк XL: резня на ногах и каникулы «Гронингена»"
+  "🤕 Интерлендбрейк XL: резня на ногах и каникулы «Гронингена»",
+  "🧤 Мамардашвили угадал угол, а Северная Ирландия снова 0:0"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-02T03:26:10.772916+00:00",
-   "title": "⚽ Ирландия вела 2:0, но Австрия всё-таки спаслась",
-   "body": "В Дублине матч Лиги наций дважды останавливали из-за протестов: сначала на поле летели теннисные мячи, а потом охрана утащила с поля человека с флагом. Трой Паррот красиво открыл счёт на 12-й минуте и на исходе первого тайма довёл счёт до 2:0 пенальти, но Австрия во втором тайме решила, что проигрывать не в кассу. Итог — 2:2, а Ирландия так и не поднялась выше третьего места в группе B3."
-  },
   {
    "time": "2026-10-02T05:26:55.838992+00:00",
    "title": "⚽ Уэльс отряхнулся: Уильямс дожал Норвегию в 10 человек",
@@ -441,7 +438,12 @@
    "time": "2026-10-06T05:27:24.472121+00:00",
    "title": "🤕 Интерлендбрейк XL: резня на ногах и каникулы «Гронингена»",
    "body": "За 16 дней «Оранже» сыграло четыре матча и потеряло пятеро основных — Бробби, Гейертруйда, Гакпо, Ван Хекке и Ван де Вена, а по Европе «суперперерыв» унёс Мбаппе, Мусиала, Райса и четверых испанцев. Спортврач Сюзанне Хурман подтвердила: при играх через три дня травмы растут экспоненциально, и это в основном мышечные проблемы. ПСВ и Бош в тревоге за Ван Боммеля, только вышедшего из реабилитации, а "
+  },
+  {
+   "time": "2026-10-06T07:27:39.695736+00:00",
+   "title": "🧤 Мамардашвили угадал угол, а Северная Ирландия снова 0:0",
+   "body": "Северная Ирландия и Грузия сыграли всухую на «Виндзор-Парке» — уже второй ноль у хозяев за неделю. На 84-й минуте Георгий Мамардашвили («Ливерпуль») выручил партнёров, угадав угол пенальти Айзека Прайса. Пирс Чарльз (21 год) поставил четвёртую «сухую» игру подряд — такого у северных ирландцев не было с 2017-го, а команда удержала лидерство в группе B2 с очковым преимуществом над Венгрией. Грузия в"
   }
  ],
- "last_post": "2026-10-06T05:27:24.472136+00:00"
+ "last_post": "2026-10-06T07:27:39.695751+00:00"
 }
