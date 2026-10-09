@@ -131,7 +131,8 @@
   "https://www.bbc.co.uk/sport/football/articles/cm3vqrz41l2vo?at_medium=RSS&at_campaign=rss",
   "https://www.theguardian.com/football/2026/oct/08/manchester-city-pep-guardiola-owners-guilty-verdict",
   "https://www.lequipe.fr/Football/Actualites/Le-double-mvp-en-titre-de-la-nba-shai-gilgeous-alexander-entre-au-capital-de-l-atletico-de-madrid/1724305#at_medium=RSS_feeds",
-  "https://football-italia.net/real-madrid-among-clubs-interested-mctominay/"
+  "https://football-italia.net/real-madrid-among-clubs-interested-mctominay/",
+  "https://www.kicker.de/satter-millionengewinn-und-rekord-umsatz-freiburg-legt-beeindruckende-zahlen-vor-1259435/artikel#omrss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -265,10 +266,10 @@
   "rangers boss mcinnes not a fan of extended break",
   "maresca believes city players don t care about the noise as haaland calls for unity",
   "le double mvp en titre de la nba shai gilgeous alexander entre au capital de l atlético de madrid",
-  "real madrid among clubs interested in mctominay if new napoli contract is not agreed"
+  "real madrid among clubs interested in mctominay if new napoli contract is not agreed",
+  "satter millionengewinn und rekord umsatz freiburg legt beeindruckende zahlen vor"
  ],
  "recent": [
-  "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Тухель в восторге от Кейна: «В «Баварии» он достиг нового уровня»",
   "🇫🇷 Зидан достал жокеров, и Бельгия развалилась в хвосте матча",
   "⚽ Гилмур: от дрожи на Вембли до лидера Шотландии без участия в МЧ",
   "⚽ Манчини в восторге от Дубия: «Уже уровень Лиги чемпионов»",
@@ -307,14 +308,10 @@
   "⏳ 19 дней без сбора: МакИннес критикует перерыв и вспоминает обед с Фергюсоном",
   "⚽ Пять побед на фоне приговора: Мареска и Халанд готовятся к «Энфилду»",
   "🏀 Шай Гилджеус-Александр стал совладельцем «Атлетико» — Симеоне одобрит?",
-  "⚽ «Реал» заинтересовался Мактоминеем: «Наполи» удерживает MVP до 2027-го, но аукцион грядет"
+  "⚽ «Реал» заинтересовался Мактоминеем: «Наполи» удерживает MVP до 2027-го, но аукцион грядет",
+  "💰 Фрайбург считает деньги: рекордный доход и чистая прибыль после крутого сезона"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-05T17:27:11.217225+00:00",
-   "title": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Тухель в восторге от Кейна: «В «Баварии» он достиг нового уровня»",
-   "body": "Перед матчем с Чехией Томас Тухель не жалеет эпитетов для Гарри Кейна: по словам англичанина, капитан «Баварии» после перехода в Мюнхен вышел на совершенно другую планку. Немец, который еще вчера тренировал соперников Кейна в Бундеслиге, теперь восхищается им со стороны сборной — ракурсы сменяются мгновенно. Остается ждать, ответит ли Кейн комплиментом бывшего наставника новыми голами за «Три льва"
-  },
   {
    "time": "2026-10-05T21:51:43.691584+00:00",
    "title": "🇫🇷 Зидан достал жокеров, и Бельгия развалилась в хвосте матча",
@@ -509,7 +506,12 @@
    "time": "2026-10-09T01:27:50.163145+00:00",
    "title": "⚽ «Реал» заинтересовался Мактоминеем: «Наполи» удерживает MVP до 2027-го, но аукцион грядет",
    "body": "Скотт Мактоминей, МВП сезона-2024/25 в Серии А, вступает в третий год контракта с «Наполи» (действует до 2028-го), но переговоры о продлении встали, и по данным Tuttomercatoweb «Реал» уже запросил информацию у окружения шотландца. Неаполитанцы заявляют, что не отпустят полузащитника до конца сезона-2026/27, выигрывая время на новый договор, однако если диалог не возобновится — летом разгорется аук"
+  },
+  {
+   "time": "2026-10-09T03:27:43.602610+00:00",
+   "title": "💰 Фрайбург считает деньги: рекордный доход и чистая прибыль после крутого сезона",
+   "body": "Брейсгауцы перевели спортивный успех в финансовый — в четверг клуб представил отчёт с историческим оборотом и солидным чёрным числом. Немцы доказали, что умная работа на переводах и стабильность в Бундеслиге платят лучше, чем хаотичные миллионы конкурентов. Теперь у «СК» есть повод гордиться не только таблицей, но и бухгалтерией."
   }
  ],
- "last_post": "2026-10-09T01:27:50.163160+00:00"
+ "last_post": "2026-10-09T03:27:43.602626+00:00"
 }
