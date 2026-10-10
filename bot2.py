@@ -11,7 +11,8 @@ import feedparser
 import requests
 
 TOKEN = os.environ["BOT2_TOKEN"]
-OR_KEY = os.environ["OPENROUTER_API_KEY"]
+OR_KEY = os.environ.get("OPENROUTER_API_KEY", "")
+GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "")
 CHANNEL = os.environ.get("CHANNEL", "@s_ydarom")
 FD_KEY = os.environ.get("FOOTBALL_DATA_KEY", "")
 
@@ -111,20 +112,65 @@ def clean(text):
 
 
 # ---------- ИИ ----------
-def llm(prompt, system=None):
-    for model in MODELS:
+GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions"
+OR_URL = "https://openrouter.ai/api/v1/chat/completions"
+
+GEMINI_MODELS = [m for m in [
+    os.environ.get("GEMINI_MODEL"),
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
+] if m]
+
+VISION_MODELS = [m for m in [
+    os.environ.get("OPENROUTER_VISION_MODEL"),
+    "google/gemma-3-27b-it:free",
+    "meta-llama/llama-3.2-11b-vision-instruct:free",
+    "qwen/qwen2.5-vl-72b-instruct:free",
+] if m]
+
+
+def backends(vision=False):
+    """Сначала Gemini (если есть ключ), потом OpenRouter как запасной."""
+    out = []
+    if GEMINI_KEY:
+        out += [(GEMINI_URL, GEMINI_KEY, m, True) for m in GEMINI_MODELS]
+    if OR_KEY:
+        out += [(OR_URL, OR_KEY, m, False) for m in (VISION_MODELS if vision else MODELS)]
+    return out
+
+
+def image_data_url(url):
+    """Gemini не открывает ссылки на картинки сам: скачиваем и кодируем."""
+    r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=30)
+    r.raise_for_status()
+    if len(r.content) > 6_000_000:
+        raise ValueError("image too big")
+    ctype = r.headers.get("Content-Type", "image/jpeg").split(";")[0]
+    if not ctype.startswith("image/"):
+        ctype = "image/jpeg"
+    return f"data:{ctype};base64," + base64.b64encode(r.content).decode()
+
+
+def _chat(messages, temperature, vision=False, image_url=None):
+    data_url = None
+    for url, key, model, is_gemini in backends(vision):
         try:
+            msgs = messages
+            if vision:
+                if is_gemini:
+                    if data_url is None:
+                        data_url = image_data_url(image_url)
+                    img = data_url
+                else:
+                    img = image_url
+                msgs = messages[:-1] + [{"role": "user", "content": [
+                    {"type": "text", "text": messages[-1]["content"]},
+                    {"type": "image_url", "image_url": {"url": img}},
+                ]}]
             r = requests.post(
-                "https://openrouter.ai/api/v1/chat/completions",
-                headers={"Authorization": f"Bearer {OR_KEY}"},
-                json={
-                    "model": model,
-                    "messages": [
-                        {"role": "system", "content": system or SYSTEM},
-                        {"role": "user", "content": prompt},
-                    ],
-                    "temperature": 0.9,
-                },
+                url,
+                headers={"Authorization": f"Bearer {key}"},
+                json={"model": model, "messages": msgs, "temperature": temperature},
                 timeout=90,
             )
             if r.status_code == 200:
@@ -137,42 +183,19 @@ def llm(prompt, system=None):
     return None
 
 
-VISION_MODELS = [m for m in [
-    os.environ.get("OPENROUTER_VISION_MODEL"),
-    "google/gemma-3-27b-it:free",
-    "meta-llama/llama-3.2-11b-vision-instruct:free",
-    "qwen/qwen2.5-vl-72b-instruct:free",
-] if m]
+def llm(prompt, system=None):
+    return _chat([
+        {"role": "system", "content": system or SYSTEM},
+        {"role": "user", "content": prompt},
+    ], 0.9)
 
 
 def llm_vision(prompt, image_url):
     """ИИ смотрит на картинку и пишет текст с учётом того, что на ней видно."""
-    for model in VISION_MODELS:
-        try:
-            r = requests.post(
-                "https://openrouter.ai/api/v1/chat/completions",
-                headers={"Authorization": f"Bearer {OR_KEY}"},
-                json={
-                    "model": model,
-                    "messages": [
-                        {"role": "system", "content": SYSTEM},
-                        {"role": "user", "content": [
-                            {"type": "text", "text": prompt},
-                            {"type": "image_url", "image_url": {"url": image_url}},
-                        ]},
-                    ],
-                    "temperature": 0.8,
-                },
-                timeout=90,
-            )
-            if r.status_code == 200:
-                content = r.json()["choices"][0]["message"]["content"]
-                if content and content.strip():
-                    return clean(content)
-            print("vision model failed:", model, r.status_code, r.text[:200])
-        except Exception as ex:
-            print("vision model error:", model, ex)
-    return None
+    return _chat([
+        {"role": "system", "content": SYSTEM},
+        {"role": "user", "content": prompt},
+    ], 0.8, vision=True, image_url=image_url)
 
 
 def proofread(text):
