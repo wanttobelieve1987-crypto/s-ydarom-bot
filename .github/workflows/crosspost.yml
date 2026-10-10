@@ -2,8 +2,8 @@ name: Crosspost VK
 
 on:
   schedule:
-    # по Москве: 09:40, 12:40, 15:40, 18:40, 21:40, 23:40
-    - cron: "40 6,9,12,15,18,20 * * *"
+    # по Москве: каждый час с 08:40 до 00:40
+    - cron: "40 5-21 * * *"
   workflow_dispatch:
 
 permissions:
