@@ -61,6 +61,8 @@ SYSTEM = (
     "КАПС используй редко, в одном посте из четырёх-пяти и только в по-настоящему "
     "эмоциональный момент. У канала нет комментариев, поэтому не задавай вопросов "
     "подписчикам и не зови их что-то обсуждать. "
+    "Игра слов, идиомы и ирония приветствуются, но только если они логично подходят к "
+    "ситуации и понятны с первого раза: бессмысленная хитрая фраза хуже простой. "
     "Без хэштегов, без markdown, без кавычек вокруг всего текста. "
     "Подколы и ирония над ситуациями, командами и фанатами допустимы, но без оскорблений "
     "игроков и тренеров лично, без политики и без мата. "
@@ -125,7 +127,7 @@ def clean(text):
 
 
 # ---------- ИИ ----------
-def llm(prompt):
+def llm(prompt, system=None):
     for model in MODELS:
         try:
             r = requests.post(
@@ -134,7 +136,7 @@ def llm(prompt):
                 json={
                     "model": model,
                     "messages": [
-                        {"role": "system", "content": SYSTEM},
+                        {"role": "system", "content": system or SYSTEM},
                         {"role": "user", "content": prompt},
                     ],
                     "temperature": 0.9,
@@ -148,6 +150,44 @@ def llm(prompt):
             print("model failed:", model, r.status_code, r.text[:200])
         except Exception as ex:
             print("model error:", model, ex)
+    return None
+
+
+VISION_MODELS = [m for m in [
+    os.environ.get("OPENROUTER_VISION_MODEL"),
+    "google/gemma-3-27b-it:free",
+    "meta-llama/llama-3.2-11b-vision-instruct:free",
+    "qwen/qwen2.5-vl-72b-instruct:free",
+] if m]
+
+
+def llm_vision(prompt, image_url):
+    """ИИ смотрит на картинку и пишет текст с учётом того, что на ней видно."""
+    for model in VISION_MODELS:
+        try:
+            r = requests.post(
+                "https://openrouter.ai/api/v1/chat/completions",
+                headers={"Authorization": f"Bearer {OR_KEY}"},
+                json={
+                    "model": model,
+                    "messages": [
+                        {"role": "system", "content": SYSTEM},
+                        {"role": "user", "content": [
+                            {"type": "text", "text": prompt},
+                            {"type": "image_url", "image_url": {"url": image_url}},
+                        ]},
+                    ],
+                    "temperature": 0.8,
+                },
+                timeout=90,
+            )
+            if r.status_code == 200:
+                content = r.json()["choices"][0]["message"]["content"]
+                if content and content.strip():
+                    return clean(content)
+            print("vision model failed:", model, r.status_code, r.text[:200])
+        except Exception as ex:
+            print("vision model error:", model, ex)
     return None
 
 
@@ -261,9 +301,10 @@ def fetch_news():
     return items
 
 
-def pick_news(state, need_image=False):
+def pick_news(state, need_image=False, skip=()):
     items = [i for i in fetch_news()
              if i["link"] and i["title"] and i["link"] not in state["seen"]
+             and i["link"] not in skip
              and (i["image"] or not need_image)]
     items.sort(key=lambda i: i["ts"], reverse=True)
     top = items[:10]
@@ -289,26 +330,38 @@ def post_joke(state):
 
 
 def post_meme(state):
-    n = pick_news(state, need_image=True)
-    if not n:
-        return False
-    text = llm(
-        f"К картинке из новости «{n['title']}» ({n['text']}) напиши подпись одной короткой "
-        "фразой (до 100 знаков) как эмоциональный болельщик: реакция и эмодзи в конце. "
-        "Не описывай картинку, а реагируй на ситуацию из новости. "
-        "Примеры манеры (не копируй): «Вау.», «Плачут все 💔», «ОН ВЕРНУЛСЯ 🤩»."
-    )
-    if not text:
-        return False
-    text = proofread(text)
-    candidates = []
-    for img in (og_image(n["link"]), n["image"]):
-        if img and img not in candidates:
-            candidates.append(img)
-    for img in candidates:
-        if send(text, image=img, require_image=True):
-            state["seen"].append(n["link"])
-            return True
+    tried = set()
+    for _ in range(3):
+        n = pick_news(state, need_image=True, skip=tried)
+        if not n:
+            return False
+        tried.add(n["link"])
+        images = []
+        for img in (og_image(n["link"]), n["image"]):
+            if img and img not in images:
+                images.append(img)
+        prompt = (
+            f"Новость: {n['title']}. {n['text']}\n\n"
+            "Это фото к новости. Напиши подпись-мем к фото. Подпись должна одновременно "
+            "подходить к тому, что видно на фото (эмоция, ситуация, кто на нём), и к "
+            "новости (результат, событие). Игра слов, идиомы и ирония приветствуются, но "
+            "только если они логично связаны с фото и новостью и понятны с первого раза. "
+            "До 100 знаков, эмодзи в конце. Не выдумывай факты, которых нет в новости. "
+            "Если фото явно не подходит к новости по настроению или сюжету (например, на "
+            "фото радость, а новость про поражение, или на фото другой человек, или "
+            "нейтральный кадр без связи с событием), ответь одним словом: НЕТ."
+        )
+        for img in images:
+            text = llm_vision(prompt, img)
+            if not text:
+                continue
+            if text.strip().upper().startswith("НЕТ"):
+                print("photo does not fit the news:", img)
+                continue
+            if send(text, image=img, require_image=True):
+                state["seen"].append(n["link"])
+                return True
+        state["seen"].append(n["link"])  # не подошло, больше не пробуем эту новость
     return False
 
 
