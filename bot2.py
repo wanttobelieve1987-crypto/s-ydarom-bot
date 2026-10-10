@@ -150,13 +150,40 @@ def send(text, image=None, require_image=False):
 
 # ---------- новости ----------
 def image_of(e):
+    best, best_w = None, -1
     for key in ("media_content", "media_thumbnail"):
         for m in e.get(key, []) or []:
-            if m.get("url"):
-                return m["url"].replace("/standard/240/", "/standard/976/")
+            url = m.get("url")
+            if not url:
+                continue
+            try:
+                w = int(m.get("width") or 0)
+            except ValueError:
+                w = 0
+            if w > best_w:
+                best, best_w = url.replace("/standard/240/", "/standard/976/"), w
+    if best:
+        return best
     for l in e.get("links", []):
         if str(l.get("type", "")).startswith("image"):
             return l.get("href")
+    return None
+
+
+def og_image(link):
+    """Берёт большую картинку со страницы статьи (og:image)."""
+    try:
+        r = requests.get(link, headers={"User-Agent": "Mozilla/5.0"}, timeout=20)
+        html = r.text[:200000]
+        for pat in (
+            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)',
+            r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
+        ):
+            m = re.search(pat, html)
+            if m:
+                return m.group(1).replace("&amp;", "&")
+    except Exception as ex:
+        print("og:image error:", ex)
     return None
 
 
@@ -218,9 +245,15 @@ def post_meme(state):
     )
     if not text:
         return False
-    if send(proofread(text), image=n["image"], require_image=True):
-        state["seen"].append(n["link"])
-        return True
+    text = proofread(text)
+    candidates = []
+    for img in (og_image(n["link"]), n["image"]):
+        if img and img not in candidates:
+            candidates.append(img)
+    for img in candidates:
+        if send(text, image=img, require_image=True):
+            state["seen"].append(n["link"])
+            return True
     return False
 
 
