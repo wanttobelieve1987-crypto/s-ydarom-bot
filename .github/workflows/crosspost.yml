@@ -1,0 +1,39 @@
+name: Crosspost VK
+
+on:
+  schedule:
+    # по Москве: 09:40, 12:40, 15:40, 18:40, 21:40, 23:40
+    - cron: "40 6,9,12,15,18,20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crosspost
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install requests beautifulsoup4
+
+      - name: Run crosspost
+        run: python crosspost.py
+        env:
+          VK_TOKEN: ${{ secrets.VK_TOKEN }}
+          VK_GROUP_ID: ${{ secrets.VK_GROUP_ID }}
+
+      - name: Save state
+        run: |
+          git config user.name "crosspost"
+          git config user.email "crosspost@users.noreply.github.com"
+          git add crosspost_state.json
+          git diff --cached --quiet || (git commit -m "crosspost state" && git pull --rebase && git push)
