@@ -157,7 +157,6 @@ def post_vk(message, link):
         "owner_id": f"-{VK_GROUP_ID}",
         "from_group": 1,
         "message": message,
-        "attachments": link,
         "access_token": VK_TOKEN,
         "v": "5.199",
     }, timeout=30).json()
@@ -182,9 +181,12 @@ def main():
     message, link = make_teaser(post)
     print("---\n" + message + "\n---")
     # помечаем пост сделанным, только если ВК его принял
-    if post_vk(message, link) is True:
+    ok = post_vk(message, link)
+    if ok is True:
         state["done"].append(post["id"])
     save_state(state)
+    if ok is False:
+        raise SystemExit("ВК не принял пост, смотри строку vk error выше")
 
 
 if __name__ == "__main__":
