@@ -13,6 +13,7 @@ import requests
 TOKEN = os.environ["BOT2_TOKEN"]
 OR_KEY = os.environ["OPENROUTER_API_KEY"]
 CHANNEL = os.environ.get("CHANNEL", "@s_ydarom")
+FD_KEY = os.environ.get("FOOTBALL_DATA_KEY", "")
 
 # Модели пробуются по очереди, пока одна не ответит.
 MODELS = [m for m in [
@@ -29,25 +30,8 @@ FEEDS = [
 ]
 
 # Время запуска (UTC час) -> тип поста
-SLOTS = {6: "joke", 9: "history", 12: "meme", 15: "joke", 18: "situation", 21: "meme"}
-KINDS = ["joke", "meme", "history", "situation"]
-
-TOPICS = [
-    "пенальти в добавленное время",
-    "VAR и отмена гола",
-    "трансферное окно и слухи",
-    "ничья на 90-й минуте",
-    "болельщик, который «всё знает лучше тренера»",
-    "сборная перед важным матчем",
-    "ранний матч в выходной",
-    "фэнтези-футбол и капитан, который не забил",
-    "тренер на пресс-конференции после поражения",
-    "вратарь против нападающего",
-    "стадионные пирожки и пиво",
-    "сезон, который «начался хорошо»",
-    "судья и жёлтая карточка",
-    "игра в FIFA против друга",
-]
+SLOTS = {6: "joke", 9: "history", 12: "meme", 15: "joke", 18: "result", 21: "meme"}
+KINDS = ["joke", "meme", "history", "result"]
 
 MONTHS = ["января", "февраля", "марта", "апреля", "мая", "июня", "июля",
           "августа", "сентября", "октября", "ноября", "декабря"]
@@ -329,39 +313,89 @@ def post_joke(state):
     return False
 
 
+def extract_fact(n):
+    """Из новости достаём героя и суть по-русски, чтобы подпись точно была про них."""
+    ans = llm(
+        f"Новость: {n['title']}. {n['text']}\n\n"
+        'Верни только JSON без пояснений вида {"hero": "...", "fact": "..."}. '
+        "hero: главный герой новости (игрок, тренер или команда) по-русски в именительном "
+        "падеже. fact: одно короткое предложение по-русски: что именно произошло, "
+        "с результатом или цифрой, если они есть в тексте новости.",
+        system="Ты редактор спортивных новостей. Отвечаешь только JSON.",
+    )
+    try:
+        d = json.loads(re.search(r"\{.*\}", ans, re.S).group(0))
+        hero, fact = str(d["hero"]).strip(), str(d["fact"]).strip()
+        return (hero, fact) if hero and fact else None
+    except Exception:
+        print("extract_fact failed:", ans)
+        return None
+
+
+def mentions(caption, hero):
+    """В подписи должен быть назван герой новости (с учётом падежных окончаний)."""
+    cap = caption.lower().replace("ё", "е")
+    words = [w for w in re.findall(r"[\w-]+", hero.lower().replace("ё", "е")) if len(w) >= 3]
+    if not words:
+        return True
+    return any(w[:max(4, len(w) - 2)] in cap for w in words)
+
+
+def caption_valid(caption, hero):
+    if len(caption) > 160:
+        return False
+    if re.search(r"\b(я|мне|меня|мой|моя|моё|мои|мы|нам|наш|наша)\b", caption.lower()):
+        return False  # «я потратил призовой фонд»: подпись должна быть про героя, а не про автора
+    return mentions(caption, hero)
+
+
 def post_meme(state):
     tried = set()
-    for _ in range(3):
+    for _ in range(2):
         n = pick_news(state, need_image=True, skip=tried)
         if not n:
             return False
         tried.add(n["link"])
+        info = extract_fact(n)
+        if not info:
+            continue
+        hero, fact = info
         images = []
         for img in (og_image(n["link"]), n["image"]):
             if img and img not in images:
                 images.append(img)
         prompt = (
-            f"Новость: {n['title']}. {n['text']}\n\n"
-            "Это фото к новости. Напиши подпись-мем к фото. Подпись должна одновременно "
-            "подходить к тому, что видно на фото (эмоция, ситуация, кто на нём), и к "
-            "новости (результат, событие). Игра слов, идиомы и ирония приветствуются, но "
-            "только если они логично связаны с фото и новостью и понятны с первого раза. "
-            "До 100 знаков, эмодзи в конце. Не выдумывай факты, которых нет в новости. "
-            "Если фото явно не подходит к новости по настроению или сюжету (например, на "
-            "фото радость, а новость про поражение, или на фото другой человек, или "
-            "нейтральный кадр без связи с событием), ответь одним словом: НЕТ."
+            f"Герой новости: {hero}\nЧто произошло: {fact}\n\n"
+            "Это фото к новости. Напиши подпись-мем к фото одной строкой (до 120 знаков, "
+            "эмодзи в конце). Правила:\n"
+            f"1) Обязательно назови героя по имени или названию: «{hero}». Подпись должна "
+            "быть понятна человеку, который не читал новость.\n"
+            "2) Стиль: сухая ирония, как в футбольных юмористических каналах: коротко "
+            "прокомментируй именно этот факт неожиданным сравнением, преуменьшением или "
+            "преувеличением. Игра слов и идиомы приветствуются, но только если они "
+            "логично связаны с фактом и фото и понятны с первого раза.\n"
+            "3) Не пиши от первого лица («я», «мы», «мне»), не придумывай факты, которых "
+            "нет выше, не рассуждай про призы, ставки и деньги.\n"
+            "4) Если фото явно не подходит к новости по настроению или сюжету (на фото "
+            "радость, а новость про поражение, или на фото другой человек, или нейтральный "
+            "кадр без связи с событием), ответь одним словом: НЕТ."
         )
         for img in images:
-            text = llm_vision(prompt, img)
-            if not text:
-                continue
-            if text.strip().upper().startswith("НЕТ"):
-                print("photo does not fit the news:", img)
-                continue
-            if send(text, image=img, require_image=True):
-                state["seen"].append(n["link"])
-                return True
-        state["seen"].append(n["link"])  # не подошло, больше не пробуем эту новость
+            for _attempt in range(2):
+                text = llm_vision(prompt, img)
+                if not text:
+                    break
+                if text.strip().upper().startswith("НЕТ"):
+                    print("photo does not fit the news:", img)
+                    break
+                if not caption_valid(text, hero):
+                    print("caption rejected:", text)
+                    continue
+                if send(text, image=img, require_image=True):
+                    state["seen"].append(n["link"])
+                    return True
+                break
+        state["seen"].append(n["link"])  # не подошло, эту новость больше не пробуем
     return False
 
 
@@ -400,19 +434,77 @@ def post_history(state):
     return False
 
 
-def post_situation(state):
-    topic = random.choice(TOPICS)
+RESULT_STYLES = [
+    "Срочная новость о результате. Одна строка: эмодзи ⚡️ или ❗️, затем заголовок с "
+    "двоеточием, где названы обе команды и счёт, затем короткая деталь (например, "
+    "сколько голов забито, разница в счёте).",
+    "Короткая реакция болельщика в 1–2 строки. Обязательно назови команды и счёт, чтобы "
+    "пост был понятен без контекста. Эмодзи в конце. Игра слов и ирония приветствуются, "
+    "если они логично связаны с этим результатом.",
+]
+
+
+def recent_matches():
+    """Сыгранные матчи за вчера и сегодня (football-data.org, бесплатный план)."""
+    today = datetime.datetime.utcnow().date()
+    yesterday = today - datetime.timedelta(days=1)
+    try:
+        r = requests.get(
+            "https://api.football-data.org/v4/matches",
+            headers={"X-Auth-Token": FD_KEY},
+            params={"dateFrom": yesterday.isoformat(), "dateTo": today.isoformat()},
+            timeout=30,
+        )
+        if r.status_code != 200:
+            print("football-data error:", r.status_code, r.text[:200])
+            return []
+        return r.json().get("matches", [])
+    except Exception as ex:
+        print("football-data error:", ex)
+        return []
+
+
+def post_result(state):
+    if not FD_KEY:
+        print("no FOOTBALL_DATA_KEY")
+        return False
+    cands = []
+    for m in recent_matches():
+        if m.get("status") != "FINISHED":
+            continue
+        key = f"match:{m.get('id')}"
+        if key in state["seen"]:
+            continue
+        ft = (m.get("score") or {}).get("fullTime") or {}
+        hs, as_ = ft.get("home"), ft.get("away")
+        if hs is None or as_ is None:
+            continue
+        # интересность: много голов, крупный счёт, ничья с голами
+        score = hs + as_ + 2 * abs(hs - as_) + (1 if hs == as_ and hs > 0 else 0)
+        cands.append((score, key, m, hs, as_))
+    if not cands:
+        return False
+    cands.sort(key=lambda c: c[0], reverse=True)
+    _, key, m, hs, as_ = random.choice(cands[:5])
+    home = m["homeTeam"].get("shortName") or m["homeTeam"]["name"]
+    away = m["awayTeam"].get("shortName") or m["awayTeam"]["name"]
+    comp = (m.get("competition") or {}).get("name", "")
     text = llm(
-        f"Тема: {topic}\n\nНапиши короткий пост от лица фаната: эмоциональная реакция "
-        "или забавное наблюдение про эту вечную футбольную ситуацию, 1–2 короткие строки. "
-        "Вопросов к подписчикам не задавай. "
-        "Без конкретных игроков, команд, счётов и дат."
+        f"Матч завершён: {home} {hs}:{as_} {away} ({comp}).\n\n"
+        f"Формат поста: {random.choice(RESULT_STYLES)}\n"
+        "Используй только эти данные: команды, счёт, турнир. Не называй авторов голов, "
+        "минуты и другие детали, которых здесь нет."
     )
-    return bool(text) and send(proofread(text))
+    if not text:
+        return False
+    if send(proofread(text)):
+        state["seen"].append(key)
+        return True
+    return False
 
 
 HANDLERS = {"joke": post_joke, "meme": post_meme,
-            "history": post_history, "situation": post_situation}
+            "history": post_history, "result": post_result}
 
 
 def main():
@@ -424,9 +516,12 @@ def main():
     state = load_state()
     print("kind:", kind)
     ok = HANDLERS[kind](state)
-    if not ok and kind != "situation":
-        print("fallback to situation")
-        ok = post_situation(state)
+    if not ok:
+        # запасной вариант: другой тип, но всегда со ссылкой на реальный факт
+        for fb in ("joke", "result"):
+            if fb != kind and not ok:
+                print("fallback to", fb)
+                ok = HANDLERS[fb](state)
     save_state(state)
     print("posted:", ok)
 
