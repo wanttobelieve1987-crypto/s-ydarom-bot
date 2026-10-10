@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       kind:
-        description: "joke / meme / history / situation (пусто = по расписанию)"
+        description: "joke / meme / history / result (пусто = по расписанию)"
         required: false
         default: ""
 
@@ -34,6 +34,7 @@ jobs:
         env:
           BOT2_TOKEN: ${{ secrets.BOT2_TOKEN }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
           KIND: ${{ github.event.inputs.kind }}
 
       - name: Save state
