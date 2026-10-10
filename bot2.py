@@ -524,6 +524,9 @@ def main():
                 ok = HANDLERS[fb](state)
     save_state(state)
     print("posted:", ok)
+    if not ok:
+        print("НИЧЕГО НЕ ОПУБЛИКОВАНО: смотри строки выше (model failed, caption rejected, telegram error)")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
