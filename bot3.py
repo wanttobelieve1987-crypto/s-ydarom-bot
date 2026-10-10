@@ -480,6 +480,8 @@ def try_post(p, st):
         st["texts"].append(norm(p["text"]))
         print("posted:", p["id"])
         return True
+    # отправка не удалась (например, бот не админ) — пусть попробует этот пост в следующий раз
+    st["seen"].remove(p["id"])
     return False
 
 
