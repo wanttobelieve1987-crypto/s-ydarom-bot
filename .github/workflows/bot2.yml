@@ -34,6 +34,7 @@ jobs:
         env:
           BOT2_TOKEN: ${{ secrets.BOT2_TOKEN }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
           KIND: ${{ github.event.inputs.kind }}
 
