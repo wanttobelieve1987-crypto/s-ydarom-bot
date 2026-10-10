@@ -1,0 +1,56 @@
+name: Bot3 ultras
+
+on:
+  schedule:
+    # По Москве: 10:27, 13:27, 16:27, 19:27, 22:27 (между постами второго бота)
+    - cron: "27 7,10,13,16,19 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "auto, tg (только каналы) или news (только новости)"
+        required: false
+        default: "auto"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bot3
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install
+        run: pip install requests feedparser beautifulsoup4
+
+      - name: Run bot
+        env:
+          BOT3_TOKEN: ${{ secrets.BOT3_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          USE_OPENROUTER: "0"
+          MODE: ${{ github.event.inputs.mode || 'auto' }}
+        run: python bot3.py
+
+      - name: Save memory
+        if: always()
+        run: |
+          git config user.name "bot3"
+          git config user.email "bot3@users.noreply.github.com"
+          git add bot3_state.json || exit 0
+          git diff --cached --quiet && exit 0
+          git commit -m "bot3: update state"
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep 5
+          done
