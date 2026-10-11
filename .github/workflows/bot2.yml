@@ -30,4 +30,17 @@ jobs:
         run: pip install requests feedparser
 
       - name: Run bot
-        run: pyt
+        run: python bot2.py
+        env:
+          BOT2_TOKEN: ${{ secrets.BOT2_TOKEN }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+          KIND: ${{ github.event.inputs.kind }}
+
+      - name: Save state
+        run: |
+          git config user.name "bot2"
+          git config user.email "bot2@users.noreply.github.com"
+          git add bot2_state.json
+          git diff --cached --quiet || (git commit -m "bot2 state" && git pull --rebase && git push)
