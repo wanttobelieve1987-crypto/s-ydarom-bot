@@ -12,7 +12,7 @@ import requests
 
 TOKEN = os.environ["BOT2_TOKEN"]
 OR_KEY = os.environ.get("OPENROUTER_API_KEY", "")
-GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "")
+GEMINI_KEY = os.environ.get("GEMINI_API_KEY_2") or os.environ.get("GEMINI_API_KEY", "")
 CHANNEL = os.environ.get("CHANNEL", "@s_ydarom")
 FD_KEY = os.environ.get("FOOTBALL_DATA_KEY", "")
 
@@ -31,8 +31,8 @@ FEEDS = [
 ]
 
 # Время запуска (UTC час) -> тип поста
-SLOTS = {6: "joke", 9: "history", 12: "meme", 15: "joke", 18: "result", 21: "meme"}
-KINDS = ["joke", "meme", "history", "result"]
+SLOTS = {6: "card", 9: "history", 12: "card", 15: "meme", 18: "result", 21: "card"}
+KINDS = ["card", "meme", "history", "result"]
 
 MONTHS = ["января", "февраля", "марта", "апреля", "мая", "июня", "июля",
           "августа", "сентября", "октября", "ноября", "декабря"]
@@ -366,8 +366,8 @@ def mentions(caption, hero):
     return any(w[:max(4, len(w) - 2)] in cap for w in words)
 
 
-def caption_valid(caption, hero):
-    if len(caption) > 160:
+def caption_valid(caption, hero, max_len=160):
+    if len(caption) > max_len:
         return False
     if re.search(r"\b(я|мне|меня|мой|моя|моё|мои|мы|нам|наш|наша)\b", caption.lower()):
         return False  # «я потратил призовой фонд»: подпись должна быть про героя, а не про автора
@@ -421,6 +421,61 @@ def post_meme(state):
                     return True
                 break
         state["seen"].append(n["link"])  # не подошло, эту новость больше не пробуем
+    return False
+
+
+CARD_STYLES = [
+    "Формат «карточка». Первая строка: эмодзи в начале и главный факт простыми "
+    "разговорными словами, как другу в чате. Вторая строка: одна короткая рофлянная "
+    "реакция или ироничное сравнение на этот факт.",
+    "Формат «одной строкой»: факт простыми словами и в конце шутка или подкол через "
+    "запятую или тире, эмодзи в конце.",
+    "Формат «две строки»: первая строка сухо и коротко что случилось, вторая строка "
+    "(отдельно) неожиданная ироничная мысль на тему этого факта, без объяснений.",
+]
+
+
+def post_card(state):
+    """Неформальная новость с фото, как в тг-каналах: факт + рофл, героя называем по имени."""
+    n = pick_news(state, need_image=True) or pick_news(state)
+    if not n:
+        return False
+    info = extract_fact(n)
+    if info:
+        hero, fact = info
+        base = f"Герой новости: {hero}\nЧто произошло: {fact}\nДетали: {n['text']}\n\n"
+    else:
+        hero = ""
+        base = f"Новость: {n['title']}\nДетали: {n['text']}\n\n"
+    prompt = (
+        base + f"{random.choice(CARD_STYLES)}\n"
+        "Правила: разговорный язык, лёгкий рофл и ирония, юмор логично вытекает из самого "
+        "факта. Всего 1–3 коротких предложения, до 250 знаков. Обязательно назови героя "
+        "по имени или названию, чтобы было понятно, о ком речь. Не пиши от первого лица "
+        "(«я», «мы»), не задавай вопросов, не придумывай факты, цифры и счёт, которых нет "
+        "выше. Если в новости слух или возможный трансфер, начни с «Слух:»."
+    )
+    text = None
+    for _ in range(2):
+        cand = llm(prompt)
+        if cand and (not hero or caption_valid(cand, hero, max_len=300)):
+            text = cand
+            break
+        print("card rejected:", cand)
+    if not text:
+        return False
+    text = proofread(text)
+    images = []
+    for img in (og_image(n["link"]), n["image"]):
+        if img and img not in images:
+            images.append(img)
+    for img in images:
+        if send(text, image=img, require_image=True):
+            state["seen"].append(n["link"])
+            return True
+    if send(text):
+        state["seen"].append(n["link"])
+        return True
     return False
 
 
@@ -528,7 +583,7 @@ def post_result(state):
     return False
 
 
-HANDLERS = {"joke": post_joke, "meme": post_meme,
+HANDLERS = {"card": post_card, "joke": post_joke, "meme": post_meme,
             "history": post_history, "result": post_result}
 
 
@@ -543,7 +598,7 @@ def main():
     ok = HANDLERS[kind](state)
     if not ok:
         # запасной вариант: другой тип, но всегда со ссылкой на реальный факт
-        for fb in ("joke", "result"):
+        for fb in ("card", "joke", "result"):
             if fb != kind and not ok:
                 print("fallback to", fb)
                 ok = HANDLERS[fb](state)
