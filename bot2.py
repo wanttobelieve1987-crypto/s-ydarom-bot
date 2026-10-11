@@ -5,6 +5,7 @@ import json
 import os
 import random
 import re
+import struct
 import sys
 
 import feedparser
@@ -212,8 +213,9 @@ def proofread(text):
 
 
 # ---------- Telegram ----------
-def tg(method, **data):
-    r = requests.post(f"https://api.telegram.org/bot{TOKEN}/{method}", data=data, timeout=30)
+def tg(method, files=None, **data):
+    r = requests.post(f"https://api.telegram.org/bot{TOKEN}/{method}",
+                      data=data, files=files, timeout=60)
     if not r.ok:
         print("telegram error:", r.text[:300])
     return r
@@ -238,12 +240,22 @@ def fmt(text):
 
 
 def send(text, image=None, require_image=False):
+    """image: dict из best_image() (загружаем файл сами, без пережатия) или ссылка."""
     if image:
-        if tg("sendPhoto", chat_id=CHANNEL, photo=image,
-              caption=fmt(text)[:1024], parse_mode="HTML").ok:
-            return True
-        if tg("sendPhoto", chat_id=CHANNEL, photo=image, caption=text[:1024]).ok:
-            return True
+        if isinstance(image, dict):
+            files = {"photo": ("photo.jpg", image["data"])}
+            if tg("sendPhoto", files=files, chat_id=CHANNEL,
+                  caption=fmt(text)[:1024], parse_mode="HTML").ok:
+                return True
+            files = {"photo": ("photo.jpg", image["data"])}
+            if tg("sendPhoto", files=files, chat_id=CHANNEL, caption=text[:1024]).ok:
+                return True
+        else:
+            if tg("sendPhoto", chat_id=CHANNEL, photo=image,
+                  caption=fmt(text)[:1024], parse_mode="HTML").ok:
+                return True
+            if tg("sendPhoto", chat_id=CHANNEL, photo=image, caption=text[:1024]).ok:
+                return True
         if require_image:
             return False
     if tg("sendMessage", chat_id=CHANNEL, text=fmt(text)[:4096], parse_mode="HTML").ok:
@@ -273,21 +285,106 @@ def image_of(e):
     return None
 
 
-def og_image(link):
-    """Берёт большую картинку со страницы статьи (og:image)."""
+def page_images(link):
+    """Картинки со страницы статьи: og:image и twitter:image."""
+    out = []
     try:
         r = requests.get(link, headers={"User-Agent": "Mozilla/5.0"}, timeout=20)
-        html = r.text[:200000]
-        for pat in (
-            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)',
-            r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
-        ):
-            m = re.search(pat, html)
-            if m:
-                return m.group(1).replace("&amp;", "&")
+        page = r.text[:250000]
+        for prop in ("og:image", "twitter:image"):
+            for pat in (
+                rf'<meta[^>]+(?:property|name)=["\']{prop}["\'][^>]+content=["\']([^"\']+)',
+                rf'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\']{prop}["\']',
+            ):
+                m = re.search(pat, page)
+                if m:
+                    u = m.group(1).replace("&amp;", "&")
+                    if u.startswith("//"):
+                        u = "https:" + u
+                    if u not in out:
+                        out.append(u)
     except Exception as ex:
-        print("og:image error:", ex)
+        print("page images error:", ex)
+    return out
+
+
+def upgrade_url(u):
+    """Превью BBC и похожих лент меняем на крупные версии."""
+    return re.sub(r"/standard/\d+/", "/standard/976/", u)
+
+
+def image_size(data):
+    """Размер картинки без внешних библиотек: JPEG, PNG, WebP."""
+    try:
+        if data[:8] == b"\x89PNG\r\n\x1a\n":
+            return struct.unpack(">II", data[16:24])
+        if data[:2] == b"\xff\xd8":
+            i = 2
+            while i < len(data) - 9:
+                if data[i] != 0xFF:
+                    i += 1
+                    continue
+                marker = data[i + 1]
+                if marker in (0xD8, 0x01) or 0xD0 <= marker <= 0xD7:
+                    i += 2
+                    continue
+                length = struct.unpack(">H", data[i + 2:i + 4])[0]
+                if 0xC0 <= marker <= 0xCF and marker not in (0xC4, 0xC8, 0xCC):
+                    h, w = struct.unpack(">HH", data[i + 5:i + 9])
+                    return w, h
+                i += 2 + length
+        if data[:4] == b"RIFF" and data[8:12] == b"WEBP":
+            kind = data[12:16]
+            if kind == b"VP8X":
+                w = 1 + int.from_bytes(data[24:27], "little")
+                h = 1 + int.from_bytes(data[27:30], "little")
+                return w, h
+            if kind == b"VP8 ":
+                w, h = struct.unpack("<HH", data[26:30])
+                return w & 0x3FFF, h & 0x3FFF
+            if kind == b"VP8L":
+                b = data[21:25]
+                bits = int.from_bytes(b, "little")
+                return (bits & 0x3FFF) + 1, ((bits >> 14) & 0x3FFF) + 1
+    except Exception:
+        pass
     return None
+
+
+MIN_IMAGE_WIDTH = 700
+
+
+def best_image(n):
+    """Скачивает все варианты картинки к новости и берёт самую большую.
+    Если лучшая меньше MIN_IMAGE_WIDTH по ширине, фото не используем (лучше без него, чем размытое)."""
+    if "_img" in n:
+        return n["_img"]
+    cands = []
+    for u in page_images(n["link"]) + [n.get("image")]:
+        if u:
+            u = upgrade_url(u)
+            if u not in cands:
+                cands.append(u)
+    best = None
+    for u in cands:
+        try:
+            r = requests.get(u, headers={"User-Agent": "Mozilla/5.0"}, timeout=30)
+            if not r.ok or len(r.content) > 9_000_000:
+                continue
+            size = image_size(r.content)
+            if not size:
+                continue
+            w, h = size
+            print("image:", u[:90], w, "x", h)
+            if best is None or w * h > best["w"] * best["h"]:
+                best = {"url": u, "data": r.content, "w": w, "h": h}
+        except Exception as ex:
+            print("image error:", ex)
+    if best and (best["w"] < MIN_IMAGE_WIDTH or best["w"] < best["h"] * 0.5):
+        print("image too small, skipped:", best["w"], "x", best["h"])
+        best = None
+    n["_img"] = best
+    return best
 
 
 def fetch_news():
@@ -385,10 +482,10 @@ def post_meme(state):
         if not info:
             continue
         hero, fact = info
-        images = []
-        for img in (og_image(n["link"]), n["image"]):
-            if img and img not in images:
-                images.append(img)
+        pic = best_image(n)
+        if not pic:
+            state["seen"].append(n["link"])
+            continue
         prompt = (
             f"Герой новости: {hero}\nЧто произошло: {fact}\n\n"
             "Это фото к новости. Напиши подпись-мем к фото одной строкой (до 120 знаков, "
@@ -405,21 +502,20 @@ def post_meme(state):
             "радость, а новость про поражение, или на фото другой человек, или нейтральный "
             "кадр без связи с событием), ответь одним словом: НЕТ."
         )
-        for img in images:
-            for _attempt in range(2):
-                text = llm_vision(prompt, img)
-                if not text:
-                    break
-                if text.strip().upper().startswith("НЕТ"):
-                    print("photo does not fit the news:", img)
-                    break
-                if not caption_valid(text, hero):
-                    print("caption rejected:", text)
-                    continue
-                if send(text, image=img, require_image=True):
-                    state["seen"].append(n["link"])
-                    return True
+        for _attempt in range(2):
+            text = llm_vision(prompt, pic["url"])
+            if not text:
                 break
+            if text.strip().upper().startswith("НЕТ"):
+                print("photo does not fit the news:", pic["url"])
+                break
+            if not caption_valid(text, hero):
+                print("caption rejected:", text)
+                continue
+            if send(text, image=pic, require_image=True):
+                state["seen"].append(n["link"])
+                return True
+            break
         state["seen"].append(n["link"])  # не подошло, эту новость больше не пробуем
     return False
 
@@ -437,7 +533,18 @@ CARD_STYLES = [
 
 def post_card(state):
     """Неформальная новость с фото, как в тг-каналах: факт + рофл, героя называем по имени."""
-    n = pick_news(state, need_image=True) or pick_news(state)
+    tried, n, img = set(), None, None
+    for _ in range(4):
+        cand = pick_news(state, skip=tried)
+        if not cand:
+            break
+        tried.add(cand["link"])
+        b = best_image(cand)
+        if b:
+            n, img = cand, b
+            break
+        if n is None:
+            n = cand  # запасной вариант: новость без фото
     if not n:
         return False
     info = extract_fact(n)
@@ -465,15 +572,7 @@ def post_card(state):
     if not text:
         return False
     text = proofread(text)
-    images = []
-    for img in (og_image(n["link"]), n["image"]):
-        if img and img not in images:
-            images.append(img)
-    for img in images:
-        if send(text, image=img, require_image=True):
-            state["seen"].append(n["link"])
-            return True
-    if send(text):
+    if send(text, image=img):
         state["seen"].append(n["link"])
         return True
     return False
