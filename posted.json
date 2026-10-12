@@ -161,7 +161,8 @@
   "https://www.lequipe.fr/Football/Actualites/Serie-a-l-ac-milan-freinee-par-sassuolo-malgre-un-beau-but-d-adrien-rabiot/1725041#at_medium=RSS_feeds",
   "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
   "https://football-italia.net/serie-a-cagliari-1-1-juventus-kolomuani-rescue/",
-  "https://www.kicker.de/bloss-kein-debakel-in-madrid-kann-es-schon-um-carricks-zukunft-gehen-1260213/artikel#omrss"
+  "https://www.kicker.de/bloss-kein-debakel-in-madrid-kann-es-schon-um-carricks-zukunft-gehen-1260213/artikel#omrss",
+  "https://www.theguardian.com/football/2026/oct/12/virgil-van-dijk-warns-manchester-city-players-to-get-used-to-hostile-atmospheres"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -325,10 +326,10 @@
   "serie a l ac milan freinée par sassuolo malgré un beau but d adrien rabiot",
   "lazio fly high in serie a freiburg lead bundesliga betis go third in spain",
   "serie a cagliari 1 1 juventus kolo muani first goal to rescue a point",
-  "bloß kein debakel in madrid kann es schon um carricks zukunft gehen"
+  "bloß kein debakel in madrid kann es schon um carricks zukunft gehen",
+  "virgil van dijk warns manchester city players to get used to hostile atmospheres"
  ],
  "recent": [
-  "🏟️ Гвардиола вернётся на «Этихад» после вердикта: первый домашний матч с ПСЖ",
   "🤔 Эндрик выбирает «Милан», если «Реал» отпустит в январе",
   "⚫️ Саммер продлил с «Боруссией» до 2028: опыт остаётся в Дортмунде",
   "💷 ШПФЛ выплатила клубам рекордные 49,6 млн фунтов — цель в 50 млн к 2029 году почти выполнена",
@@ -367,14 +368,10 @@
   "⚽ «Милан» контролировал, Рабио забил красиво, а в активе — лишь ничья с «Сассоло»",
   "⚽ Sky Sports обещал обновления по Лацио, Фрайбургу и Бетису — и упал с 503-й",
   "😅 22 удара, 71% владения и гол на 81-й: «Юве» спас Коло Муани",
-  "😬 Каррик играет за будущее в Мадриде"
+  "😬 Каррик играет за будущее в Мадриде",
+  "🎭 Ван Дейк про «Сити»: привыкайте к «Читерам» — Анфилд не единственный"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-08T07:29:37.128777+00:00",
-   "title": "🏟️ Гвардиола вернётся на «Этихад» после вердикта: первый домашний матч с ПСЖ",
-   "body": "Пеп Гвардиола появится на первом домашнем матче «Манчестер Сити» после вердикта — против ПСЖ в Лиге чемпионов, что станет его первым выходом на «Этихад» с тех пор, как он покинул клуб после десяти лет у руля. Независимая комиссия признала «Сити» виновной в большинстве из 115 обвинений, в том числе в завышении коммерческих доходов на 830 млн фунтов через «фиктивные» контракты, хотя клуб отрицает на"
-  },
   {
    "time": "2026-10-08T09:25:32.697996+00:00",
    "title": "🤔 Эндрик выбирает «Милан», если «Реал» отпустит в январе",
@@ -569,8 +566,13 @@
    "time": "2026-10-12T09:31:47.902944+00:00",
    "title": "😬 Каррик играет за будущее в Мадриде",
    "body": "«Юнайтед» набрал всего 6 очков за 6 туров и снова не смог обыграть аутсайдера — теперь Каррик едет к «Атлетико» с репутацией ходячей загадки. Промежуточный тренер рискует уйти в отставку уже после матча Лиги чемпионов, если команда не покажет чудо качества. Откуда ждать перемена — непонятно, но Мадрид станет либо спасением, либо приговором для бывшей легенды клуба."
+  },
+  {
+   "time": "2026-10-12T11:30:29.613560+00:00",
+   "title": "🎭 Ван Дейк про «Сити»: привыкайте к «Читерам» — Анфилд не единственный",
+   "body": "Ван Дейк предупредил «Граждан»: свисты и скандирование «Читеры» на Анфилде — лишь начало, на других стадионах будет так же жарко, ведь фанаты не простят завышенных на 830 млн фунтов доходов. «Сити» всё равно унесло сухую победу 3:0 после удаления Гравенберха на 62-й минуте, но Ван Дейк не понимает, зачем Араухо показали жёлтую за показ воображаемой карточки, а за массовые требования «ситизенсов» н"
   }
  ],
- "last_post": "2026-10-12T09:31:47.902959+00:00",
+ "last_post": "2026-10-12T11:30:29.613578+00:00",
  "limit_day": "2026-10-11"
 }
