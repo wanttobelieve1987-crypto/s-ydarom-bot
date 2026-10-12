@@ -163,7 +163,8 @@
   "https://football-italia.net/serie-a-cagliari-1-1-juventus-kolomuani-rescue/",
   "https://www.kicker.de/bloss-kein-debakel-in-madrid-kann-es-schon-um-carricks-zukunft-gehen-1260213/artikel#omrss",
   "https://www.theguardian.com/football/2026/oct/12/virgil-van-dijk-warns-manchester-city-players-to-get-used-to-hostile-atmospheres",
-  "https://www.lequipe.fr/Football/Actualites/Deux-ans-apres-son-premier-passage-jagoba-arrasate-de-retour-sur-le-banc-d-osasuna-en-liga/1725165#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Deux-ans-apres-son-premier-passage-jagoba-arrasate-de-retour-sur-le-banc-d-osasuna-en-liga/1725165#at_medium=RSS_feeds",
+  "https://www.lequipe.fr/Football/Actualites/Arsenal-prive-de-hincapie-et-zubimendi-face-a-lille-en-ligue-des-champions/1725173#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -329,10 +330,10 @@
   "serie a cagliari 1 1 juventus kolo muani first goal to rescue a point",
   "bloß kein debakel in madrid kann es schon um carricks zukunft gehen",
   "virgil van dijk warns manchester city players to get used to hostile atmospheres",
-  "deux ans après son premier passage jagoba arrasate de retour sur le banc d osasuna en liga"
+  "deux ans après son premier passage jagoba arrasate de retour sur le banc d osasuna en liga",
+  "arsenal privé de hincapie et zubimendi face à lille en ligue des champions"
  ],
  "recent": [
-  "⚫️ Саммер продлил с «Боруссией» до 2028: опыт остаётся в Дортмунде",
   "💷 ШПФЛ выплатила клубам рекордные 49,6 млн фунтов — цель в 50 млн к 2029 году почти выполнена",
   "🤫 «Селтик» играл втайне с 11-м местом — и очень серьезно",
   "😅 Чеферин сломал слово и пойдёт на четвёртый срок: ищет антипод Инфантино",
@@ -371,14 +372,10 @@
   "😅 22 удара, 71% владения и гол на 81-й: «Юве» спас Коло Муани",
   "😬 Каррик играет за будущее в Мадриде",
   "🎭 Ван Дейк про «Сити»: привыкайте к «Читерам» — Анфилд не единственный",
-  "🔄 Осасуна вернула Аррасате: два года прошло — и он снова на скамейке"
+  "🔄 Осасуна вернула Аррасате: два года прошло — и он снова на скамейке",
+  "🤕 «Арсенал» теряет Зубименди и Инкапье за день до битвы с «Лиллем»"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-08T11:28:53.297365+00:00",
-   "title": "⚫️ Саммер продлил с «Боруссией» до 2028: опыт остаётся в Дортмунде",
-   "body": "Маттиас Саммер продлил контракт с «Боруссией» до 2028 года и продолжит работать советником спортдиректора. Об этом официально подтвердил гендиректор клуба Карстен Крамер, поставив точку в спорах о будущем легенды. Дортмунд застраховался опытом чемпиона мира на случай новых турбулентностей. 🤝"
-  },
   {
    "time": "2026-10-08T13:29:04.765017+00:00",
    "title": "💷 ШПФЛ выплатила клубам рекордные 49,6 млн фунтов — цель в 50 млн к 2029 году почти выполнена",
@@ -573,8 +570,13 @@
    "time": "2026-10-12T13:43:04.189298+00:00",
    "title": "🔄 Осасуна вернула Аррасате: два года прошло — и он снова на скамейке",
    "body": "Осасуна уволила Луиса Мигеля Рамиса в понедельник из-за кризиса в Ла Лиге и вернула на скамью Ягоба Аррасате, который с 2018 по 2024 год уже тренировал клуб. Испанец пробыл в стороне всего два сезона, но руководство предпочло проверенного специалиста риску с новичком. Сможет ли он повторить старый успех или история не повторяется дважды? ⚽"
+  },
+  {
+   "time": "2026-10-12T15:29:53.153229+00:00",
+   "title": "🤕 «Арсенал» теряет Зубименди и Инкапье за день до битвы с «Лиллем»",
+   "body": "На пресс-конференции перед матчем Лиги чемпионов (вторник, 21:00, «Эмирейтс») Артета подтвердил: Зубименди и Инкапье выбывают из-за травм щиколоток. «Пушечники» лишились сразу двух опорных игроков за один день — врачам, кажется, не позавидуешь. Как лондонцы выкрутятся без этой пары дома, покажет игра с «Лиллем»."
   }
  ],
- "last_post": "2026-10-12T13:43:04.189314+00:00",
+ "last_post": "2026-10-12T15:29:53.153242+00:00",
  "limit_day": "2026-10-11"
 }
