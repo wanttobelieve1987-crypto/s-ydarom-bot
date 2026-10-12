@@ -166,7 +166,8 @@
   "https://www.lequipe.fr/Football/Actualites/Deux-ans-apres-son-premier-passage-jagoba-arrasate-de-retour-sur-le-banc-d-osasuna-en-liga/1725165#at_medium=RSS_feeds",
   "https://www.lequipe.fr/Football/Actualites/Arsenal-prive-de-hincapie-et-zubimendi-face-a-lille-en-ligue-des-champions/1725173#at_medium=RSS_feeds",
   "https://nos.nl/l/2634721",
-  "https://football-italia.net/serie-a-atalanta-3-1-venezia/"
+  "https://football-italia.net/serie-a-atalanta-3-1-venezia/",
+  "https://www.kicker.de/ekstase-bei-levante-ping-pong-tor-bringt-ausgleich-gegen-sevilla-in-letzter-minute-1260698/video#omrss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -335,10 +336,10 @@
   "deux ans après son premier passage jagoba arrasate de retour sur le banc d osasuna en liga",
   "arsenal privé de hincapie et zubimendi face à lille en ligue des champions",
   "bosz verwacht champions league spektakel in leipzig het wordt vuur met vuur",
-  "serie a atalanta 3 1 venezia krstovic double ends sarri slump"
+  "serie a atalanta 3 1 venezia krstovic double ends sarri slump",
+  "ekstase bei levante ping pong tor bringt ausgleich gegen sevilla in letzter minute"
  ],
  "recent": [
-  "😅 Чеферин сломал слово и пойдёт на четвёртый срок: ищет антипод Инфантино",
   "⏳ 19 дней без сбора: МакИннес критикует перерыв и вспоминает обед с Фергюсоном",
   "⚽ Пять побед на фоне приговора: Мареска и Халанд готовятся к «Энфилду»",
   "🏀 Шай Гилджеус-Александр стал совладельцем «Атлетико» — Симеоне одобрит?",
@@ -377,14 +378,10 @@
   "🔄 Осасуна вернула Аррасате: два года прошло — и он снова на скамейке",
   "🤕 «Арсенал» теряет Зубименди и Инкапье за день до битвы с «Лиллем»",
   "🔥 Босц обещает «огонь с огнём» в Лейпциге: у «быков» 6:0 дома и три провала в гостях",
-  "⚫ «Аталанта» прервала кризис: 3:1 «Венеции» и красная карточка Элмаса"
+  "⚫ «Аталанта» прервала кризис: 3:1 «Венеции» и красная карточка Элмаса",
+  "⚽ «Леванте» вырвал 3:3 у «Севильи» на 10-й минуте допвремени — пинг-понг в штрафной"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-08T17:26:43.447797+00:00",
-   "title": "😅 Чеферин сломал слово и пойдёт на четвёртый срок: ищет антипод Инфантино",
-   "body": "Александр Чеферин на съезде в Берлине объявил о баллотировке, хотя год назад клялся уйти — реформу ФИФА поддержали 54 из 55 ассоциаций, один лишь Азербайджан отказался. Словенец сам против Джанни не пойдёт, но к мартовским выборам обещает найти единого кандидата, вокруг которого сплотится футбольный мир. 🤷‍♂️"
-  },
   {
    "time": "2026-10-08T19:26:33.889537+00:00",
    "title": "⏳ 19 дней без сбора: МакИннес критикует перерыв и вспоминает обед с Фергюсоном",
@@ -579,8 +576,13 @@
    "time": "2026-10-12T19:26:46.571365+00:00",
    "title": "⚫ «Аталанта» прервала кризис: 3:1 «Венеции» и красная карточка Элмаса",
    "body": "«Аталанта» прервала серию из трёх поражений, разнеся «Венецию» 3:0 за полчаса — дубль Крстовича и люксовый лоб Кесси создали видимость полного контроля. Гости, у которых ноль очков за пять туров, дважды били в штангу и забили, но ВАР отменил гол за абсайдом, а в конце Элмас за грубое нарушение улетел под душ после просмотра монитора. В десятёрке бергамцы без нервов удержали 3:1, и Сарри наконец вы"
+  },
+  {
+   "time": "2026-10-12T21:25:18.381793+00:00",
+   "title": "⚽ «Леванте» вырвал 3:3 у «Севильи» на 10-й минуте допвремени — пинг-понг в штрафной",
+   "body": "Австриец Ифейни Ндукве забил с четвёртой попытки на 100-й минуте, пока у гостей уже охлаждали шампанское. «Леванте» доказал: матч заканчивается не по свистку, а когда мяч перестанет прыгать по площади. Нервы у болельщиков «Севильи» сейчас крепче их обороны в добавленке."
   }
  ],
- "last_post": "2026-10-12T19:26:46.571378+00:00",
+ "last_post": "2026-10-12T21:25:18.381811+00:00",
  "limit_day": "2026-10-11"
 }
