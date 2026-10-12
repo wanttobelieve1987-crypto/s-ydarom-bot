@@ -157,7 +157,8 @@
   "https://football-italia.net/de-zerbi-on-bentancur-red-card-spurs/",
   "https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss",
   "https://football-italia.net/spalletti-pisacane-see-red-cagliari-1-1-juve/",
-  "https://www.scotsman.com/sport/football/celtic/latest-celtic-news/i-watched-celtic-beat-motherwell-and-noted-a-timely-reminder-jota-reception-and-rangers-advantage-9280247"
+  "https://www.scotsman.com/sport/football/celtic/latest-celtic-news/i-watched-celtic-beat-motherwell-and-noted-a-timely-reminder-jota-reception-and-rangers-advantage-9280247",
+  "https://www.lequipe.fr/Football/Actualites/Serie-a-l-ac-milan-freinee-par-sassuolo-malgre-un-beau-but-d-adrien-rabiot/1725041#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -317,10 +318,10 @@
   "de zerbi on bentancur red card after spurs draw with man utd i kissed him and said thanks",
   "doku delights as manchester city cruise past 10 man liverpool",
   "cagliari 1 1 juventus ends in headloss as spalletti and pisacane see red",
-  "i watched celtic beat motherwell and noted a timely reminder jota reception and rangers advantage"
+  "i watched celtic beat motherwell and noted a timely reminder jota reception and rangers advantage",
+  "serie a l ac milan freinée par sassuolo malgré un beau but d adrien rabiot"
  ],
  "recent": [
-  "🎬 Кардинале: Серия А была Премьер-лигой, ждёт «нетфликс-момент»",
   "🥊 Вега против Инфантино: экс-защитник «Тоттенхэма» вызвал президента ФИФА на дуэль",
   "🇩🇰 Дольберг порвал КСС на сборе — сезон для «Аякса» окончен",
   "⚽ Роналду извинился перед сборной и фанатами, дисквалификацию могут сократить вдвое",
@@ -359,14 +360,10 @@
   "⚽ Де Зерби поцеловал отстранённого Бентанкура: «Спасибо за характер»",
   "⚽ Сити отмылся от грехов: 3:0 на Анфилде",
   "🟥 Спаллетти и Пискане улетели на трибуны после 1:1 с «Кальяри»",
-  "🏴󠁧󠁢󠁳󠁣󠁴󠁿 О’Нилл отметил 250-ю победу, Жота вернулся после 18 месяцев"
+  "🏴󠁧󠁢󠁳󠁣󠁴󠁿 О’Нилл отметил 250-ю победу, Жота вернулся после 18 месяцев",
+  "⚽ «Милан» контролировал, Рабио забил красиво, а в активе — лишь ничья с «Сассоло»"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-07T23:23:06.166447+00:00",
-   "title": "🎬 Кардинале: Серия А была Премьер-лигой, ждёт «нетфликс-момент»",
-   "body": "Джерри Кардинале сравнил Серию А с Голливудом до прихода Нетфликса: когда-то кальчо было главной лигой мира, как сейчас Премьер-лига, но упустило технологический скачок и рискует быть раздавленным конкуренцией. Владелец «Милана» через RedBird вложил около 6 млрд долларов в медиа-холдинг со Skydance и Paramount и требует срочно модернизировать продукт, иначе лига пропадёт. Про права на трансляции о"
-  },
   {
    "time": "2026-10-08T01:26:44.142279+00:00",
    "title": "🥊 Вега против Инфантино: экс-защитник «Тоттенхэма» вызвал президента ФИФА на дуэль",
@@ -561,8 +558,13 @@
    "time": "2026-10-12T01:27:23.931397+00:00",
    "title": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 О’Нилл отметил 250-ю победу, Жота вернулся после 18 месяцев",
    "body": "«Сельтик» обыграл «Мазервелл» 2:0, прервав серию из трёх поражений и вернувшись на вершину — забили Дуран и Нюгрен, а упущенные моменты могли сделать счёт ещё обиднее для хозяев. Главный подарок к юбилею — выход Жоты после 18 месяцев перерыва из-за разрыва крестообразных: фанаты встретили португальца овациями, но настоящий экзамен ждёт впереди. О’Нилл признал: у «Рейнджерс» преимущество в титульно"
+  },
+  {
+   "time": "2026-10-12T03:28:24.060188+00:00",
+   "title": "⚽ «Милан» контролировал, Рабио забил красиво, а в активе — лишь ничья с «Сассоло»",
+   "body": "На 6-м туре «Россонери» ушли из Реджио-Эмилии с 1:1, хотя Адриен Рабио пробил «сухой лист» хозяев чистым ударом — гол стал единственным утешением для гостей. «Милан» не побеждает уже третий матч подряд, и пятое место для непобеждённой команды выглядит скорее как диагноз, чем как амбиции. «Сассоло» радуется счастливому очку, а у «Милана» в копилке — лишь красивая статистика по забитым."
   }
  ],
- "last_post": "2026-10-12T01:27:23.931436+00:00",
+ "last_post": "2026-10-12T03:28:24.060203+00:00",
  "limit_day": "2026-10-11"
 }
