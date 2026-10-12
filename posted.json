@@ -158,7 +158,8 @@
   "https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss",
   "https://football-italia.net/spalletti-pisacane-see-red-cagliari-1-1-juve/",
   "https://www.scotsman.com/sport/football/celtic/latest-celtic-news/i-watched-celtic-beat-motherwell-and-noted-a-timely-reminder-jota-reception-and-rangers-advantage-9280247",
-  "https://www.lequipe.fr/Football/Actualites/Serie-a-l-ac-milan-freinee-par-sassuolo-malgre-un-beau-but-d-adrien-rabiot/1725041#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Serie-a-l-ac-milan-freinee-par-sassuolo-malgre-un-beau-but-d-adrien-rabiot/1725041#at_medium=RSS_feeds",
+  "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -319,10 +320,10 @@
   "doku delights as manchester city cruise past 10 man liverpool",
   "cagliari 1 1 juventus ends in headloss as spalletti and pisacane see red",
   "i watched celtic beat motherwell and noted a timely reminder jota reception and rangers advantage",
-  "serie a l ac milan freinée par sassuolo malgré un beau but d adrien rabiot"
+  "serie a l ac milan freinée par sassuolo malgré un beau but d adrien rabiot",
+  "lazio fly high in serie a freiburg lead bundesliga betis go third in spain"
  ],
  "recent": [
-  "🥊 Вега против Инфантино: экс-защитник «Тоттенхэма» вызвал президента ФИФА на дуэль",
   "🇩🇰 Дольберг порвал КСС на сборе — сезон для «Аякса» окончен",
   "⚽ Роналду извинился перед сборной и фанатами, дисквалификацию могут сократить вдвое",
   "🏟️ Гвардиола вернётся на «Этихад» после вердикта: первый домашний матч с ПСЖ",
@@ -361,14 +362,10 @@
   "⚽ Сити отмылся от грехов: 3:0 на Анфилде",
   "🟥 Спаллетти и Пискане улетели на трибуны после 1:1 с «Кальяри»",
   "🏴󠁧󠁢󠁳󠁣󠁴󠁿 О’Нилл отметил 250-ю победу, Жота вернулся после 18 месяцев",
-  "⚽ «Милан» контролировал, Рабио забил красиво, а в активе — лишь ничья с «Сассоло»"
+  "⚽ «Милан» контролировал, Рабио забил красиво, а в активе — лишь ничья с «Сассоло»",
+  "⚽ Sky Sports обещал обновления по Лацио, Фрайбургу и Бетису — и упал с 503-й"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-08T01:26:44.142279+00:00",
-   "title": "🥊 Вега против Инфантино: экс-защитник «Тоттенхэма» вызвал президента ФИФА на дуэль",
-   "body": "Швейцарский экс-защитник «Тоттенхэма» Рамон Вега выдвинул кандидатуру на пост главы ФИФА, став первым соперником Инфантино на выборах 18 марта в Рабате. Для 55-летнего Веги, сыгравшего 23 матча за сборную и ставшего после карьеры финансистом, это уже четвёртая попытка — но теперь шансы выше, так как действующий президент под прицелом из-за провала с планом акций ЧМ-2030. Пока УЕФА до 19 ноября реш"
-  },
   {
    "time": "2026-10-08T03:27:30.601098+00:00",
    "title": "🇩🇰 Дольберг порвал КСС на сборе — сезон для «Аякса» окончен",
@@ -563,8 +560,13 @@
    "time": "2026-10-12T03:28:24.060188+00:00",
    "title": "⚽ «Милан» контролировал, Рабио забил красиво, а в активе — лишь ничья с «Сассоло»",
    "body": "На 6-м туре «Россонери» ушли из Реджио-Эмилии с 1:1, хотя Адриен Рабио пробил «сухой лист» хозяев чистым ударом — гол стал единственным утешением для гостей. «Милан» не побеждает уже третий матч подряд, и пятое место для непобеждённой команды выглядит скорее как диагноз, чем как амбиции. «Сассоло» радуется счастливому очку, а у «Милана» в копилке — лишь красивая статистика по забитым."
+  },
+  {
+   "time": "2026-10-12T05:27:47.838366+00:00",
+   "title": "⚽ Sky Sports обещал обновления по Лацио, Фрайбургу и Бетису — и упал с 503-й",
+   "body": "Блог Sky Sports с заголовком «Лацио летит, Фрайбург возглавляет Бундеслигу, Бетис — третий в Испании» выдаёт ошибку 503 вместо матчей и счетов. Обещанные апдейты по Серии А, Бундеслиге, Ла Лиге и Лиге 1 так и не загрузились — остаётся только ждать, когда редактор перезагрузит сервер. Пока фанаты в недоумении: это лайв-блог или лайв-поломка?"
   }
  ],
- "last_post": "2026-10-12T03:28:24.060203+00:00",
+ "last_post": "2026-10-12T05:27:47.838382+00:00",
  "limit_day": "2026-10-11"
 }
