@@ -159,7 +159,8 @@
   "https://football-italia.net/spalletti-pisacane-see-red-cagliari-1-1-juve/",
   "https://www.scotsman.com/sport/football/celtic/latest-celtic-news/i-watched-celtic-beat-motherwell-and-noted-a-timely-reminder-jota-reception-and-rangers-advantage-9280247",
   "https://www.lequipe.fr/Football/Actualites/Serie-a-l-ac-milan-freinee-par-sassuolo-malgre-un-beau-but-d-adrien-rabiot/1725041#at_medium=RSS_feeds",
-  "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+  "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+  "https://football-italia.net/serie-a-cagliari-1-1-juventus-kolomuani-rescue/"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -321,10 +322,10 @@
   "cagliari 1 1 juventus ends in headloss as spalletti and pisacane see red",
   "i watched celtic beat motherwell and noted a timely reminder jota reception and rangers advantage",
   "serie a l ac milan freinée par sassuolo malgré un beau but d adrien rabiot",
-  "lazio fly high in serie a freiburg lead bundesliga betis go third in spain"
+  "lazio fly high in serie a freiburg lead bundesliga betis go third in spain",
+  "serie a cagliari 1 1 juventus kolo muani first goal to rescue a point"
  ],
  "recent": [
-  "🇩🇰 Дольберг порвал КСС на сборе — сезон для «Аякса» окончен",
   "⚽ Роналду извинился перед сборной и фанатами, дисквалификацию могут сократить вдвое",
   "🏟️ Гвардиола вернётся на «Этихад» после вердикта: первый домашний матч с ПСЖ",
   "🤔 Эндрик выбирает «Милан», если «Реал» отпустит в январе",
@@ -363,14 +364,10 @@
   "🟥 Спаллетти и Пискане улетели на трибуны после 1:1 с «Кальяри»",
   "🏴󠁧󠁢󠁳󠁣󠁴󠁿 О’Нилл отметил 250-ю победу, Жота вернулся после 18 месяцев",
   "⚽ «Милан» контролировал, Рабио забил красиво, а в активе — лишь ничья с «Сассоло»",
-  "⚽ Sky Sports обещал обновления по Лацио, Фрайбургу и Бетису — и упал с 503-й"
+  "⚽ Sky Sports обещал обновления по Лацио, Фрайбургу и Бетису — и упал с 503-й",
+  "😅 22 удара, 71% владения и гол на 81-й: «Юве» спас Коло Муани"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-08T03:27:30.601098+00:00",
-   "title": "🇩🇰 Дольберг порвал КСС на сборе — сезон для «Аякса» окончен",
-   "body": "На сборе Дании Каспер Дольберг заработал разрыв крестообразной связки колена — операцию прошли во вторник, рехабилитация тянется на 6–9 месяцев. «Аякс» не прогнозирует дату возвращения, но с такими сроками 29-летний форвард, только что закрепившийся в базе (9 матчей, 3 гола + 3 передачи), в этом чемпионате уже не просветится. Хорошо, что Маркос Леонардо есть в составе: амстердамцам не придётся сро"
-  },
   {
    "time": "2026-10-08T05:27:28.153467+00:00",
    "title": "⚽ Роналду извинился перед сборной и фанатами, дисквалификацию могут сократить вдвое",
@@ -565,8 +562,13 @@
    "time": "2026-10-12T05:27:47.838366+00:00",
    "title": "⚽ Sky Sports обещал обновления по Лацио, Фрайбургу и Бетису — и упал с 503-й",
    "body": "Блог Sky Sports с заголовком «Лацио летит, Фрайбург возглавляет Бундеслигу, Бетис — третий в Испании» выдаёт ошибку 503 вместо матчей и счетов. Обещанные апдейты по Серии А, Бундеслиге, Ла Лиге и Лиге 1 так и не загрузились — остаётся только ждать, когда редактор перезагрузит сервер. Пока фанаты в недоумении: это лайв-блог или лайв-поломка?"
+  },
+  {
+   "time": "2026-10-12T07:35:39.997198+00:00",
+   "title": "😅 22 удара, 71% владения и гол на 81-й: «Юве» спас Коло Муани",
+   "body": "«Ювентус» обладал мячом 71% времени и нанёс 22 удара, но первый сезонный гол Коло Муани забился только на 81-й минуте — 1:1 у летающего «Кальяри». Мальдини отметился четвёртый матч подряд, подарив себе идеальный подарок на день рождения, а у «Сардинц» в активе уже четыре победы за пять туров. По финалу Спаллетти и Пискачане получили по красной карточке за перепалку, а Коло Муани через четыре минут"
   }
  ],
- "last_post": "2026-10-12T05:27:47.838382+00:00",
+ "last_post": "2026-10-12T07:35:39.997209+00:00",
  "limit_day": "2026-10-11"
 }
