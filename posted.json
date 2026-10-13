@@ -168,7 +168,8 @@
   "https://nos.nl/l/2634721",
   "https://football-italia.net/serie-a-atalanta-3-1-venezia/",
   "https://www.kicker.de/ekstase-bei-levante-ping-pong-tor-bringt-ausgleich-gegen-sevilla-in-letzter-minute-1260698/video#omrss",
-  "https://sporza.be/nl/matches/voetbal/eur/uefa-champions-league/2026-2027/leaguefase/02/internazionale-club-brugge-mirakel-in-milaan-club-brugge-beleeft-legendarische-europese-avond-met-stuntzege-tegen-inter-tresoldi-is-hattrickheld~1781707564237/"
+  "https://sporza.be/nl/matches/voetbal/eur/uefa-champions-league/2026-2027/leaguefase/02/internazionale-club-brugge-mirakel-in-milaan-club-brugge-beleeft-legendarische-europese-avond-met-stuntzege-tegen-inter-tresoldi-is-hattrickheld~1781707564237/",
+  "https://www.theguardian.com/football/2026/oct/13/atletico-madrid-manchester-united-champions-league-match-report"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -339,10 +340,10 @@
   "bosz verwacht champions league spektakel in leipzig het wordt vuur met vuur",
   "serie a atalanta 3 1 venezia krstovic double ends sarri slump",
   "ekstase bei levante ping pong tor bringt ausgleich gegen sevilla in letzter minute",
-  "mirakel in milaan club brugge beleeft legendarische europese avond met stuntzege tegen inter tresoldi is hattrickheld"
+  "mirakel in milaan club brugge beleeft legendarische europese avond met stuntzege tegen inter tresoldi is hattrickheld",
+  "barrios strikes after 53 seconds as atlético pile misery on 10 man manchester united"
  ],
  "recent": [
-  "⚽ Пять побед на фоне приговора: Мареска и Халанд готовятся к «Энфилду»",
   "🏀 Шай Гилджеус-Александр стал совладельцем «Атлетико» — Симеоне одобрит?",
   "⚽ «Реал» заинтересовался Мактоминеем: «Наполи» удерживает MVP до 2027-го, но аукцион грядет",
   "💰 Фрайбург считает деньги: рекордный доход и чистая прибыль после крутого сезона",
@@ -381,14 +382,10 @@
   "🔥 Босц обещает «огонь с огнём» в Лейпциге: у «быков» 6:0 дома и три провала в гостях",
   "⚫ «Аталанта» прервала кризис: 3:1 «Венеции» и красная карточка Элмаса",
   "⚽ «Леванте» вырвал 3:3 у «Севильи» на 10-й минуте допвремени — пинг-понг в штрафной",
-  "🤯 Безумье в «Сан-Сиро»: «Брюгге» обыграл «Интер» 4:3, Трезольди — хет-трик"
+  "🤯 Безумье в «Сан-Сиро»: «Брюгге» обыграл «Интер» 4:3, Трезольди — хет-трик",
+  "⚽ «Юнайтед» обогнал антирекорд 40-летней давности: Карик ждал бунт, а получил 0:2 в Мадриде"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-08T21:26:44.766892+00:00",
-   "title": "⚽ Пять побед на фоне приговора: Мареска и Халанд готовятся к «Энфилду»",
-   "body": "Энцо Мареска заявляет, что команда абсолютно спокойна и фокусируется только на футболе, игнорируя «шум» вокруг финансового приговора Сити, а Эрлинг Халанд призывает к единству, улыбкам и любви перед решающим матчем в Ливерпуле. При этом «граждане» возглавляют таблицу с пятью победами подряд у нового тренера, а в среду на «Этихад» приедет Пеп Гвардиола — в первый раз после ухода поддержать клуб. Жо"
-  },
   {
    "time": "2026-10-08T23:24:54.485778+00:00",
    "title": "🏀 Шай Гилджеус-Александр стал совладельцем «Атлетико» — Симеоне одобрит?",
@@ -583,8 +580,13 @@
    "time": "2026-10-13T21:36:44.058217+00:00",
    "title": "🤯 Безумье в «Сан-Сиро»: «Брюгге» обыграл «Интер» 4:3, Трезольди — хет-трик",
    "body": "«Клуб Брюгге» устроил на «Сан-Сиро» настоящий роллеркостер, обыграв финалиста ЛЧ «Интер» 4:3 — 23 года спустя после легендарной победы над «Миланом». Двадцатидвухлетний Николо Трезольди, фанат «Милан» с детства, забил хет-трик в стадионе, где вырос, а замена Ромео Вермант на 90-й минуте удвоил преимущество гостей. Лаутаро и Бонни ещё пытались вернуть «Интер» в игру (3:4), но бельгийцы выдержали и "
+  },
+  {
+   "time": "2026-10-13T23:32:43.927118+00:00",
+   "title": "⚽ «Юнайтед» обогнал антирекорд 40-летней давности: Карик ждал бунт, а получил 0:2 в Мадриде",
+   "body": "«Манчестер Юнайтед» пропустил от Пабло Барриоса на 53-й секунде — худший старт матча за четыре десятилетия, — и в итоге сдался «Атлетико» 0:2, несмотря на 66% владения хозяев в первом тайме и шанс Бруно на штанге. Карик обещал реакцию, но получил капитуляцию: Лена Йоро улетел за красную карточку на 74-й минуте, лишь зафиксировав безнадежность, а Адемола Лукман удвоил счёт после коллективного тупиз"
   }
  ],
- "last_post": "2026-10-13T21:36:44.058233+00:00",
+ "last_post": "2026-10-13T23:32:43.927133+00:00",
  "limit_day": "2026-10-13"
 }
