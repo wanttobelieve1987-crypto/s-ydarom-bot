@@ -170,7 +170,8 @@
   "https://www.kicker.de/ekstase-bei-levante-ping-pong-tor-bringt-ausgleich-gegen-sevilla-in-letzter-minute-1260698/video#omrss",
   "https://sporza.be/nl/matches/voetbal/eur/uefa-champions-league/2026-2027/leaguefase/02/internazionale-club-brugge-mirakel-in-milaan-club-brugge-beleeft-legendarische-europese-avond-met-stuntzege-tegen-inter-tresoldi-is-hattrickheld~1781707564237/",
   "https://www.theguardian.com/football/2026/oct/13/atletico-madrid-manchester-united-champions-league-match-report",
-  "https://sporza.be/nl/matches/voetbal/eur/uefa-champions-league/2026-2027/leaguefase/02/rb-leipzig-psv-maarten-vandevoordt-is-de-held-dankzij-penaltysave-sleept-leipzig-zege-uit-de-brand-tegen-psv~1781706851314/"
+  "https://sporza.be/nl/matches/voetbal/eur/uefa-champions-league/2026-2027/leaguefase/02/rb-leipzig-psv-maarten-vandevoordt-is-de-held-dankzij-penaltysave-sleept-leipzig-zege-uit-de-brand-tegen-psv~1781706851314/",
+  "https://www.theguardian.com/football/2026/oct/13/lisandro-martinez-hits-out-at-united-hierarchy-after-defeat-at-atletico-madrid"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -343,10 +344,10 @@
   "ekstase bei levante ping pong tor bringt ausgleich gegen sevilla in letzter minute",
   "mirakel in milaan club brugge beleeft legendarische europese avond met stuntzege tegen inter tresoldi is hattrickheld",
   "barrios strikes after 53 seconds as atlético pile misery on 10 man manchester united",
-  "maarten vandevoordt is de held dankzij penaltysave sleept leipzig zege uit de brand tegen psv"
+  "maarten vandevoordt is de held dankzij penaltysave sleept leipzig zege uit de brand tegen psv",
+  "i expect more lisandro martínez hits out at manchester united hierarchy"
  ],
  "recent": [
-  "⚽ «Реал» заинтересовался Мактоминеем: «Наполи» удерживает MVP до 2027-го, но аукцион грядет",
   "💰 Фрайбург считает деньги: рекордный доход и чистая прибыль после крутого сезона",
   "⚽ Винисиус налетал 35 тыс. км, Вальверде «воскрес» за неделю",
   "⚽️ Неймар спас «Сантос» дублем с точки в матче с «Фламенго»",
@@ -385,14 +386,10 @@
   "⚽ «Леванте» вырвал 3:3 у «Севильи» на 10-й минуте допвремени — пинг-понг в штрафной",
   "🤯 Безумье в «Сан-Сиро»: «Брюгге» обыграл «Интер» 4:3, Трезольди — хет-трик",
   "⚽ «Юнайтед» обогнал антирекорд 40-летней давности: Карик ждал бунт, а получил 0:2 в Мадриде",
-  "⚽ Вандефурт заморил Перишича с точки: «Лейпциг» обыграл ПСВ 1:0"
+  "⚽ Вандефурт заморил Перишича с точки: «Лейпциг» обыграл ПСВ 1:0",
+  "⚽ Мартинес: «МЮ» — зеркало бездействия, худший старт за 40 лет"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-09T01:27:50.163145+00:00",
-   "title": "⚽ «Реал» заинтересовался Мактоминеем: «Наполи» удерживает MVP до 2027-го, но аукцион грядет",
-   "body": "Скотт Мактоминей, МВП сезона-2024/25 в Серии А, вступает в третий год контракта с «Наполи» (действует до 2028-го), но переговоры о продлении встали, и по данным Tuttomercatoweb «Реал» уже запросил информацию у окружения шотландца. Неаполитанцы заявляют, что не отпустят полузащитника до конца сезона-2026/27, выигрывая время на новый договор, однако если диалог не возобновится — летом разгорется аук"
-  },
   {
    "time": "2026-10-09T03:27:43.602610+00:00",
    "title": "💰 Фрайбург считает деньги: рекордный доход и чистая прибыль после крутого сезона",
@@ -587,8 +584,13 @@
    "time": "2026-10-14T01:38:49.909301+00:00",
    "title": "⚽ Вандефурт заморил Перишича с точки: «Лейпциг» обыграл ПСВ 1:0",
    "body": "Бельгийский вратарь Маартен Вандефурт отразил пенальти Ивана Перишича и спас минимальную победу «Лейпцига» после гола Брайана Груда во втором тайме. Немцы весь матч защищали преимущество в один мяч, а в концовке вообще играли на выживание — но Вандефурт не пустил мяч даже от 35-летнего ветерана. Итог: три очка в кармане «быков», а ПСВ уходит с пустыми руками и головой полной вопросов."
+  },
+  {
+   "time": "2026-10-14T03:36:22.378840+00:00",
+   "title": "⚽ Мартинес: «МЮ» — зеркало бездействия, худший старт за 40 лет",
+   "body": "Лисандро Мартинес после 0:2 от «Атлетико» назвал поражение «зеркалом клуба» и потребовал инвестиций у технического директора Джейсона Уилкокса. Летом «МЮ» подписало всего трёх полевых — Балебу, Сантоса и Тьелеманса — плюс запасного вратаря Дарлоу, а итог — две победы за сезон и худший старт в АПЛ за 40 лет. Каррик оправдывается моментами и красной картой Йоро, но аргентинец прав: на базе 12 побед "
   }
  ],
- "last_post": "2026-10-14T01:38:49.909313+00:00",
+ "last_post": "2026-10-14T03:36:22.378852+00:00",
  "limit_day": "2026-10-13"
 }
