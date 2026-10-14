@@ -179,7 +179,8 @@
   "https://www.walfoot.be/news/2026-10-14/un-entraneur-de-renom-estime-que-manchester-city-a-merite-ses-titres",
   "https://www.walfoot.be/news/2026-10-14/match-reaction-nous-sommes-venus-ici-pour-gagner-bruges-netait-pas-venu-a-milan-pour-faire-de-la-figuration",
   "https://www.marca.com/futbol/real-madrid/2026/10/14/vinicius-pierde-clasico-cuatro-partidos-sancion.html",
-  "https://www.theguardian.com/football/live/2026/oct/14/manchester-city-v-paris-saint-germain-champions-league-live-score-updates"
+  "https://www.theguardian.com/football/live/2026/oct/14/manchester-city-v-paris-saint-germain-champions-league-live-score-updates",
+  "https://www.lequipe.fr/Football/Actualites/Bradley-barcola-et-liverpool-s-amusent-sur-la-pelouse-de-linz-feyenoord-s-offre-come-et-debloque-son-compteur-en-ligue-des-champions/1735799#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -361,10 +362,10 @@
   "un entraîneur de renom estime que manchester city a mérité ses titres",
   "nous sommes venus ici pour gagner bruges n était pas venu à milan pour faire de la figuration",
   "vinicius se pierde el clásico cuatro partidos de sanción",
-  "manchester city v paris saint germain champions league live"
+  "manchester city v paris saint germain champions league live",
+  "bradley barcola et liverpool s amusent sur la pelouse de linz feyenoord s offre côme et débloque son compteur en ligue des champions"
  ],
  "recent": [
-  "🇹🇷 Монтелла уволен: Турция провалила старт Лиги наций — 0 очков из 12",
   "🦁 Автогол Фонтеса вернул «Спортинг» в игру против «Браги»",
   "⚽ «Дортмунд» впервые упустил очки: Фюлькрюг отбил победу у своего клуба",
   "🚫 Sky Sports «уронил» блог с возвращением Роналду",
@@ -403,14 +404,10 @@
   "🏆 Энрике заступился за «Сити» перед битвой с ПСЖ",
   "🎢 «Мы приехали победить, а не гулять»: «Брюгге» обыграл «Интер» в Сан-Сиро 4:3",
   "⚽ Винисиус пропустит «Эль Класико»: четыре матча за волосы и крики на судью",
-  "⚽ ПСГ разорил «Сити» за 99 секунд: Гвардиола на трибуне, Мареска бледнеет"
+  "⚽ ПСГ разорил «Сити» за 99 секунд: Гвардиола на трибуне, Мареска бледнеет",
+  "⚽ L'Équipe записала Барколу в «Ливерпуль» и насчитала 6:3 Линцу"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-09T19:27:30.987710+00:00",
-   "title": "🇹🇷 Монтелла уволен: Турция провалила старт Лиги наций — 0 очков из 12",
-   "body": "Винченцо Монтелла потерял пост после провального старта в Лиге наций — четыре поражения из четырёх, включая 0:3 от Бельгии, 0:1 от Франции и двойное поражение от Италии. В сентябре-октябре он играл без Чалханоглу, Юлдыза и Гюлера, но федерацию оправдания не смутило: на Евро-2024 команда уже слетела в 1/8 финала от Австрии (1:2). В пятницу ТФФ расторгла контракт, оставив сборную без тренера наканун"
-  },
   {
    "time": "2026-10-09T21:25:25.326386+00:00",
    "title": "🦁 Автогол Фонтеса вернул «Спортинг» в игру против «Браги»",
@@ -605,8 +602,13 @@
    "time": "2026-10-14T19:42:33.956802+00:00",
    "title": "⚽ ПСГ разорил «Сити» за 99 секунд: Гвардиола на трибуне, Мареска бледнеет",
    "body": "ПСГ нагло обрушил «Сити» двойным ударом за минуту 39 секунд: Дуэ вписался в нижний угол, а Дембеле тут же головой отправил мяч в дальний угол. Халанд с близкой дистанции умудрился не попасть по воротам, Хусанов на втором голе выглядел призраком, а Гвардиола с трибун с «тысячемильным» взглядом наблюдал, как Мареска на линии бледнеет. К 33-й минуте Витинья увеличил счёт до 3:0, заставив ситизенсов у"
+  },
+  {
+   "time": "2026-10-14T21:38:34.105685+00:00",
+   "title": "⚽ L'Équipe записала Барколу в «Ливерпуль» и насчитала 6:3 Линцу",
+   "body": "L'Équipe утверждает: «Ливерпуль» разгромил Линц 6:3, и хет-трик за «редз» оформил Брадли Баркола — англичане сохранили идеальный старт в ЛЧ, а «Фейеноорд» открыл счёт побед над «Комо» (3:2). Французы явно перепутали клуб форварда ПСЖ, но зато безумное зрелище в Австрии обеспечили на все сто."
   }
  ],
- "last_post": "2026-10-14T19:42:33.956818+00:00",
+ "last_post": "2026-10-14T21:38:34.105696+00:00",
  "limit_day": "2026-10-13"
 }
