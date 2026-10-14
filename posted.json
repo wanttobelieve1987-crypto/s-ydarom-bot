@@ -180,7 +180,8 @@
   "https://www.walfoot.be/news/2026-10-14/match-reaction-nous-sommes-venus-ici-pour-gagner-bruges-netait-pas-venu-a-milan-pour-faire-de-la-figuration",
   "https://www.marca.com/futbol/real-madrid/2026/10/14/vinicius-pierde-clasico-cuatro-partidos-sancion.html",
   "https://www.theguardian.com/football/live/2026/oct/14/manchester-city-v-paris-saint-germain-champions-league-live-score-updates",
-  "https://www.lequipe.fr/Football/Actualites/Bradley-barcola-et-liverpool-s-amusent-sur-la-pelouse-de-linz-feyenoord-s-offre-come-et-debloque-son-compteur-en-ligue-des-champions/1735799#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Bradley-barcola-et-liverpool-s-amusent-sur-la-pelouse-de-linz-feyenoord-s-offre-come-et-debloque-son-compteur-en-ligue-des-champions/1735799#at_medium=RSS_feeds",
+  "https://www.theguardian.com/football/2026/oct/14/aston-villa-fenerbahce-champions-league-league-stage-match-report"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -363,10 +364,10 @@
   "nous sommes venus ici pour gagner bruges n était pas venu à milan pour faire de la figuration",
   "vinicius se pierde el clásico cuatro partidos de sanción",
   "manchester city v paris saint germain champions league live",
-  "bradley barcola et liverpool s amusent sur la pelouse de linz feyenoord s offre côme et débloque son compteur en ligue des champions"
+  "bradley barcola et liverpool s amusent sur la pelouse de linz feyenoord s offre côme et débloque son compteur en ligue des champions",
+  "jackson and barkley doubles sink feeble fenerbahce in record aston villa win"
  ],
  "recent": [
-  "🦁 Автогол Фонтеса вернул «Спортинг» в игру против «Браги»",
   "⚽ «Дортмунд» впервые упустил очки: Фюлькрюг отбил победу у своего клуба",
   "🚫 Sky Sports «уронил» блог с возвращением Роналду",
   "⚽ Фонсека узнал вкус поражения: «Лион» пал у «Ланса» за неделю до «Спортинга»",
@@ -405,14 +406,10 @@
   "🎢 «Мы приехали победить, а не гулять»: «Брюгге» обыграл «Интер» в Сан-Сиро 4:3",
   "⚽ Винисиус пропустит «Эль Класико»: четыре матча за волосы и крики на судью",
   "⚽ ПСГ разорил «Сити» за 99 секунд: Гвардиола на трибуне, Мареска бледнеет",
-  "⚽ L'Équipe записала Барколу в «Ливерпуль» и насчитала 6:3 Линцу"
+  "⚽ L'Équipe записала Барколу в «Ливерпуль» и насчитала 6:3 Линцу",
+  "🏰 «Вилла» разнесла «Фенербахче» 6:0 — рекорд и буу Гринуду"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-09T21:25:25.326386+00:00",
-   "title": "🦁 Автогол Фонтеса вернул «Спортинг» в игру против «Браги»",
-   "body": "«Спортинг» уходил на перерыв проигрывая «Браге» 0:1, но на 71‑й минуте защитник гостей Бернарду Фонтес срезал мяч в собственные ворота, сравняв счёт. Стадион лиссабонцев мгновенно превратился в карнавал — болельщики ликовали, словно уже держали в руках золотой кубок. Один неудачный удар защитника стоил целой трибуны нервов и стал поводом для безумного праздника."
-  },
   {
    "time": "2026-10-09T23:23:54.062049+00:00",
    "title": "⚽ «Дортмунд» впервые упустил очки: Фюлькрюг отбил победу у своего клуба",
@@ -607,8 +604,13 @@
    "time": "2026-10-14T21:38:34.105685+00:00",
    "title": "⚽ L'Équipe записала Барколу в «Ливерпуль» и насчитала 6:3 Линцу",
    "body": "L'Équipe утверждает: «Ливерпуль» разгромил Линц 6:3, и хет-трик за «редз» оформил Брадли Баркола — англичане сохранили идеальный старт в ЛЧ, а «Фейеноорд» открыл счёт побед над «Комо» (3:2). Французы явно перепутали клуб форварда ПСЖ, но зато безумное зрелище в Австрии обеспечили на все сто."
+  },
+  {
+   "time": "2026-10-14T23:34:06.009038+00:00",
+   "title": "🏰 «Вилла» разнесла «Фенербахче» 6:0 — рекорд и буу Гринуду",
+   "body": "«Астон Вилла» разгромила «Фенербахче» 6:0, поставив рекорд крупнейшей победы в еврокубках и огласив 11-ю домашнюю победу в Европе подряд. Йохан Манзамби отметил 21-й день рождения дебютным голом в Лиге чемпионов, Николас Джексон и Росс Баркли набрали по дублю, а Тамми Абрахам закрепил разгром. Принц Уильям на трибунах видел, как «Вилла» забила трижды у пустой северной трибуны, а Мейсон Гринуд на к"
   }
  ],
- "last_post": "2026-10-14T21:38:34.105696+00:00",
+ "last_post": "2026-10-14T23:34:06.009053+00:00",
  "limit_day": "2026-10-13"
 }
