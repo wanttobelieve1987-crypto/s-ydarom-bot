@@ -178,7 +178,8 @@
   "https://www.lequipe.fr/Football/Actualites/-ca-m-est-venu-comme-ca-sur-le-moment-lamine-yamal-raconte-son-dribble-dingue-en-feinte-de-coup-du-foulard-contre-galatasaray/1725651#at_medium=RSS_feeds",
   "https://www.walfoot.be/news/2026-10-14/un-entraneur-de-renom-estime-que-manchester-city-a-merite-ses-titres",
   "https://www.walfoot.be/news/2026-10-14/match-reaction-nous-sommes-venus-ici-pour-gagner-bruges-netait-pas-venu-a-milan-pour-faire-de-la-figuration",
-  "https://www.marca.com/futbol/real-madrid/2026/10/14/vinicius-pierde-clasico-cuatro-partidos-sancion.html"
+  "https://www.marca.com/futbol/real-madrid/2026/10/14/vinicius-pierde-clasico-cuatro-partidos-sancion.html",
+  "https://www.theguardian.com/football/live/2026/oct/14/manchester-city-v-paris-saint-germain-champions-league-live-score-updates"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -359,10 +360,10 @@
   "ça m est venu comme ça sur le moment lamine yamal raconte son dribble dingue en feinte de coup du foulard contre galatasaray",
   "un entraîneur de renom estime que manchester city a mérité ses titres",
   "nous sommes venus ici pour gagner bruges n était pas venu à milan pour faire de la figuration",
-  "vinicius se pierde el clásico cuatro partidos de sanción"
+  "vinicius se pierde el clásico cuatro partidos de sanción",
+  "manchester city v paris saint germain champions league live"
  ],
  "recent": [
-  "🔥 Рестарт в Бельгии: «Гент» безупречен, «Шарлеруа» шокирует, «Андерлехт» отстаёт",
   "🇹🇷 Монтелла уволен: Турция провалила старт Лиги наций — 0 очков из 12",
   "🦁 Автогол Фонтеса вернул «Спортинг» в игру против «Браги»",
   "⚽ «Дортмунд» впервые упустил очки: Фюлькрюг отбил победу у своего клуба",
@@ -401,14 +402,10 @@
   "⚡ Ямаль показал фейк-рабону и отдал ассист Гордону в разгроме Галатасарая",
   "🏆 Энрике заступился за «Сити» перед битвой с ПСЖ",
   "🎢 «Мы приехали победить, а не гулять»: «Брюгге» обыграл «Интер» в Сан-Сиро 4:3",
-  "⚽ Винисиус пропустит «Эль Класико»: четыре матча за волосы и крики на судью"
+  "⚽ Винисиус пропустит «Эль Класико»: четыре матча за волосы и крики на судью",
+  "⚽ ПСГ разорил «Сити» за 99 секунд: Гвардиола на трибуне, Мареска бледнеет"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-09T17:27:54.635538+00:00",
-   "title": "🔥 Рестарт в Бельгии: «Гент» безупречен, «Шарлеруа» шокирует, «Андерлехт» отстаёт",
-   "body": "После паузы Беверен и Ломмель открыли тур Юпилер Про Лиги, где «Гент» (19 из 21) и «Юньон» возглавляют таблицу, а комментатор Том Бодевеель называет игру буффало «эффективной, но не зрелищной». Главная сенсация — «Шарлеруа»: потеряв трёх опорников и поставив новичка Марио Конена, команда набрала 18 очков из 21 и едет на валлонский дерби со «Стандардом» без фанатов с шестью победами в семи матчах. "
-  },
   {
    "time": "2026-10-09T19:27:30.987710+00:00",
    "title": "🇹🇷 Монтелла уволен: Турция провалила старт Лиги наций — 0 очков из 12",
@@ -603,8 +600,13 @@
    "time": "2026-10-14T17:38:39.129379+00:00",
    "title": "⚽ Винисиус пропустит «Эль Класико»: четыре матча за волосы и крики на судью",
    "body": "Винисиус получил четыре матча — два за дерганье Салибы за волосы вне игрового эпизода и два за агрессивные протесты после красной карточки — поэтому «Реал» выйдет на «Камп Ноу» 25 октября без бразильца: апелляцию клуба об «случайном контакте в борьбе за мяч» комитет отверг, сославшись на неприкосновенность арбитра. Винь уже извинился перед командой, но вернётся только после ноябрьского перерыва, а"
+  },
+  {
+   "time": "2026-10-14T19:42:33.956802+00:00",
+   "title": "⚽ ПСГ разорил «Сити» за 99 секунд: Гвардиола на трибуне, Мареска бледнеет",
+   "body": "ПСГ нагло обрушил «Сити» двойным ударом за минуту 39 секунд: Дуэ вписался в нижний угол, а Дембеле тут же головой отправил мяч в дальний угол. Халанд с близкой дистанции умудрился не попасть по воротам, Хусанов на втором голе выглядел призраком, а Гвардиола с трибун с «тысячемильным» взглядом наблюдал, как Мареска на линии бледнеет. К 33-й минуте Витинья увеличил счёт до 3:0, заставив ситизенсов у"
   }
  ],
- "last_post": "2026-10-14T17:38:39.129394+00:00",
+ "last_post": "2026-10-14T19:42:33.956818+00:00",
  "limit_day": "2026-10-13"
 }
