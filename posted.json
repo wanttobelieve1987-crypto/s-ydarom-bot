@@ -190,7 +190,8 @@
   "https://football-italia.net/milan-regret-as-pl-clubs-chase-doumbia/",
   "https://www.lequipe.fr/Football/Actualites/Coup-d-arret-pour-le-champion-d-italie-lautaro-martinez-touche-a-la-cuisse-et-absent-un-mois/1735940#at_medium=RSS_feeds",
   "https://www.record.pt/internacional/paises/espanha/betis/detalhe/casa-de-antony-foi-assaltada-durante-o-betis-fc-porto-muito-triste-e-revoltante",
-  "https://www.theguardian.com/football/who-scored-blog/2026/oct/15/chelsea-premier-league-fun-team-sustainable-xabi-alonso-europe"
+  "https://www.theguardian.com/football/who-scored-blog/2026/oct/15/chelsea-premier-league-fun-team-sustainable-xabi-alonso-europe",
+  "https://www.theguardian.com/football/2026/oct/15/europa-league-lyon-crystal-palace-cisse-milan-salzburg-leverkusen-benfica-celtic"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -383,10 +384,10 @@
   "milan regret as premier league clubs chase italy midfielder doumbia",
   "coup d arrêt pour le champion d italie lautaro martinez touché à la cuisse et absent un mois",
   "casa de antony assaltada durante o betis fc porto muito triste e revoltante",
-  "chelsea are the premier league s most fun team but is it sustainable"
+  "chelsea are the premier league s most fun team but is it sustainable",
+  "europa league lyon take down crystal palace cissè s milan hat trick sinks salzburg"
  ],
  "recent": [
-  "⚡ Хендерсон разорвал «Борнмут»: 5-1 и рекорд «Челси» за 149 секунд",
   "⚫🔵 «Интер» разнёс «Парму» 3:0 за первый тайм и условно возглавил Серию А с 16 очками",
   "🟥 Винисиус улетел красным, «Реал» выжил — 1:0 и отставание от «Барсы» неизменно",
   "⚽ Де Зерби поцеловал отстранённого Бентанкура: «Спасибо за характер»",
@@ -425,14 +426,10 @@
   "🚨 «Милан» упустил «Осьминога»?",
   "😭 Лаутаро оформил дубль и сразу получил травму на месяц",
   "🏠 Кража вместо триумфа: кошмар Антони",
-  "🎢 «Челси» — американские горки: 4,7 гола за матч и 22 игры без «сухой»"
+  "🎢 «Челси» — американские горки: 4,7 гола за матч и 22 игры без «сухой»",
+  "⚽ Сэдж проиграл «своим», Чиссе нарисовал хет-трик, а «Леверкузен» возглавил таблицу"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-10T17:25:56.751739+00:00",
-   "title": "⚡ Хендерсон разорвал «Борнмут»: 5-1 и рекорд «Челси» за 149 секунд",
-   "body": "36-летний Хендерсон забил дубль — ранний шедевр с края штрафной и фрикик в конце — и «Челси» разгромило «Борнмут» 5-1, поставив клубный рекорд Премьер-лиги: 2:0 за 149 секунд после гола Роджерса. Жоау Педро оформил дубль после возвращения от травмы, а Эванилсон лишь приукрасил счёт автоголом, блокируя удар Кайседо. Санчес дважды выигрывал дуэли у Раяна, а Мареска блестяще отомстил за крах у «Брент"
-  },
   {
    "time": "2026-10-10T19:25:44.709500+00:00",
    "title": "⚫🔵 «Интер» разнёс «Парму» 3:0 за первый тайм и условно возглавил Серию А с 16 очками",
@@ -627,8 +624,13 @@
    "time": "2026-10-15T17:37:22.560815+00:00",
    "title": "🎢 «Челси» — американские горки: 4,7 гола за матч и 22 игры без «сухой»",
    "body": "Алонсо превратил «Челси» в цирк с конями: 15 забитых, 13 пропущенных за шесть туров и 4,7 гола за матч — нейтралам кайф, а в Лигу чемпионов так не попадёшь. xG 8,4 перерос в 15 мячей (вторая конверсия в лиге после «Сити»), а у «Борнмута» пять забили при 0,75 xG — чистое воровство. Но в обороне полный провал: 22 матча без «сухой» игры, совместное худшее число пропущенных и разгром от «Брентфорда» ("
+  },
+  {
+   "time": "2026-10-15T19:37:12.119723+00:00",
+   "title": "⚽ Сэдж проиграл «своим», Чиссе нарисовал хет-трик, а «Леверкузен» возглавил таблицу",
+   "body": "Пьер Сэдж вернулся в Лион как гость и ушёл с 2:3 в кармане — 14 месяцев работы сгорели за вечер, хотя «Кристалл» и пытался вернуть игру после перерыва. Милан не стал церемонировать: 18-летний Альфаджио Чиссе забил хет-трик в 4:0 над «Зальцбургом», а Гонсало Рамос поставил точку перед удалением Террачано. «Леверкузен» молча ушёл в лидеры, разнеся «Лех» 4:0 с двумя пенальти Шика за полчаса — Карлес "
   }
  ],
- "last_post": "2026-10-15T17:37:22.560832+00:00",
+ "last_post": "2026-10-15T19:37:12.119739+00:00",
  "limit_day": "2026-10-13"
 }
