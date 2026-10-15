@@ -183,7 +183,8 @@
   "https://www.lequipe.fr/Football/Actualites/Bradley-barcola-et-liverpool-s-amusent-sur-la-pelouse-de-linz-feyenoord-s-offre-come-et-debloque-son-compteur-en-ligue-des-champions/1735799#at_medium=RSS_feeds",
   "https://www.theguardian.com/football/2026/oct/14/aston-villa-fenerbahce-champions-league-league-stage-match-report",
   "https://www.bbc.co.uk/sport/football/videos/cmn4e91e4dk7o?at_medium=RSS&at_campaign=rss",
-  "https://www.bbc.co.uk/sport/football/videos/cm207qv14442o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/sport/football/videos/cm207qv14442o?at_medium=RSS&at_campaign=rss",
+  "https://www.bbc.co.uk/sport/football/videos/cqly0nd6xnp1o?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -369,10 +370,10 @@
   "bradley barcola et liverpool s amusent sur la pelouse de linz feyenoord s offre côme et débloque son compteur en ligue des champions",
   "jackson and barkley doubles sink feeble fenerbahce in record aston villa win",
   "isco snatches late betis win as they edge past porto",
-  "substitutes steal the show as arsenal score three against lille"
+  "substitutes steal the show as arsenal score three against lille",
+  "bodo glimt impress in win over dortmund"
  ],
  "recent": [
-  "⚽ Фонсека узнал вкус поражения: «Лион» пал у «Ланса» за неделю до «Спортинга»",
   "⚽ «Спортинг» разогнал «Брагу» перед «Лансом»: 3:1 на выезде после отставания",
   "🚀 Мбаппе готов к возвращению: старт против Вильярреала возможен уже в субботу",
   "😏 «Атлетико» поздравило «Реал»: Вальверде опроверг 100% врачей мира",
@@ -411,14 +412,10 @@
   "⚽ L'Équipe записала Барколу в «Ливерпуль» и насчитала 6:3 Линцу",
   "🏰 «Вилла» разнесла «Фенербахче» 6:0 — рекорд и буу Гринуду",
   "⚽ Иско спас «Бетис» пенальти в 84-й: 3:2 и идеальный старт в ЛЧ",
-  "⚽ «Арсенал» разгромил «Лилль» 3:0 — решил Сака с лавки"
+  "⚽ «Арсенал» разгромил «Лилль» 3:0 — решил Сака с лавки",
+  "⚽ «Бёдо» вылечилось от баварской травмы за счёт Дортмунда"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-10T03:25:52.984168+00:00",
-   "title": "⚽ Фонсека узнал вкус поражения: «Лион» пал у «Ланса» за неделю до «Спортинга»",
-   "body": "«Лион» Фонсеки пять туров не знал поражений, но «Ланс» разобрал его 2:1 — отличились Сотока и Удол, а последний на 84-й улетел за грубую фоль, и через минуту Мерах забил в створки. У «Ланса» было одно очко за четыре матча, но победа подняла их на седьмое место идеально вовремя — во вторник они принимают «Спортинг» в Лиге чемпионов. Фонсека получил первый французский урок за неделю до главного экза"
-  },
   {
    "time": "2026-10-10T05:24:30.935654+00:00",
    "title": "⚽ «Спортинг» разогнал «Брагу» перед «Лансом»: 3:1 на выезде после отставания",
@@ -613,8 +610,13 @@
    "time": "2026-10-15T03:36:52.616555+00:00",
    "title": "⚽ «Арсенал» разгромил «Лилль» 3:0 — решил Сака с лавки",
    "body": "«Арсенал» обыграл «Лилль» 3:0 — решал зашедший Сака, забивший гол и отдавший ассист. Французы не создали ни единого момента, а лондонцы спокойно взяли вторую победу в Лиге чемпионов, не задействовав всех первенцев. Эмирейтс снова стал крепостью, где гостям нечего делать. 😎"
+  },
+  {
+   "time": "2026-10-15T05:36:33.778425+00:00",
+   "title": "⚽ «Бёдо» вылечилось от баварской травмы за счёт Дортмунда",
+   "body": "«Бёдо/Глимт» отбилась от разгрома у «Баварии» сухим 1:0 над «Боруссией» в ЛЧ — норвежцы доказали: характер у них крепче, чем кажется. «Боруссия» же продолжает коллекционировать неожиданные провалы, будто это тренд сезона. Интересно, сколько ещё гигантов падут под натиском «полярных волков»?"
   }
  ],
- "last_post": "2026-10-15T03:36:52.616570+00:00",
+ "last_post": "2026-10-15T05:36:33.778441+00:00",
  "limit_day": "2026-10-13"
 }
