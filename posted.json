@@ -182,7 +182,8 @@
   "https://www.theguardian.com/football/live/2026/oct/14/manchester-city-v-paris-saint-germain-champions-league-live-score-updates",
   "https://www.lequipe.fr/Football/Actualites/Bradley-barcola-et-liverpool-s-amusent-sur-la-pelouse-de-linz-feyenoord-s-offre-come-et-debloque-son-compteur-en-ligue-des-champions/1735799#at_medium=RSS_feeds",
   "https://www.theguardian.com/football/2026/oct/14/aston-villa-fenerbahce-champions-league-league-stage-match-report",
-  "https://www.bbc.co.uk/sport/football/videos/cmn4e91e4dk7o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/sport/football/videos/cmn4e91e4dk7o?at_medium=RSS&at_campaign=rss",
+  "https://www.bbc.co.uk/sport/football/videos/cm207qv14442o?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -367,10 +368,10 @@
   "manchester city v paris saint germain champions league live",
   "bradley barcola et liverpool s amusent sur la pelouse de linz feyenoord s offre côme et débloque son compteur en ligue des champions",
   "jackson and barkley doubles sink feeble fenerbahce in record aston villa win",
-  "isco snatches late betis win as they edge past porto"
+  "isco snatches late betis win as they edge past porto",
+  "substitutes steal the show as arsenal score three against lille"
  ],
  "recent": [
-  "🚫 Sky Sports «уронил» блог с возвращением Роналду",
   "⚽ Фонсека узнал вкус поражения: «Лион» пал у «Ланса» за неделю до «Спортинга»",
   "⚽ «Спортинг» разогнал «Брагу» перед «Лансом»: 3:1 на выезде после отставания",
   "🚀 Мбаппе готов к возвращению: старт против Вильярреала возможен уже в субботу",
@@ -409,14 +410,10 @@
   "⚽ ПСГ разорил «Сити» за 99 секунд: Гвардиола на трибуне, Мареска бледнеет",
   "⚽ L'Équipe записала Барколу в «Ливерпуль» и насчитала 6:3 Линцу",
   "🏰 «Вилла» разнесла «Фенербахче» 6:0 — рекорд и буу Гринуду",
-  "⚽ Иско спас «Бетис» пенальти в 84-й: 3:2 и идеальный старт в ЛЧ"
+  "⚽ Иско спас «Бетис» пенальти в 84-й: 3:2 и идеальный старт в ЛЧ",
+  "⚽ «Арсенал» разгромил «Лилль» 3:0 — решил Сака с лавки"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-10T01:24:55.022396+00:00",
-   "title": "🚫 Sky Sports «уронил» блог с возвращением Роналду",
-   "body": "Роналду забил при возвращении в «Аль-Наср» после португальского фейла, но прочитать детали на Sky Sports не получится — блог лежит. Видимо, серверы не выдержали наплыва фанатов, жаждущих узнать, как CR7 отыгрывает еврокубковую депрессию. Остаётся только обновить страницу и ждать, когда ссылка оживёт."
-  },
   {
    "time": "2026-10-10T03:25:52.984168+00:00",
    "title": "⚽ Фонсека узнал вкус поражения: «Лион» пал у «Ланса» за неделю до «Спортинга»",
@@ -611,8 +608,13 @@
    "time": "2026-10-15T01:37:29.878796+00:00",
    "title": "⚽ Иско спас «Бетис» пенальти в 84-й: 3:2 и идеальный старт в ЛЧ",
    "body": "Иско реализовал пенальти на 84-й минуте и вырвал у «Порто» победу 3:2 — у андалузийцев вторые три очка подряд в Лиге чемпионов. «Бетис» с идеальным стартом в турнире, а 32-летний плеймейкер напомнил, что класс не ржавеет. 🎯"
+  },
+  {
+   "time": "2026-10-15T03:36:52.616555+00:00",
+   "title": "⚽ «Арсенал» разгромил «Лилль» 3:0 — решил Сака с лавки",
+   "body": "«Арсенал» обыграл «Лилль» 3:0 — решал зашедший Сака, забивший гол и отдавший ассист. Французы не создали ни единого момента, а лондонцы спокойно взяли вторую победу в Лиге чемпионов, не задействовав всех первенцев. Эмирейтс снова стал крепостью, где гостям нечего делать. 😎"
   }
  ],
- "last_post": "2026-10-15T01:37:29.878811+00:00",
+ "last_post": "2026-10-15T03:36:52.616570+00:00",
  "limit_day": "2026-10-13"
 }
