@@ -191,7 +191,8 @@
   "https://www.lequipe.fr/Football/Actualites/Coup-d-arret-pour-le-champion-d-italie-lautaro-martinez-touche-a-la-cuisse-et-absent-un-mois/1735940#at_medium=RSS_feeds",
   "https://www.record.pt/internacional/paises/espanha/betis/detalhe/casa-de-antony-foi-assaltada-durante-o-betis-fc-porto-muito-triste-e-revoltante",
   "https://www.theguardian.com/football/who-scored-blog/2026/oct/15/chelsea-premier-league-fun-team-sustainable-xabi-alonso-europe",
-  "https://www.theguardian.com/football/2026/oct/15/europa-league-lyon-crystal-palace-cisse-milan-salzburg-leverkusen-benfica-celtic"
+  "https://www.theguardian.com/football/2026/oct/15/europa-league-lyon-crystal-palace-cisse-milan-salzburg-leverkusen-benfica-celtic",
+  "https://nos.nl/l/2635134"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -385,10 +386,10 @@
   "coup d arrêt pour le champion d italie lautaro martinez touché à la cuisse et absent un mois",
   "casa de antony assaltada durante o betis fc porto muito triste e revoltante",
   "chelsea are the premier league s most fun team but is it sustainable",
-  "europa league lyon take down crystal palace cissè s milan hat trick sinks salzburg"
+  "europa league lyon take down crystal palace cissè s milan hat trick sinks salzburg",
+  "valse start ajax bij debuut in conference league nederlaag bij hajduk split"
  ],
  "recent": [
-  "⚫🔵 «Интер» разнёс «Парму» 3:0 за первый тайм и условно возглавил Серию А с 16 очками",
   "🟥 Винисиус улетел красным, «Реал» выжил — 1:0 и отставание от «Барсы» неизменно",
   "⚽ Де Зерби поцеловал отстранённого Бентанкура: «Спасибо за характер»",
   "⚽ Сити отмылся от грехов: 3:0 на Анфилде",
@@ -427,14 +428,10 @@
   "😭 Лаутаро оформил дубль и сразу получил травму на месяц",
   "🏠 Кража вместо триумфа: кошмар Антони",
   "🎢 «Челси» — американские горки: 4,7 гола за матч и 22 игры без «сухой»",
-  "⚽ Сэдж проиграл «своим», Чиссе нарисовал хет-трик, а «Леверкузен» возглавил таблицу"
+  "⚽ Сэдж проиграл «своим», Чиссе нарисовал хет-трик, а «Леверкузен» возглавил таблицу",
+  "😅 «Аякс» подарил «Хайдуку» 1-ю победу за 16 лет: 1-2 в дебюте Конференс-лиги"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-10T19:25:44.709500+00:00",
-   "title": "⚫🔵 «Интер» разнёс «Парму» 3:0 за первый тайм и условно возглавил Серию А с 16 очками",
-   "body": "Сучич, Чалханоглу и Тюрам забили за 45 минут, устраивая парманцам реалити-шоу, после чего нераццурри просто смотрели, как соперник бегает за тенью — Инзаги явно приберег силы на Лигу чемпионов."
-  },
   {
    "time": "2026-10-10T21:24:08.825519+00:00",
    "title": "🟥 Винисиус улетел красным, «Реал» выжил — 1:0 и отставание от «Барсы» неизменно",
@@ -629,8 +626,13 @@
    "time": "2026-10-15T19:37:12.119723+00:00",
    "title": "⚽ Сэдж проиграл «своим», Чиссе нарисовал хет-трик, а «Леверкузен» возглавил таблицу",
    "body": "Пьер Сэдж вернулся в Лион как гость и ушёл с 2:3 в кармане — 14 месяцев работы сгорели за вечер, хотя «Кристалл» и пытался вернуть игру после перерыва. Милан не стал церемонировать: 18-летний Альфаджио Чиссе забил хет-трик в 4:0 над «Зальцбургом», а Гонсало Рамос поставил точку перед удалением Террачано. «Леверкузен» молча ушёл в лидеры, разнеся «Лех» 4:0 с двумя пенальти Шика за полчаса — Карлес "
+  },
+  {
+   "time": "2026-10-15T21:38:02.768162+00:00",
+   "title": "😅 «Аякс» подарил «Хайдуку» 1-ю победу за 16 лет: 1-2 в дебюте Конференс-лиги",
+   "body": "Дебютант Торрентес дважды просчитал пас — Саньянг и Сотичек наказали амстердамцев, хотя Клаассен успел сравнять красивым ударом. После перерыва «Аякс» давил, но дым от факелов «Торсиды» приостановил матч: Глух ударил в штангу, а Бауман с отличной позиции промахнулся мимо ворот. В следующем туре амстердамцы ждёт «Аталанта» — там уже не до экспериментов."
   }
  ],
- "last_post": "2026-10-15T19:37:12.119739+00:00",
+ "last_post": "2026-10-15T21:38:02.768179+00:00",
  "limit_day": "2026-10-13"
 }
