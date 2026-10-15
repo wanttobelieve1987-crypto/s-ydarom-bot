@@ -189,7 +189,8 @@
   "https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo?at_medium=RSS&at_campaign=rss",
   "https://football-italia.net/milan-regret-as-pl-clubs-chase-doumbia/",
   "https://www.lequipe.fr/Football/Actualites/Coup-d-arret-pour-le-champion-d-italie-lautaro-martinez-touche-a-la-cuisse-et-absent-un-mois/1735940#at_medium=RSS_feeds",
-  "https://www.record.pt/internacional/paises/espanha/betis/detalhe/casa-de-antony-foi-assaltada-durante-o-betis-fc-porto-muito-triste-e-revoltante"
+  "https://www.record.pt/internacional/paises/espanha/betis/detalhe/casa-de-antony-foi-assaltada-durante-o-betis-fc-porto-muito-triste-e-revoltante",
+  "https://www.theguardian.com/football/who-scored-blog/2026/oct/15/chelsea-premier-league-fun-team-sustainable-xabi-alonso-europe"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -381,10 +382,10 @@
   "shameless mourinho critical of vinicius jr ban timing",
   "milan regret as premier league clubs chase italy midfielder doumbia",
   "coup d arrêt pour le champion d italie lautaro martinez touché à la cuisse et absent un mois",
-  "casa de antony assaltada durante o betis fc porto muito triste e revoltante"
+  "casa de antony assaltada durante o betis fc porto muito triste e revoltante",
+  "chelsea are the premier league s most fun team but is it sustainable"
  ],
  "recent": [
-  "✈️ «Раё» не доиграл матч с «Атлетиком» из-за бумажных самолётов: фанаты прогнали соперника 0:0",
   "⚡ Хендерсон разорвал «Борнмут»: 5-1 и рекорд «Челси» за 149 секунд",
   "⚫🔵 «Интер» разнёс «Парму» 3:0 за первый тайм и условно возглавил Серию А с 16 очками",
   "🟥 Винисиус улетел красным, «Реал» выжил — 1:0 и отставание от «Барсы» неизменно",
@@ -423,14 +424,10 @@
   "🤬 Моуринью в ярости: дисквалификация Винисиуса обнародовали за 2 часа до матча ЛЧ",
   "🚨 «Милан» упустил «Осьминога»?",
   "😭 Лаутаро оформил дубль и сразу получил травму на месяц",
-  "🏠 Кража вместо триумфа: кошмар Антони"
+  "🏠 Кража вместо триумфа: кошмар Антони",
+  "🎢 «Челси» — американские горки: 4,7 гола за матч и 22 игры без «сухой»"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-10T15:23:57.449603+00:00",
-   "title": "✈️ «Раё» не доиграл матч с «Атлетиком» из-за бумажных самолётов: фанаты прогнали соперника 0:0",
-   "body": "Матч прервали на 13-й минуте, когда южная трибуна закидала поле самолётиками и резиновыми мячиками, требуя ухода президента Рауля Мартина Пресы — стадион даже легионеллезом устрашил после аудита. «Раё» до сих пор единственный клуб Ла Лиги без сайта для билетов, так что фанаты часами стоят в очередях, как в советское время, а душ с горячей водой на базе нет. «Атлетик» обещал вернуть деньги приехавш"
-  },
   {
    "time": "2026-10-10T17:25:56.751739+00:00",
    "title": "⚡ Хендерсон разорвал «Борнмут»: 5-1 и рекорд «Челси» за 149 секунд",
@@ -625,8 +622,13 @@
    "time": "2026-10-15T15:39:09.211156+00:00",
    "title": "🏠 Кража вместо триумфа: кошмар Антони",
    "body": "Пока «Бетис» вырывал волевую победу над «Порту» со счётом 3:2, бразильский вингер Антони столкнулся с настоящим кошмаром. Футболист сообщил в соцсетях, что его дом ограбили прямо во время яркого футбольного вечера. Несмотря на кражу, игрок сохраняет оптимизм: Антони подчеркнул, что семья и безопасность близких для него важнее любых материальных ценностей."
+  },
+  {
+   "time": "2026-10-15T17:37:22.560815+00:00",
+   "title": "🎢 «Челси» — американские горки: 4,7 гола за матч и 22 игры без «сухой»",
+   "body": "Алонсо превратил «Челси» в цирк с конями: 15 забитых, 13 пропущенных за шесть туров и 4,7 гола за матч — нейтралам кайф, а в Лигу чемпионов так не попадёшь. xG 8,4 перерос в 15 мячей (вторая конверсия в лиге после «Сити»), а у «Борнмута» пять забили при 0,75 xG — чистое воровство. Но в обороне полный провал: 22 матча без «сухой» игры, совместное худшее число пропущенных и разгром от «Брентфорда» ("
   }
  ],
- "last_post": "2026-10-15T15:39:09.211168+00:00",
+ "last_post": "2026-10-15T17:37:22.560832+00:00",
  "limit_day": "2026-10-13"
 }
