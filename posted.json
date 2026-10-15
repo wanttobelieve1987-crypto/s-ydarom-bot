@@ -188,7 +188,8 @@
   "https://www.bbc.co.uk/sounds/play/p0pgrhkb?at_medium=RSS&at_campaign=rss",
   "https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo?at_medium=RSS&at_campaign=rss",
   "https://football-italia.net/milan-regret-as-pl-clubs-chase-doumbia/",
-  "https://www.lequipe.fr/Football/Actualites/Coup-d-arret-pour-le-champion-d-italie-lautaro-martinez-touche-a-la-cuisse-et-absent-un-mois/1735940#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Coup-d-arret-pour-le-champion-d-italie-lautaro-martinez-touche-a-la-cuisse-et-absent-un-mois/1735940#at_medium=RSS_feeds",
+  "https://www.record.pt/internacional/paises/espanha/betis/detalhe/casa-de-antony-foi-assaltada-durante-o-betis-fc-porto-muito-triste-e-revoltante"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -379,10 +380,10 @@
   "listen will celtic bounce back in lisbon and how will hearts start",
   "shameless mourinho critical of vinicius jr ban timing",
   "milan regret as premier league clubs chase italy midfielder doumbia",
-  "coup d arrêt pour le champion d italie lautaro martinez touché à la cuisse et absent un mois"
+  "coup d arrêt pour le champion d italie lautaro martinez touché à la cuisse et absent un mois",
+  "casa de antony assaltada durante o betis fc porto muito triste e revoltante"
  ],
  "recent": [
-  "⚽ Аморим сдал трёхзащитников: «Милан» застрял против «Бенфики»",
   "✈️ «Раё» не доиграл матч с «Атлетиком» из-за бумажных самолётов: фанаты прогнали соперника 0:0",
   "⚡ Хендерсон разорвал «Борнмут»: 5-1 и рекорд «Челси» за 149 секунд",
   "⚫🔵 «Интер» разнёс «Парму» 3:0 за первый тайм и условно возглавил Серию А с 16 очками",
@@ -421,14 +422,10 @@
   "⚽ «Сельтик» в Лиссабоне за сменой настроя, «Хартс» стартует с датчанами",
   "🤬 Моуринью в ярости: дисквалификация Винисиуса обнародовали за 2 часа до матча ЛЧ",
   "🚨 «Милан» упустил «Осьминога»?",
-  "😭 Лаутаро оформил дубль и сразу получил травму на месяц"
+  "😭 Лаутаро оформил дубль и сразу получил травму на месяц",
+  "🏠 Кража вместо триумфа: кошмар Антони"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-10T13:27:03.897352+00:00",
-   "title": "⚽ Аморим сдал трёхзащитников: «Милан» застрял против «Бенфики»",
-   "body": "После домашнего 0:2 от «Бенфики» и ничьих с «Юве» и «Лацио» Аморим наконец сменил трёхи на четырёхку — и 3:0 над «Лечче» доказал, что подвижность важнее догм, хоть Саэлемакерс с Эступиньяном и отвалились на долго. Португалец в восторге от Серии А: даже «Венеция» на дне прессингом душит, а нулевиков в сезоне нет, так что лига «не получает заслуженной цены». В воскресенье ждёт «Сассуоло» Аквилани, г"
-  },
   {
    "time": "2026-10-10T15:23:57.449603+00:00",
    "title": "✈️ «Раё» не доиграл матч с «Атлетиком» из-за бумажных самолётов: фанаты прогнали соперника 0:0",
@@ -623,8 +620,13 @@
    "time": "2026-10-15T13:48:59.651461+00:00",
    "title": "😭 Лаутаро оформил дубль и сразу получил травму на месяц",
    "body": "Лаутаро Мартинес забил два мяча в безумном матче Лиги чемпионов против «Брюгге» (3:4), но после игры получил растяжение левого бедра и может пропустить около четырёх недель. Для «Интера» это серьёзная потеря: терять главного снайпера в разгар сезона — всё равно что оставаться без пульса в решающем матче. Индзаги уже ищет замену в атаке, а болельщики держат кулаки за аргентинца, надеясь на быстрое "
+  },
+  {
+   "time": "2026-10-15T15:39:09.211156+00:00",
+   "title": "🏠 Кража вместо триумфа: кошмар Антони",
+   "body": "Пока «Бетис» вырывал волевую победу над «Порту» со счётом 3:2, бразильский вингер Антони столкнулся с настоящим кошмаром. Футболист сообщил в соцсетях, что его дом ограбили прямо во время яркого футбольного вечера. Несмотря на кражу, игрок сохраняет оптимизм: Антони подчеркнул, что семья и безопасность близких для него важнее любых материальных ценностей."
   }
  ],
- "last_post": "2026-10-15T13:48:59.651479+00:00",
+ "last_post": "2026-10-15T15:39:09.211168+00:00",
  "limit_day": "2026-10-13"
 }
