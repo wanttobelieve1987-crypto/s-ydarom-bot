@@ -192,7 +192,8 @@
   "https://www.record.pt/internacional/paises/espanha/betis/detalhe/casa-de-antony-foi-assaltada-durante-o-betis-fc-porto-muito-triste-e-revoltante",
   "https://www.theguardian.com/football/who-scored-blog/2026/oct/15/chelsea-premier-league-fun-team-sustainable-xabi-alonso-europe",
   "https://www.theguardian.com/football/2026/oct/15/europa-league-lyon-crystal-palace-cisse-milan-salzburg-leverkusen-benfica-celtic",
-  "https://nos.nl/l/2635134"
+  "https://nos.nl/l/2635134",
+  "https://www.dailyrecord.co.uk/sport/football/football-match-reports/celtic-lacking-lisbon-lions-spirit-37777289"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -387,10 +388,10 @@
   "casa de antony assaltada durante o betis fc porto muito triste e revoltante",
   "chelsea are the premier league s most fun team but is it sustainable",
   "europa league lyon take down crystal palace cissè s milan hat trick sinks salzburg",
-  "valse start ajax bij debuut in conference league nederlaag bij hajduk split"
+  "valse start ajax bij debuut in conference league nederlaag bij hajduk split",
+  "celtic lacking lisbon lions spirit as benfica brutally expose deficiencies in europa league defeat 5 talking points"
  ],
  "recent": [
-  "🟥 Винисиус улетел красным, «Реал» выжил — 1:0 и отставание от «Барсы» неизменно",
   "⚽ Де Зерби поцеловал отстранённого Бентанкура: «Спасибо за характер»",
   "⚽ Сити отмылся от грехов: 3:0 на Анфилде",
   "🟥 Спаллетти и Пискане улетели на трибуны после 1:1 с «Кальяри»",
@@ -429,14 +430,10 @@
   "🏠 Кража вместо триумфа: кошмар Антони",
   "🎢 «Челси» — американские горки: 4,7 гола за матч и 22 игры без «сухой»",
   "⚽ Сэдж проиграл «своим», Чиссе нарисовал хет-трик, а «Леверкузен» возглавил таблицу",
-  "😅 «Аякс» подарил «Хайдуку» 1-ю победу за 16 лет: 1-2 в дебюте Конференс-лиги"
+  "😅 «Аякс» подарил «Хайдуку» 1-ю победу за 16 лет: 1-2 в дебюте Конференс-лиги",
+  "⚽ «Бенфика» 4:1 «Селтик»: Два Дурана, дубль Хуана и крах О'Нилла"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-10T21:24:08.825519+00:00",
-   "title": "🟥 Винисиус улетел красным, «Реал» выжил — 1:0 и отставание от «Барсы» неизменно",
-   "body": "«Реал» с трудом обыграл «Вильярреал» 1:0 благодаря автоголу Яна Диоманде, а Винисиус подарил драму: получил красную карточку прямо перед возможным ударом. Мадридцы в меньшинстве удержали счёт и сохранили разрыв с «Барселоной» — бразилец ушёл под душ рано, но три очка остались в Бернабеу."
-  },
   {
    "time": "2026-10-11T00:46:02.274035+00:00",
    "title": "⚽ Де Зерби поцеловал отстранённого Бентанкура: «Спасибо за характер»",
@@ -631,8 +628,13 @@
    "time": "2026-10-15T21:38:02.768162+00:00",
    "title": "😅 «Аякс» подарил «Хайдуку» 1-ю победу за 16 лет: 1-2 в дебюте Конференс-лиги",
    "body": "Дебютант Торрентес дважды просчитал пас — Саньянг и Сотичек наказали амстердамцев, хотя Клаассен успел сравнять красивым ударом. После перерыва «Аякс» давил, но дым от факелов «Торсиды» приостановил матч: Глух ударил в штангу, а Бауман с отличной позиции промахнулся мимо ворот. В следующем туре амстердамцы ждёт «Аталанта» — там уже не до экспериментов."
+  },
+  {
+   "time": "2026-10-15T23:33:18.780082+00:00",
+   "title": "⚽ «Бенфика» 4:1 «Селтик»: Два Дурана, дубль Хуана и крах О'Нилла",
+   "body": "«Бенфика» разобрала «Селтик» 4:1: Хуан Дуран открыл счёт с пенальти и добавил второй забитым с острого угла, Бах и суперсаб Павлидис довернули разгром Мартина О'Нилла — уже четвёртый за пять матчей. «Селтик» оживил только после перерыва: с лавки вышли Хассан и Камило Дуран (забил головой), а в первом тайме датчанин Хог дважды бил в штангу. В воскресенье на «Паркхед» придут «Хартс», только что разг"
   }
  ],
- "last_post": "2026-10-15T21:38:02.768179+00:00",
+ "last_post": "2026-10-15T23:33:18.780097+00:00",
  "limit_day": "2026-10-13"
 }
