@@ -181,7 +181,8 @@
   "https://www.marca.com/futbol/real-madrid/2026/10/14/vinicius-pierde-clasico-cuatro-partidos-sancion.html",
   "https://www.theguardian.com/football/live/2026/oct/14/manchester-city-v-paris-saint-germain-champions-league-live-score-updates",
   "https://www.lequipe.fr/Football/Actualites/Bradley-barcola-et-liverpool-s-amusent-sur-la-pelouse-de-linz-feyenoord-s-offre-come-et-debloque-son-compteur-en-ligue-des-champions/1735799#at_medium=RSS_feeds",
-  "https://www.theguardian.com/football/2026/oct/14/aston-villa-fenerbahce-champions-league-league-stage-match-report"
+  "https://www.theguardian.com/football/2026/oct/14/aston-villa-fenerbahce-champions-league-league-stage-match-report",
+  "https://www.bbc.co.uk/sport/football/videos/cmn4e91e4dk7o?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -365,10 +366,10 @@
   "vinicius se pierde el clásico cuatro partidos de sanción",
   "manchester city v paris saint germain champions league live",
   "bradley barcola et liverpool s amusent sur la pelouse de linz feyenoord s offre côme et débloque son compteur en ligue des champions",
-  "jackson and barkley doubles sink feeble fenerbahce in record aston villa win"
+  "jackson and barkley doubles sink feeble fenerbahce in record aston villa win",
+  "isco snatches late betis win as they edge past porto"
  ],
  "recent": [
-  "⚽ «Дортмунд» впервые упустил очки: Фюлькрюг отбил победу у своего клуба",
   "🚫 Sky Sports «уронил» блог с возвращением Роналду",
   "⚽ Фонсека узнал вкус поражения: «Лион» пал у «Ланса» за неделю до «Спортинга»",
   "⚽ «Спортинг» разогнал «Брагу» перед «Лансом»: 3:1 на выезде после отставания",
@@ -407,14 +408,10 @@
   "⚽ Винисиус пропустит «Эль Класико»: четыре матча за волосы и крики на судью",
   "⚽ ПСГ разорил «Сити» за 99 секунд: Гвардиола на трибуне, Мареска бледнеет",
   "⚽ L'Équipe записала Барколу в «Ливерпуль» и насчитала 6:3 Линцу",
-  "🏰 «Вилла» разнесла «Фенербахче» 6:0 — рекорд и буу Гринуду"
+  "🏰 «Вилла» разнесла «Фенербахче» 6:0 — рекорд и буу Гринуду",
+  "⚽ Иско спас «Бетис» пенальти в 84-й: 3:2 и идеальный старт в ЛЧ"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-09T23:23:54.062049+00:00",
-   "title": "⚽ «Дортмунд» впервые упустил очки: Фюлькрюг отбил победу у своего клуба",
-   "body": "Лидер Бундеслиги «Боруссия» Дортмунд в первый раз в сезоне раздал очки, уступив дома «Вердеру» 2:2. На 80-й минуте Даниэль Свенссон открыл счёт, а Никлас Шлоттербек удвоил преимущество с углового вставшего Джоя Вейермана — но Лудовит Рейс и арендованный у «Боруссии» Никлас Фюлькрюг в компенсированном времени вырвали у хозяев ничью. Жёлто-чёрные снова доказали: двухголовую перевес держать не умеют,"
-  },
   {
    "time": "2026-10-10T01:24:55.022396+00:00",
    "title": "🚫 Sky Sports «уронил» блог с возвращением Роналду",
@@ -609,8 +606,13 @@
    "time": "2026-10-14T23:34:06.009038+00:00",
    "title": "🏰 «Вилла» разнесла «Фенербахче» 6:0 — рекорд и буу Гринуду",
    "body": "«Астон Вилла» разгромила «Фенербахче» 6:0, поставив рекорд крупнейшей победы в еврокубках и огласив 11-ю домашнюю победу в Европе подряд. Йохан Манзамби отметил 21-й день рождения дебютным голом в Лиге чемпионов, Николас Джексон и Росс Баркли набрали по дублю, а Тамми Абрахам закрепил разгром. Принц Уильям на трибунах видел, как «Вилла» забила трижды у пустой северной трибуны, а Мейсон Гринуд на к"
+  },
+  {
+   "time": "2026-10-15T01:37:29.878796+00:00",
+   "title": "⚽ Иско спас «Бетис» пенальти в 84-й: 3:2 и идеальный старт в ЛЧ",
+   "body": "Иско реализовал пенальти на 84-й минуте и вырвал у «Порто» победу 3:2 — у андалузийцев вторые три очка подряд в Лиге чемпионов. «Бетис» с идеальным стартом в турнире, а 32-летний плеймейкер напомнил, что класс не ржавеет. 🎯"
   }
  ],
- "last_post": "2026-10-14T23:34:06.009053+00:00",
+ "last_post": "2026-10-15T01:37:29.878811+00:00",
  "limit_day": "2026-10-13"
 }
