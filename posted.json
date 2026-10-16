@@ -197,7 +197,8 @@
   "https://www.lequipe.fr/Football/Actualites/Alphadjo-cisse-nouvelle-coqueluche-de-l-ac-milan-torreense-craque-sur-la-fin-contre-sunderland-leverkusen-cartonne-en-ligue-europa/1736067#at_medium=RSS_feeds",
   "https://www.skysports.com/football/bournemouth-vs-sturm-graz/report/577761",
   "https://nos.nl/l/2635143",
-  "https://www.walfoot.be/news/2026-10-16/-anderlecht-le-message-clair-de-vitor-bruno"
+  "https://www.walfoot.be/news/2026-10-16/-anderlecht-le-message-clair-de-vitor-bruno",
+  "https://www.skysports.com/football/news/12040/13599794/manchester-united-latest-antonio-conte-tells-man-utd-hes-ready-to-take-over-if-michael-carrick-is-sacked-paper-talk"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -397,10 +398,10 @@
   "alphadjo cisse nouvelle coqueluche de l ac milan torreense craque sur la fin contre sunderland leverkusen cartonne en ligue europa",
   "bournemouth beat sturm graz in first ever home european game",
   "nec pakt tegen levski sofia eerste punt in europa league maar wint weer niet",
-  "à anderlecht le message clair de vitor bruno après la défaite à zagreb le soleil se lèvera à nouveau"
+  "à anderlecht le message clair de vitor bruno après la défaite à zagreb le soleil se lèvera à nouveau",
+  "papers conte tells man utd he s ready to take over if carrick sacked"
  ],
  "recent": [
-  "⚽ «Милан» контролировал, Рабио забил красиво, а в активе — лишь ничья с «Сассоло»",
   "⚽ Sky Sports обещал обновления по Лацио, Фрайбургу и Бетису — и упал с 503-й",
   "😅 22 удара, 71% владения и гол на 81-й: «Юве» спас Коло Муани",
   "😬 Каррик играет за будущее в Мадриде",
@@ -439,14 +440,10 @@
   "⚡ 19-летний Сиссе разнёс «Зальцбург» хет-триком, «Леверкузен» снёс соперника в Лиге Европы",
   "🏟 16 лет в третьей лиге — капитан и первый еврогол: «Борнмут» разгромил «Штурм»",
   "⚽ NEC прервал девятилетнюю засуху в еврокубках, но лишь 1:1 с Левски",
-  "☀️ «Солнце взойдёт снова»: Андерлехт проиграл Динамо Загреб 0-1 на пенальти в добавленке"
+  "☀️ «Солнце взойдёт снова»: Андерлехт проиграл Динамо Загреб 0-1 на пенальти в добавленке",
+  "🔥 Конте готов к MU, если Кэррика уволят — и ещё £1м на Super 6"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-12T03:28:24.060188+00:00",
-   "title": "⚽ «Милан» контролировал, Рабио забил красиво, а в активе — лишь ничья с «Сассоло»",
-   "body": "На 6-м туре «Россонери» ушли из Реджио-Эмилии с 1:1, хотя Адриен Рабио пробил «сухой лист» хозяев чистым ударом — гол стал единственным утешением для гостей. «Милан» не побеждает уже третий матч подряд, и пятое место для непобеждённой команды выглядит скорее как диагноз, чем как амбиции. «Сассоло» радуется счастливому очку, а у «Милана» в копилке — лишь красивая статистика по забитым."
-  },
   {
    "time": "2026-10-12T05:27:47.838366+00:00",
    "title": "⚽ Sky Sports обещал обновления по Лацио, Фрайбургу и Бетису — и упал с 503-й",
@@ -641,8 +638,13 @@
    "time": "2026-10-16T08:13:50.955619+00:00",
    "title": "☀️ «Солнце взойдёт снова»: Андерлехт проиграл Динамо Загреб 0-1 на пенальти в добавленке",
    "body": "Андерлехт упустил четыре‑пять голевых шансов в Загребе, но пропустил пенальти в добавленное время и проиграл 0‑1 Динамо Загреб. Витор Бруно, обычно взрывающийся после поражений, на этот раз нашёл позитив в игре резервистов — Стрейкенс, Реабчук, Аасгор и Дегреф проявили себя, отметив, что команда сохранила атакующий настрой, несмотря на необходимость быть осторожнее в концовке. Он призвал быстро за"
+  },
+  {
+   "time": "2026-10-16T09:39:25.958862+00:00",
+   "title": "🔥 Конте готов к MU, если Кэррика уволят — и ещё £1м на Super 6",
+   "body": "Антонио Конте сообщил боссам Манчестер Юнайтед, что готов возглавить команду, если они решат уволить Майкла Кэррика (Daily Mirror). Лиcандро Мартинес, по The Sun, не хочет продлевать контракт из‑за недовольства амбициями руководства, а Андер Эррера призывает критиков перестать «молотить» Бруно Фернандеша и показать капитану больше уважения (Daily Mirror). Параллельно Super 6 разыгрывает миллион фу"
   }
  ],
- "last_post": "2026-10-16T08:13:50.955635+00:00",
+ "last_post": "2026-10-16T09:39:25.958878+00:00",
  "limit_day": "2026-10-13"
 }
