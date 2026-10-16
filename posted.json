@@ -201,7 +201,8 @@
   "https://www.skysports.com/football/news/12040/13599794/manchester-united-latest-antonio-conte-tells-man-utd-hes-ready-to-take-over-if-michael-carrick-is-sacked-paper-talk",
   "https://www.bbc.co.uk/sport/football/articles/cq073d9l0ly9o?at_medium=RSS&at_campaign=rss",
   "https://www.lequipe.fr/Football/Actualites/Javier-tebas-le-president-de-la-liga-compare-la-methode-de-real-madrid-tv-a-la-propagande-nazie-de-goebbels/1736209#at_medium=RSS_feeds",
-  "https://www.lequipe.fr/Football/Actualites/Jude-bellingham-serait-proche-de-prolonger-son-contrat-avec-le-real-madrid/1736264#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Jude-bellingham-serait-proche-de-prolonger-son-contrat-avec-le-real-madrid/1736264#at_medium=RSS_feeds",
+  "https://www.scotsman.com/sport/football/celtic/latest-celtic-news/celtic-vs-hearts-injury-news-5-out-and-2-doubts-as-martin-oneill-mulls-over-two-major-decisions-9291777"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -405,10 +406,10 @@
   "papers conte tells man utd he s ready to take over if carrick sacked",
   "chelsea s james out for three months after knee surgery",
   "javier tebas le président de la liga compare la méthode de real madrid tv à la propagande nazie de goebbels",
-  "jude bellingham serait proche de prolonger son contrat avec le real madrid"
+  "jude bellingham serait proche de prolonger son contrat avec le real madrid",
+  "celtic vs hearts injury news 5 out and 2 doubts as martin o neill mulls over two major decisions"
  ],
  "recent": [
-  "🎭 Ван Дейк про «Сити»: привыкайте к «Читерам» — Анфилд не единственный",
   "🔄 Осасуна вернула Аррасате: два года прошло — и он снова на скамейке",
   "🤕 «Арсенал» теряет Зубименди и Инкапье за день до битвы с «Лиллем»",
   "🔥 Босц обещает «огонь с огнём» в Лейпциге: у «быков» 6:0 дома и три провала в гостях",
@@ -447,14 +448,10 @@
   "🔥 Конте готов к MU, если Кэррика уволят — и ещё £1м на Super 6",
   "🩹 Капитан «Челси» Риис Джеймс выбыл на три месяца после операции на колене",
   "🚨 Тебас сравнил Real Madrid TV с пропагандой Геббельса",
-  "🔔 Bellingham близок к новому контракту с «Реалом» до 2031"
+  "🔔 Bellingham близок к новому контракту с «Реалом» до 2031",
+  "🏆 Celtic против Hearts: пять очков впереди, но лазарет полон сюрпризов"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-12T11:30:29.613560+00:00",
-   "title": "🎭 Ван Дейк про «Сити»: привыкайте к «Читерам» — Анфилд не единственный",
-   "body": "Ван Дейк предупредил «Граждан»: свисты и скандирование «Читеры» на Анфилде — лишь начало, на других стадионах будет так же жарко, ведь фанаты не простят завышенных на 830 млн фунтов доходов. «Сити» всё равно унесло сухую победу 3:0 после удаления Гравенберха на 62-й минуте, но Ван Дейк не понимает, зачем Араухо показали жёлтую за показ воображаемой карточки, а за массовые требования «ситизенсов» н"
-  },
   {
    "time": "2026-10-12T13:43:04.189298+00:00",
    "title": "🔄 Осасуна вернула Аррасате: два года прошло — и он снова на скамейке",
@@ -649,8 +646,13 @@
    "time": "2026-10-16T15:39:24.317020+00:00",
    "title": "🔔 Bellingham близок к новому контракту с «Реалом» до 2031",
    "body": "Jude Bellingham, чей нынешний контракт с «Реалом» истекает в июне 2029 года, готов подписать новое соглашение до 2031 года. По информации испанской газеты «AS», переговоры уже почти завершены, и англичанин может остаться в Мадриде ещё как минимум два дополнительных сезона. Два дополнительных сезона — это почти целая жизнь в футбольных годах, и фанаты уже шутят, что Белингем успеет выучить весь мен"
+  },
+  {
+   "time": "2026-10-16T17:37:18.946995+00:00",
+   "title": "🏆 Celtic против Hearts: пять очков впереди, но лазарет полон сюрпризов",
+   "body": "Celtic подходят к матчу с Hearts, имея пять очков преимущества в шотландской Премьер‑лиге, но могут опуститься на второе место, если Rangers выиграют раньше. В лазарете — американский защитник, пропустивший две последние игры, французский защитник всё ещё лечит растяжение голеностопа от августовской встречи с Сент‑Джонстон, а бразильский нападающий, только вернувшись после февральской паузы, получ"
   }
  ],
- "last_post": "2026-10-16T15:39:24.317035+00:00",
+ "last_post": "2026-10-16T17:37:18.947013+00:00",
  "limit_day": "2026-10-13"
 }
