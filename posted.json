@@ -203,7 +203,8 @@
   "https://www.lequipe.fr/Football/Actualites/Javier-tebas-le-president-de-la-liga-compare-la-methode-de-real-madrid-tv-a-la-propagande-nazie-de-goebbels/1736209#at_medium=RSS_feeds",
   "https://www.lequipe.fr/Football/Actualites/Jude-bellingham-serait-proche-de-prolonger-son-contrat-avec-le-real-madrid/1736264#at_medium=RSS_feeds",
   "https://www.scotsman.com/sport/football/celtic/latest-celtic-news/celtic-vs-hearts-injury-news-5-out-and-2-doubts-as-martin-oneill-mulls-over-two-major-decisions-9291777",
-  "https://football-italia.net/italy-down-to-ninth-in-race-for-extra-ucl-spot/"
+  "https://football-italia.net/italy-down-to-ninth-in-race-for-extra-ucl-spot/",
+  "https://www.bbc.co.uk/sport/football/articles/cr3wv4xd2l6yo?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -409,10 +410,10 @@
   "javier tebas le président de la liga compare la méthode de real madrid tv à la propagande nazie de goebbels",
   "jude bellingham serait proche de prolonger son contrat avec le real madrid",
   "celtic vs hearts injury news 5 out and 2 doubts as martin o neill mulls over two major decisions",
-  "italy down to ninth in race for extra champions league spot"
+  "italy down to ninth in race for extra champions league spot",
+  "arteta told arsenal job cuts will help create success"
  ],
  "recent": [
-  "🤕 «Арсенал» теряет Зубименди и Инкапье за день до битвы с «Лиллем»",
   "🔥 Босц обещает «огонь с огнём» в Лейпциге: у «быков» 6:0 дома и три провала в гостях",
   "⚫ «Аталанта» прервала кризис: 3:1 «Венеции» и красная карточка Элмаса",
   "⚽ «Леванте» вырвал 3:3 у «Севильи» на 10-й минуте допвремени — пинг-понг в штрафной",
@@ -451,14 +452,10 @@
   "🚨 Тебас сравнил Real Madrid TV с пропагандой Геббельса",
   "🔔 Bellingham близок к новому контракту с «Реалом» до 2031",
   "🏆 Celtic против Hearts: пять очков впереди, но лазарет полон сюрпризов",
-  "🇮🇹 Италия на девятом месте: шансы на пятое место в ЛЧ почти испарились"
+  "🇮🇹 Италия на девятом месте: шансы на пятое место в ЛЧ почти испарились",
+  "🚨 Артета отмахивается от вопросов о сокращениях в «Арсенале» — но обещает успех"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-12T15:29:53.153229+00:00",
-   "title": "🤕 «Арсенал» теряет Зубименди и Инкапье за день до битвы с «Лиллем»",
-   "body": "На пресс-конференции перед матчем Лиги чемпионов (вторник, 21:00, «Эмирейтс») Артета подтвердил: Зубименди и Инкапье выбывают из-за травм щиколоток. «Пушечники» лишились сразу двух опорных игроков за один день — врачам, кажется, не позавидуешь. Как лондонцы выкрутятся без этой пары дома, покажет игра с «Лиллем»."
-  },
   {
    "time": "2026-10-12T17:27:59.949944+00:00",
    "title": "🔥 Босц обещает «огонь с огнём» в Лейпциге: у «быков» 6:0 дома и три провала в гостях",
@@ -653,8 +650,13 @@
    "time": "2026-10-16T19:37:56.463168+00:00",
    "title": "🇮🇹 Италия на девятом месте: шансы на пятое место в ЛЧ почти испарились",
    "body": "Итоги последних матчей оставили Италию на девятой позиции в коэффициенте ассоциаций UEFA с 5,214 очками, тогда как Англия уверенно лидирует с 6,611. Дополнительное место в Лиге чемпионов получают две страны с наивысшим сезонным коэффициентом, и сейчас это Англия и Испания, а Италия и Germany пользовались таким бонусом только в прошлом розыгрыше. Учитывая разрыв в более чем полтора очка до пятой по"
+  },
+  {
+   "time": "2026-10-16T21:34:54.104604+00:00",
+   "title": "🚨 Артета отмахивается от вопросов о сокращениях в «Арсенале» — но обещает успех",
+   "body": "Артета, получив новый четырёхлетний контракт с зарплатой £10 млн в год и бонусом £5 млн, сначала заявил, что вопросы о сокращениях 60 сотрудников (~7 % от 871 постоянного работника) не его компетенция. Однако он добавил, что увольнения проведены для эволюции и улучшения, чтобы достичь того успеха, который клуб хочет создать. При этом «Арсенал» отчитался о рекордных доходах £691 млн за сезон, хотя "
   }
  ],
- "last_post": "2026-10-16T19:37:56.463182+00:00",
+ "last_post": "2026-10-16T21:34:54.104620+00:00",
  "limit_day": "2026-10-13"
 }
