@@ -202,7 +202,8 @@
   "https://www.bbc.co.uk/sport/football/articles/cq073d9l0ly9o?at_medium=RSS&at_campaign=rss",
   "https://www.lequipe.fr/Football/Actualites/Javier-tebas-le-president-de-la-liga-compare-la-methode-de-real-madrid-tv-a-la-propagande-nazie-de-goebbels/1736209#at_medium=RSS_feeds",
   "https://www.lequipe.fr/Football/Actualites/Jude-bellingham-serait-proche-de-prolonger-son-contrat-avec-le-real-madrid/1736264#at_medium=RSS_feeds",
-  "https://www.scotsman.com/sport/football/celtic/latest-celtic-news/celtic-vs-hearts-injury-news-5-out-and-2-doubts-as-martin-oneill-mulls-over-two-major-decisions-9291777"
+  "https://www.scotsman.com/sport/football/celtic/latest-celtic-news/celtic-vs-hearts-injury-news-5-out-and-2-doubts-as-martin-oneill-mulls-over-two-major-decisions-9291777",
+  "https://football-italia.net/italy-down-to-ninth-in-race-for-extra-ucl-spot/"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -407,10 +408,10 @@
   "chelsea s james out for three months after knee surgery",
   "javier tebas le président de la liga compare la méthode de real madrid tv à la propagande nazie de goebbels",
   "jude bellingham serait proche de prolonger son contrat avec le real madrid",
-  "celtic vs hearts injury news 5 out and 2 doubts as martin o neill mulls over two major decisions"
+  "celtic vs hearts injury news 5 out and 2 doubts as martin o neill mulls over two major decisions",
+  "italy down to ninth in race for extra champions league spot"
  ],
  "recent": [
-  "🔄 Осасуна вернула Аррасате: два года прошло — и он снова на скамейке",
   "🤕 «Арсенал» теряет Зубименди и Инкапье за день до битвы с «Лиллем»",
   "🔥 Босц обещает «огонь с огнём» в Лейпциге: у «быков» 6:0 дома и три провала в гостях",
   "⚫ «Аталанта» прервала кризис: 3:1 «Венеции» и красная карточка Элмаса",
@@ -449,14 +450,10 @@
   "🩹 Капитан «Челси» Риис Джеймс выбыл на три месяца после операции на колене",
   "🚨 Тебас сравнил Real Madrid TV с пропагандой Геббельса",
   "🔔 Bellingham близок к новому контракту с «Реалом» до 2031",
-  "🏆 Celtic против Hearts: пять очков впереди, но лазарет полон сюрпризов"
+  "🏆 Celtic против Hearts: пять очков впереди, но лазарет полон сюрпризов",
+  "🇮🇹 Италия на девятом месте: шансы на пятое место в ЛЧ почти испарились"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-12T13:43:04.189298+00:00",
-   "title": "🔄 Осасуна вернула Аррасате: два года прошло — и он снова на скамейке",
-   "body": "Осасуна уволила Луиса Мигеля Рамиса в понедельник из-за кризиса в Ла Лиге и вернула на скамью Ягоба Аррасате, который с 2018 по 2024 год уже тренировал клуб. Испанец пробыл в стороне всего два сезона, но руководство предпочло проверенного специалиста риску с новичком. Сможет ли он повторить старый успех или история не повторяется дважды? ⚽"
-  },
   {
    "time": "2026-10-12T15:29:53.153229+00:00",
    "title": "🤕 «Арсенал» теряет Зубименди и Инкапье за день до битвы с «Лиллем»",
@@ -651,8 +648,13 @@
    "time": "2026-10-16T17:37:18.946995+00:00",
    "title": "🏆 Celtic против Hearts: пять очков впереди, но лазарет полон сюрпризов",
    "body": "Celtic подходят к матчу с Hearts, имея пять очков преимущества в шотландской Премьер‑лиге, но могут опуститься на второе место, если Rangers выиграют раньше. В лазарете — американский защитник, пропустивший две последние игры, французский защитник всё ещё лечит растяжение голеностопа от августовской встречи с Сент‑Джонстон, а бразильский нападающий, только вернувшись после февральской паузы, получ"
+  },
+  {
+   "time": "2026-10-16T19:37:56.463168+00:00",
+   "title": "🇮🇹 Италия на девятом месте: шансы на пятое место в ЛЧ почти испарились",
+   "body": "Итоги последних матчей оставили Италию на девятой позиции в коэффициенте ассоциаций UEFA с 5,214 очками, тогда как Англия уверенно лидирует с 6,611. Дополнительное место в Лиге чемпионов получают две страны с наивысшим сезонным коэффициентом, и сейчас это Англия и Испания, а Италия и Germany пользовались таким бонусом только в прошлом розыгрыше. Учитывая разрыв в более чем полтора очка до пятой по"
   }
  ],
- "last_post": "2026-10-16T17:37:18.947013+00:00",
+ "last_post": "2026-10-16T19:37:56.463182+00:00",
  "limit_day": "2026-10-13"
 }
