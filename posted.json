@@ -204,7 +204,8 @@
   "https://www.lequipe.fr/Football/Actualites/Jude-bellingham-serait-proche-de-prolonger-son-contrat-avec-le-real-madrid/1736264#at_medium=RSS_feeds",
   "https://www.scotsman.com/sport/football/celtic/latest-celtic-news/celtic-vs-hearts-injury-news-5-out-and-2-doubts-as-martin-oneill-mulls-over-two-major-decisions-9291777",
   "https://football-italia.net/italy-down-to-ninth-in-race-for-extra-ucl-spot/",
-  "https://www.bbc.co.uk/sport/football/articles/cr3wv4xd2l6yo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/sport/football/articles/cr3wv4xd2l6yo?at_medium=RSS&at_campaign=rss",
+  "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -411,10 +412,10 @@
   "jude bellingham serait proche de prolonger son contrat avec le real madrid",
   "celtic vs hearts injury news 5 out and 2 doubts as martin o neill mulls over two major decisions",
   "italy down to ninth in race for extra champions league spot",
-  "arteta told arsenal job cuts will help create success"
+  "arteta told arsenal job cuts will help create success",
+  "liverpool come from behind to beat nine man brentford"
  ],
  "recent": [
-  "🔥 Босц обещает «огонь с огнём» в Лейпциге: у «быков» 6:0 дома и три провала в гостях",
   "⚫ «Аталанта» прервала кризис: 3:1 «Венеции» и красная карточка Элмаса",
   "⚽ «Леванте» вырвал 3:3 у «Севильи» на 10-й минуте допвремени — пинг-понг в штрафной",
   "🤯 Безумье в «Сан-Сиро»: «Брюгге» обыграл «Интер» 4:3, Трезольди — хет-трик",
@@ -453,14 +454,10 @@
   "🔔 Bellingham близок к новому контракту с «Реалом» до 2031",
   "🏆 Celtic против Hearts: пять очков впереди, но лазарет полон сюрпризов",
   "🇮🇹 Италия на девятом месте: шансы на пятое место в ЛЧ почти испарились",
-  "🚨 Артета отмахивается от вопросов о сокращениях в «Арсенале» — но обещает успех"
+  "🚨 Артета отмахивается от вопросов о сокращениях в «Арсенале» — но обещает успех",
+  "🔴 «Ливерпуль» в девять не играл, но выиграл: 2:1 у «Брентфорда»"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-12T17:27:59.949944+00:00",
-   "title": "🔥 Босц обещает «огонь с огнём» в Лейпциге: у «быков» 6:0 дома и три провала в гостях",
-   "body": "Петер Босц не скрывает — во вторник в Лейпциге будет настоящий спектакль, ведь и ПСВ, и «быки» Демечелиса любят давить высоко и атаковать. Немцы разнесли «Айнтрахт» 6:0 на своей арене, но в выездных матчах уже трижды свалились — разница между домашним и гостевым лицом просто колоссальная. Эйндховенцы едут тем же составом, что обыграл «Херенвен» 2:0, и Босц прямо говорит: играем только на победу, н"
-  },
   {
    "time": "2026-10-12T19:26:46.571365+00:00",
    "title": "⚫ «Аталанта» прервала кризис: 3:1 «Венеции» и красная карточка Элмаса",
@@ -655,8 +652,13 @@
    "time": "2026-10-16T21:34:54.104604+00:00",
    "title": "🚨 Артета отмахивается от вопросов о сокращениях в «Арсенале» — но обещает успех",
    "body": "Артета, получив новый четырёхлетний контракт с зарплатой £10 млн в год и бонусом £5 млн, сначала заявил, что вопросы о сокращениях 60 сотрудников (~7 % от 871 постоянного работника) не его компетенция. Однако он добавил, что увольнения проведены для эволюции и улучшения, чтобы достичь того успеха, который клуб хочет создать. При этом «Арсенал» отчитался о рекордных доходах £691 млн за сезон, хотя "
+  },
+  {
+   "time": "2026-10-17T21:30:29.412117+00:00",
+   "title": "🔴 «Ливерпуль» в девять не играл, но выиграл: 2:1 у «Брентфорда»",
+   "body": "«Ливерпуль» переиграл «Брентфорд» 2:1 на «Джтех» и ушёл с трёх очками, хотя хозяева с 69-й минуты играли в девять после удалений Ярмолюка и Янельта. «Пчелы» в меньшинстве всё равно создавали угрозу, но класс «красных» и удача Слота оказались выше. История не терпит сослагательного наклонения: в протоколе — победа гостей."
   }
  ],
- "last_post": "2026-10-16T21:34:54.104620+00:00",
+ "last_post": "2026-10-17T21:30:29.412131+00:00",
  "limit_day": "2026-10-17"
 }
