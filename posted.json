@@ -214,7 +214,8 @@
   "https://www.kicker.de/kanes-sonderrolle-wie-bayern-leipzig-demontierte-1262466/artikel#omrss",
   "https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss",
   "https://www.lequipe.fr/Football/Actualites/Apres-une-aventure-douloureuse-a-la-tete-de-la-selection-italienne-gennaro-gattuso-retrouve-de-la-credibilite-avec-la-lazio-co-leader-de-serie-a/1736391#at_medium=RSS_feeds",
-  "https://www.theguardian.com/football/2026/oct/18/brighton-crystal-palace-premier-league-match-report"
+  "https://www.theguardian.com/football/2026/oct/18/brighton-crystal-palace-premier-league-match-report",
+  "https://nos.nl/l/2635516"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -431,10 +432,10 @@
   "kanes sonderrolle wie bayern leipzig demontierte",
   "martinez breaks jaw in chelsea win at everton",
   "après une aventure douloureuse à la tête de la sélection italienne gennaro gattuso retrouve de la crédibilité avec la lazio co leader de serie a",
-  "gómez halfway line wondergoal sparks brighton s 5 0 thrashing of sorry crystal palace"
+  "gómez halfway line wondergoal sparks brighton s 5 0 thrashing of sorry crystal palace",
+  "ajax richt zich op en wint met ruime cijfers bij fc groningen 2 5"
  ],
  "recent": [
-  "⚡ Ямаль показал фейк-рабону и отдал ассист Гордону в разгроме Галатасарая",
   "🏆 Энрике заступился за «Сити» перед битвой с ПСЖ",
   "🎢 «Мы приехали победить, а не гулять»: «Брюгге» обыграл «Интер» в Сан-Сиро 4:3",
   "⚽ Винисиус пропустит «Эль Класико»: четыре матча за волосы и крики на судью",
@@ -473,14 +474,10 @@
   "⚽️ Кейн в роли дирижёра: как «Бавария» разобрала «Лейпциг»",
   "🤕 Мартинес сломил челюсть, Пендерс за 17 млн — «Челси» тестирует глубину скамейки",
   "🦅 Гаттузо реанимировал карьеру в «Лацио» после ада с «Аццури»",
-  "🤯 Гомес с 51 метра и разгром 5:0: «Брайтон» унизил «Кристал Пэлас»"
+  "🤯 Гомес с 51 метра и разгром 5:0: «Брайтон» унизил «Кристал Пэлас»",
+  "⚽ «Аякс» вылечился от кризиса разгромом «Гронингена» — 5:2"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-14T11:42:27.371281+00:00",
-   "title": "⚡ Ямаль показал фейк-рабону и отдал ассист Гордону в разгроме Галатасарая",
-   "body": "Испанский подросток нагло обманул защитника «Галатасарая» фейком на рабону: «пришло в голову прямо в момент». Тут же он отдал голевой пас Энтони Гордону, закрепив разгром 4:1. «Барселона» снова напоминает: с Ямалем не гадаешь, а просто наслаждаешься. 😎"
-  },
   {
    "time": "2026-10-14T13:43:59.965112+00:00",
    "title": "🏆 Энрике заступился за «Сити» перед битвой с ПСЖ",
@@ -675,8 +672,13 @@
    "time": "2026-10-18T15:30:10.682783+00:00",
    "title": "🤯 Гомес с 51 метра и разгром 5:0: «Брайтон» унизил «Кристал Пэлас»",
    "body": "Диего Гомес выдал шедевр, забив с половины поля — это самый дальний гол в АПЛ со времен Уэйна Руни в 2017 году. «Брайтон» не просто разгромил соперника со счетом 5:0, но и повторил свой исторический рекорд против «орлов» 1956 года. Пьер Саж выставил в защите слишком молодых игроков, и это обернулось катастрофой: один из них привез автогол, а второй просто не справился с мощью атаки. Теперь тренеру"
+  },
+  {
+   "time": "2026-10-18T17:31:01.542295+00:00",
+   "title": "⚽ «Аякс» вылечился от кризиса разгромом «Гронингена» — 5:2",
+   "body": "После поражения от «Хайдука» и двух ничьих амстердамцы приехали в Гронинген не в духе, но уехали с крупной победой: Брандт забил дубль, Мокио нанёс ещё два, а Классен умудрился промахнуться с пенальти. «Аякс» набрал 18 очков из 27 и снизил отрыв от ПСВ до единицы, хотя «Твенте» сегодня может снова перепрыгнуть их, а «Гронинген» после подарка в виде пяти пропущенных мячей скатился на седьмое место."
   }
  ],
- "last_post": "2026-10-18T15:30:10.682799+00:00",
+ "last_post": "2026-10-18T17:31:01.542309+00:00",
  "limit_day": "2026-10-17"
 }
