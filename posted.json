@@ -208,7 +208,8 @@
   "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
   "https://www.bbc.co.uk/sport/football/videos/cmewe0wq0wj1o?at_medium=RSS&at_campaign=rss",
   "https://www.bbc.co.uk/sport/football/articles/ck054652mv07o?at_medium=RSS&at_campaign=rss",
-  "https://www.theguardian.com/football/2026/oct/17/scottish-premiership-kilmarnock-rangers-dundee-celtic-hearts"
+  "https://www.theguardian.com/football/2026/oct/17/scottish-premiership-kilmarnock-rangers-dundee-celtic-hearts",
+  "https://www.bbc.co.uk/sport/football/articles/c9gkv34kezdko?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -419,10 +420,10 @@
   "liverpool come from behind to beat nine man brentford",
   "lamine yamal opens scoring as barcelona beat real betis",
   "villa s manzambi shows newcastle what they missed out on",
-  "scottish premiership rangers miss chance to go top after pulsating draw with dundee"
+  "scottish premiership rangers miss chance to go top after pulsating draw with dundee",
+  "gyokeres pushing for arsenal exit sunday s gossip"
  ],
  "recent": [
-  "⚽ «Юнайтед» обогнал антирекорд 40-летней давности: Карик ждал бунт, а получил 0:2 в Мадриде",
   "⚽ Вандефурт заморил Перишича с точки: «Лейпциг» обыграл ПСВ 1:0",
   "⚽ Мартинес: «МЮ» — зеркало бездействия, худший старт за 40 лет",
   "🔴 Компани в шоке: «Бавария» сдала 0:2, выигрывала 2:3 и потеряла Олисе",
@@ -461,14 +462,10 @@
   "🔴 «Ливерпуль» в девять не играл, но выиграл: 2:1 у «Брентфорда»",
   "⚽ Барселона взорвала Бетис: семь голов, пять разных авторов и отрыв в пять очков",
   "💥 Манзамби показал «Ньюкаслу», чего они лишились: 1‑0 и рекорд Виллы",
-  "⚽ Rangers упустили шанс возглавить Шотландскую Премьершип, сыграв 2:2 с Dundee"
+  "⚽ Rangers упустили шанс возглавить Шотландскую Премьершип, сыграв 2:2 с Dundee",
+  "⚽ Гёкереш тянет на выход из «Арсенала», «Челси» охотится за дуэтом Барсы, Рабио до 2030"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-13T23:32:43.927118+00:00",
-   "title": "⚽ «Юнайтед» обогнал антирекорд 40-летней давности: Карик ждал бунт, а получил 0:2 в Мадриде",
-   "body": "«Манчестер Юнайтед» пропустил от Пабло Барриоса на 53-й секунде — худший старт матча за четыре десятилетия, — и в итоге сдался «Атлетико» 0:2, несмотря на 66% владения хозяев в первом тайме и шанс Бруно на штанге. Карик обещал реакцию, но получил капитуляцию: Лена Йоро улетел за красную карточку на 74-й минуте, лишь зафиксировав безнадежность, а Адемола Лукман удвоил счёт после коллективного тупиз"
-  },
   {
    "time": "2026-10-14T01:38:49.909301+00:00",
    "title": "⚽ Вандефурт заморил Перишича с точки: «Лейпциг» обыграл ПСВ 1:0",
@@ -663,8 +660,13 @@
    "time": "2026-10-18T03:34:54.533512+00:00",
    "title": "⚽ Rangers упустили шанс возглавить Шотландскую Премьершип, сыграв 2:2 с Dundee",
    "body": "После гола Bradley Fink на 38-й минуте Dundee повели, но Badredine Bouanani ответил stunning equaliser уже на 41-й, а Nico Raskin вывел Rangers вперёд дальним ударом около часа игры. Однако Callum Jones воспользовался расслабленностью Gers и восстановил parity на 68-й минуте, оставив счёт 2:2. Ничья оставила Rangers на одно очко позади Celtic, которые могут увеличить своё преимущество в домашнем м"
+  },
+  {
+   "time": "2026-10-18T05:32:19.853847+00:00",
+   "title": "⚽ Гёкереш тянет на выход из «Арсенала», «Челси» охотится за дуэтом Барсы, Рабио до 2030",
+   "body": "Гёкереш готов требовать ухода из «Арсенала» в январе из-за сидячей работы, а Ливерпуль пригляделся к Нмече из Дортмунда на случай провала с Алексом Скоттом. Хави Алонсо, которого слухи уже сажают в «Челси», заказывает у Барсы Конде с де Йонгом в паре и параллельно тянет 17-летнего Альберта из Дортмунда, а Манссон уже разведен по корзинам «Арсенала» и «Челси». Милан готовит 31-летнему Рабио контрак"
   }
  ],
- "last_post": "2026-10-18T03:34:54.533528+00:00",
+ "last_post": "2026-10-18T05:32:19.853864+00:00",
  "limit_day": "2026-10-17"
 }
