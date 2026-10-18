@@ -216,7 +216,8 @@
   "https://www.lequipe.fr/Football/Actualites/Apres-une-aventure-douloureuse-a-la-tete-de-la-selection-italienne-gennaro-gattuso-retrouve-de-la-credibilite-avec-la-lazio-co-leader-de-serie-a/1736391#at_medium=RSS_feeds",
   "https://www.theguardian.com/football/2026/oct/18/brighton-crystal-palace-premier-league-match-report",
   "https://nos.nl/l/2635516",
-  "https://www.skysports.com/football/celtic-vs-hearts/report/558382"
+  "https://www.skysports.com/football/celtic-vs-hearts/report/558382",
+  "https://www.lequipe.fr/Football/Actualites/Victoire-spectaculaire-du-real-madrid-face-a-seville-double-de-kylian-mbappe/1736855#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -435,10 +436,10 @@
   "après une aventure douloureuse à la tête de la sélection italienne gennaro gattuso retrouve de la crédibilité avec la lazio co leader de serie a",
   "gómez halfway line wondergoal sparks brighton s 5 0 thrashing of sorry crystal palace",
   "ajax richt zich op en wint met ruime cijfers bij fc groningen 2 5",
-  "ruthless celtic hit seven past title rivals hearts in emphatic win"
+  "ruthless celtic hit seven past title rivals hearts in emphatic win",
+  "victoire spectaculaire du real madrid face à séville avec un doublé de kylian mbappé"
  ],
  "recent": [
-  "🎢 «Мы приехали победить, а не гулять»: «Брюгге» обыграл «Интер» в Сан-Сиро 4:3",
   "⚽ Винисиус пропустит «Эль Класико»: четыре матча за волосы и крики на судью",
   "⚽ ПСГ разорил «Сити» за 99 секунд: Гвардиола на трибуне, Мареска бледнеет",
   "⚽ L'Équipe записала Барколу в «Ливерпуль» и насчитала 6:3 Линцу",
@@ -477,14 +478,10 @@
   "🦅 Гаттузо реанимировал карьеру в «Лацио» после ада с «Аццури»",
   "🤯 Гомес с 51 метра и разгром 5:0: «Брайтон» унизил «Кристал Пэлас»",
   "⚽ «Аякс» вылечился от кризиса разгромом «Гронингена» — 5:2",
-  "🔥 7:1! «Сельтик» наварил «Хартс» и сбежал в лидеры на 4 очка"
+  "🔥 7:1! «Сельтик» наварил «Хартс» и сбежал в лидеры на 4 очка",
+  "⚽ Мбаппе разогрелся: «Реал» разгромил Севилью за неделю до Класико"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-14T15:44:22.462329+00:00",
-   "title": "🎢 «Мы приехали победить, а не гулять»: «Брюгге» обыграл «Интер» в Сан-Сиро 4:3",
-   "body": "Фредди Поттс не приукрашивал: «Брюгге» прилетел в Милан за очками и увез их, обыграв «Интер» 4:3 на чужой земле после настоящих американских горок — фора в два мяча, откат, новый прорыв и финальная битва за выживание. Англичанин хвалит тренера за план, сработавший идеально, а итальянская пресса в шоке уже припоминает недавний кошмар «Интера» против «Реала». Бельгийцы объявили Лиге чемпионов: мы не"
-  },
   {
    "time": "2026-10-14T17:38:39.129379+00:00",
    "title": "⚽ Винисиус пропустит «Эль Класико»: четыре матча за волосы и крики на судью",
@@ -679,8 +676,13 @@
    "time": "2026-10-18T19:30:00.559170+00:00",
    "title": "🔥 7:1! «Сельтик» наварил «Хартс» и сбежал в лидеры на 4 очка",
    "body": "«Сельтик» разгромил «Хартс» 7:1 и ушёл в лидеры Шотландии на четыре очка впереди главного соперника по титулу. Калум Османд в дебютном старте отметился дублем, Тирни, Нюгрен (два), Дуран и автогол Кингсли после подачи Бира завершили расправу, а гости не выигрывают в выезде с января. Брендан Роджерс получил идеальное воскресенье — матч, максимально напоминающий лучшие времена Постекоглу."
+  },
+  {
+   "time": "2026-10-18T21:30:47.995859+00:00",
+   "title": "⚽ Мбаппе разогрелся: «Реал» разгромил Севилью за неделю до Класико",
+   "body": "На 9-м туре Ла Лиги «Реал» разгромил «Севилью» 4:1, а Мбаппе оформил дубль — идеальная репетиция за неделю до Класико. Француз забил за новые цвета в чемпионате, и «белые» выглядят пугающе перед встречей с «Барселоной». Анчелотти может спать спокойно: атака заиграла вовремя."
   }
  ],
- "last_post": "2026-10-18T19:30:00.559185+00:00",
+ "last_post": "2026-10-18T21:30:47.995871+00:00",
  "limit_day": "2026-10-17"
 }
