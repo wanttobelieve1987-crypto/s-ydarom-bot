@@ -207,7 +207,8 @@
   "https://www.bbc.co.uk/sport/football/articles/cr3wv4xd2l6yo?at_medium=RSS&at_campaign=rss",
   "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
   "https://www.bbc.co.uk/sport/football/videos/cmewe0wq0wj1o?at_medium=RSS&at_campaign=rss",
-  "https://www.bbc.co.uk/sport/football/articles/ck054652mv07o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/sport/football/articles/ck054652mv07o?at_medium=RSS&at_campaign=rss",
+  "https://www.theguardian.com/football/2026/oct/17/scottish-premiership-kilmarnock-rangers-dundee-celtic-hearts"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -417,10 +418,10 @@
   "arteta told arsenal job cuts will help create success",
   "liverpool come from behind to beat nine man brentford",
   "lamine yamal opens scoring as barcelona beat real betis",
-  "villa s manzambi shows newcastle what they missed out on"
+  "villa s manzambi shows newcastle what they missed out on",
+  "scottish premiership rangers miss chance to go top after pulsating draw with dundee"
  ],
  "recent": [
-  "🤯 Безумье в «Сан-Сиро»: «Брюгге» обыграл «Интер» 4:3, Трезольди — хет-трик",
   "⚽ «Юнайтед» обогнал антирекорд 40-летней давности: Карик ждал бунт, а получил 0:2 в Мадриде",
   "⚽ Вандефурт заморил Перишича с точки: «Лейпциг» обыграл ПСВ 1:0",
   "⚽ Мартинес: «МЮ» — зеркало бездействия, худший старт за 40 лет",
@@ -459,14 +460,10 @@
   "🚨 Артета отмахивается от вопросов о сокращениях в «Арсенале» — но обещает успех",
   "🔴 «Ливерпуль» в девять не играл, но выиграл: 2:1 у «Брентфорда»",
   "⚽ Барселона взорвала Бетис: семь голов, пять разных авторов и отрыв в пять очков",
-  "💥 Манзамби показал «Ньюкаслу», чего они лишились: 1‑0 и рекорд Виллы"
+  "💥 Манзамби показал «Ньюкаслу», чего они лишились: 1‑0 и рекорд Виллы",
+  "⚽ Rangers упустили шанс возглавить Шотландскую Премьершип, сыграв 2:2 с Dundee"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-13T21:36:44.058217+00:00",
-   "title": "🤯 Безумье в «Сан-Сиро»: «Брюгге» обыграл «Интер» 4:3, Трезольди — хет-трик",
-   "body": "«Клуб Брюгге» устроил на «Сан-Сиро» настоящий роллеркостер, обыграв финалиста ЛЧ «Интер» 4:3 — 23 года спустя после легендарной победы над «Миланом». Двадцатидвухлетний Николо Трезольди, фанат «Милан» с детства, забил хет-трик в стадионе, где вырос, а замена Ромео Вермант на 90-й минуте удвоил преимущество гостей. Лаутаро и Бонни ещё пытались вернуть «Интер» в игру (3:4), но бельгийцы выдержали и "
-  },
   {
    "time": "2026-10-13T23:32:43.927118+00:00",
    "title": "⚽ «Юнайтед» обогнал антирекорд 40-летней давности: Карик ждал бунт, а получил 0:2 в Мадриде",
@@ -661,8 +658,13 @@
    "time": "2026-10-18T01:37:02.025698+00:00",
    "title": "💥 Манзамби показал «Ньюкаслу», чего они лишились: 1‑0 и рекорд Виллы",
    "body": "Швейцарец Йохан Манзамби (21) вколотил головой с восьми ярдов после фланга Жуана Гомеша — 1:0 «Астон Вилле» в гостях у клуба, который летом не договорился с ним за £50 млн. Уже третий гол за «вилланз» (ещё отличился против «Тоттенхэма» и «Фенербахче») и с 19 сентября по гол+пас в ПЛ опережает всех, кроме Холанда — Унай Эмери в восторге от «интеллекта и физики» подопечного. Партнёр по атаке Николас"
+  },
+  {
+   "time": "2026-10-18T03:34:54.533512+00:00",
+   "title": "⚽ Rangers упустили шанс возглавить Шотландскую Премьершип, сыграв 2:2 с Dundee",
+   "body": "После гола Bradley Fink на 38-й минуте Dundee повели, но Badredine Bouanani ответил stunning equaliser уже на 41-й, а Nico Raskin вывел Rangers вперёд дальним ударом около часа игры. Однако Callum Jones воспользовался расслабленностью Gers и восстановил parity на 68-й минуте, оставив счёт 2:2. Ничья оставила Rangers на одно очко позади Celtic, которые могут увеличить своё преимущество в домашнем м"
   }
  ],
- "last_post": "2026-10-18T01:37:02.025714+00:00",
+ "last_post": "2026-10-18T03:34:54.533528+00:00",
  "limit_day": "2026-10-17"
 }
