@@ -213,7 +213,8 @@
   "https://football-italia.net/serie-a-roma-2-0-genoa-first-time-castro-lulli/",
   "https://www.kicker.de/kanes-sonderrolle-wie-bayern-leipzig-demontierte-1262466/artikel#omrss",
   "https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss",
-  "https://www.lequipe.fr/Football/Actualites/Apres-une-aventure-douloureuse-a-la-tete-de-la-selection-italienne-gennaro-gattuso-retrouve-de-la-credibilite-avec-la-lazio-co-leader-de-serie-a/1736391#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Apres-une-aventure-douloureuse-a-la-tete-de-la-selection-italienne-gennaro-gattuso-retrouve-de-la-credibilite-avec-la-lazio-co-leader-de-serie-a/1736391#at_medium=RSS_feeds",
+  "https://www.theguardian.com/football/2026/oct/18/brighton-crystal-palace-premier-league-match-report"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -429,10 +430,10 @@
   "serie a roma 2 0 genoa first time special for castro and lulli",
   "kanes sonderrolle wie bayern leipzig demontierte",
   "martinez breaks jaw in chelsea win at everton",
-  "après une aventure douloureuse à la tête de la sélection italienne gennaro gattuso retrouve de la crédibilité avec la lazio co leader de serie a"
+  "après une aventure douloureuse à la tête de la sélection italienne gennaro gattuso retrouve de la crédibilité avec la lazio co leader de serie a",
+  "gómez halfway line wondergoal sparks brighton s 5 0 thrashing of sorry crystal palace"
  ],
  "recent": [
-  "🎭 Муреньо в Олимпико: Рома встречает Реал в ЛЧ впервые с 2019 года",
   "⚡ Ямаль показал фейк-рабону и отдал ассист Гордону в разгроме Галатасарая",
   "🏆 Энрике заступился за «Сити» перед битвой с ПСЖ",
   "🎢 «Мы приехали победить, а не гулять»: «Брюгге» обыграл «Интер» в Сан-Сиро 4:3",
@@ -471,14 +472,10 @@
   "⚽ «Рома» 2-0 «Генуя»: Кастро и Лулли вылечили похмелье после «Реала»",
   "⚽️ Кейн в роли дирижёра: как «Бавария» разобрала «Лейпциг»",
   "🤕 Мартинес сломил челюсть, Пендерс за 17 млн — «Челси» тестирует глубину скамейки",
-  "🦅 Гаттузо реанимировал карьеру в «Лацио» после ада с «Аццури»"
+  "🦅 Гаттузо реанимировал карьеру в «Лацио» после ада с «Аццури»",
+  "🤯 Гомес с 51 метра и разгром 5:0: «Брайтон» унизил «Кристал Пэлас»"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-14T09:42:25.115989+00:00",
-   "title": "🎭 Муреньо в Олимпико: Рома встречает Реал в ЛЧ впервые с 2019 года",
-   "body": "Рома впервые за семь лет играет дома в Лиге чемпионов, и на «Олимпико» возвращается Жозе Муреньо — впервые с января 2024-го, когда его уволили. Кристанте и Свилар травмированы, их места займут де Роон и Голлини, в атаке выйдут Дыбала, Мален и Суле, а газеты до сих пор спорят: Молина или Ренш на фланге, Эрмосо или Балерди в центре. Дыбала с Маленом и Суле штурмуют ворота Куртуа, Мбаппе с Винисиусом"
-  },
   {
    "time": "2026-10-14T11:42:27.371281+00:00",
    "title": "⚡ Ямаль показал фейк-рабону и отдал ассист Гордону в разгроме Галатасарая",
@@ -673,8 +670,13 @@
    "time": "2026-10-18T13:34:06.228230+00:00",
    "title": "🦅 Гаттузо реанимировал карьеру в «Лацио» после ада с «Аццури»",
    "body": "После провала со сборной Италии и ухода из «Марселя» Дженнаро Гаттузо перезагрузился в «Лацио»: римляне неожиданно делят первое место в Серии А перед воскресным поединком с «Ювентусом». Бывшую «жестянку», которую все списали после провала на отборе к ЧМ-2022, заставили играть с прежней яростью. В воскресенье в Турине его ждет главный экзамен — доказать, что реанимация не случайна. 🏆"
+  },
+  {
+   "time": "2026-10-18T15:30:10.682783+00:00",
+   "title": "🤯 Гомес с 51 метра и разгром 5:0: «Брайтон» унизил «Кристал Пэлас»",
+   "body": "Диего Гомес выдал шедевр, забив с половины поля — это самый дальний гол в АПЛ со времен Уэйна Руни в 2017 году. «Брайтон» не просто разгромил соперника со счетом 5:0, но и повторил свой исторический рекорд против «орлов» 1956 года. Пьер Саж выставил в защите слишком молодых игроков, и это обернулось катастрофой: один из них привез автогол, а второй просто не справился с мощью атаки. Теперь тренеру"
   }
  ],
- "last_post": "2026-10-18T13:34:06.228248+00:00",
+ "last_post": "2026-10-18T15:30:10.682799+00:00",
  "limit_day": "2026-10-17"
 }
