@@ -217,7 +217,8 @@
   "https://www.theguardian.com/football/2026/oct/18/brighton-crystal-palace-premier-league-match-report",
   "https://nos.nl/l/2635516",
   "https://www.skysports.com/football/celtic-vs-hearts/report/558382",
-  "https://www.lequipe.fr/Football/Actualites/Victoire-spectaculaire-du-real-madrid-face-a-seville-double-de-kylian-mbappe/1736855#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Victoire-spectaculaire-du-real-madrid-face-a-seville-double-de-kylian-mbappe/1736855#at_medium=RSS_feeds",
+  "https://www.theguardian.com/football/2026/oct/18/nottingham-forest-arsenal-premier-league-match-report"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -437,10 +438,10 @@
   "gómez halfway line wondergoal sparks brighton s 5 0 thrashing of sorry crystal palace",
   "ajax richt zich op en wint met ruime cijfers bij fc groningen 2 5",
   "ruthless celtic hit seven past title rivals hearts in emphatic win",
-  "victoire spectaculaire du real madrid face à séville avec un doublé de kylian mbappé"
+  "victoire spectaculaire du real madrid face à séville avec un doublé de kylian mbappé",
+  "madueke breaks nottingham forest s resistance as dogged arsenal edge to victory"
  ],
  "recent": [
-  "⚽ Винисиус пропустит «Эль Класико»: четыре матча за волосы и крики на судью",
   "⚽ ПСГ разорил «Сити» за 99 секунд: Гвардиола на трибуне, Мареска бледнеет",
   "⚽ L'Équipe записала Барколу в «Ливерпуль» и насчитала 6:3 Линцу",
   "🏰 «Вилла» разнесла «Фенербахче» 6:0 — рекорд и буу Гринуду",
@@ -479,14 +480,10 @@
   "🤯 Гомес с 51 метра и разгром 5:0: «Брайтон» унизил «Кристал Пэлас»",
   "⚽ «Аякс» вылечился от кризиса разгромом «Гронингена» — 5:2",
   "🔥 7:1! «Сельтик» наварил «Хартс» и сбежал в лидеры на 4 очка",
-  "⚽ Мбаппе разогрелся: «Реал» разгромил Севилью за неделю до Класико"
+  "⚽ Мбаппе разогрелся: «Реал» разгромил Севилью за неделю до Класико",
+  "⚽ Арсенал вырвал 1:0 у «Леса», создав всего один удар в створ"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-14T17:38:39.129379+00:00",
-   "title": "⚽ Винисиус пропустит «Эль Класико»: четыре матча за волосы и крики на судью",
-   "body": "Винисиус получил четыре матча — два за дерганье Салибы за волосы вне игрового эпизода и два за агрессивные протесты после красной карточки — поэтому «Реал» выйдет на «Камп Ноу» 25 октября без бразильца: апелляцию клуба об «случайном контакте в борьбе за мяч» комитет отверг, сославшись на неприкосновенность арбитра. Винь уже извинился перед командой, но вернётся только после ноябрьского перерыва, а"
-  },
   {
    "time": "2026-10-14T19:42:33.956802+00:00",
    "title": "⚽ ПСГ разорил «Сити» за 99 секунд: Гвардиола на трибуне, Мареска бледнеет",
@@ -681,8 +678,13 @@
    "time": "2026-10-18T21:30:47.995859+00:00",
    "title": "⚽ Мбаппе разогрелся: «Реал» разгромил Севилью за неделю до Класико",
    "body": "На 9-м туре Ла Лиги «Реал» разгромил «Севилью» 4:1, а Мбаппе оформил дубль — идеальная репетиция за неделю до Класико. Француз забил за новые цвета в чемпионате, и «белые» выглядят пугающе перед встречей с «Барселоной». Анчелотти может спать спокойно: атака заиграла вовремя."
+  },
+  {
+   "time": "2026-10-18T23:28:24.328156+00:00",
+   "title": "⚽ Арсенал вырвал 1:0 у «Леса», создав всего один удар в створ",
+   "body": "Арсенал обыграл «Ноттингем» 1:0, пробив ворота Сельса всего с единственного удара в створ — Мадуэке, вышедший на смену, забил на 80-й минуте после рикошета от Куньи. «Лес» Глазнера пятый домашний матч подряд забил сухой, хотя Делап изматывал защиту, а фаны иронизировали: «Вы «Сити» в маске?». «Пушечники» были тусклы 80 минут, но ушли с очками, отомстив за разгром в Брайтоне."
   }
  ],
- "last_post": "2026-10-18T21:30:47.995871+00:00",
+ "last_post": "2026-10-18T23:28:24.328171+00:00",
  "limit_day": "2026-10-17"
 }
