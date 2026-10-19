@@ -229,7 +229,8 @@
   "https://www.theguardian.com/football/2026/oct/19/antoine-semenyo-eight-week-knee-injury-absence-manchester-city-short-cover-erling-haaland",
   "https://www.theguardian.com/football/2026/oct/19/brighton-premier-league-start",
   "https://www.theguardian.com/football/2026/oct/19/cristiano-ronaldo-30-day-suspension-and-215-fine-portugal-walkout",
-  "https://www.skysports.com/football/news/12040/13601072/uefa-writes-letter-to-fifa-demanding-answers-over-gianni-infantinos-presidency-and-his-relationship-with-donald-trump"
+  "https://www.skysports.com/football/news/12040/13601072/uefa-writes-letter-to-fifa-demanding-answers-over-gianni-infantinos-presidency-and-his-relationship-with-donald-trump",
+  "https://www.lequipe.fr/Football/Actualites/Buteur-pour-son-retour-comme-titulaire-james-maddison-offre-a-tottenham-sa-premiere-victoire-de-la-saison-en-premier-league/1737127#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -461,10 +462,10 @@
   "semenyo s eight week injury absence leaves manchester city short on cover for haaland",
   "brighton are the apex b club their next target should be a champions league place jonathan wilson",
   "cristiano ronaldo receives 30 day suspension and 215 fine over portugal walkout",
-  "uefa demands answers from fifa over infantino dealings in urgent letter"
+  "uefa demands answers from fifa over infantino dealings in urgent letter",
+  "buteur pour son retour comme titulaire james maddison offre à tottenham sa première victoire de la saison en premier league"
  ],
  "recent": [
-  "🎢 «Челси» — американские горки: 4,7 гола за матч и 22 игры без «сухой»",
   "⚽ Сэдж проиграл «своим», Чиссе нарисовал хет-трик, а «Леверкузен» возглавил таблицу",
   "😅 «Аякс» подарил «Хайдуку» 1-ю победу за 16 лет: 1-2 в дебюте Конференс-лиги",
   "⚽ «Бенфика» 4:1 «Селтик»: Два Дурана, дубль Хуана и крах О'Нилла",
@@ -503,14 +504,10 @@
   "🤕 Семеньо на полке 8 недель, Холанд хромает — у Марески голова болит",
   "🎯 Брайтон разгромил Пэлас 5:0 — Лига чемпионов уже не фантазия?",
   "⚽ Роналду отстранили на месяц и оштрафовали на 255 евро — цену ужина",
-  "⚽ УЕФА требует от Инфантино ответы на 42 вопроса за две недели: про Thrive Capital, £1,3 млн и разговоры с Трампом"
+  "⚽ УЕФА требует от Инфантино ответы на 42 вопроса за две недели: про Thrive Capital, £1,3 млн и разговоры с Трампом",
+  "⚽️ Тоттенхэм наконец-то выиграл: 3-1 над Ковентри"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-15T17:37:22.560815+00:00",
-   "title": "🎢 «Челси» — американские горки: 4,7 гола за матч и 22 игры без «сухой»",
-   "body": "Алонсо превратил «Челси» в цирк с конями: 15 забитых, 13 пропущенных за шесть туров и 4,7 гола за матч — нейтралам кайф, а в Лигу чемпионов так не попадёшь. xG 8,4 перерос в 15 мячей (вторая конверсия в лиге после «Сити»), а у «Борнмута» пять забили при 0,75 xG — чистое воровство. Но в обороне полный провал: 22 матча без «сухой» игры, совместное худшее число пропущенных и разгром от «Брентфорда» ("
-  },
   {
    "time": "2026-10-15T19:37:12.119723+00:00",
    "title": "⚽ Сэдж проиграл «своим», Чиссе нарисовал хет-трик, а «Леверкузен» возглавил таблицу",
@@ -705,8 +702,13 @@
    "time": "2026-10-19T21:35:28.626912+00:00",
    "title": "⚽ УЕФА требует от Инфантино ответы на 42 вопроса за две недели: про Thrive Capital, £1,3 млн и разговоры с Трампом",
    "body": "Теодоромис официально потребовал разъяснений по 12 темам — от тайной сделки с Thrive Capital за $20 млрд до того, почему ассоциациям предлагали доплаты за продажу доли Чемпионата при $6 млрд в кассе ФИФА; отдельно интерессует, что президент обсуждал с Трампом насчёт дисквалификации Балона. Инфантино на совете в Цюрихе признал ошибки, но УЕФА не удовлетворено: «Ответы нужны сейчас, а не на следующе"
+  },
+  {
+   "time": "2026-10-19T23:40:40.704763+00:00",
+   "title": "⚽️ Тоттенхэм наконец-то выиграл: 3-1 над Ковентри",
+   "body": "После шести туров без побед «Тоттенхэм» обыграл «Ковентри» 3:1. Вернувшийся в базу Джеймс Мэддисон открыл счёт, за ним отличились Омар Мармуш и Бен Дэвис. Это первый успех «шпор» в АПЛ за сезон."
   }
  ],
- "last_post": "2026-10-19T21:35:28.626929+00:00",
+ "last_post": "2026-10-19T23:40:40.704780+00:00",
  "limit_day": "2026-10-17"
 }
