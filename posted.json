@@ -222,7 +222,8 @@
   "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-omar-berrada-leeds-premier-league",
   "https://www.lequipe.fr/Football/Actualites/L-ol-vient-a-bout-de-nice-et-prend-la-tete-de-la-ligue-1/1736844#at_medium=RSS_feeds",
   "https://www.lequipe.fr/Football/Article/Lucas-hernandez-zaire-emery-digne-sans-nuno-mendes-qui-sera-aligne-face-a-lamine-yamal-lors-de-psg-barca-en-ligue-des-champions/1736773#at_medium=RSS_feeds",
-  "https://football-italia.net/serie-a-juventus-0-3-lazio-danish-delight-lady/"
+  "https://football-italia.net/serie-a-juventus-0-3-lazio-danish-delight-lady/",
+  "https://www.kicker.de/kurz-vor-einer-einigung-mit-milan-eintracht-bekaeme-abloese-fuer-kroesche-1262923/artikel#omrss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -447,10 +448,10 @@
   "elite level incompetence is manchester united s problem not michael carrick barney ronay",
   "l ol vient à bout de nice et prend la tête de la ligue 1",
   "lucas hernandez zaïre emery digne sans nuno mendes qui sera aligné face à lamine yamal lors de psg barça en ligue des champions",
-  "serie a juventus 0 3 lazio danish delight gives old lady tummy ache"
+  "serie a juventus 0 3 lazio danish delight gives old lady tummy ache",
+  "kurz vor einer einigung mit milan eintracht bekäme ablöse für krösche"
  ],
  "recent": [
-  "⚽ «Арсенал» разгромил «Лилль» 3:0 — решил Сака с лавки",
   "⚽ «Бёдо» вылечилось от баварской травмы за счёт Дортмунда",
   "⚽ «Сельтик» в Лиссабоне за сменой настроя, «Хартс» стартует с датчанами",
   "🤬 Моуринью в ярости: дисквалификация Винисиуса обнародовали за 2 часа до матча ЛЧ",
@@ -489,14 +490,10 @@
   "🎯 Карик — козёл отпущения для клуба, где Беррада — главный режиссёр хаоса",
   "🦁 «Лион» в десятке обыграл «Ниццу» и стал лидером Лиги 1",
   "🤕 Мендес выбыл на недели перед «Барселоной»: кто остановит Ямаля?",
-  "🇩🇰 Датчане разнесли «Юве» 0-3: первый успех в Турине с 2017 года"
+  "🇩🇰 Датчане разнесли «Юве» 0-3: первый успех в Турине с 2017 года",
+  "🤝 Крёше уходит в «Милан»? «Айнтрахт» получит откуп"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-15T03:36:52.616555+00:00",
-   "title": "⚽ «Арсенал» разгромил «Лилль» 3:0 — решил Сака с лавки",
-   "body": "«Арсенал» обыграл «Лилль» 3:0 — решал зашедший Сака, забивший гол и отдавший ассист. Французы не создали ни единого момента, а лондонцы спокойно взяли вторую победу в Лиге чемпионов, не задействовав всех первенцев. Эмирейтс снова стал крепостью, где гостям нечего делать. 😎"
-  },
   {
    "time": "2026-10-15T05:36:33.778425+00:00",
    "title": "⚽ «Бёдо» вылечилось от баварской травмы за счёт Дортмунда",
@@ -691,8 +688,13 @@
    "time": "2026-10-19T07:57:03.514494+00:00",
    "title": "🇩🇰 Датчане разнесли «Юве» 0-3: первый успех в Турине с 2017 года",
    "body": "«Ювентус» получил дома 0:3 от «Лацио» и, видимо, так и не نزل с небес после победы над «Сельтой»: Провстгаард и Исаксен реализовали датчанский дуэт, а Деле-Баширу на десерт ушел в соло с центра поля — «орлы» впервые с октября 2017 года забрали три очка в Турине. Без Йильдиза, Локателли и Тюрама «Старая синьора» выглядела беззащитно: Исаксен танцевал на краю штрафной, Бремер отбивал мячи на свою шт"
+  },
+  {
+   "time": "2026-10-19T09:40:26.568296+00:00",
+   "title": "🤝 Крёше уходит в «Милан»? «Айнтрахт» получит откуп",
+   "body": "По данным итальянских СМИ, спортивный директор «Айнтрахта» Маркус Крёше стоит у порога перехода в «Милан» — сделку могут оформить уже на этой неделе. Франкфурт не останется с пустыми руками: за уход своего архитектора успехов клуб получит компенсацию. Итальянцы явно решили, что лучше поздно, чем никогда нанять человека, собравшего команду за копейки."
   }
  ],
- "last_post": "2026-10-19T07:57:03.514510+00:00",
+ "last_post": "2026-10-19T09:40:26.568310+00:00",
  "limit_day": "2026-10-17"
 }
