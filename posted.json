@@ -225,7 +225,8 @@
   "https://football-italia.net/serie-a-juventus-0-3-lazio-danish-delight-lady/",
   "https://www.kicker.de/kurz-vor-einer-einigung-mit-milan-eintracht-bekaeme-abloese-fuer-kroesche-1262923/artikel#omrss",
   "https://football-italia.net/milans-growing-problem-under-amorim/",
-  "https://www.lequipe.fr/Football/Actualites/Psg-barca-bayern-arsenal-clasico-ballon-d-or-le-programme-exceptionnel-de-la-semaine/1736965#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Psg-barca-bayern-arsenal-clasico-ballon-d-or-le-programme-exceptionnel-de-la-semaine/1736965#at_medium=RSS_feeds",
+  "https://www.theguardian.com/football/2026/oct/19/antoine-semenyo-eight-week-knee-injury-absence-manchester-city-short-cover-erling-haaland"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -453,10 +454,10 @@
   "serie a juventus 0 3 lazio danish delight gives old lady tummy ache",
   "kurz vor einer einigung mit milan eintracht bekäme ablöse für krösche",
   "newspaper highlights milan s growing problem under amorim despite 3 2 victory",
-  "psg barça bayern arsenal clasico ballon d or le programme exceptionnel de la semaine"
+  "psg barça bayern arsenal clasico ballon d or le programme exceptionnel de la semaine",
+  "semenyo s eight week injury absence leaves manchester city short on cover for haaland"
  ],
  "recent": [
-  "🤬 Моуринью в ярости: дисквалификация Винисиуса обнародовали за 2 часа до матча ЛЧ",
   "🚨 «Милан» упустил «Осьминога»?",
   "😭 Лаутаро оформил дубль и сразу получил травму на месяц",
   "🏠 Кража вместо триумфа: кошмар Антони",
@@ -495,14 +496,10 @@
   "🇩🇰 Датчане разнесли «Юве» 0-3: первый успех в Турине с 2017 года",
   "🤝 Крёше уходит в «Милан»? «Айнтрахт» получит откуп",
   "🔥 «Милан» 3:2 «Аталанта»: три очка, но кончились ноги",
-  "🔥 Неделя XXL: Лига чемпионов, Класико и «Золотой мяч»"
+  "🔥 Неделя XXL: Лига чемпионов, Класико и «Золотой мяч»",
+  "🤕 Семеньо на полке 8 недель, Холанд хромает — у Марески голова болит"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-15T09:37:23.169996+00:00",
-   "title": "🤬 Моуринью в ярости: дисквалификация Винисиуса обнародовали за 2 часа до матча ЛЧ",
-   "body": "Жозе Моуринью назвал бесстыдным тайминг решения КДК РФФ: о четырёхматчевой дисквалификации Винисиуса за дергание волос Салиба «Реал» узнал прямо перед стартом с «Ромой». Бразилец пропустит матчи с «Севильей», «Барселоной», «Расингом» и «Валенсией», а значит, и эль-класико. «Не могли решить это завтра утром? Команде, приносящей очки Испании в рейтинге УЕФА, наносят удар за два часа до игры», — взор"
-  },
   {
    "time": "2026-10-15T11:41:13.703422+00:00",
    "title": "🚨 «Милан» упустил «Осьминога»?",
@@ -697,8 +694,13 @@
    "time": "2026-10-19T13:51:53.505055+00:00",
    "title": "🔥 Неделя XXL: Лига чемпионов, Класико и «Золотой мяч»",
    "body": "На горизонте неделя формата XXL: «ПСЖ» встречает «Барселону», «Бавария» играет с «Арсеналом», в выходные разгорится Класико, а в понедельник вручат «Золотой мяч». L'Équipe назвала программу просто безумной — и справедливо: столько топовых матчей за семь дней бывает не каждый сезон. Запасайтесь кофеином и крепкими нервами, предстоит смотреть футбол почти без перерывов."
+  },
+  {
+   "time": "2026-10-19T15:44:38.055604+00:00",
+   "title": "🤕 Семеньо на полке 8 недель, Холанд хромает — у Марески голова болит",
+   "body": "Антуан Семеньо получил травму колена в матче с «Ипсвичем» и пропадёт на два месяца, а Эрлинг Холанд ушёл хромая, ставя под сомнение игру с «АЕК» в Лиге чемпионов. Мареска признал, что заменить норвежца «всегда сложно», а теперь в запасе только Фоден и Ндиайе — при этом в октябре запланировано семь матчей за 21 день. После победы над «Ипсвичем» в лазарете оказались пятеро: к Семеньо и Холанду добав"
   }
  ],
- "last_post": "2026-10-19T13:51:53.505074+00:00",
+ "last_post": "2026-10-19T15:44:38.055624+00:00",
  "limit_day": "2026-10-17"
 }
