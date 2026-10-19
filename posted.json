@@ -223,7 +223,8 @@
   "https://www.lequipe.fr/Football/Actualites/L-ol-vient-a-bout-de-nice-et-prend-la-tete-de-la-ligue-1/1736844#at_medium=RSS_feeds",
   "https://www.lequipe.fr/Football/Article/Lucas-hernandez-zaire-emery-digne-sans-nuno-mendes-qui-sera-aligne-face-a-lamine-yamal-lors-de-psg-barca-en-ligue-des-champions/1736773#at_medium=RSS_feeds",
   "https://football-italia.net/serie-a-juventus-0-3-lazio-danish-delight-lady/",
-  "https://www.kicker.de/kurz-vor-einer-einigung-mit-milan-eintracht-bekaeme-abloese-fuer-kroesche-1262923/artikel#omrss"
+  "https://www.kicker.de/kurz-vor-einer-einigung-mit-milan-eintracht-bekaeme-abloese-fuer-kroesche-1262923/artikel#omrss",
+  "https://football-italia.net/milans-growing-problem-under-amorim/"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -449,10 +450,10 @@
   "l ol vient à bout de nice et prend la tête de la ligue 1",
   "lucas hernandez zaïre emery digne sans nuno mendes qui sera aligné face à lamine yamal lors de psg barça en ligue des champions",
   "serie a juventus 0 3 lazio danish delight gives old lady tummy ache",
-  "kurz vor einer einigung mit milan eintracht bekäme ablöse für krösche"
+  "kurz vor einer einigung mit milan eintracht bekäme ablöse für krösche",
+  "newspaper highlights milan s growing problem under amorim despite 3 2 victory"
  ],
  "recent": [
-  "⚽ «Бёдо» вылечилось от баварской травмы за счёт Дортмунда",
   "⚽ «Сельтик» в Лиссабоне за сменой настроя, «Хартс» стартует с датчанами",
   "🤬 Моуринью в ярости: дисквалификация Винисиуса обнародовали за 2 часа до матча ЛЧ",
   "🚨 «Милан» упустил «Осьминога»?",
@@ -491,14 +492,10 @@
   "🦁 «Лион» в десятке обыграл «Ниццу» и стал лидером Лиги 1",
   "🤕 Мендес выбыл на недели перед «Барселоной»: кто остановит Ямаля?",
   "🇩🇰 Датчане разнесли «Юве» 0-3: первый успех в Турине с 2017 года",
-  "🤝 Крёше уходит в «Милан»? «Айнтрахт» получит откуп"
+  "🤝 Крёше уходит в «Милан»? «Айнтрахт» получит откуп",
+  "🔥 «Милан» 3:2 «Аталанта»: три очка, но кончились ноги"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-15T05:36:33.778425+00:00",
-   "title": "⚽ «Бёдо» вылечилось от баварской травмы за счёт Дортмунда",
-   "body": "«Бёдо/Глимт» отбилась от разгрома у «Баварии» сухим 1:0 над «Боруссией» в ЛЧ — норвежцы доказали: характер у них крепче, чем кажется. «Боруссия» же продолжает коллекционировать неожиданные провалы, будто это тренд сезона. Интересно, сколько ещё гигантов падут под натиском «полярных волков»?"
-  },
   {
    "time": "2026-10-15T07:47:53.404530+00:00",
    "title": "⚽ «Сельтик» в Лиссабоне за сменой настроя, «Хартс» стартует с датчанами",
@@ -693,8 +690,13 @@
    "time": "2026-10-19T09:40:26.568296+00:00",
    "title": "🤝 Крёше уходит в «Милан»? «Айнтрахт» получит откуп",
    "body": "По данным итальянских СМИ, спортивный директор «Айнтрахта» Маркус Крёше стоит у порога перехода в «Милан» — сделку могут оформить уже на этой неделе. Франкфурт не останется с пустыми руками: за уход своего архитектора успехов клуб получит компенсацию. Итальянцы явно решили, что лучше поздно, чем никогда нанять человека, собравшего команду за копейки."
+  },
+  {
+   "time": "2026-10-19T11:38:37.716819+00:00",
+   "title": "🔥 «Милан» 3:2 «Аталанта»: три очка, но кончились ноги",
+   "body": "«Милан» обыграл «Аталанту» 3:2, удержав беспроигрышный старт сезона, но после часа игры на счёте 3:0 Гонсалу Рамуш не реализовал пенальти, а «неразуззурри» отбили два мяча и чуть не унесли очко. «Газетта» хвалит атаку и появившуюся «идентичность», но указывает на растущую проблему: система Аморима физически перегружает игроков, из-за чего команда не тянет 90 минут на высоком темпе. При этом португ"
   }
  ],
- "last_post": "2026-10-19T09:40:26.568310+00:00",
+ "last_post": "2026-10-19T11:38:37.716829+00:00",
  "limit_day": "2026-10-17"
 }
