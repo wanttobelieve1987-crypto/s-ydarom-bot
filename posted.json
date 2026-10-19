@@ -224,7 +224,8 @@
   "https://www.lequipe.fr/Football/Article/Lucas-hernandez-zaire-emery-digne-sans-nuno-mendes-qui-sera-aligne-face-a-lamine-yamal-lors-de-psg-barca-en-ligue-des-champions/1736773#at_medium=RSS_feeds",
   "https://football-italia.net/serie-a-juventus-0-3-lazio-danish-delight-lady/",
   "https://www.kicker.de/kurz-vor-einer-einigung-mit-milan-eintracht-bekaeme-abloese-fuer-kroesche-1262923/artikel#omrss",
-  "https://football-italia.net/milans-growing-problem-under-amorim/"
+  "https://football-italia.net/milans-growing-problem-under-amorim/",
+  "https://www.lequipe.fr/Football/Actualites/Psg-barca-bayern-arsenal-clasico-ballon-d-or-le-programme-exceptionnel-de-la-semaine/1736965#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -451,10 +452,10 @@
   "lucas hernandez zaïre emery digne sans nuno mendes qui sera aligné face à lamine yamal lors de psg barça en ligue des champions",
   "serie a juventus 0 3 lazio danish delight gives old lady tummy ache",
   "kurz vor einer einigung mit milan eintracht bekäme ablöse für krösche",
-  "newspaper highlights milan s growing problem under amorim despite 3 2 victory"
+  "newspaper highlights milan s growing problem under amorim despite 3 2 victory",
+  "psg barça bayern arsenal clasico ballon d or le programme exceptionnel de la semaine"
  ],
  "recent": [
-  "⚽ «Сельтик» в Лиссабоне за сменой настроя, «Хартс» стартует с датчанами",
   "🤬 Моуринью в ярости: дисквалификация Винисиуса обнародовали за 2 часа до матча ЛЧ",
   "🚨 «Милан» упустил «Осьминога»?",
   "😭 Лаутаро оформил дубль и сразу получил травму на месяц",
@@ -493,14 +494,10 @@
   "🤕 Мендес выбыл на недели перед «Барселоной»: кто остановит Ямаля?",
   "🇩🇰 Датчане разнесли «Юве» 0-3: первый успех в Турине с 2017 года",
   "🤝 Крёше уходит в «Милан»? «Айнтрахт» получит откуп",
-  "🔥 «Милан» 3:2 «Аталанта»: три очка, но кончились ноги"
+  "🔥 «Милан» 3:2 «Аталанта»: три очка, но кончились ноги",
+  "🔥 Неделя XXL: Лига чемпионов, Класико и «Золотой мяч»"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-15T07:47:53.404530+00:00",
-   "title": "⚽ «Сельтик» в Лиссабоне за сменой настроя, «Хартс» стартует с датчанами",
-   "body": "В подкасте BBC Крейг Телфер с бывшим защитником «Хартс» Райаном Макгоуаном разбирают европейский дубль шотландцев: «Сельтик» едет к «Бенфике» на фоне бури вокруг Мартина О'Нилла и в разгаре формы Каспера Хёга — результат в Лиссабоне может сменить настрой на Паркхеде. «Хартс» под руководством Вутера Вранкена открывает Конференс-лигу дома с «Нордсёлландом»: датчане опаснее, чем кажутся, а Тайнкасл о"
-  },
   {
    "time": "2026-10-15T09:37:23.169996+00:00",
    "title": "🤬 Моуринью в ярости: дисквалификация Винисиуса обнародовали за 2 часа до матча ЛЧ",
@@ -695,8 +692,13 @@
    "time": "2026-10-19T11:38:37.716819+00:00",
    "title": "🔥 «Милан» 3:2 «Аталанта»: три очка, но кончились ноги",
    "body": "«Милан» обыграл «Аталанту» 3:2, удержав беспроигрышный старт сезона, но после часа игры на счёте 3:0 Гонсалу Рамуш не реализовал пенальти, а «неразуззурри» отбили два мяча и чуть не унесли очко. «Газетта» хвалит атаку и появившуюся «идентичность», но указывает на растущую проблему: система Аморима физически перегружает игроков, из-за чего команда не тянет 90 минут на высоком темпе. При этом португ"
+  },
+  {
+   "time": "2026-10-19T13:51:53.505055+00:00",
+   "title": "🔥 Неделя XXL: Лига чемпионов, Класико и «Золотой мяч»",
+   "body": "На горизонте неделя формата XXL: «ПСЖ» встречает «Барселону», «Бавария» играет с «Арсеналом», в выходные разгорится Класико, а в понедельник вручат «Золотой мяч». L'Équipe назвала программу просто безумной — и справедливо: столько топовых матчей за семь дней бывает не каждый сезон. Запасайтесь кофеином и крепкими нервами, предстоит смотреть футбол почти без перерывов."
   }
  ],
- "last_post": "2026-10-19T11:38:37.716829+00:00",
+ "last_post": "2026-10-19T13:51:53.505074+00:00",
  "limit_day": "2026-10-17"
 }
