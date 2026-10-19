@@ -218,7 +218,8 @@
   "https://nos.nl/l/2635516",
   "https://www.skysports.com/football/celtic-vs-hearts/report/558382",
   "https://www.lequipe.fr/Football/Actualites/Victoire-spectaculaire-du-real-madrid-face-a-seville-double-de-kylian-mbappe/1736855#at_medium=RSS_feeds",
-  "https://www.theguardian.com/football/2026/oct/18/nottingham-forest-arsenal-premier-league-match-report"
+  "https://www.theguardian.com/football/2026/oct/18/nottingham-forest-arsenal-premier-league-match-report",
+  "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-omar-berrada-leeds-premier-league"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -439,10 +440,10 @@
   "ajax richt zich op en wint met ruime cijfers bij fc groningen 2 5",
   "ruthless celtic hit seven past title rivals hearts in emphatic win",
   "victoire spectaculaire du real madrid face à séville avec un doublé de kylian mbappé",
-  "madueke breaks nottingham forest s resistance as dogged arsenal edge to victory"
+  "madueke breaks nottingham forest s resistance as dogged arsenal edge to victory",
+  "elite level incompetence is manchester united s problem not michael carrick barney ronay"
  ],
  "recent": [
-  "⚽ ПСГ разорил «Сити» за 99 секунд: Гвардиола на трибуне, Мареска бледнеет",
   "⚽ L'Équipe записала Барколу в «Ливерпуль» и насчитала 6:3 Линцу",
   "🏰 «Вилла» разнесла «Фенербахче» 6:0 — рекорд и буу Гринуду",
   "⚽ Иско спас «Бетис» пенальти в 84-й: 3:2 и идеальный старт в ЛЧ",
@@ -481,14 +482,10 @@
   "⚽ «Аякс» вылечился от кризиса разгромом «Гронингена» — 5:2",
   "🔥 7:1! «Сельтик» наварил «Хартс» и сбежал в лидеры на 4 очка",
   "⚽ Мбаппе разогрелся: «Реал» разгромил Севилью за неделю до Класико",
-  "⚽ Арсенал вырвал 1:0 у «Леса», создав всего один удар в створ"
+  "⚽ Арсенал вырвал 1:0 у «Леса», создав всего один удар в створ",
+  "🎯 Карик — козёл отпущения для клуба, где Беррада — главный режиссёр хаоса"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-14T19:42:33.956802+00:00",
-   "title": "⚽ ПСГ разорил «Сити» за 99 секунд: Гвардиола на трибуне, Мареска бледнеет",
-   "body": "ПСГ нагло обрушил «Сити» двойным ударом за минуту 39 секунд: Дуэ вписался в нижний угол, а Дембеле тут же головой отправил мяч в дальний угол. Халанд с близкой дистанции умудрился не попасть по воротам, Хусанов на втором голе выглядел призраком, а Гвардиола с трибун с «тысячемильным» взглядом наблюдал, как Мареска на линии бледнеет. К 33-й минуте Витинья увеличил счёт до 3:0, заставив ситизенсов у"
-  },
   {
    "time": "2026-10-14T21:38:34.105685+00:00",
    "title": "⚽ L'Équipe записала Барколу в «Ливерпуль» и насчитала 6:3 Линцу",
@@ -683,8 +680,13 @@
    "time": "2026-10-18T23:28:24.328156+00:00",
    "title": "⚽ Арсенал вырвал 1:0 у «Леса», создав всего один удар в створ",
    "body": "Арсенал обыграл «Ноттингем» 1:0, пробив ворота Сельса всего с единственного удара в створ — Мадуэке, вышедший на смену, забил на 80-й минуте после рикошета от Куньи. «Лес» Глазнера пятый домашний матч подряд забил сухой, хотя Делап изматывал защиту, а фаны иронизировали: «Вы «Сити» в маске?». «Пушечники» были тусклы 80 минут, но ушли с очками, отомстив за разгром в Брайтоне."
+  },
+  {
+   "time": "2026-10-19T01:38:44.990307+00:00",
+   "title": "🎯 Карик — козёл отпущения для клуба, где Беррада — главный режиссёр хаоса",
+   "body": "«Манчестер Юнайтед» застрял на 13-м месте после 1:1 с «Лидсом», но главное не в счёте: третья по доходам команда мира во втором тайме выставляла три из четырёх защитников не на своих позициях, а Магуайр по Ронею напоминает «шкаф в шортах». Беррада нанял Карика, теперь хочет уволить его за то, что сломано на уровне руководства — грядущий месяц с «Борнмутом», «Челси», «Виллой» и «Ливерпулем» преврат"
   }
  ],
- "last_post": "2026-10-18T23:28:24.328171+00:00",
+ "last_post": "2026-10-19T01:38:44.990329+00:00",
  "limit_day": "2026-10-17"
 }
