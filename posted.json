@@ -220,7 +220,8 @@
   "https://www.lequipe.fr/Football/Actualites/Victoire-spectaculaire-du-real-madrid-face-a-seville-double-de-kylian-mbappe/1736855#at_medium=RSS_feeds",
   "https://www.theguardian.com/football/2026/oct/18/nottingham-forest-arsenal-premier-league-match-report",
   "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-omar-berrada-leeds-premier-league",
-  "https://www.lequipe.fr/Football/Actualites/L-ol-vient-a-bout-de-nice-et-prend-la-tete-de-la-ligue-1/1736844#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/L-ol-vient-a-bout-de-nice-et-prend-la-tete-de-la-ligue-1/1736844#at_medium=RSS_feeds",
+  "https://www.lequipe.fr/Football/Article/Lucas-hernandez-zaire-emery-digne-sans-nuno-mendes-qui-sera-aligne-face-a-lamine-yamal-lors-de-psg-barca-en-ligue-des-champions/1736773#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -443,10 +444,10 @@
   "victoire spectaculaire du real madrid face à séville avec un doublé de kylian mbappé",
   "madueke breaks nottingham forest s resistance as dogged arsenal edge to victory",
   "elite level incompetence is manchester united s problem not michael carrick barney ronay",
-  "l ol vient à bout de nice et prend la tête de la ligue 1"
+  "l ol vient à bout de nice et prend la tête de la ligue 1",
+  "lucas hernandez zaïre emery digne sans nuno mendes qui sera aligné face à lamine yamal lors de psg barça en ligue des champions"
  ],
  "recent": [
-  "🏰 «Вилла» разнесла «Фенербахче» 6:0 — рекорд и буу Гринуду",
   "⚽ Иско спас «Бетис» пенальти в 84-й: 3:2 и идеальный старт в ЛЧ",
   "⚽ «Арсенал» разгромил «Лилль» 3:0 — решил Сака с лавки",
   "⚽ «Бёдо» вылечилось от баварской травмы за счёт Дортмунда",
@@ -485,14 +486,10 @@
   "⚽ Мбаппе разогрелся: «Реал» разгромил Севилью за неделю до Класико",
   "⚽ Арсенал вырвал 1:0 у «Леса», создав всего один удар в створ",
   "🎯 Карик — козёл отпущения для клуба, где Беррада — главный режиссёр хаоса",
-  "🦁 «Лион» в десятке обыграл «Ниццу» и стал лидером Лиги 1"
+  "🦁 «Лион» в десятке обыграл «Ниццу» и стал лидером Лиги 1",
+  "🤕 Мендес выбыл на недели перед «Барселоной»: кто остановит Ямаля?"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-14T23:34:06.009038+00:00",
-   "title": "🏰 «Вилла» разнесла «Фенербахче» 6:0 — рекорд и буу Гринуду",
-   "body": "«Астон Вилла» разгромила «Фенербахче» 6:0, поставив рекорд крупнейшей победы в еврокубках и огласив 11-ю домашнюю победу в Европе подряд. Йохан Манзамби отметил 21-й день рождения дебютным голом в Лиге чемпионов, Николас Джексон и Росс Баркли набрали по дублю, а Тамми Абрахам закрепил разгром. Принц Уильям на трибунах видел, как «Вилла» забила трижды у пустой северной трибуны, а Мейсон Гринуд на к"
-  },
   {
    "time": "2026-10-15T01:37:29.878796+00:00",
    "title": "⚽ Иско спас «Бетис» пенальти в 84-й: 3:2 и идеальный старт в ЛЧ",
@@ -687,8 +684,13 @@
    "time": "2026-10-19T03:36:13.141026+00:00",
    "title": "🦁 «Лион» в десятке обыграл «Ниццу» и стал лидером Лиги 1",
    "body": "Отстав от «Ниццы» и закончив матч в меньшинстве, «Лион» всё равно вырвал 2:1 и благодаря лучшей разнице мячей возглавил таблицу после седьмого тура. Гонесы показали стальной характер: отставать, терять игрока и всё равно побеждать — значит, по духу они сейчас выше всех в чемпионате."
+  },
+  {
+   "time": "2026-10-19T05:36:30.887619+00:00",
+   "title": "🤕 Мендес выбыл на недели перед «Барселоной»: кто остановит Ямаля?",
+   "body": "Нуну Мендес потянул бедро в матче со «Страсбургом» и выбыл на недели, пропустив матч с «Барселоной» в Лиге чемпионов уже во вторник: по данным L'Équipe, Лукас Динье, которого считали главным претендентом на замену, даже не уверен в старте. Энрике решает: сдвинуть Эрнандеса на левый фланг, поставить Заира-Эмери вингбэком или всё-таки рискнуть Динье. Ламин Ямаль, скорее всего, уже трется руками в пр"
   }
  ],
- "last_post": "2026-10-19T03:36:13.141042+00:00",
+ "last_post": "2026-10-19T05:36:30.887635+00:00",
  "limit_day": "2026-10-17"
 }
