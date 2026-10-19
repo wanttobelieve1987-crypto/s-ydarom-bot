@@ -227,7 +227,8 @@
   "https://football-italia.net/milans-growing-problem-under-amorim/",
   "https://www.lequipe.fr/Football/Actualites/Psg-barca-bayern-arsenal-clasico-ballon-d-or-le-programme-exceptionnel-de-la-semaine/1736965#at_medium=RSS_feeds",
   "https://www.theguardian.com/football/2026/oct/19/antoine-semenyo-eight-week-knee-injury-absence-manchester-city-short-cover-erling-haaland",
-  "https://www.theguardian.com/football/2026/oct/19/brighton-premier-league-start"
+  "https://www.theguardian.com/football/2026/oct/19/brighton-premier-league-start",
+  "https://www.theguardian.com/football/2026/oct/19/cristiano-ronaldo-30-day-suspension-and-215-fine-portugal-walkout"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -457,10 +458,10 @@
   "newspaper highlights milan s growing problem under amorim despite 3 2 victory",
   "psg barça bayern arsenal clasico ballon d or le programme exceptionnel de la semaine",
   "semenyo s eight week injury absence leaves manchester city short on cover for haaland",
-  "brighton are the apex b club their next target should be a champions league place jonathan wilson"
+  "brighton are the apex b club their next target should be a champions league place jonathan wilson",
+  "cristiano ronaldo receives 30 day suspension and 215 fine over portugal walkout"
  ],
  "recent": [
-  "😭 Лаутаро оформил дубль и сразу получил травму на месяц",
   "🏠 Кража вместо триумфа: кошмар Антони",
   "🎢 «Челси» — американские горки: 4,7 гола за матч и 22 игры без «сухой»",
   "⚽ Сэдж проиграл «своим», Чиссе нарисовал хет-трик, а «Леверкузен» возглавил таблицу",
@@ -499,14 +500,10 @@
   "🔥 «Милан» 3:2 «Аталанта»: три очка, но кончились ноги",
   "🔥 Неделя XXL: Лига чемпионов, Класико и «Золотой мяч»",
   "🤕 Семеньо на полке 8 недель, Холанд хромает — у Марески голова болит",
-  "🎯 Брайтон разгромил Пэлас 5:0 — Лига чемпионов уже не фантазия?"
+  "🎯 Брайтон разгромил Пэлас 5:0 — Лига чемпионов уже не фантазия?",
+  "⚽ Роналду отстранили на месяц и оштрафовали на 255 евро — цену ужина"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-15T13:48:59.651461+00:00",
-   "title": "😭 Лаутаро оформил дубль и сразу получил травму на месяц",
-   "body": "Лаутаро Мартинес забил два мяча в безумном матче Лиги чемпионов против «Брюгге» (3:4), но после игры получил растяжение левого бедра и может пропустить около четырёх недель. Для «Интера» это серьёзная потеря: терять главного снайпера в разгар сезона — всё равно что оставаться без пульса в решающем матче. Индзаги уже ищет замену в атаке, а болельщики держат кулаки за аргентинца, надеясь на быстрое "
-  },
   {
    "time": "2026-10-15T15:39:09.211156+00:00",
    "title": "🏠 Кража вместо триумфа: кошмар Антони",
@@ -701,8 +698,13 @@
    "time": "2026-10-19T17:40:45.831496+00:00",
    "title": "🎯 Брайтон разгромил Пэлас 5:0 — Лига чемпионов уже не фантазия?",
    "body": "«Моряки» без звезд, но с 11 разными авторами голов в сезоне безнадежно переиграли «Кристал Пэлас» в дерби: 5:0 за 10 минут решило всё. Джонатан Уилсон справедливо замечает: пока «Сити» ждёт приговор, а гиганты перестраиваются, у «Б-клубов» не будет лучшего шанса прорваться в топ-5. Глубина скада позволила выжить без ушедших летом Балебы, Ван Хекке, Уэлбека и Милнера, а возврат 35-летнего Гросса из"
+  },
+  {
+   "time": "2026-10-19T19:39:27.665670+00:00",
+   "title": "⚽ Роналду отстранили на месяц и оштрафовали на 255 евро — цену ужина",
+   "body": "Криштиану Роналду получили 30 дней дисквалификации и символический штраф за сбегание из расположения сборной Португалии перед матчем с Данией: 41-летний форвард уехал из Копенгагена после конфликта с Жорже Жешушем, обещавшим ему роль, а затем севшего на скамейку запасных против Норвегии. Жешуш отрицал договорённости, но после победы 2:1 открыл дверь для возвращения капитана. Президент федерации Пе"
   }
  ],
- "last_post": "2026-10-19T17:40:45.831507+00:00",
+ "last_post": "2026-10-19T19:39:27.665685+00:00",
  "limit_day": "2026-10-17"
 }
