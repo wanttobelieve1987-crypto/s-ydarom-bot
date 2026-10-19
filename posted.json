@@ -226,7 +226,8 @@
   "https://www.kicker.de/kurz-vor-einer-einigung-mit-milan-eintracht-bekaeme-abloese-fuer-kroesche-1262923/artikel#omrss",
   "https://football-italia.net/milans-growing-problem-under-amorim/",
   "https://www.lequipe.fr/Football/Actualites/Psg-barca-bayern-arsenal-clasico-ballon-d-or-le-programme-exceptionnel-de-la-semaine/1736965#at_medium=RSS_feeds",
-  "https://www.theguardian.com/football/2026/oct/19/antoine-semenyo-eight-week-knee-injury-absence-manchester-city-short-cover-erling-haaland"
+  "https://www.theguardian.com/football/2026/oct/19/antoine-semenyo-eight-week-knee-injury-absence-manchester-city-short-cover-erling-haaland",
+  "https://www.theguardian.com/football/2026/oct/19/brighton-premier-league-start"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -455,10 +456,10 @@
   "kurz vor einer einigung mit milan eintracht bekäme ablöse für krösche",
   "newspaper highlights milan s growing problem under amorim despite 3 2 victory",
   "psg barça bayern arsenal clasico ballon d or le programme exceptionnel de la semaine",
-  "semenyo s eight week injury absence leaves manchester city short on cover for haaland"
+  "semenyo s eight week injury absence leaves manchester city short on cover for haaland",
+  "brighton are the apex b club their next target should be a champions league place jonathan wilson"
  ],
  "recent": [
-  "🚨 «Милан» упустил «Осьминога»?",
   "😭 Лаутаро оформил дубль и сразу получил травму на месяц",
   "🏠 Кража вместо триумфа: кошмар Антони",
   "🎢 «Челси» — американские горки: 4,7 гола за матч и 22 игры без «сухой»",
@@ -497,14 +498,10 @@
   "🤝 Крёше уходит в «Милан»? «Айнтрахт» получит откуп",
   "🔥 «Милан» 3:2 «Аталанта»: три очка, но кончились ноги",
   "🔥 Неделя XXL: Лига чемпионов, Класико и «Золотой мяч»",
-  "🤕 Семеньо на полке 8 недель, Холанд хромает — у Марески голова болит"
+  "🤕 Семеньо на полке 8 недель, Холанд хромает — у Марески голова болит",
+  "🎯 Брайтон разгромил Пэлас 5:0 — Лига чемпионов уже не фантазия?"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-15T11:41:13.703422+00:00",
-   "title": "🚨 «Милан» упустил «Осьминога»?",
-   "body": "По данным TuttoMercatoWeb, «Милан» может горько пожалеть об упущенном шансе подписать Иссу Думбию. Еще в апреле Аллегри и Таре считали 22-летнего полузащитника идеальным усилением, но сделка сорвалась из-за их ухода из клуба. Теперь «Осьминог» разрывает Португалию в составе «Спортинга», а за ним уже начали охоту клубы из АПЛ. Чтобы забрать игрока, придется выложить от 80 миллионов евро — именно та"
-  },
   {
    "time": "2026-10-15T13:48:59.651461+00:00",
    "title": "😭 Лаутаро оформил дубль и сразу получил травму на месяц",
@@ -699,8 +696,13 @@
    "time": "2026-10-19T15:44:38.055604+00:00",
    "title": "🤕 Семеньо на полке 8 недель, Холанд хромает — у Марески голова болит",
    "body": "Антуан Семеньо получил травму колена в матче с «Ипсвичем» и пропадёт на два месяца, а Эрлинг Холанд ушёл хромая, ставя под сомнение игру с «АЕК» в Лиге чемпионов. Мареска признал, что заменить норвежца «всегда сложно», а теперь в запасе только Фоден и Ндиайе — при этом в октябре запланировано семь матчей за 21 день. После победы над «Ипсвичем» в лазарете оказались пятеро: к Семеньо и Холанду добав"
+  },
+  {
+   "time": "2026-10-19T17:40:45.831496+00:00",
+   "title": "🎯 Брайтон разгромил Пэлас 5:0 — Лига чемпионов уже не фантазия?",
+   "body": "«Моряки» без звезд, но с 11 разными авторами голов в сезоне безнадежно переиграли «Кристал Пэлас» в дерби: 5:0 за 10 минут решило всё. Джонатан Уилсон справедливо замечает: пока «Сити» ждёт приговор, а гиганты перестраиваются, у «Б-клубов» не будет лучшего шанса прорваться в топ-5. Глубина скада позволила выжить без ушедших летом Балебы, Ван Хекке, Уэлбека и Милнера, а возврат 35-летнего Гросса из"
   }
  ],
- "last_post": "2026-10-19T15:44:38.055624+00:00",
+ "last_post": "2026-10-19T17:40:45.831507+00:00",
  "limit_day": "2026-10-17"
 }
