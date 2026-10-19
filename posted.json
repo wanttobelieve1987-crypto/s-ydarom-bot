@@ -219,7 +219,8 @@
   "https://www.skysports.com/football/celtic-vs-hearts/report/558382",
   "https://www.lequipe.fr/Football/Actualites/Victoire-spectaculaire-du-real-madrid-face-a-seville-double-de-kylian-mbappe/1736855#at_medium=RSS_feeds",
   "https://www.theguardian.com/football/2026/oct/18/nottingham-forest-arsenal-premier-league-match-report",
-  "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-omar-berrada-leeds-premier-league"
+  "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-omar-berrada-leeds-premier-league",
+  "https://www.lequipe.fr/Football/Actualites/L-ol-vient-a-bout-de-nice-et-prend-la-tete-de-la-ligue-1/1736844#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -441,10 +442,10 @@
   "ruthless celtic hit seven past title rivals hearts in emphatic win",
   "victoire spectaculaire du real madrid face à séville avec un doublé de kylian mbappé",
   "madueke breaks nottingham forest s resistance as dogged arsenal edge to victory",
-  "elite level incompetence is manchester united s problem not michael carrick barney ronay"
+  "elite level incompetence is manchester united s problem not michael carrick barney ronay",
+  "l ol vient à bout de nice et prend la tête de la ligue 1"
  ],
  "recent": [
-  "⚽ L'Équipe записала Барколу в «Ливерпуль» и насчитала 6:3 Линцу",
   "🏰 «Вилла» разнесла «Фенербахче» 6:0 — рекорд и буу Гринуду",
   "⚽ Иско спас «Бетис» пенальти в 84-й: 3:2 и идеальный старт в ЛЧ",
   "⚽ «Арсенал» разгромил «Лилль» 3:0 — решил Сака с лавки",
@@ -483,14 +484,10 @@
   "🔥 7:1! «Сельтик» наварил «Хартс» и сбежал в лидеры на 4 очка",
   "⚽ Мбаппе разогрелся: «Реал» разгромил Севилью за неделю до Класико",
   "⚽ Арсенал вырвал 1:0 у «Леса», создав всего один удар в створ",
-  "🎯 Карик — козёл отпущения для клуба, где Беррада — главный режиссёр хаоса"
+  "🎯 Карик — козёл отпущения для клуба, где Беррада — главный режиссёр хаоса",
+  "🦁 «Лион» в десятке обыграл «Ниццу» и стал лидером Лиги 1"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-14T21:38:34.105685+00:00",
-   "title": "⚽ L'Équipe записала Барколу в «Ливерпуль» и насчитала 6:3 Линцу",
-   "body": "L'Équipe утверждает: «Ливерпуль» разгромил Линц 6:3, и хет-трик за «редз» оформил Брадли Баркола — англичане сохранили идеальный старт в ЛЧ, а «Фейеноорд» открыл счёт побед над «Комо» (3:2). Французы явно перепутали клуб форварда ПСЖ, но зато безумное зрелище в Австрии обеспечили на все сто."
-  },
   {
    "time": "2026-10-14T23:34:06.009038+00:00",
    "title": "🏰 «Вилла» разнесла «Фенербахче» 6:0 — рекорд и буу Гринуду",
@@ -685,8 +682,13 @@
    "time": "2026-10-19T01:38:44.990307+00:00",
    "title": "🎯 Карик — козёл отпущения для клуба, где Беррада — главный режиссёр хаоса",
    "body": "«Манчестер Юнайтед» застрял на 13-м месте после 1:1 с «Лидсом», но главное не в счёте: третья по доходам команда мира во втором тайме выставляла три из четырёх защитников не на своих позициях, а Магуайр по Ронею напоминает «шкаф в шортах». Беррада нанял Карика, теперь хочет уволить его за то, что сломано на уровне руководства — грядущий месяц с «Борнмутом», «Челси», «Виллой» и «Ливерпулем» преврат"
+  },
+  {
+   "time": "2026-10-19T03:36:13.141026+00:00",
+   "title": "🦁 «Лион» в десятке обыграл «Ниццу» и стал лидером Лиги 1",
+   "body": "Отстав от «Ниццы» и закончив матч в меньшинстве, «Лион» всё равно вырвал 2:1 и благодаря лучшей разнице мячей возглавил таблицу после седьмого тура. Гонесы показали стальной характер: отставать, терять игрока и всё равно побеждать — значит, по духу они сейчас выше всех в чемпионате."
   }
  ],
- "last_post": "2026-10-19T01:38:44.990329+00:00",
+ "last_post": "2026-10-19T03:36:13.141042+00:00",
  "limit_day": "2026-10-17"
 }
