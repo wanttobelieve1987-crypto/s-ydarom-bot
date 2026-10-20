@@ -236,7 +236,8 @@
   "https://www.lequipe.fr/Football/Actualites/Lille-sous-surveillance-pour-le-match-classe-a-hauts-risques-contre-galatasaray-en-ligue-des-champions/1737121#at_medium=RSS_feeds",
   "https://www.walfoot.be/news/2026-10-20/les-deux-equipes-les-plus-fortes-joan-laporta-evoque-une-finale-avant-lheure-en-ligue-des-champions",
   "https://www.walfoot.be/news/2026-10-20/leandro-trossard-en-difficulte-nouvelle-desillusion-pour-le-diable-rouge-en-turquie",
-  "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united"
+  "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
+  "https://www.kicker.de/kompany-und-kimmich-verpassen-training-neuer-vor-rueckkehr-1263219/artikel#omrss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -475,10 +476,10 @@
   "lille sous surveillance pour le match classé à hauts risques contre galatasaray en ligue des champions",
   "les deux équipes les plus fortes joan laporta évoque une finale avant l heure en ligue des champions",
   "leandro trossard en difficulté nouvelle désillusion pour le diable rouge en turquie",
-  "erik ten hag accuses cristiano ronaldo of letting down manchester united"
+  "erik ten hag accuses cristiano ronaldo of letting down manchester united",
+  "kompany und kimmich verpassen training neuer vor rückkehr"
  ],
  "recent": [
-  "☀️ «Солнце взойдёт снова»: Андерлехт проиграл Динамо Загреб 0-1 на пенальти в добавленке",
   "🔥 Конте готов к MU, если Кэррика уволят — и ещё £1м на Super 6",
   "🩹 Капитан «Челси» Риис Джеймс выбыл на три месяца после операции на колене",
   "🚨 Тебас сравнил Real Madrid TV с пропагандой Геббельса",
@@ -517,14 +518,10 @@
   "🔴 «Лилль» — «Галатасарай»: матч объявлен высокорисковым",
   "🏆 Лапорта: ПСЖ — «Барса» — это финал ЛЧ до времени",
   "⚽ Троссард за 18 млн: 90 минут тени и 0-2 от «Трабзонспора»",
-  "😅 Тен Хаг: Роналду не допробежал наказание, а хозяева «Юнайтед» продали Мактоминея за его спиной"
+  "😅 Тен Хаг: Роналду не допробежал наказание, а хозяева «Юнайтед» продали Мактоминея за его спиной",
+  "⚽ Нойер готов к «Арсеналу», Компани и Киммич пропустили тренировку"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-16T08:13:50.955619+00:00",
-   "title": "☀️ «Солнце взойдёт снова»: Андерлехт проиграл Динамо Загреб 0-1 на пенальти в добавленке",
-   "body": "Андерлехт упустил четыре‑пять голевых шансов в Загребе, но пропустил пенальти в добавленное время и проиграл 0‑1 Динамо Загреб. Витор Бруно, обычно взрывающийся после поражений, на этот раз нашёл позитив в игре резервистов — Стрейкенс, Реабчук, Аасгор и Дегреф проявили себя, отметив, что команда сохранила атакующий настрой, несмотря на необходимость быть осторожнее в концовке. Он призвал быстро за"
-  },
   {
    "time": "2026-10-16T09:39:25.958862+00:00",
    "title": "🔥 Конте готов к MU, если Кэррика уволят — и ещё £1м на Super 6",
@@ -719,8 +716,13 @@
    "time": "2026-10-20T11:36:44.363996+00:00",
    "title": "😅 Тен Хаг: Роналду не допробежал наказание, а хозяева «Юнайтед» продали Мактоминея за его спиной",
    "body": "Эрик тэн Хаг заявил, что Криштиану Роналду «подвёл команду» и даже не до конца пробежал штрафной кросс-кантри после 0:4 от «Брентфорда», а хозяева клуба предали его после победы в Кубке Англии и продления контракта: вопреки прямому запрету тренера ушли Мактоминей в «Наполи». Голландец признался, что чувствовал себя «неловко и разочарован», когда обещанная лояльность и поддержка превратились в прод"
+  },
+  {
+   "time": "2026-10-20T13:47:21.242474+00:00",
+   "title": "⚽ Нойер готов к «Арсеналу», Компани и Киммич пропустили тренировку",
+   "body": "Мануэль Нойер вернётся в ворота «Баварии» как раз к главному матчу сезона с «Арсеналом» в Лиге чемпионов, а на завершающей тренировке перед вылетом в Лондон отсутствовали и Винсент Компани, и Джошуа Киммич — по неизвестным причинам. Мюнхенские фанаты уже придумывают заговоры, но, скорее всего, это просто рутинная осторожность перед решающей битвой. 🤷‍♂️"
   }
  ],
- "last_post": "2026-10-20T11:36:44.364012+00:00",
+ "last_post": "2026-10-20T13:47:21.242491+00:00",
  "limit_day": "2026-10-17"
 }
