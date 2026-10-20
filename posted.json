@@ -237,7 +237,8 @@
   "https://www.walfoot.be/news/2026-10-20/les-deux-equipes-les-plus-fortes-joan-laporta-evoque-une-finale-avant-lheure-en-ligue-des-champions",
   "https://www.walfoot.be/news/2026-10-20/leandro-trossard-en-difficulte-nouvelle-desillusion-pour-le-diable-rouge-en-turquie",
   "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
-  "https://www.kicker.de/kompany-und-kimmich-verpassen-training-neuer-vor-rueckkehr-1263219/artikel#omrss"
+  "https://www.kicker.de/kompany-und-kimmich-verpassen-training-neuer-vor-rueckkehr-1263219/artikel#omrss",
+  "https://www.kicker.de/montellas-nachfolger-gefunden-yalcin-uebernimmt-bei-der-tuerkei-1263349/artikel#omrss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -477,10 +478,10 @@
   "les deux équipes les plus fortes joan laporta évoque une finale avant l heure en ligue des champions",
   "leandro trossard en difficulté nouvelle désillusion pour le diable rouge en turquie",
   "erik ten hag accuses cristiano ronaldo of letting down manchester united",
-  "kompany und kimmich verpassen training neuer vor rückkehr"
+  "kompany und kimmich verpassen training neuer vor rückkehr",
+  "montellas nachfolger gefunden yalcin übernimmt bei der türkei"
  ],
  "recent": [
-  "🔥 Конте готов к MU, если Кэррика уволят — и ещё £1м на Super 6",
   "🩹 Капитан «Челси» Риис Джеймс выбыл на три месяца после операции на колене",
   "🚨 Тебас сравнил Real Madrid TV с пропагандой Геббельса",
   "🔔 Bellingham близок к новому контракту с «Реалом» до 2031",
@@ -519,14 +520,10 @@
   "🏆 Лапорта: ПСЖ — «Барса» — это финал ЛЧ до времени",
   "⚽ Троссард за 18 млн: 90 минут тени и 0-2 от «Трабзонспора»",
   "😅 Тен Хаг: Роналду не допробежал наказание, а хозяева «Юнайтед» продали Мактоминея за его спиной",
-  "⚽ Нойер готов к «Арсеналу», Компани и Киммич пропустили тренировку"
+  "⚽ Нойер готов к «Арсеналу», Компани и Киммич пропустили тренировку",
+  "🇹🇷 Турция уволила Монтеллу: сборную возглавил Ялчин"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-16T09:39:25.958862+00:00",
-   "title": "🔥 Конте готов к MU, если Кэррика уволят — и ещё £1м на Super 6",
-   "body": "Антонио Конте сообщил боссам Манчестер Юнайтед, что готов возглавить команду, если они решат уволить Майкла Кэррика (Daily Mirror). Лиcандро Мартинес, по The Sun, не хочет продлевать контракт из‑за недовольства амбициями руководства, а Андер Эррера призывает критиков перестать «молотить» Бруно Фернандеша и показать капитану больше уважения (Daily Mirror). Параллельно Super 6 разыгрывает миллион фу"
-  },
   {
    "time": "2026-10-16T11:40:51.543455+00:00",
    "title": "🩹 Капитан «Челси» Риис Джеймс выбыл на три месяца после операции на колене",
@@ -721,8 +718,13 @@
    "time": "2026-10-20T13:47:21.242474+00:00",
    "title": "⚽ Нойер готов к «Арсеналу», Компани и Киммич пропустили тренировку",
    "body": "Мануэль Нойер вернётся в ворота «Баварии» как раз к главному матчу сезона с «Арсеналом» в Лиге чемпионов, а на завершающей тренировке перед вылетом в Лондон отсутствовали и Винсент Компани, и Джошуа Киммич — по неизвестным причинам. Мюнхенские фанаты уже придумывают заговоры, но, скорее всего, это просто рутинная осторожность перед решающей битвой. 🤷‍♂️"
+  },
+  {
+   "time": "2026-10-20T15:38:44.971486+00:00",
+   "title": "🇹🇷 Турция уволила Монтеллу: сборную возглавил Ялчин",
+   "body": "Турецкая федерация отправила Винченцо Монтеллу в отставку и назначил главным тренером бывшего национального игрока Сергена Ялчина. Специалист возглавит «звёзд-полумесяцев» — сборную-участницу чемпионатов мира. Итальянца сменил родной сын футбола, так что на технической зоне обещают больше эмоций, чем сухой тактики. 😄"
   }
  ],
- "last_post": "2026-10-20T13:47:21.242491+00:00",
+ "last_post": "2026-10-20T15:38:44.971501+00:00",
  "limit_day": "2026-10-17"
 }
