@@ -240,7 +240,8 @@
   "https://www.kicker.de/kompany-und-kimmich-verpassen-training-neuer-vor-rueckkehr-1263219/artikel#omrss",
   "https://www.kicker.de/montellas-nachfolger-gefunden-yalcin-uebernimmt-bei-der-tuerkei-1263349/artikel#omrss",
   "https://www.lequipe.fr/Football/Actualites/Toujours-malade-vincent-kompany-a-rate-l-entrainement-et-la-conference-de-presse-a-la-veille-de-bayern-munich-arsenal/1737279#at_medium=RSS_feeds",
-  "https://www.lequipe.fr/Football/Actualites/Bel-enchainement-de-greenwood-et-boulette-de-guendouzi-fenerbahce-s-est-saborde-face-au-slavia-prague/1737321#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Bel-enchainement-de-greenwood-et-boulette-de-guendouzi-fenerbahce-s-est-saborde-face-au-slavia-prague/1737321#at_medium=RSS_feeds",
+  "https://www.theguardian.com/football/2026/oct/20/liverpool-villarreal-champions-league-match-report"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -483,10 +484,10 @@
   "kompany und kimmich verpassen training neuer vor rückkehr",
   "montellas nachfolger gefunden yalcin übernimmt bei der türkei",
   "toujours malade vincent kompany a raté l entraînement et la conférence de presse à la veille de bayern munich arsenal",
-  "bel enchaînement de greenwood et boulette de guendouzi fenerbahçe s est sabordé face au slavia prague"
+  "bel enchaînement de greenwood et boulette de guendouzi fenerbahçe s est sabordé face au slavia prague",
+  "mac allister double sparks liverpool s thrilling comeback win against villarreal"
  ],
  "recent": [
-  "🔔 Bellingham близок к новому контракту с «Реалом» до 2031",
   "🏆 Celtic против Hearts: пять очков впереди, но лазарет полон сюрпризов",
   "🇮🇹 Италия на девятом месте: шансы на пятое место в ЛЧ почти испарились",
   "🚨 Артета отмахивается от вопросов о сокращениях в «Арсенале» — но обещает успех",
@@ -525,14 +526,10 @@
   "⚽ Нойер готов к «Арсеналу», Компани и Киммич пропустили тренировку",
   "🇹🇷 Турция уволила Монтеллу: сборную возглавил Ялчин",
   "🤒 Компани пропустил тренировку: будет ли он на скамью против «Арсенала»?",
-  "🤦 Гендузи подарил «Славии» ничью, а «Фенербахче» — нервный тик"
+  "🤦 Гендузи подарил «Славии» ничью, а «Фенербахче» — нервный тик",
+  "⚽ Ван Дейк раздал, Маккаллистер собрал: «Ливерпуль» обыграл «Вильярреал» 4:3"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-16T15:39:24.317020+00:00",
-   "title": "🔔 Bellingham близок к новому контракту с «Реалом» до 2031",
-   "body": "Jude Bellingham, чей нынешний контракт с «Реалом» истекает в июне 2029 года, готов подписать новое соглашение до 2031 года. По информации испанской газеты «AS», переговоры уже почти завершены, и англичанин может остаться в Мадриде ещё как минимум два дополнительных сезона. Два дополнительных сезона — это почти целая жизнь в футбольных годах, и фанаты уже шутят, что Белингем успеет выучить весь мен"
-  },
   {
    "time": "2026-10-16T17:37:18.946995+00:00",
    "title": "🏆 Celtic против Hearts: пять очков впереди, но лазарет полон сюрпризов",
@@ -727,8 +724,13 @@
    "time": "2026-10-20T19:38:50.266854+00:00",
    "title": "🤦 Гендузи подарил «Славии» ничью, а «Фенербахче» — нервный тик",
    "body": "«Фенербахче» уверенно вошёл в игру: Гринвуд сразу просветился красивым действием, но грубая ошибка Гендузи выбила у стамбульцев весь азарт — команда растерялась и пропустила дважды. В итоге 2:2 и уход в подземелье с горьким вкусом упущенной победы."
+  },
+  {
+   "time": "2026-10-20T21:36:56.016681+00:00",
+   "title": "⚽ Ван Дейк раздал, Маккаллистер собрал: «Ливерпуль» обыграл «Вильярреал» 4:3",
+   "body": "Капитан «красных» Ван Дейк в первом тайме дважды подвёл Аллисона, подарив «Вильярреалу» двухголовое преимущество (Микаутадзе, Кардона), но Маккаллистер дюбелем и 18-летний Нгумоха — гениальным ассистом на победный гол — перевернули игру в 4:3. Ираола обыграл друга Переса, который под ливнем в полошке смотрел, как его команда упускает победу, а Олувасейи лишь украсил счёт поздним третьим голом. «Ли"
   }
  ],
- "last_post": "2026-10-20T19:38:50.266869+00:00",
+ "last_post": "2026-10-20T21:36:56.016698+00:00",
  "limit_day": "2026-10-17"
 }
