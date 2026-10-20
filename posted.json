@@ -241,7 +241,8 @@
   "https://www.kicker.de/montellas-nachfolger-gefunden-yalcin-uebernimmt-bei-der-tuerkei-1263349/artikel#omrss",
   "https://www.lequipe.fr/Football/Actualites/Toujours-malade-vincent-kompany-a-rate-l-entrainement-et-la-conference-de-presse-a-la-veille-de-bayern-munich-arsenal/1737279#at_medium=RSS_feeds",
   "https://www.lequipe.fr/Football/Actualites/Bel-enchainement-de-greenwood-et-boulette-de-guendouzi-fenerbahce-s-est-saborde-face-au-slavia-prague/1737321#at_medium=RSS_feeds",
-  "https://www.theguardian.com/football/2026/oct/20/liverpool-villarreal-champions-league-match-report"
+  "https://www.theguardian.com/football/2026/oct/20/liverpool-villarreal-champions-league-match-report",
+  "https://www.theguardian.com/football/2026/oct/20/champions-league-roundup-mctominay-scores-twice-on-return-from-heart-surgery"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -485,10 +486,10 @@
   "montellas nachfolger gefunden yalcin übernimmt bei der türkei",
   "toujours malade vincent kompany a raté l entraînement et la conférence de presse à la veille de bayern munich arsenal",
   "bel enchaînement de greenwood et boulette de guendouzi fenerbahçe s est sabordé face au slavia prague",
-  "mac allister double sparks liverpool s thrilling comeback win against villarreal"
+  "mac allister double sparks liverpool s thrilling comeback win against villarreal",
+  "champions league roundup mctominay double leads napoli past bodø glimt"
  ],
  "recent": [
-  "🏆 Celtic против Hearts: пять очков впереди, но лазарет полон сюрпризов",
   "🇮🇹 Италия на девятом месте: шансы на пятое место в ЛЧ почти испарились",
   "🚨 Артета отмахивается от вопросов о сокращениях в «Арсенале» — но обещает успех",
   "🔴 «Ливерпуль» в девять не играл, но выиграл: 2:1 у «Брентфорда»",
@@ -527,14 +528,10 @@
   "🇹🇷 Турция уволила Монтеллу: сборную возглавил Ялчин",
   "🤒 Компани пропустил тренировку: будет ли он на скамью против «Арсенала»?",
   "🤦 Гендузи подарил «Славии» ничью, а «Фенербахче» — нервный тик",
-  "⚽ Ван Дейк раздал, Маккаллистер собрал: «Ливерпуль» обыграл «Вильярреал» 4:3"
+  "⚽ Ван Дейк раздал, Маккаллистер собрал: «Ливерпуль» обыграл «Вильярреал» 4:3",
+  "⚽ МакТоминей забил дубль после операции на сердце — «Наполи» выжил в голевом балагане"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-16T17:37:18.946995+00:00",
-   "title": "🏆 Celtic против Hearts: пять очков впереди, но лазарет полон сюрпризов",
-   "body": "Celtic подходят к матчу с Hearts, имея пять очков преимущества в шотландской Премьер‑лиге, но могут опуститься на второе место, если Rangers выиграют раньше. В лазарете — американский защитник, пропустивший две последние игры, французский защитник всё ещё лечит растяжение голеностопа от августовской встречи с Сент‑Джонстон, а бразильский нападающий, только вернувшись после февральской паузы, получ"
-  },
   {
    "time": "2026-10-16T19:37:56.463168+00:00",
    "title": "🇮🇹 Италия на девятом месте: шансы на пятое место в ЛЧ почти испарились",
@@ -729,8 +726,13 @@
    "time": "2026-10-20T21:36:56.016681+00:00",
    "title": "⚽ Ван Дейк раздал, Маккаллистер собрал: «Ливерпуль» обыграл «Вильярреал» 4:3",
    "body": "Капитан «красных» Ван Дейк в первом тайме дважды подвёл Аллисона, подарив «Вильярреалу» двухголовое преимущество (Микаутадзе, Кардона), но Маккаллистер дюбелем и 18-летний Нгумоха — гениальным ассистом на победный гол — перевернули игру в 4:3. Ираола обыграл друга Переса, который под ливнем в полошке смотрел, как его команда упускает победу, а Олувасейи лишь украсил счёт поздним третьим голом. «Ли"
+  },
+  {
+   "time": "2026-10-20T23:32:24.758214+00:00",
+   "title": "⚽ МакТоминей забил дубль после операции на сердце — «Наполи» выжил в голевом балагане",
+   "body": "Скотт МакТоминей, пропустивший месяц из-за аритмии, в дебюте забил первый дубль сезона и попал в штангу, помогая «Наполи» обыграть «Бёдо/Глимт» 4:3 и снять давление с Аллегри. «Атлетико» в десятке удержало 1:1 со «Штутгартом» после красной карточки Хюльманда за грубое нарушение на Стиллера, «Дортмунд» неудобно ניצח «Сабах» 2:1, а «Славия» в 90-й минуте вырвала 2:2 у «Фенербахче» после ляпа Гендузи"
   }
  ],
- "last_post": "2026-10-20T21:36:56.016698+00:00",
+ "last_post": "2026-10-20T23:32:24.758229+00:00",
  "limit_day": "2026-10-17"
 }
