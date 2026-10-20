@@ -238,7 +238,8 @@
   "https://www.walfoot.be/news/2026-10-20/leandro-trossard-en-difficulte-nouvelle-desillusion-pour-le-diable-rouge-en-turquie",
   "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
   "https://www.kicker.de/kompany-und-kimmich-verpassen-training-neuer-vor-rueckkehr-1263219/artikel#omrss",
-  "https://www.kicker.de/montellas-nachfolger-gefunden-yalcin-uebernimmt-bei-der-tuerkei-1263349/artikel#omrss"
+  "https://www.kicker.de/montellas-nachfolger-gefunden-yalcin-uebernimmt-bei-der-tuerkei-1263349/artikel#omrss",
+  "https://www.lequipe.fr/Football/Actualites/Toujours-malade-vincent-kompany-a-rate-l-entrainement-et-la-conference-de-presse-a-la-veille-de-bayern-munich-arsenal/1737279#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -479,10 +480,10 @@
   "leandro trossard en difficulté nouvelle désillusion pour le diable rouge en turquie",
   "erik ten hag accuses cristiano ronaldo of letting down manchester united",
   "kompany und kimmich verpassen training neuer vor rückkehr",
-  "montellas nachfolger gefunden yalcin übernimmt bei der türkei"
+  "montellas nachfolger gefunden yalcin übernimmt bei der türkei",
+  "toujours malade vincent kompany a raté l entraînement et la conférence de presse à la veille de bayern munich arsenal"
  ],
  "recent": [
-  "🩹 Капитан «Челси» Риис Джеймс выбыл на три месяца после операции на колене",
   "🚨 Тебас сравнил Real Madrid TV с пропагандой Геббельса",
   "🔔 Bellingham близок к новому контракту с «Реалом» до 2031",
   "🏆 Celtic против Hearts: пять очков впереди, но лазарет полон сюрпризов",
@@ -521,14 +522,10 @@
   "⚽ Троссард за 18 млн: 90 минут тени и 0-2 от «Трабзонспора»",
   "😅 Тен Хаг: Роналду не допробежал наказание, а хозяева «Юнайтед» продали Мактоминея за его спиной",
   "⚽ Нойер готов к «Арсеналу», Компани и Киммич пропустили тренировку",
-  "🇹🇷 Турция уволила Монтеллу: сборную возглавил Ялчин"
+  "🇹🇷 Турция уволила Монтеллу: сборную возглавил Ялчин",
+  "🤒 Компани пропустил тренировку: будет ли он на скамью против «Арсенала»?"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-16T11:40:51.543455+00:00",
-   "title": "🩹 Капитан «Челси» Риис Джеймс выбыл на три месяца после операции на колене",
-   "body": "Защитник и капитан «Челси» Риис Джеймс, которому 26 лет, перенёс операцию на колене после травмы на тренировке перед победой 5‑1 над «Борнмутом» и теперь пропустит примерно три месяца. Это уже не первая проблема с коленом у английского защитника: за последние сезоны он пропустил несколько турниров со сборной, а в прошлом сезоне его травмовая история улучшилась, позволив ему сыграть ключевую роль в"
-  },
   {
    "time": "2026-10-16T13:48:07.121476+00:00",
    "title": "🚨 Тебас сравнил Real Madrid TV с пропагандой Геббельса",
@@ -723,8 +720,13 @@
    "time": "2026-10-20T15:38:44.971486+00:00",
    "title": "🇹🇷 Турция уволила Монтеллу: сборную возглавил Ялчин",
    "body": "Турецкая федерация отправила Винченцо Монтеллу в отставку и назначил главным тренером бывшего национального игрока Сергена Ялчина. Специалист возглавит «звёзд-полумесяцев» — сборную-участницу чемпионатов мира. Итальянца сменил родной сын футбола, так что на технической зоне обещают больше эмоций, чем сухой тактики. 😄"
+  },
+  {
+   "time": "2026-10-20T17:40:14.587773+00:00",
+   "title": "🤒 Компани пропустил тренировку: будет ли он на скамью против «Арсенала»?",
+   "body": "Винсент Компани всё ещё отходит от вируса и во вторник прогулял и тренировку, и пресс-конференцию перед матчем Лиги чемпионов. Бельгиец провел день в постели, надеясь к среде (21:00) выйти на скамью, но гарантий нет — «Бавария» рискует сыграть решающий матч без главного по касанию."
   }
  ],
- "last_post": "2026-10-20T15:38:44.971501+00:00",
+ "last_post": "2026-10-20T17:40:14.587788+00:00",
  "limit_day": "2026-10-17"
 }
