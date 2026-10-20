@@ -239,7 +239,8 @@
   "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
   "https://www.kicker.de/kompany-und-kimmich-verpassen-training-neuer-vor-rueckkehr-1263219/artikel#omrss",
   "https://www.kicker.de/montellas-nachfolger-gefunden-yalcin-uebernimmt-bei-der-tuerkei-1263349/artikel#omrss",
-  "https://www.lequipe.fr/Football/Actualites/Toujours-malade-vincent-kompany-a-rate-l-entrainement-et-la-conference-de-presse-a-la-veille-de-bayern-munich-arsenal/1737279#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Toujours-malade-vincent-kompany-a-rate-l-entrainement-et-la-conference-de-presse-a-la-veille-de-bayern-munich-arsenal/1737279#at_medium=RSS_feeds",
+  "https://www.lequipe.fr/Football/Actualites/Bel-enchainement-de-greenwood-et-boulette-de-guendouzi-fenerbahce-s-est-saborde-face-au-slavia-prague/1737321#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -481,10 +482,10 @@
   "erik ten hag accuses cristiano ronaldo of letting down manchester united",
   "kompany und kimmich verpassen training neuer vor rückkehr",
   "montellas nachfolger gefunden yalcin übernimmt bei der türkei",
-  "toujours malade vincent kompany a raté l entraînement et la conférence de presse à la veille de bayern munich arsenal"
+  "toujours malade vincent kompany a raté l entraînement et la conférence de presse à la veille de bayern munich arsenal",
+  "bel enchaînement de greenwood et boulette de guendouzi fenerbahçe s est sabordé face au slavia prague"
  ],
  "recent": [
-  "🚨 Тебас сравнил Real Madrid TV с пропагандой Геббельса",
   "🔔 Bellingham близок к новому контракту с «Реалом» до 2031",
   "🏆 Celtic против Hearts: пять очков впереди, но лазарет полон сюрпризов",
   "🇮🇹 Италия на девятом месте: шансы на пятое место в ЛЧ почти испарились",
@@ -523,14 +524,10 @@
   "😅 Тен Хаг: Роналду не допробежал наказание, а хозяева «Юнайтед» продали Мактоминея за его спиной",
   "⚽ Нойер готов к «Арсеналу», Компани и Киммич пропустили тренировку",
   "🇹🇷 Турция уволила Монтеллу: сборную возглавил Ялчин",
-  "🤒 Компани пропустил тренировку: будет ли он на скамью против «Арсенала»?"
+  "🤒 Компани пропустил тренировку: будет ли он на скамью против «Арсенала»?",
+  "🤦 Гендузи подарил «Славии» ничью, а «Фенербахче» — нервный тик"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-16T13:48:07.121476+00:00",
-   "title": "🚨 Тебас сравнил Real Madrid TV с пропагандой Геббельса",
-   "body": "Президент Ла‑Лиги Хавьер Тебас в своём посте в X обвинил телеканал мадридского «Реала» в использовании методов, напоминающих нацистскую пропаганду Йозефа Геббельса. По его словам, такая «методика» искажает информацию и подрывает доверие к спорту. Сравнение с нацистской пропагандой редко звучит из уст руководителей лиги, поэтому пост сразу вызвал бурную реакцию в соцсетях. Надеемся, что следующий э"
-  },
   {
    "time": "2026-10-16T15:39:24.317020+00:00",
    "title": "🔔 Bellingham близок к новому контракту с «Реалом» до 2031",
@@ -725,8 +722,13 @@
    "time": "2026-10-20T17:40:14.587773+00:00",
    "title": "🤒 Компани пропустил тренировку: будет ли он на скамью против «Арсенала»?",
    "body": "Винсент Компани всё ещё отходит от вируса и во вторник прогулял и тренировку, и пресс-конференцию перед матчем Лиги чемпионов. Бельгиец провел день в постели, надеясь к среде (21:00) выйти на скамью, но гарантий нет — «Бавария» рискует сыграть решающий матч без главного по касанию."
+  },
+  {
+   "time": "2026-10-20T19:38:50.266854+00:00",
+   "title": "🤦 Гендузи подарил «Славии» ничью, а «Фенербахче» — нервный тик",
+   "body": "«Фенербахче» уверенно вошёл в игру: Гринвуд сразу просветился красивым действием, но грубая ошибка Гендузи выбила у стамбульцев весь азарт — команда растерялась и пропустила дважды. В итоге 2:2 и уход в подземелье с горьким вкусом упущенной победы."
   }
  ],
- "last_post": "2026-10-20T17:40:14.587788+00:00",
+ "last_post": "2026-10-20T19:38:50.266869+00:00",
  "limit_day": "2026-10-17"
 }
