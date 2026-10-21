@@ -248,7 +248,8 @@
   "https://www.lequipe.fr/Football/Article/Desire-doue-et-vitinha-encore-decisifs-dans-le-succes-du-psg-face-au-barca-des-buts-qui-leur-ressemblent-tant/1737384#at_medium=RSS_feeds",
   "https://www.theguardian.com/football/2026/oct/21/manchester-city-david-kogan-independent-football-regulator",
   "https://www.kicker.de/schwerer-schlag-fuer-psg-kvaratskhelia-erleidet-kreuzbandriss-1263590/artikel#omrss",
-  "https://www.kicker.de/kimmich-fehlt-bayern-gegen-arsenal-wegen-eines-trauerfalls-1262203/artikel#omrss"
+  "https://www.kicker.de/kimmich-fehlt-bayern-gegen-arsenal-wegen-eines-trauerfalls-1262203/artikel#omrss",
+  "https://www.kicker.de/dani-olmo-fehlt-barcelona-wochenlang-1263698/artikel#omrss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -499,10 +500,10 @@
   "désiré doué et vitinha encore décisifs dans le succès du psg face au barça des buts qui leur ressemblent tant",
   "football regulator has absolute power to force manchester city sale if verdict upheld",
   "schwerer schlag für psg kvaratskhelia erleidet kreuzbandriss",
-  "kimmich fehlt bayern gegen arsenal wegen eines trauerfalls"
+  "kimmich fehlt bayern gegen arsenal wegen eines trauerfalls",
+  "dani olmo fehlt barcelona wochenlang"
  ],
  "recent": [
-  "⚽ Гёкереш тянет на выход из «Арсенала», «Челси» охотится за дуэтом Барсы, Рабио до 2030",
   "⚽ «Рома» 2-0 «Генуя»: Кастро и Лулли вылечили похмелье после «Реала»",
   "⚽️ Кейн в роли дирижёра: как «Бавария» разобрала «Лейпциг»",
   "🤕 Мартинес сломил челюсть, Пендерс за 17 млн — «Челси» тестирует глубину скамейки",
@@ -541,14 +542,10 @@
   "⚽ Дуэ и Витинья снова решают: ПСЖ разгромил Барсу 4:2",
   "⚖️ Коган: у регулятора «абсолютная власть» заставить шейха Мансура продать «Сити»",
   "🤕 Кварацхелия с крестным — ПСЖ теряет лидера на месяцы",
-  "😔 «Бавария» без Киммиха: капитан пропускает матч с «Арсеналом» из-за траура"
+  "😔 «Бавария» без Киммиха: капитан пропускает матч с «Арсеналом» из-за траура",
+  "🤕 Ольмо выбыл на недели перед Класико: «Барса» теряет фокусника"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-18T05:32:19.853847+00:00",
-   "title": "⚽ Гёкереш тянет на выход из «Арсенала», «Челси» охотится за дуэтом Барсы, Рабио до 2030",
-   "body": "Гёкереш готов требовать ухода из «Арсенала» в январе из-за сидячей работы, а Ливерпуль пригляделся к Нмече из Дортмунда на случай провала с Алексом Скоттом. Хави Алонсо, которого слухи уже сажают в «Челси», заказывает у Барсы Конде с де Йонгом в паре и параллельно тянет 17-летнего Альберта из Дортмунда, а Манссон уже разведен по корзинам «Арсенала» и «Челси». Милан готовит 31-летнему Рабио контрак"
-  },
   {
    "time": "2026-10-18T07:34:45.764954+00:00",
    "title": "⚽ «Рома» 2-0 «Генуя»: Кастро и Лулли вылечили похмелье после «Реала»",
@@ -743,8 +740,13 @@
    "time": "2026-10-21T11:37:21.544142+00:00",
    "title": "😔 «Бавария» без Киммиха: капитан пропускает матч с «Арсеналом» из-за траура",
    "body": "Накануне решающего дуэля в «Эмирейтс» «Бавария» официально подтвердила: Джошуа Киммих не вылетит в Лондон из-за семейного траура, и теперь Тухелу срочно нужно придумать, как закрыть дыру в центре поля без главного организатора и лидера прессинга. Отсутствие капитана — неочевидный, но весомый бонус для «Арсенала», ведь без вожака рискуешь превратиться в набор талантов без единого плана. Кто возьмет"
+  },
+  {
+   "time": "2026-10-21T13:44:22.987299+00:00",
+   "title": "🤕 Ольмо выбыл на недели перед Класико: «Барса» теряет фокусника",
+   "body": "Дани Ольмо получил травму в матче с ПСЖ и пропадёт на несколько недель, лишив «Барселону» главного плеймейкера как раз перед главным матчем сезона. Бывший звезда «Лейпцига» только начинал раскрываться в системе Флика, а теперь каталонцам придётся изобретать футбол без его пасов и проникновений. Педри и Ямаль, выручайте — или снова будем смотреть, как «Барса» бьётся головой о стену? 😅"
   }
  ],
- "last_post": "2026-10-21T11:37:21.544157+00:00",
+ "last_post": "2026-10-21T13:44:22.987314+00:00",
  "limit_day": "2026-10-17"
 }
