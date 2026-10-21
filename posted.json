@@ -247,7 +247,8 @@
   "https://www.skysports.com/football/manchester-city-vs-aek-athens/report/577636",
   "https://www.lequipe.fr/Football/Article/Desire-doue-et-vitinha-encore-decisifs-dans-le-succes-du-psg-face-au-barca-des-buts-qui-leur-ressemblent-tant/1737384#at_medium=RSS_feeds",
   "https://www.theguardian.com/football/2026/oct/21/manchester-city-david-kogan-independent-football-regulator",
-  "https://www.kicker.de/schwerer-schlag-fuer-psg-kvaratskhelia-erleidet-kreuzbandriss-1263590/artikel#omrss"
+  "https://www.kicker.de/schwerer-schlag-fuer-psg-kvaratskhelia-erleidet-kreuzbandriss-1263590/artikel#omrss",
+  "https://www.kicker.de/kimmich-fehlt-bayern-gegen-arsenal-wegen-eines-trauerfalls-1262203/artikel#omrss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -497,10 +498,10 @@
   "hat trick hero foden shines as man city thrash aek athens",
   "désiré doué et vitinha encore décisifs dans le succès du psg face au barça des buts qui leur ressemblent tant",
   "football regulator has absolute power to force manchester city sale if verdict upheld",
-  "schwerer schlag für psg kvaratskhelia erleidet kreuzbandriss"
+  "schwerer schlag für psg kvaratskhelia erleidet kreuzbandriss",
+  "kimmich fehlt bayern gegen arsenal wegen eines trauerfalls"
  ],
  "recent": [
-  "⚽ Rangers упустили шанс возглавить Шотландскую Премьершип, сыграв 2:2 с Dundee",
   "⚽ Гёкереш тянет на выход из «Арсенала», «Челси» охотится за дуэтом Барсы, Рабио до 2030",
   "⚽ «Рома» 2-0 «Генуя»: Кастро и Лулли вылечили похмелье после «Реала»",
   "⚽️ Кейн в роли дирижёра: как «Бавария» разобрала «Лейпциг»",
@@ -539,14 +540,10 @@
   "⚽ Фоден вышел из кризиса хет-триком: Сити разгромило АЕК 5:1 без Холанда",
   "⚽ Дуэ и Витинья снова решают: ПСЖ разгромил Барсу 4:2",
   "⚖️ Коган: у регулятора «абсолютная власть» заставить шейха Мансура продать «Сити»",
-  "🤕 Кварацхелия с крестным — ПСЖ теряет лидера на месяцы"
+  "🤕 Кварацхелия с крестным — ПСЖ теряет лидера на месяцы",
+  "😔 «Бавария» без Киммиха: капитан пропускает матч с «Арсеналом» из-за траура"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-18T03:34:54.533512+00:00",
-   "title": "⚽ Rangers упустили шанс возглавить Шотландскую Премьершип, сыграв 2:2 с Dundee",
-   "body": "После гола Bradley Fink на 38-й минуте Dundee повели, но Badredine Bouanani ответил stunning equaliser уже на 41-й, а Nico Raskin вывел Rangers вперёд дальним ударом около часа игры. Однако Callum Jones воспользовался расслабленностью Gers и восстановил parity на 68-й минуте, оставив счёт 2:2. Ничья оставила Rangers на одно очко позади Celtic, которые могут увеличить своё преимущество в домашнем м"
-  },
   {
    "time": "2026-10-18T05:32:19.853847+00:00",
    "title": "⚽ Гёкереш тянет на выход из «Арсенала», «Челси» охотится за дуэтом Барсы, Рабио до 2030",
@@ -741,8 +738,13 @@
    "time": "2026-10-21T09:39:10.436129+00:00",
    "title": "🤕 Кварацхелия с крестным — ПСЖ теряет лидера на месяцы",
    "body": "ПСЖ, действующий обладатель Лиги чемпионов, остался без Кварацхелии: грузинец заработал разрыв крестообразной связки в матче с «Барселоной» и уйдет на долгую реабилитацию. Энрике теряет главного драйвера атаки в самый жуткий момент сезона, а парожанам придется выкручиваться без своего самого непредсказуемого футболиста. 😤"
+  },
+  {
+   "time": "2026-10-21T11:37:21.544142+00:00",
+   "title": "😔 «Бавария» без Киммиха: капитан пропускает матч с «Арсеналом» из-за траура",
+   "body": "Накануне решающего дуэля в «Эмирейтс» «Бавария» официально подтвердила: Джошуа Киммих не вылетит в Лондон из-за семейного траура, и теперь Тухелу срочно нужно придумать, как закрыть дыру в центре поля без главного организатора и лидера прессинга. Отсутствие капитана — неочевидный, но весомый бонус для «Арсенала», ведь без вожака рискуешь превратиться в набор талантов без единого плана. Кто возьмет"
   }
  ],
- "last_post": "2026-10-21T09:39:10.436144+00:00",
+ "last_post": "2026-10-21T11:37:21.544157+00:00",
  "limit_day": "2026-10-17"
 }
