@@ -244,7 +244,8 @@
   "https://www.theguardian.com/football/2026/oct/20/liverpool-villarreal-champions-league-match-report",
   "https://www.theguardian.com/football/2026/oct/20/champions-league-roundup-mctominay-scores-twice-on-return-from-heart-surgery",
   "https://nos.nl/l/2636017",
-  "https://www.skysports.com/football/manchester-city-vs-aek-athens/report/577636"
+  "https://www.skysports.com/football/manchester-city-vs-aek-athens/report/577636",
+  "https://www.lequipe.fr/Football/Article/Desire-doue-et-vitinha-encore-decisifs-dans-le-succes-du-psg-face-au-barca-des-buts-qui-leur-ressemblent-tant/1737384#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -491,10 +492,10 @@
   "mac allister double sparks liverpool s thrilling comeback win against villarreal",
   "champions league roundup mctominay double leads napoli past bodø glimt",
   "psv knokt zich naar knappe zege op farioli s porto in champions league",
-  "hat trick hero foden shines as man city thrash aek athens"
+  "hat trick hero foden shines as man city thrash aek athens",
+  "désiré doué et vitinha encore décisifs dans le succès du psg face au barça des buts qui leur ressemblent tant"
  ],
  "recent": [
-  "🔴 «Ливерпуль» в девять не играл, но выиграл: 2:1 у «Брентфорда»",
   "⚽ Барселона взорвала Бетис: семь голов, пять разных авторов и отрыв в пять очков",
   "💥 Манзамби показал «Ньюкаслу», чего они лишились: 1‑0 и рекорд Виллы",
   "⚽ Rangers упустили шанс возглавить Шотландскую Премьершип, сыграв 2:2 с Dundee",
@@ -533,14 +534,10 @@
   "⚽ Ван Дейк раздал, Маккаллистер собрал: «Ливерпуль» обыграл «Вильярреал» 4:3",
   "⚽ МакТоминей забил дубль после операции на сердце — «Наполи» выжил в голевом балагане",
   "⚽ «ПСВ» вырвал 0:1 у «Порто» и отомстился Фариоли за «Аякс»",
-  "⚽ Фоден вышел из кризиса хет-триком: Сити разгромило АЕК 5:1 без Холанда"
+  "⚽ Фоден вышел из кризиса хет-триком: Сити разгромило АЕК 5:1 без Холанда",
+  "⚽ Дуэ и Витинья снова решают: ПСЖ разгромил Барсу 4:2"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-17T21:30:29.412117+00:00",
-   "title": "🔴 «Ливерпуль» в девять не играл, но выиграл: 2:1 у «Брентфорда»",
-   "body": "«Ливерпуль» переиграл «Брентфорд» 2:1 на «Джтех» и ушёл с трёх очками, хотя хозяева с 69-й минуты играли в девять после удалений Ярмолюка и Янельта. «Пчелы» в меньшинстве всё равно создавали угрозу, но класс «красных» и удача Слота оказались выше. История не терпит сослагательного наклонения: в протоколе — победа гостей."
-  },
   {
    "time": "2026-10-17T23:29:27.666823+00:00",
    "title": "⚽ Барселона взорвала Бетис: семь голов, пять разных авторов и отрыв в пять очков",
@@ -735,8 +732,13 @@
    "time": "2026-10-21T03:37:38.218203+00:00",
    "title": "⚽ Фоден вышел из кризиса хет-триком: Сити разгромило АЕК 5:1 без Холанда",
    "body": "Фоден прервал десятимесячный голод хет-триком — первый с апреля — и «Сити» без Холанда (Мореска запустил 17-летнего Самбу) разнесла «АЕК» 5:1. «Граждане» зафиксировали десятую победу в 12 матчах сезона, и среди гигантов топ-5 лиг только «Барселона» чаще уходит с поля победителем. Греки забили честный гол с единственного удара в створ, но Шерки и Фоден быстро потушили надежды на сенсацию."
+  },
+  {
+   "time": "2026-10-21T05:35:58.115213+00:00",
+   "title": "⚽ Дуэ и Витинья снова решают: ПСЖ разгромил Барсу 4:2",
+   "body": "Дуэ и Витинья продолжают традицию решать исход главных матчей: неделю назад они размочили «Сити» тем же счётом 4:2, а теперь оставили под дождём «Барселону». Француз и португалец забили фирменные голы — быстро, красиво и в самый больной для каталонцев момент. Хорошая привычка забирать победу в решающих поединках."
   }
  ],
- "last_post": "2026-10-21T03:37:38.218218+00:00",
+ "last_post": "2026-10-21T05:35:58.115232+00:00",
  "limit_day": "2026-10-17"
 }
