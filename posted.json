@@ -250,7 +250,8 @@
   "https://www.kicker.de/schwerer-schlag-fuer-psg-kvaratskhelia-erleidet-kreuzbandriss-1263590/artikel#omrss",
   "https://www.kicker.de/kimmich-fehlt-bayern-gegen-arsenal-wegen-eines-trauerfalls-1262203/artikel#omrss",
   "https://www.kicker.de/dani-olmo-fehlt-barcelona-wochenlang-1263698/artikel#omrss",
-  "https://sporza.be/nl/2026/10/21/nog-nooit-werd-er-zoveel-gescoord-in-de-champions-league-er-leeft-geen-schrik-meer-om-te-verliezen~1792561895588/"
+  "https://sporza.be/nl/2026/10/21/nog-nooit-werd-er-zoveel-gescoord-in-de-champions-league-er-leeft-geen-schrik-meer-om-te-verliezen~1792561895588/",
+  "https://www.bbc.co.uk/sport/football/articles/crpdg2x7v1l2o?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -503,10 +504,10 @@
   "schwerer schlag für psg kvaratskhelia erleidet kreuzbandriss",
   "kimmich fehlt bayern gegen arsenal wegen eines trauerfalls",
   "dani olmo fehlt barcelona wochenlang",
-  "nog nooit werd er zoveel gescoord in de champions league er leeft geen schrik meer om te verliezen"
+  "nog nooit werd er zoveel gescoord in de champions league er leeft geen schrik meer om te verliezen",
+  "georgia and dundee legend nemsadze dies aged 54"
  ],
  "recent": [
-  "⚽️ Кейн в роли дирижёра: как «Бавария» разобрала «Лейпциг»",
   "🤕 Мартинес сломил челюсть, Пендерс за 17 млн — «Челси» тестирует глубину скамейки",
   "🦅 Гаттузо реанимировал карьеру в «Лацио» после ада с «Аццури»",
   "🤯 Гомес с 51 метра и разгром 5:0: «Брайтон» унизил «Кристал Пэлас»",
@@ -545,14 +546,10 @@
   "🤕 Кварацхелия с крестным — ПСЖ теряет лидера на месяцы",
   "😔 «Бавария» без Киммиха: капитан пропускает матч с «Арсеналом» из-за траура",
   "🤕 Ольмо выбыл на недели перед Класико: «Барса» теряет фокусника",
-  "⚽ В ЛЧ умер страх проигрыша — счетчики тают от голевой лихорадки"
+  "⚽ В ЛЧ умер страх проигрыша — счетчики тают от голевой лихорадки",
+  "💔 Легенда «Данди» Немадзе умер от сердечного приступа в 54 года"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-18T09:32:06.804642+00:00",
-   "title": "⚽️ Кейн в роли дирижёра: как «Бавария» разобрала «Лейпциг»",
-   "body": "Мюнхенская «Бавария» устроила настоящий разгром, уничтожив «Лейпциг» со счётом 6:1. В этом матче Гарри Кейн блеснул не только как завершитель и ассистент, но и показал себя настоящим мозгом команды. Похоже, англичанин нашёл особую роль, которая заставляет соперников просто капитулировать. 🪄"
-  },
   {
    "time": "2026-10-18T11:30:42.221034+00:00",
    "title": "🤕 Мартинес сломил челюсть, Пендерс за 17 млн — «Челси» тестирует глубину скамейки",
@@ -747,8 +744,13 @@
    "time": "2026-10-21T15:40:12.780538+00:00",
    "title": "⚽ В ЛЧ умер страх проигрыша — счетчики тают от голевой лихорадки",
    "body": "Герт Верхейен точно подметил: в лиге из 36 команд поражение не конец света, поэтому тренеры с первой минуты идут только вперёд, забыв про «автобусы». Статистика Opta подтверждает безумие: 4,16 гола за матч — максимум с 1992-го, а за два дня в ворота полетело 78 мячей — второе по величине показатель за историю; вчера в четырёх поединках забили 40 голов: ПСЖ обыграл Барселону 4:2, Сити — АЭК 5:1, а "
+  },
+  {
+   "time": "2026-10-21T17:36:37.530093+00:00",
+   "title": "💔 Легенда «Данди» Немадзе умер от сердечного приступа в 54 года",
+   "body": "Грузинский полузащитник Георгий Немадзе, ставший кумиром Денс-парка в эпоху Каниджи и Бонетти, скончался в 54 года от сердечного приступа. За «Данди» он провёл три с половиной лет и в 2010-м попал в Зал славы клуба, а за сборную сыграл 69 матчей, возглавляя национальную команду. Премьер-министр Кобахидзе назвал уход «огромной потерей для футбола», а фанаты до сих пор вспоминают, как его характер н"
   }
  ],
- "last_post": "2026-10-21T15:40:12.780552+00:00",
+ "last_post": "2026-10-21T17:36:37.530110+00:00",
  "limit_day": "2026-10-17"
 }
