@@ -242,7 +242,8 @@
   "https://www.lequipe.fr/Football/Actualites/Toujours-malade-vincent-kompany-a-rate-l-entrainement-et-la-conference-de-presse-a-la-veille-de-bayern-munich-arsenal/1737279#at_medium=RSS_feeds",
   "https://www.lequipe.fr/Football/Actualites/Bel-enchainement-de-greenwood-et-boulette-de-guendouzi-fenerbahce-s-est-saborde-face-au-slavia-prague/1737321#at_medium=RSS_feeds",
   "https://www.theguardian.com/football/2026/oct/20/liverpool-villarreal-champions-league-match-report",
-  "https://www.theguardian.com/football/2026/oct/20/champions-league-roundup-mctominay-scores-twice-on-return-from-heart-surgery"
+  "https://www.theguardian.com/football/2026/oct/20/champions-league-roundup-mctominay-scores-twice-on-return-from-heart-surgery",
+  "https://nos.nl/l/2636017"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -487,10 +488,10 @@
   "toujours malade vincent kompany a raté l entraînement et la conférence de presse à la veille de bayern munich arsenal",
   "bel enchaînement de greenwood et boulette de guendouzi fenerbahçe s est sabordé face au slavia prague",
   "mac allister double sparks liverpool s thrilling comeback win against villarreal",
-  "champions league roundup mctominay double leads napoli past bodø glimt"
+  "champions league roundup mctominay double leads napoli past bodø glimt",
+  "psv knokt zich naar knappe zege op farioli s porto in champions league"
  ],
  "recent": [
-  "🇮🇹 Италия на девятом месте: шансы на пятое место в ЛЧ почти испарились",
   "🚨 Артета отмахивается от вопросов о сокращениях в «Арсенале» — но обещает успех",
   "🔴 «Ливерпуль» в девять не играл, но выиграл: 2:1 у «Брентфорда»",
   "⚽ Барселона взорвала Бетис: семь голов, пять разных авторов и отрыв в пять очков",
@@ -529,14 +530,10 @@
   "🤒 Компани пропустил тренировку: будет ли он на скамью против «Арсенала»?",
   "🤦 Гендузи подарил «Славии» ничью, а «Фенербахче» — нервный тик",
   "⚽ Ван Дейк раздал, Маккаллистер собрал: «Ливерпуль» обыграл «Вильярреал» 4:3",
-  "⚽ МакТоминей забил дубль после операции на сердце — «Наполи» выжил в голевом балагане"
+  "⚽ МакТоминей забил дубль после операции на сердце — «Наполи» выжил в голевом балагане",
+  "⚽ «ПСВ» вырвал 0:1 у «Порто» и отомстился Фариоли за «Аякс»"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-16T19:37:56.463168+00:00",
-   "title": "🇮🇹 Италия на девятом месте: шансы на пятое место в ЛЧ почти испарились",
-   "body": "Итоги последних матчей оставили Италию на девятой позиции в коэффициенте ассоциаций UEFA с 5,214 очками, тогда как Англия уверенно лидирует с 6,611. Дополнительное место в Лиге чемпионов получают две страны с наивысшим сезонным коэффициентом, и сейчас это Англия и Испания, а Италия и Germany пользовались таким бонусом только в прошлом розыгрыше. Учитывая разрыв в более чем полтора очка до пятой по"
-  },
   {
    "time": "2026-10-16T21:34:54.104604+00:00",
    "title": "🚨 Артета отмахивается от вопросов о сокращениях в «Арсенале» — но обещает успех",
@@ -731,8 +728,13 @@
    "time": "2026-10-20T23:32:24.758214+00:00",
    "title": "⚽ МакТоминей забил дубль после операции на сердце — «Наполи» выжил в голевом балагане",
    "body": "Скотт МакТоминей, пропустивший месяц из-за аритмии, в дебюте забил первый дубль сезона и попал в штангу, помогая «Наполи» обыграть «Бёдо/Глимт» 4:3 и снять давление с Аллегри. «Атлетико» в десятке удержало 1:1 со «Штутгартом» после красной карточки Хюльманда за грубое нарушение на Стиллера, «Дортмунд» неудобно ניצח «Сабах» 2:1, а «Славия» в 90-й минуте вырвала 2:2 у «Фенербахче» после ляпа Гендузи"
+  },
+  {
+   "time": "2026-10-21T01:41:34.209474+00:00",
+   "title": "⚽ «ПСВ» вырвал 0:1 у «Порто» и отомстился Фариоли за «Аякс»",
+   "body": "«ПСВ» приехал в «Драконью логову», доминировал большую часть матча, но в итоге выжил благодаря вписыванию Гуса Тиля на 71-й минуте после передачи Свенна Мейнанса. В концовке команда Петера Боза пережила настоящий триллер: Матей Ковар спас на встречной, Лутшарел Гертрайда убрал мяч грудью с линии, а Серхио Дест перекрыл пустые ворота — три героя за одну победу. Нидерландцы отомстились португальцам "
   }
  ],
- "last_post": "2026-10-20T23:32:24.758229+00:00",
+ "last_post": "2026-10-21T01:41:34.209489+00:00",
  "limit_day": "2026-10-17"
 }
