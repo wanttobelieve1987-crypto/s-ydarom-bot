@@ -263,7 +263,8 @@
   "https://www.theguardian.com/football/2026/oct/23/el-clasico-real-madrid-barcelona-lamine-yamal-kylian-mbappe",
   "https://www.walfoot.be/news/2026-10-23/vitor-bruno-pousse-un-soupir-de-soulagement-apres-la-victoire-danderlecht-quand-on-perd-on-souffre",
   "https://www.lequipe.fr/Football/Actualites/Le-choc-de-la-ligue-1-en-meme-temps-que-le-ballon-d-or-psg-ol-officiellement-decale-a-lundi/1738032#at_medium=RSS_feeds",
-  "https://www.record.pt/futebol/futebol-nacional/coluna-distrital/boavista/detalhe/principais-credores-do-boavista-colocaram-720-mil-euros-na-massa-insolvente-do-clube"
+  "https://www.record.pt/futebol/futebol-nacional/coluna-distrital/boavista/detalhe/principais-credores-do-boavista-colocaram-720-mil-euros-na-massa-insolvente-do-clube",
+  "https://www.skysports.com/football/news/12040/13602757/vincent-kompany-bayern-munich-boss-taken-to-hospital-after-collapsing-at-training-ground"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -529,10 +530,10 @@
   "is el clásico still the world s biggest match three questions before barcelona v real madrid",
   "vitor bruno pousse un soupir de soulagement après la victoire d anderlecht quand on perd on souffre",
   "le choc de la ligue 1 en même temps que le ballon d or psg ol officiellement décalé à lundi",
-  "principais credores do boavista colocaram 720 mil euros na massa insolvente do clube"
+  "principais credores do boavista colocaram 720 mil euros na massa insolvente do clube",
+  "kompany taken to hospital after collapsing at bayern s training ground"
  ],
  "recent": [
-  "🔥 «Милан» 3:2 «Аталанта»: три очка, но кончились ноги",
   "🔥 Неделя XXL: Лига чемпионов, Класико и «Золотой мяч»",
   "🤕 Семеньо на полке 8 недель, Холанд хромает — у Марески голова болит",
   "🎯 Брайтон разгромил Пэлас 5:0 — Лига чемпионов уже не фантазия?",
@@ -571,14 +572,10 @@
   "⚽ Эль‑класико уступает трон премьер‑лиге по рейтингам в США",
   "🚨 «Андерлехт» сбросил нули: 3:0 «Ягеллонии» и выдох Витора Бруно",
   "⚽ «ПСЖ» — «Лион» сдвинули на время «Золотого мяча»: полиция переиграла календарь",
-  "💰 Кредиторы «Боависты» спасают клуб 720 тысячами и просьбой к суду"
+  "💰 Кредиторы «Боависты» спасают клуб 720 тысячами и просьбой к суду",
+  "🏥 Компань потерял сознание на тренировке — «Бавария» в шоке"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-19T11:38:37.716819+00:00",
-   "title": "🔥 «Милан» 3:2 «Аталанта»: три очка, но кончились ноги",
-   "body": "«Милан» обыграл «Аталанту» 3:2, удержав беспроигрышный старт сезона, но после часа игры на счёте 3:0 Гонсалу Рамуш не реализовал пенальти, а «неразуззурри» отбили два мяча и чуть не унесли очко. «Газетта» хвалит атаку и появившуюся «идентичность», но указывает на растущую проблему: система Аморима физически перегружает игроков, из-за чего команда не тянет 90 минут на высоком темпе. При этом португ"
-  },
   {
    "time": "2026-10-19T13:51:53.505055+00:00",
    "title": "🔥 Неделя XXL: Лига чемпионов, Класико и «Золотой мяч»",
@@ -773,8 +770,13 @@
    "time": "2026-10-23T15:42:49.811190+00:00",
    "title": "💰 Кредиторы «Боависты» спасают клуб 720 тысячами и просьбой к суду",
    "body": "Главные кредиторы «Боависты» перевели 720 тысяч евро на счёт массы банкротства, чтобы закрыть двадцатилетние долги перед сотрудниками, и попросили коммерческий суд Вила-Новы-де-Гаи отсрочить ликвидацию на месяц. Долги копились ещё при Жуане Лурейру и раздулись под Витором Муртой и Руем Гарриду Перейрой, а план восстановления теперь висит на согласовании этой отсрочки. Сотрудники наконец увидят ден"
+  },
+  {
+   "time": "2026-10-23T17:35:14.301117+00:00",
+   "title": "🏥 Компань потерял сознание на тренировке — «Бавария» в шоке",
+   "body": "Винсент Компань рухнул на базе «Баварии» во время наблюдения за второй командой и уехал в больницу, хотя по данным Sky Germany его состояние стабильно. Белгиец недавно переносил вирусную инфекцию и даже пропустил пресс-конференцию перед «Арсеналом», но всё равно сидел на скамейке в матче, вышедшем 2:2. На воскресный поединок с «Фрайбургом» подготовку временно возьмёт на себя тренерский штаб. Желае"
   }
  ],
- "last_post": "2026-10-23T15:42:49.811207+00:00",
+ "last_post": "2026-10-23T17:35:14.301161+00:00",
  "limit_day": "2026-10-22"
 }
