@@ -261,7 +261,8 @@
   "https://football-italia.net/uecl-ajax-2-0-atalanta-dea-undone-late-goals/",
   "https://nos.nl/l/2636276",
   "https://www.theguardian.com/football/2026/oct/23/el-clasico-real-madrid-barcelona-lamine-yamal-kylian-mbappe",
-  "https://www.walfoot.be/news/2026-10-23/vitor-bruno-pousse-un-soupir-de-soulagement-apres-la-victoire-danderlecht-quand-on-perd-on-souffre"
+  "https://www.walfoot.be/news/2026-10-23/vitor-bruno-pousse-un-soupir-de-soulagement-apres-la-victoire-danderlecht-quand-on-perd-on-souffre",
+  "https://www.lequipe.fr/Football/Actualites/Le-choc-de-la-ligue-1-en-meme-temps-que-le-ballon-d-or-psg-ol-officiellement-decale-a-lundi/1738032#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -525,10 +526,10 @@
   "uecl ajax 2 0 atalanta dea undone by two late goals",
   "historische avond voor eredivisieclubs met vier zeges in europese toernooien",
   "is el clásico still the world s biggest match three questions before barcelona v real madrid",
-  "vitor bruno pousse un soupir de soulagement après la victoire d anderlecht quand on perd on souffre"
+  "vitor bruno pousse un soupir de soulagement après la victoire d anderlecht quand on perd on souffre",
+  "le choc de la ligue 1 en même temps que le ballon d or psg ol officiellement décalé à lundi"
  ],
  "recent": [
-  "🇩🇰 Датчане разнесли «Юве» 0-3: первый успех в Турине с 2017 года",
   "🤝 Крёше уходит в «Милан»? «Айнтрахт» получит откуп",
   "🔥 «Милан» 3:2 «Аталанта»: три очка, но кончились ноги",
   "🔥 Неделя XXL: Лига чемпионов, Класико и «Золотой мяч»",
@@ -567,14 +568,10 @@
   "🤕 «Аталанта» выставила юношу в защиту — «Аякс» забил дважды в концовке",
   "🇳🇱 Четыре голландца, 14 голов и утекающий билет в Лигу чемпионов",
   "⚽ Эль‑класико уступает трон премьер‑лиге по рейтингам в США",
-  "🚨 «Андерлехт» сбросил нули: 3:0 «Ягеллонии» и выдох Витора Бруно"
+  "🚨 «Андерлехт» сбросил нули: 3:0 «Ягеллонии» и выдох Витора Бруно",
+  "⚽ «ПСЖ» — «Лион» сдвинули на время «Золотого мяча»: полиция переиграла календарь"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-19T07:57:03.514494+00:00",
-   "title": "🇩🇰 Датчане разнесли «Юве» 0-3: первый успех в Турине с 2017 года",
-   "body": "«Ювентус» получил дома 0:3 от «Лацио» и, видимо, так и не نزل с небес после победы над «Сельтой»: Провстгаард и Исаксен реализовали датчанский дуэт, а Деле-Баширу на десерт ушел в соло с центра поля — «орлы» впервые с октября 2017 года забрали три очка в Турине. Без Йильдиза, Локателли и Тюрама «Старая синьора» выглядела беззащитно: Исаксен танцевал на краю штрафной, Бремер отбивал мячи на свою шт"
-  },
   {
    "time": "2026-10-19T09:40:26.568296+00:00",
    "title": "🤝 Крёше уходит в «Милан»? «Айнтрахт» получит откуп",
@@ -769,8 +766,13 @@
    "time": "2026-10-23T11:39:30.802374+00:00",
    "title": "🚨 «Андерлехт» сбросил нули: 3:0 «Ягеллонии» и выдох Витора Бруно",
    "body": "После двух поражений в Евро лиге «Андерлехт» разгромил «Ягеллонию» на выезде 3:0, и тренер португалец наконец выдохнул: «В клубе вроде нашего победа — это норма, а проигрыш — страдание». Бруно похвалил команду за характер и возвращение Бьянконе с Ония-Секе, но праздновать некогда — в воскресенье дома ждет лидер чемпионата «Гент». ⚽️"
+  },
+  {
+   "time": "2026-10-23T13:51:00.197467+00:00",
+   "title": "⚽ «ПСЖ» — «Лион» сдвинули на время «Золотого мяча»: полиция переиграла календарь",
+   "body": "Главный матч тура Лиги 1 между «ПСЖ» и «Лионом» перенесли с воскресенья на понедельник, 26 октября, на 20:30 по требованию парижской префектуры полиции. Теперь старт матча совпадёт с церемонией «Золотого мяча», так что фанатам придётся выбирать: очки или награда. Логистический курьёз, который добавит остроты в уже горячий сезон."
   }
  ],
- "last_post": "2026-10-23T11:39:30.802392+00:00",
+ "last_post": "2026-10-23T13:51:00.197485+00:00",
  "limit_day": "2026-10-22"
 }
