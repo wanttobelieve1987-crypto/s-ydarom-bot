@@ -262,7 +262,8 @@
   "https://nos.nl/l/2636276",
   "https://www.theguardian.com/football/2026/oct/23/el-clasico-real-madrid-barcelona-lamine-yamal-kylian-mbappe",
   "https://www.walfoot.be/news/2026-10-23/vitor-bruno-pousse-un-soupir-de-soulagement-apres-la-victoire-danderlecht-quand-on-perd-on-souffre",
-  "https://www.lequipe.fr/Football/Actualites/Le-choc-de-la-ligue-1-en-meme-temps-que-le-ballon-d-or-psg-ol-officiellement-decale-a-lundi/1738032#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Le-choc-de-la-ligue-1-en-meme-temps-que-le-ballon-d-or-psg-ol-officiellement-decale-a-lundi/1738032#at_medium=RSS_feeds",
+  "https://www.record.pt/futebol/futebol-nacional/coluna-distrital/boavista/detalhe/principais-credores-do-boavista-colocaram-720-mil-euros-na-massa-insolvente-do-clube"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -527,10 +528,10 @@
   "historische avond voor eredivisieclubs met vier zeges in europese toernooien",
   "is el clásico still the world s biggest match three questions before barcelona v real madrid",
   "vitor bruno pousse un soupir de soulagement après la victoire d anderlecht quand on perd on souffre",
-  "le choc de la ligue 1 en même temps que le ballon d or psg ol officiellement décalé à lundi"
+  "le choc de la ligue 1 en même temps que le ballon d or psg ol officiellement décalé à lundi",
+  "principais credores do boavista colocaram 720 mil euros na massa insolvente do clube"
  ],
  "recent": [
-  "🤝 Крёше уходит в «Милан»? «Айнтрахт» получит откуп",
   "🔥 «Милан» 3:2 «Аталанта»: три очка, но кончились ноги",
   "🔥 Неделя XXL: Лига чемпионов, Класико и «Золотой мяч»",
   "🤕 Семеньо на полке 8 недель, Холанд хромает — у Марески голова болит",
@@ -569,14 +570,10 @@
   "🇳🇱 Четыре голландца, 14 голов и утекающий билет в Лигу чемпионов",
   "⚽ Эль‑класико уступает трон премьер‑лиге по рейтингам в США",
   "🚨 «Андерлехт» сбросил нули: 3:0 «Ягеллонии» и выдох Витора Бруно",
-  "⚽ «ПСЖ» — «Лион» сдвинули на время «Золотого мяча»: полиция переиграла календарь"
+  "⚽ «ПСЖ» — «Лион» сдвинули на время «Золотого мяча»: полиция переиграла календарь",
+  "💰 Кредиторы «Боависты» спасают клуб 720 тысячами и просьбой к суду"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-19T09:40:26.568296+00:00",
-   "title": "🤝 Крёше уходит в «Милан»? «Айнтрахт» получит откуп",
-   "body": "По данным итальянских СМИ, спортивный директор «Айнтрахта» Маркус Крёше стоит у порога перехода в «Милан» — сделку могут оформить уже на этой неделе. Франкфурт не останется с пустыми руками: за уход своего архитектора успехов клуб получит компенсацию. Итальянцы явно решили, что лучше поздно, чем никогда нанять человека, собравшего команду за копейки."
-  },
   {
    "time": "2026-10-19T11:38:37.716819+00:00",
    "title": "🔥 «Милан» 3:2 «Аталанта»: три очка, но кончились ноги",
@@ -771,8 +768,13 @@
    "time": "2026-10-23T13:51:00.197467+00:00",
    "title": "⚽ «ПСЖ» — «Лион» сдвинули на время «Золотого мяча»: полиция переиграла календарь",
    "body": "Главный матч тура Лиги 1 между «ПСЖ» и «Лионом» перенесли с воскресенья на понедельник, 26 октября, на 20:30 по требованию парижской префектуры полиции. Теперь старт матча совпадёт с церемонией «Золотого мяча», так что фанатам придётся выбирать: очки или награда. Логистический курьёз, который добавит остроты в уже горячий сезон."
+  },
+  {
+   "time": "2026-10-23T15:42:49.811190+00:00",
+   "title": "💰 Кредиторы «Боависты» спасают клуб 720 тысячами и просьбой к суду",
+   "body": "Главные кредиторы «Боависты» перевели 720 тысяч евро на счёт массы банкротства, чтобы закрыть двадцатилетние долги перед сотрудниками, и попросили коммерческий суд Вила-Новы-де-Гаи отсрочить ликвидацию на месяц. Долги копились ещё при Жуане Лурейру и раздулись под Витором Муртой и Руем Гарриду Перейрой, а план восстановления теперь висит на согласовании этой отсрочки. Сотрудники наконец увидят ден"
   }
  ],
- "last_post": "2026-10-23T13:51:00.197485+00:00",
+ "last_post": "2026-10-23T15:42:49.811207+00:00",
  "limit_day": "2026-10-22"
 }
