@@ -270,7 +270,8 @@
   "https://www.skysports.com/football/ipswich-town-vs-nottingham-forest/report/559520",
   "https://football-italia.net/milan-condemn-racist-abuse-maignan/",
   "https://www.lequipe.fr/Football/Article/Les-notes-de-brest-nice-lala-malheureux-wahi-precieux/1738208#at_medium=RSS_feeds",
-  "https://www.record.pt/futebol/arbitragem/detalhe/cmtv-revela-denuncia-anonima-na-pj-contra-proenca-por-pressoes-para-mudar-arbitro-de-classico-da-taca"
+  "https://www.record.pt/futebol/arbitragem/detalhe/cmtv-revela-denuncia-anonima-na-pj-contra-proenca-por-pressoes-para-mudar-arbitro-de-classico-da-taca",
+  "https://www.bbc.co.uk/sport/football/articles/ck240l3n774zo?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -543,10 +544,10 @@
   "wasteful forest held by ipswich amid var controversy",
   "milan condemn unacceptable racist abuse of maignan after bournemouth red card",
   "les notes de brest nice lala malheureux wahi précieux",
-  "cmtv revela denúncia anónima na pj contra proença por pressões para mudar árbitro de clássico"
+  "cmtv revela denúncia anónima na pj contra proença por pressões para mudar árbitro de clássico",
+  "why tottenham v arsenal could define their seasons live on bbc one"
  ],
  "recent": [
-  "⚽ «Брага» в ярости: судья признал ошибку, директор требует совести у VAR",
   "🦙 Симеоне вспомнил, как забивать: «Торино» снёс «Парму» 3:0",
   "🔴 «Лилль» — «Галатасарай»: матч объявлен высокорисковым",
   "🏆 Лапорта: ПСЖ — «Барса» — это финал ЛЧ до времени",
@@ -585,14 +586,10 @@
   "🌲 Форест доминировал, но недобивает: 2.31 xG, 17 ударов — 1:1 с Ипсвичем",
   "🧤 Расизм после красной карточки: «Милан» встаёт за Майньяна после 0:3",
   "⚽ Лала подарил «Ницце» победу, а Вахи проснулся вовремя",
-  "📧 Донос на 15 листов: Проэнса давил на арбитров по просьбе Вильяш-Боаша"
+  "📧 Донос на 15 листов: Проэнса давил на арбитров по просьбе Вильяш-Боаша",
+  "🔥 5 голов за сезон у «Арсенала» — 12 пропущенных за две недели у «Сперз»: дерби выживания"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-20T01:40:33.445545+00:00",
-   "title": "⚽ «Брага» в ярости: судья признал ошибку, директор требует совести у VAR",
-   "body": "«Брага» проиграла «Жил Висенте» 1:2 и потерпела третье поражение подряд. Директор по коммуникации Александр Карвалью в X опубликовал фото травмированной ноги Пау Виктора с эпизода гола 1:1 и добавил про незасчитанный пенальти на Орту: «Где VAR? Имейте совесть, конец аматорству». Тренер Карлос Висенс тоже раскритиковал арбитраж, а по слухам сам судья в микст-зоне признал: Думбия нарушил правила чис"
-  },
   {
    "time": "2026-10-20T03:35:55.420257+00:00",
    "title": "🦙 Симеоне вспомнил, как забивать: «Торино» снёс «Парму» 3:0",
@@ -787,8 +784,13 @@
    "time": "2026-10-24T05:35:07.967540+00:00",
    "title": "📧 Донос на 15 листов: Проэнса давил на арбитров по просьбе Вильяш-Боаша",
    "body": "Анонимный донос в судебную полицию на 15 страниц обвиняет президента ФПФ Педро Проэнсу в давлении на арбитражный комитет: якобы по просьбе Андрея Вильяш-Боаша он требовал сменить судью Фабиу Вериссиму перед январским классико «Порто» — «Бенфика» по Кубку. Глава комитета Лучано Гонсалвеш отказал, а в внутренней переписке, вышедшей в эфир CMTV, назвал происходящее «трусливой атакой» на себя и семью,"
+  },
+  {
+   "time": "2026-10-24T07:40:14.168743+00:00",
+   "title": "🔥 5 голов за сезон у «Арсенала» — 12 пропущенных за две недели у «Сперз»: дерби выживания",
+   "body": "«Арсенал» набрал всего пять мячей за шесть туров — второе худшее показательство лиги — и едет к «Тоттенхэму», который за последние два матча пропустил дюжину, хотя в прошлом сезоне вырвал у ганнерсов ничью. У Рене Слегерс худшая в дивизионе конверсия (5,9%): команда бьёт в створы чаще всех и лидирует по прикосновениям в чужой штрафной, но Руссо не завелась, а без Кальдентей атака теряется. После р"
   }
  ],
- "last_post": "2026-10-24T05:35:07.967556+00:00",
+ "last_post": "2026-10-24T07:40:14.168763+00:00",
  "limit_day": "2026-10-22"
 }
