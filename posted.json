@@ -277,7 +277,8 @@
   "https://www.kicker.de/villa-gegen-mancity-2026-premier-league-5213341/spielbericht#omrss",
   "https://sporza.be/nl/2026/10/24/bayern-geeft-update-over-kompany-coach-weken-buiten-strijd-toestand-wel-stabiel~1792829521907/",
   "https://sporza.be/nl/matches/voetbal/buitenland/eng/premier-league/2026-2027/regulier/08/arsenal-everton-met-dank-aan-de-centrale-verdedigers-arsenal-wint-met-2-0-van-everton-en-kan-opnieuw-scoren-na-een-hoekschop~1784282049764/",
-  "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
+  "https://www.theguardian.com/football/2026/oct/24/european-football-napoli-roma-borussia-dortmund-atletico-madrid-paris-fc"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -557,10 +558,10 @@
   "jackson schnürt doppelpack aston villa beendet citys siegesserie",
   "bayern geeft update over kompany coach weken buiten strijd toestand wel stabiel",
   "met dank aan de centrale verdedigers arsenal wint met 2 0 van everton en kan opnieuw scoren na een hoekschop",
-  "spurs pick up rare stamford bridge win as palmer sent off"
+  "spurs pick up rare stamford bridge win as palmer sent off",
+  "european football lazio beat parma to top serie a dortmund lead bundesliga"
  ],
  "recent": [
-  "🇹🇷 Турция уволила Монтеллу: сборную возглавил Ялчин",
   "🤒 Компани пропустил тренировку: будет ли он на скамью против «Арсенала»?",
   "🤦 Гендузи подарил «Славии» ничью, а «Фенербахче» — нервный тик",
   "⚽ Ван Дейк раздал, Маккаллистер собрал: «Ливерпуль» обыграл «Вильярреал» 4:3",
@@ -599,14 +600,10 @@
   "⚡ «Астон Вилла» прервал серию «Сити» — Джексон решил всё дублем",
   "🏥 Компани в ауте: «Бавария» осталась без главного тренера",
   "⚽ Арсенал вылечил угловой синдром и встал вровень с «Сити» во главе таблицы",
-  "😱 Палмер улетел на душе — «Тоттенхэм» взял вторую победу на «Стэмфорд Бридж» за 36 лет"
+  "😱 Палмер улетел на душе — «Тоттенхэм» взял вторую победу на «Стэмфорд Бридж» за 36 лет",
+  "⚽ Дортмунд возглавил Бундеслигу, Лацио — Серию А, Рома спасся в Неаполе, Атлетико впритык к Барсе"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-20T15:38:44.971486+00:00",
-   "title": "🇹🇷 Турция уволила Монтеллу: сборную возглавил Ялчин",
-   "body": "Турецкая федерация отправила Винченцо Монтеллу в отставку и назначил главным тренером бывшего национального игрока Сергена Ялчина. Специалист возглавит «звёзд-полумесяцев» — сборную-участницу чемпионатов мира. Итальянца сменил родной сын футбола, так что на технической зоне обещают больше эмоций, чем сухой тактики. 😄"
-  },
   {
    "time": "2026-10-20T17:40:14.587773+00:00",
    "title": "🤒 Компани пропустил тренировку: будет ли он на скамью против «Арсенала»?",
@@ -801,8 +798,13 @@
    "time": "2026-10-24T19:30:27.351395+00:00",
    "title": "😱 Палмер улетел на душе — «Тоттенхэм» взял вторую победу на «Стэмфорд Бридж» за 36 лет",
    "body": "Кол Палмер заработал рекордную по скорости красную карточку и оставил «Челси» в десятке, а «Тоттенхэм» не упустил шанс — 2:0 и всего вторая победа на чужом поле за 36 лет. «Синие» продолжают коллекционировать позорные домашние рекорды, а сперс-фанаты в седьмом небе от неожиданного счастья. Палмер, наверное, уже изучает правила, чтобы понять, за что ему это."
+  },
+  {
+   "time": "2026-10-24T21:33:42.512136+00:00",
+   "title": "⚽ Дортмунд возглавил Бундеслигу, Лацио — Серию А, Рома спасся в Неаполе, Атлетико впритык к Барсе",
+   "body": "Максимилиан Бейер, вышедший с лавки, в 80-й минуте довел пас Джоба Беллингэма — и Дортмунд получил первую победу с сентября плюс первое место в Бундеслиге. Лацио обыграла Парму 2:1, набрала 22 очка из 8 матчей и ушла на три очка от Интера, у которого игра в запасе. Рома дважды отставала от Наполи, но дубль Балерди, забитый последним на 89-й минуте, удержал 15-матчевую беспроигрышную серию — 3:3. А"
   }
  ],
- "last_post": "2026-10-24T19:30:27.351410+00:00",
+ "last_post": "2026-10-24T21:33:42.512157+00:00",
  "limit_day": "2026-10-22"
 }
