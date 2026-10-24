@@ -273,7 +273,8 @@
   "https://www.record.pt/futebol/arbitragem/detalhe/cmtv-revela-denuncia-anonima-na-pj-contra-proenca-por-pressoes-para-mudar-arbitro-de-classico-da-taca",
   "https://www.bbc.co.uk/sport/football/articles/ck240l3n774zo?at_medium=RSS&at_campaign=rss",
   "https://www.scotsman.com/sport/football/without-question-willie-collum-admits-rangers-and-celtic-var-errors-as-hearts-gripes-addressed-9307502",
-  "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-premier-league-live"
+  "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-premier-league-live",
+  "https://www.kicker.de/villa-gegen-mancity-2026-premier-league-5213341/spielbericht#omrss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -549,10 +550,10 @@
   "cmtv revela denúncia anónima na pj contra proença por pressões para mudar árbitro de clássico",
   "why tottenham v arsenal could define their seasons live on bbc one",
   "without question willie collum admits rangers and celtic var errors as hearts gripes addressed",
-  "aston villa v manchester city premier league live"
+  "aston villa v manchester city premier league live",
+  "jackson schnürt doppelpack aston villa beendet citys siegesserie"
  ],
  "recent": [
-  "🏆 Лапорта: ПСЖ — «Барса» — это финал ЛЧ до времени",
   "⚽ Троссард за 18 млн: 90 минут тени и 0-2 от «Трабзонспора»",
   "😅 Тен Хаг: Роналду не допробежал наказание, а хозяева «Юнайтед» продали Мактоминея за его спиной",
   "⚽ Нойер готов к «Арсеналу», Компани и Киммич пропустили тренировку",
@@ -591,14 +592,10 @@
   "📧 Донос на 15 листов: Проэнса давил на арбитров по просьбе Вильяш-Боаша",
   "🔥 5 голов за сезон у «Арсенала» — 12 пропущенных за две недели у «Сперз»: дерби выживания",
   "🤷‍♂️ Коллам признал: VAR провалился в двух матчах",
-  "🍌 «Сити» привезли бананы, а в Вила-Парке ждёт четвёртое поражение подряд?"
+  "🍌 «Сити» привезли бананы, а в Вила-Парке ждёт четвёртое поражение подряд?",
+  "⚡ «Астон Вилла» прервал серию «Сити» — Джексон решил всё дублем"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-20T07:44:59.496621+00:00",
-   "title": "🏆 Лапорта: ПСЖ — «Барса» — это финал ЛЧ до времени",
-   "body": "Лапорта назвал матч с ПСЖ «финалом до финала» и поставил каталонцев в один ряд с парижанами выше даже «Баварии», уверенно заявив, что «Барса» играет самый зрелищный футбол в Европе. Президент хвалит соперника за классную игру и Энрике, но тут же напоминает: мы тоже не промах. В воскресенье победителю этого поединка ждёт «Эль Класико» с «Реалом» — неделя точно не на слабаков. ⚽"
-  },
   {
    "time": "2026-10-20T09:37:25.061262+00:00",
    "title": "⚽ Троссард за 18 млн: 90 минут тени и 0-2 от «Трабзонспора»",
@@ -793,8 +790,13 @@
    "time": "2026-10-24T11:35:55.661237+00:00",
    "title": "🍌 «Сити» привезли бананы, а в Вила-Парке ждёт четвёртое поражение подряд?",
    "body": "«Сити» под дождём и свистом прибыло в Бирмингем, а фанаты «голубых» раздули надувные бананы — на тот случай, если это поможет избежать четвёртого поражения подряд в «Вилла-Парке» (серия: 1:0, 2:1, 1:0). Фоден забил хет-трик в середине недели, но отправлён на скамейку: Мареска поставил на ротацию. Эмери называет «Сити» лучшей командой лиги, но дома с манчестерцами «Вилла» не проигрывает уже три мат"
+  },
+  {
+   "time": "2026-10-24T13:35:22.244272+00:00",
+   "title": "⚡ «Астон Вилла» прервал серию «Сити» — Джексон решил всё дублем",
+   "body": "«Манчестер Сити» не смог продолжить серию побед в АПЛ, проиграв «Астону Вилле» 1:2 в гостях. Халанд сравнял счёт после перерыва, но ответить дублем на другом конце поля сделал Джексон — его два гола принесли «виллам» три очка и прервали серию чемпионов. Гвардиола так и не нашёл рецепт от контратак соперника, а синие теряют очки в гонке за вершину."
   }
  ],
- "last_post": "2026-10-24T11:35:55.661253+00:00",
+ "last_post": "2026-10-24T13:35:22.244289+00:00",
  "limit_day": "2026-10-22"
 }
