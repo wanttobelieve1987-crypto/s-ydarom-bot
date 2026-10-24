@@ -272,7 +272,8 @@
   "https://www.lequipe.fr/Football/Article/Les-notes-de-brest-nice-lala-malheureux-wahi-precieux/1738208#at_medium=RSS_feeds",
   "https://www.record.pt/futebol/arbitragem/detalhe/cmtv-revela-denuncia-anonima-na-pj-contra-proenca-por-pressoes-para-mudar-arbitro-de-classico-da-taca",
   "https://www.bbc.co.uk/sport/football/articles/ck240l3n774zo?at_medium=RSS&at_campaign=rss",
-  "https://www.scotsman.com/sport/football/without-question-willie-collum-admits-rangers-and-celtic-var-errors-as-hearts-gripes-addressed-9307502"
+  "https://www.scotsman.com/sport/football/without-question-willie-collum-admits-rangers-and-celtic-var-errors-as-hearts-gripes-addressed-9307502",
+  "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-premier-league-live"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -547,10 +548,10 @@
   "les notes de brest nice lala malheureux wahi précieux",
   "cmtv revela denúncia anónima na pj contra proença por pressões para mudar árbitro de clássico",
   "why tottenham v arsenal could define their seasons live on bbc one",
-  "without question willie collum admits rangers and celtic var errors as hearts gripes addressed"
+  "without question willie collum admits rangers and celtic var errors as hearts gripes addressed",
+  "aston villa v manchester city premier league live"
  ],
  "recent": [
-  "🔴 «Лилль» — «Галатасарай»: матч объявлен высокорисковым",
   "🏆 Лапорта: ПСЖ — «Барса» — это финал ЛЧ до времени",
   "⚽ Троссард за 18 млн: 90 минут тени и 0-2 от «Трабзонспора»",
   "😅 Тен Хаг: Роналду не допробежал наказание, а хозяева «Юнайтед» продали Мактоминея за его спиной",
@@ -589,14 +590,10 @@
   "⚽ Лала подарил «Ницце» победу, а Вахи проснулся вовремя",
   "📧 Донос на 15 листов: Проэнса давил на арбитров по просьбе Вильяш-Боаша",
   "🔥 5 голов за сезон у «Арсенала» — 12 пропущенных за две недели у «Сперз»: дерби выживания",
-  "🤷‍♂️ Коллам признал: VAR провалился в двух матчах"
+  "🤷‍♂️ Коллам признал: VAR провалился в двух матчах",
+  "🍌 «Сити» привезли бананы, а в Вила-Парке ждёт четвёртое поражение подряд?"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-20T05:36:03.677099+00:00",
-   "title": "🔴 «Лилль» — «Галатасарай»: матч объявлен высокорисковым",
-   "body": "Матч «Лилля» с «Галатасараем» в Лиге чемпионов (среда, 18:45) получили статус высокорискового — власти уже ввели усиленные меры безопасности. В самом клубе при этом не теряют головы: официальные лица заявляют о полном спокойствии и контроле ситуации. Остаётся надеяться, что страсти разгорятся только на газоне. ⚽️"
-  },
   {
    "time": "2026-10-20T07:44:59.496621+00:00",
    "title": "🏆 Лапорта: ПСЖ — «Барса» — это финал ЛЧ до времени",
@@ -791,8 +788,13 @@
    "time": "2026-10-24T09:34:38.691482+00:00",
    "title": "🤷‍♂️ Коллам признал: VAR провалился в двух матчах",
    "body": "Глава шотландского судейства Вилли Коллам признал, что VAR Стивен Маклин должен был дать пенальти «Сент-Миррен» в матче с «Рейнджерс» (1:0) за наступившее Фернандесом на ногу Кабию, а в победе «Селтика» над «Мазервелл» (2:0) — за руку Фадингера после удара Макгрегора. Зато отмену гола «Хартс» у «Килмарнока» (1:1) Коллам назвал абсолютно верной: Мэнди задел руку в атакующей фазе, и по правилам тако"
+  },
+  {
+   "time": "2026-10-24T11:35:55.661237+00:00",
+   "title": "🍌 «Сити» привезли бананы, а в Вила-Парке ждёт четвёртое поражение подряд?",
+   "body": "«Сити» под дождём и свистом прибыло в Бирмингем, а фанаты «голубых» раздули надувные бананы — на тот случай, если это поможет избежать четвёртого поражения подряд в «Вилла-Парке» (серия: 1:0, 2:1, 1:0). Фоден забил хет-трик в середине недели, но отправлён на скамейку: Мареска поставил на ротацию. Эмери называет «Сити» лучшей командой лиги, но дома с манчестерцами «Вилла» не проигрывает уже три мат"
   }
  ],
- "last_post": "2026-10-24T09:34:38.691500+00:00",
+ "last_post": "2026-10-24T11:35:55.661253+00:00",
  "limit_day": "2026-10-22"
 }
