@@ -278,7 +278,8 @@
   "https://sporza.be/nl/2026/10/24/bayern-geeft-update-over-kompany-coach-weken-buiten-strijd-toestand-wel-stabiel~1792829521907/",
   "https://sporza.be/nl/matches/voetbal/buitenland/eng/premier-league/2026-2027/regulier/08/arsenal-everton-met-dank-aan-de-centrale-verdedigers-arsenal-wint-met-2-0-van-everton-en-kan-opnieuw-scoren-na-een-hoekschop~1784282049764/",
   "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
-  "https://www.theguardian.com/football/2026/oct/24/european-football-napoli-roma-borussia-dortmund-atletico-madrid-paris-fc"
+  "https://www.theguardian.com/football/2026/oct/24/european-football-napoli-roma-borussia-dortmund-atletico-madrid-paris-fc",
+  "https://www.theguardian.com/football/2026/oct/25/manchester-united-board-crisis-talks-michael-carrick-eddie-howe-bournemouth-premier-league"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -559,10 +560,10 @@
   "bayern geeft update over kompany coach weken buiten strijd toestand wel stabiel",
   "met dank aan de centrale verdedigers arsenal wint met 2 0 van everton en kan opnieuw scoren na een hoekschop",
   "spurs pick up rare stamford bridge win as palmer sent off",
-  "european football lazio beat parma to top serie a dortmund lead bundesliga"
+  "european football lazio beat parma to top serie a dortmund lead bundesliga",
+  "manchester united board hold crisis talks over carrick s future and howe approach"
  ],
  "recent": [
-  "🤒 Компани пропустил тренировку: будет ли он на скамью против «Арсенала»?",
   "🤦 Гендузи подарил «Славии» ничью, а «Фенербахче» — нервный тик",
   "⚽ Ван Дейк раздал, Маккаллистер собрал: «Ливерпуль» обыграл «Вильярреал» 4:3",
   "⚽ МакТоминей забил дубль после операции на сердце — «Наполи» выжил в голевом балагане",
@@ -601,14 +602,10 @@
   "🏥 Компани в ауте: «Бавария» осталась без главного тренера",
   "⚽ Арсенал вылечил угловой синдром и встал вровень с «Сити» во главе таблицы",
   "😱 Палмер улетел на душе — «Тоттенхэм» взял вторую победу на «Стэмфорд Бридж» за 36 лет",
-  "⚽ Дортмунд возглавил Бундеслигу, Лацио — Серию А, Рома спасся в Неаполе, Атлетико впритык к Барсе"
+  "⚽ Дортмунд возглавил Бундеслигу, Лацио — Серию А, Рома спасся в Неаполе, Атлетико впритык к Барсе",
+  "😱 Кэррик аплодирует фанатам, а «МЮ» договаривается с Хау"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-20T17:40:14.587773+00:00",
-   "title": "🤒 Компани пропустил тренировку: будет ли он на скамью против «Арсенала»?",
-   "body": "Винсент Компани всё ещё отходит от вируса и во вторник прогулял и тренировку, и пресс-конференцию перед матчем Лиги чемпионов. Бельгиец провел день в постели, надеясь к среде (21:00) выйти на скамью, но гарантий нет — «Бавария» рискует сыграть решающий матч без главного по касанию."
-  },
   {
    "time": "2026-10-20T19:38:50.266854+00:00",
    "title": "🤦 Гендузи подарил «Славии» ничью, а «Фенербахче» — нервный тик",
@@ -803,8 +800,13 @@
    "time": "2026-10-24T21:33:42.512136+00:00",
    "title": "⚽ Дортмунд возглавил Бундеслигу, Лацио — Серию А, Рома спасся в Неаполе, Атлетико впритык к Барсе",
    "body": "Максимилиан Бейер, вышедший с лавки, в 80-й минуте довел пас Джоба Беллингэма — и Дортмунд получил первую победу с сентября плюс первое место в Бундеслиге. Лацио обыграла Парму 2:1, набрала 22 очка из 8 матчей и ушла на три очка от Интера, у которого игра в запасе. Рома дважды отставала от Наполи, но дубль Балерди, забитый последним на 89-й минуте, удержал 15-матчевую беспроигрышную серию — 3:3. А"
+  },
+  {
+   "time": "2026-10-25T21:32:26.173658+00:00",
+   "title": "😱 Кэррик аплодирует фанатам, а «МЮ» договаривается с Хау",
+   "body": "После разгрома от «Борнмута» 0:3 — уже шестого поражения за 12 матчей — руководство «МЮ» в суете решает судьбу Кэррика, а Уилкокс проталкивает Хау, который обойдётся на 20 млн фунтов дешевле Эмери. Кэррик заявляет, что не ждёт увольнения, а Фернандеса оставили на скамейке «чисто по футбольным причинам», а не из-за критики тактики после «Комо». Стретфорд-Энд аплодировал любимцу, но капитана встрети"
   }
  ],
- "last_post": "2026-10-24T21:33:42.512157+00:00",
+ "last_post": "2026-10-25T21:32:26.173673+00:00",
  "limit_day": "2026-10-25"
 }
