@@ -289,7 +289,8 @@
   "https://nos.nl/l/2636721",
   "https://www.bbc.co.uk/sport/football/videos/cqx284yk4mk0o?at_medium=RSS&at_campaign=rss",
   "https://www.kicker.de/duell-mit-juve-auf-der-kippe-napoli-geht-gegen-allegri-sperre-vor-1265442/artikel#omrss",
-  "https://sporza.be/nl/2026/10/26/napoli-en-kevin-de-bruyne-moeten-het-even-zonder-trainer-stellen-allegri-krijgt-2-speeldagen-schorsing-voor-woede-uitbarsting~1793022942005/"
+  "https://sporza.be/nl/2026/10/26/napoli-en-kevin-de-bruyne-moeten-het-even-zonder-trainer-stellen-allegri-krijgt-2-speeldagen-schorsing-voor-woede-uitbarsting~1793022942005/",
+  "https://www.theguardian.com/football/2026/oct/26/the-horse-that-brought-down-manchester-united"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -581,10 +582,10 @@
   "van circusvoetballer naar lamine yamal niveau hadj moussa is beter dan ooit",
   "bayern continue unbeaten start in kompany s absence",
   "duell mit juve auf der kippe napoli geht gegen allegri sperre vor",
-  "napoli en kevin de bruyne moeten het even zonder trainer stellen allegri krijgt 2 speeldagen schorsing voor woede uitbarsting"
+  "napoli en kevin de bruyne moeten het even zonder trainer stellen allegri krijgt 2 speeldagen schorsing voor woede uitbarsting",
+  "the horse that ushered in manchester united s tragic arc jonathan wilson"
  ],
  "recent": [
-  "⚽ В ЛЧ умер страх проигрыша — счетчики тают от голевой лихорадки",
   "💔 Легенда «Данди» Немадзе умер от сердечного приступа в 54 года",
   "⚡ «Лилль» — «Галатасарай» 2:4: шестерка голов, перевороты и ноль очков у хозяев",
   "⚽ Кейн — пас, пенальти, драма: «Бавария» — «Арсенал» 2-2",
@@ -623,14 +624,10 @@
   "🎪 От «цирка» к уровню Ямаля: Хадж-Мусса ломает Эреdivisie",
   "🏥 Компани в больнице, «Бавария» на вершине — машина не сломалась",
   "⚽ Аллегри может пропустить битву с «Юве»",
-  "😤 Аллегри сорвался на 3:3 — «Наполи» без тренера едет к «Ювентусу»"
+  "😤 Аллегри сорвался на 3:3 — «Наполи» без тренера едет к «Ювентусу»",
+  "🐴 Жеребец, суд и 20 лет боли: как Фергюсон отдал «Юнайтед» Глейзерам"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-21T15:40:12.780538+00:00",
-   "title": "⚽ В ЛЧ умер страх проигрыша — счетчики тают от голевой лихорадки",
-   "body": "Герт Верхейен точно подметил: в лиге из 36 команд поражение не конец света, поэтому тренеры с первой минуты идут только вперёд, забыв про «автобусы». Статистика Opta подтверждает безумие: 4,16 гола за матч — максимум с 1992-го, а за два дня в ворота полетело 78 мячей — второе по величине показатель за историю; вчера в четырёх поединках забили 40 голов: ПСЖ обыграл Барселону 4:2, Сити — АЭК 5:1, а "
-  },
   {
    "time": "2026-10-21T17:36:37.530093+00:00",
    "title": "💔 Легенда «Данди» Немадзе умер от сердечного приступа в 54 года",
@@ -825,8 +822,13 @@
    "time": "2026-10-26T16:29:37.936651+00:00",
    "title": "😤 Аллегри сорвался на 3:3 — «Наполи» без тренера едет к «Ювентусу»",
    "body": "«Наполи» в драме 3:3 с «Ромой» довело Аллегри до белого каления: после гола Балерди в 89-й минуте, который VAR засчитал вопреки протестам, тренер получил красную, сбросил куртку и ушел в подземелье, где, по версии комиссии, проявил агрессию к сотруднику соперника. Вердикт — две игры дисквалификации и 10 тысяч евро штрафа, так что матчи с «Монцей» и бывшим клубом «Ювентус» пройдут без главного нерв"
+  },
+  {
+   "time": "2026-10-26T17:43:59.442609+00:00",
+   "title": "🐴 Жеребец, суд и 20 лет боли: как Фергюсон отдал «Юнайтед» Глейзерам",
+   "body": "«Манчестер Юнайтед» опять на дне после 0:3 от «Борнмута»: Каррик — лишь прихожая жертва системы, гниющей с 2005 года. Всё началось с жеребца Rock of Gibraltar и спора Фергюсона с Магньером за студсборы: Сэр Алекс требовал 50%, ирландец предлагал 5%, итог — суд, разрыв и уход акций к Глейзерам. Два десятилетия долгов, течущая крыша и смена семи тренеров за 13 лет — цена гордыни легенды, а Ретклифф "
   }
  ],
- "last_post": "2026-10-26T16:29:37.936669+00:00",
+ "last_post": "2026-10-26T17:43:59.442626+00:00",
  "limit_day": "2026-10-25"
 }
