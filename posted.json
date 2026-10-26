@@ -283,7 +283,8 @@
   "https://www.lequipe.fr/Football/Actualites/Le-100e-but-de-mbappe-mourinho-invaincu-raphinha-sur-les-temps-de-passage-de-messi-les-chiffres-a-retenir-du-clasico-remporte-par-le-real-madrid-a-barcelone/1738715#at_medium=RSS_feeds",
   "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss",
   "https://football-italia.net/serie-a-udinese-0-2-milan-pulisic-hutchinson/",
-  "https://www.theguardian.com/football/2026/oct/24/scottish-premiership-rangers-dundee-celtic-hearts"
+  "https://www.theguardian.com/football/2026/oct/24/scottish-premiership-rangers-dundee-celtic-hearts",
+  "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -569,10 +570,10 @@
   "le 100e but de mbappé mourinho invaincu raphinha sur les temps de passage de messi les chiffres à retenir du clasico remporté par le real madrid à barcelone",
   "liverpool earn first league win at anfield with victory over brighton",
   "serie a udinese 0 2 milan pulisic and hutchinson celebrate in udine",
-  "scottish premiership durán caps celtic s comeback win over hibernian"
+  "scottish premiership durán caps celtic s comeback win over hibernian",
+  "who should win the men s ballon d or bbc sport pundits have their say"
  ],
  "recent": [
-  "⚽ Фоден вышел из кризиса хет-триком: Сити разгромило АЕК 5:1 без Холанда",
   "⚽ Дуэ и Витинья снова решают: ПСЖ разгромил Барсу 4:2",
   "⚖️ Коган: у регулятора «абсолютная власть» заставить шейха Мансура продать «Сити»",
   "🤕 Кварацхелия с крестным — ПСЖ теряет лидера на месяцы",
@@ -611,14 +612,10 @@
   "⚽ Мбаппэ забил 100-й и 101-й голы дублём — «Реал» сломил серию «Барселоны» 2:1 в Камп Ноу",
   "🔴 «Ливерпуль» прервал домашнюю серию: 2:0 «Брайтону» и прыжок в топ-4",
   "⚡ Модрич, быстрый фрикик и лекарство от краха: «Милан» обыграл «Удинезе» 0:2",
-  "⚽ «Сельтик» перевернул игру, «Рейнджерс» разорвали сеть — шотландская драма"
+  "⚽ «Сельтик» перевернул игру, «Рейнджерс» разорвали сеть — шотландская драма",
+  "⚽ Баллон-д'Ор: 73 гола Кейна или «аура» Ямаля — кто заберет награду?"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-21T03:37:38.218203+00:00",
-   "title": "⚽ Фоден вышел из кризиса хет-триком: Сити разгромило АЕК 5:1 без Холанда",
-   "body": "Фоден прервал десятимесячный голод хет-триком — первый с апреля — и «Сити» без Холанда (Мореска запустил 17-летнего Самбу) разнесла «АЕК» 5:1. «Граждане» зафиксировали десятую победу в 12 матчах сезона, и среди гигантов топ-5 лиг только «Барселона» чаще уходит с поля победителем. Греки забили честный гол с единственного удара в створ, но Шерки и Фоден быстро потушили надежды на сенсацию."
-  },
   {
    "time": "2026-10-21T05:35:58.115213+00:00",
    "title": "⚽ Дуэ и Витинья снова решают: ПСЖ разгромил Барсу 4:2",
@@ -813,8 +810,13 @@
    "time": "2026-10-26T05:39:04.404122+00:00",
    "title": "⚽ «Сельтик» перевернул игру, «Рейнджерс» разорвали сеть — шотландская драма",
    "body": "Камило Дуран забил десятый гол сезона, и «Сельтик» перевернул счёт с «Хиберниан» на «Эйстер-Роуд» (2:1) — девятая победа в десяти матчах и четыре очка отрыва от «Рейнджерс». «Рейнджерс» ответили сухим 4:0 над «Сент-Джонстоуном»: дубль Келси, красная карточка соперника и МакИннис, просивший «блестящую» игру, — получил, хоть и только после перерыва. «Хартс» отмылись за 1:7 от «Сельтика» победой 2:0 "
+  },
+  {
+   "time": "2026-10-26T07:54:50.508348+00:00",
+   "title": "⚽ Баллон-д'Ор: 73 гола Кейна или «аура» Ямаля — кто заберет награду?",
+   "body": "Эксперты BBC раскололись: Балаге и Смит отдают фаворитом Ямалю за Ла Лигу, «Чемпионат мира» и ту самую «ауру», в то время как Лоранс и Уорнок называют Кварацхелию лучшим в Европе за двойной триумф ПСЖ в Лиге чемпионов и голы в каждом плей-офф матче. Проблема грузинца — голоса парижан разделят между Дембеле, Витиньей и Руисом, а Кейн с 73 голами за «Баварию» и сборную остается скромным гением, кото"
   }
  ],
- "last_post": "2026-10-26T05:39:04.404136+00:00",
+ "last_post": "2026-10-26T07:54:50.508364+00:00",
  "limit_day": "2026-10-25"
 }
