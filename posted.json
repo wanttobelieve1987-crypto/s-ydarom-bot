@@ -284,7 +284,8 @@
   "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss",
   "https://football-italia.net/serie-a-udinese-0-2-milan-pulisic-hutchinson/",
   "https://www.theguardian.com/football/2026/oct/24/scottish-premiership-rangers-dundee-celtic-hearts",
-  "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
+  "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/fosso-de-alvalade-voltou-e-em-grande-sporting-esta-ja-a-9-pontos-da-lideranca"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -571,10 +572,10 @@
   "liverpool earn first league win at anfield with victory over brighton",
   "serie a udinese 0 2 milan pulisic and hutchinson celebrate in udine",
   "scottish premiership durán caps celtic s comeback win over hibernian",
-  "who should win the men s ballon d or bbc sport pundits have their say"
+  "who should win the men s ballon d or bbc sport pundits have their say",
+  "fosso de alvalade voltou e em grande sporting está já a 9 pontos da liderança"
  ],
  "recent": [
-  "⚽ Дуэ и Витинья снова решают: ПСЖ разгромил Барсу 4:2",
   "⚖️ Коган: у регулятора «абсолютная власть» заставить шейха Мансура продать «Сити»",
   "🤕 Кварацхелия с крестным — ПСЖ теряет лидера на месяцы",
   "😔 «Бавария» без Киммиха: капитан пропускает матч с «Арсеналом» из-за траура",
@@ -613,14 +614,10 @@
   "🔴 «Ливерпуль» прервал домашнюю серию: 2:0 «Брайтону» и прыжок в топ-4",
   "⚡ Модрич, быстрый фрикик и лекарство от краха: «Милан» обыграл «Удинезе» 0:2",
   "⚽ «Сельтик» перевернул игру, «Рейнджерс» разорвали сеть — шотландская драма",
-  "⚽ Баллон-д'Ор: 73 гола Кейна или «аура» Ямаля — кто заберет награду?"
+  "⚽ Баллон-д'Ор: 73 гола Кейна или «аура» Ямаля — кто заберет награду?",
+  "🦁 Фоссу в Альваладе засыпали, а отрыв от лидера растёт: у «Спортинга» худший старт с 2012/13"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-21T05:35:58.115213+00:00",
-   "title": "⚽ Дуэ и Витинья снова решают: ПСЖ разгромил Барсу 4:2",
-   "body": "Дуэ и Витинья продолжают традицию решать исход главных матчей: неделю назад они размочили «Сити» тем же счётом 4:2, а теперь оставили под дождём «Барселону». Француз и португалец забили фирменные голы — быстро, красиво и в самый больной для каталонцев момент. Хорошая привычка забирать победу в решающих поединках."
-  },
   {
    "time": "2026-10-21T07:48:32.957284+00:00",
    "title": "⚖️ Коган: у регулятора «абсолютная власть» заставить шейха Мансура продать «Сити»",
@@ -815,8 +812,13 @@
    "time": "2026-10-26T07:54:50.508348+00:00",
    "title": "⚽ Баллон-д'Ор: 73 гола Кейна или «аура» Ямаля — кто заберет награду?",
    "body": "Эксперты BBC раскололись: Балаге и Смит отдают фаворитом Ямалю за Ла Лигу, «Чемпионат мира» и ту самую «ауру», в то время как Лоранс и Уорнок называют Кварацхелию лучшим в Европе за двойной триумф ПСЖ в Лиге чемпионов и голы в каждом плей-офф матче. Проблема грузинца — голоса парижан разделят между Дембеле, Витиньей и Руисом, а Кейн с 73 голами за «Баварию» и сборную остается скромным гением, кото"
+  },
+  {
+   "time": "2026-10-26T09:47:40.970662+00:00",
+   "title": "🦁 Фоссу в Альваладе засыпали, а отрыв от лидера растёт: у «Спортинга» худший старт с 2012/13",
+   "body": "Фоссу вокруг газона в Альваладе засыпали более года назад, но очковый разрыв до лидера не перестаёт расти. У «Спортинга» уже зафиксирован худший старт с катастрофического сезона 2012/13, и команда вместо игры демонстрирует удивительную настойчивость в подрыве собственных шансов на титул."
   }
  ],
- "last_post": "2026-10-26T07:54:50.508364+00:00",
+ "last_post": "2026-10-26T09:47:40.970678+00:00",
  "limit_day": "2026-10-25"
 }
