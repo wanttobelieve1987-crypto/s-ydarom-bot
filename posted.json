@@ -281,7 +281,8 @@
   "https://www.theguardian.com/football/2026/oct/24/european-football-napoli-roma-borussia-dortmund-atletico-madrid-paris-fc",
   "https://www.theguardian.com/football/2026/oct/25/manchester-united-board-crisis-talks-michael-carrick-eddie-howe-bournemouth-premier-league",
   "https://www.lequipe.fr/Football/Actualites/Le-100e-but-de-mbappe-mourinho-invaincu-raphinha-sur-les-temps-de-passage-de-messi-les-chiffres-a-retenir-du-clasico-remporte-par-le-real-madrid-a-barcelone/1738715#at_medium=RSS_feeds",
-  "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss",
+  "https://football-italia.net/serie-a-udinese-0-2-milan-pulisic-hutchinson/"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -565,10 +566,10 @@
   "european football lazio beat parma to top serie a dortmund lead bundesliga",
   "manchester united board hold crisis talks over carrick s future and howe approach",
   "le 100e but de mbappé mourinho invaincu raphinha sur les temps de passage de messi les chiffres à retenir du clasico remporté par le real madrid à barcelone",
-  "liverpool earn first league win at anfield with victory over brighton"
+  "liverpool earn first league win at anfield with victory over brighton",
+  "serie a udinese 0 2 milan pulisic and hutchinson celebrate in udine"
  ],
  "recent": [
-  "⚽ МакТоминей забил дубль после операции на сердце — «Наполи» выжил в голевом балагане",
   "⚽ «ПСВ» вырвал 0:1 у «Порто» и отомстился Фариоли за «Аякс»",
   "⚽ Фоден вышел из кризиса хет-триком: Сити разгромило АЕК 5:1 без Холанда",
   "⚽ Дуэ и Витинья снова решают: ПСЖ разгромил Барсу 4:2",
@@ -607,14 +608,10 @@
   "⚽ Дортмунд возглавил Бундеслигу, Лацио — Серию А, Рома спасся в Неаполе, Атлетико впритык к Барсе",
   "😱 Кэррик аплодирует фанатам, а «МЮ» договаривается с Хау",
   "⚽ Мбаппэ забил 100-й и 101-й голы дублём — «Реал» сломил серию «Барселоны» 2:1 в Камп Ноу",
-  "🔴 «Ливерпуль» прервал домашнюю серию: 2:0 «Брайтону» и прыжок в топ-4"
+  "🔴 «Ливерпуль» прервал домашнюю серию: 2:0 «Брайтону» и прыжок в топ-4",
+  "⚡ Модрич, быстрый фрикик и лекарство от краха: «Милан» обыграл «Удинезе» 0:2"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-20T23:32:24.758214+00:00",
-   "title": "⚽ МакТоминей забил дубль после операции на сердце — «Наполи» выжил в голевом балагане",
-   "body": "Скотт МакТоминей, пропустивший месяц из-за аритмии, в дебюте забил первый дубль сезона и попал в штангу, помогая «Наполи» обыграть «Бёдо/Глимт» 4:3 и снять давление с Аллегри. «Атлетико» в десятке удержало 1:1 со «Штутгартом» после красной карточки Хюльманда за грубое нарушение на Стиллера, «Дортмунд» неудобно ניצח «Сабах» 2:1, а «Славия» в 90-й минуте вырвала 2:2 у «Фенербахче» после ляпа Гендузи"
-  },
   {
    "time": "2026-10-21T01:41:34.209474+00:00",
    "title": "⚽ «ПСВ» вырвал 0:1 у «Порто» и отомстился Фариоли за «Аякс»",
@@ -809,8 +806,13 @@
    "time": "2026-10-26T01:48:48.437573+00:00",
    "title": "🔴 «Ливерпуль» прервал домашнюю серию: 2:0 «Брайтону» и прыжок в топ-4",
    "body": "«Красные» наконец-то взяли три очка в лиге на «Энфилде» — автогол Паскаля Гросса и гол Александера Исака решили исход встречи. «Морские чайки» щедро подарили хозяевам победу, и «Ливерпуль» благодарит: команда в топ-4 АПЛ. Серия без побед дома прервана, и это главное."
+  },
+  {
+   "time": "2026-10-26T03:38:33.108130+00:00",
+   "title": "⚡ Модрич, быстрый фрикик и лекарство от краха: «Милан» обыграл «Удинезе» 0:2",
+   "body": "«Милан» приехал в Удине на швахрабах — без семерых основных и с Маньяном после красной карточки в Лиге Европы, но ушёл с тремя очками (0:2). Лука Модрич раздал ассист с быстрого фрикика, отправив Пулисича в отрыв, а дебютант Омари Хатчинсон забил первый гол за «Россонери» с отскока после удара Яшари. «Удинезе» провалился к шестой поражке подряд, а Рубен Лофтус-Чик ушёл на носилках в конце — лекарс"
   }
  ],
- "last_post": "2026-10-26T01:48:48.437589+00:00",
+ "last_post": "2026-10-26T03:38:33.108148+00:00",
  "limit_day": "2026-10-25"
 }
