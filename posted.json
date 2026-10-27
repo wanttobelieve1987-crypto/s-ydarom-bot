@@ -298,7 +298,8 @@
   "https://www.bbc.co.uk/sport/football/articles/cmn8wzldd7q0o?at_medium=RSS&at_campaign=rss",
   "https://www.kicker.de/der-ballon-d-or-fuer-die-bundesliga-kane-versetzt-london-in-ekstase-1265556/video#omrss",
   "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes",
-  "https://www.record.pt/internacional/paises/inglaterra/newcastle/detalhe/portugues-tomas-amaral-e-o-novo-diretor-de-recrutamento-do-newcastle"
+  "https://www.record.pt/internacional/paises/inglaterra/newcastle/detalhe/portugues-tomas-amaral-e-o-novo-diretor-de-recrutamento-do-newcastle",
+  "https://www.kicker.de/lehrreiche-tage-was-treu-ankotzt-und-freiburg-lernen-muss-1265508/artikel#omrss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -599,10 +600,10 @@
   "england republic of ireland u15 world cup game ends over alleged racism",
   "der ballon d or für die bundesliga kane versetzt london in ekstase",
   "kylian mbappé dropped by chinese brands for offending national sentiments",
-  "português tomás amaral é o novo diretor de recrutamento do newcastle"
+  "português tomás amaral é o novo diretor de recrutamento do newcastle",
+  "lehrreiche tage was treu ankotzt und freiburg lernen muss"
  ],
  "recent": [
-  "🇳🇱 Четыре голландца, 14 голов и утекающий билет в Лигу чемпионов",
   "⚽ Эль‑класико уступает трон премьер‑лиге по рейтингам в США",
   "🚨 «Андерлехт» сбросил нули: 3:0 «Ягеллонии» и выдох Витора Бруно",
   "⚽ «ПСЖ» — «Лион» сдвинули на время «Золотого мяча»: полиция переиграла календарь",
@@ -641,14 +642,10 @@
   "⚽ U15 World Cup: Англия ушла с поля из-за расизма на 90-й минуте при счёте 1:4",
   "⚽ Кейн вернул Бундеслиге «Золотой мяч» после 28-летнего перерыва",
   "🇨🇳 Шутка про Мао стоила Мбаппе двух контрактов в Китае",
-  "🇵🇹 «Ньюкасл» назначил экс-директора «Спартака» Амарала главой рекрутинга"
+  "🇵🇹 «Ньюкасл» назначил экс-директора «Спартака» Амарала главой рекрутинга",
+  "⚽ Фрайбург за 8 дней «обогнал» «Леверкузен», «Монако» и «Баварию» — в столбце потерянных очков"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-23T07:51:29.155781+00:00",
-   "title": "🇳🇱 Четыре голландца, 14 голов и утекающий билет в Лигу чемпионов",
-   "body": "Эреdivisie устроила исторический четверг: все четыре команды выиграли в Европе впервые с февраля 2012 года, навалив 14 голов — столько за вечер не забивали 42 года, когда «Аякс» в одиночку разгромил «Дифферданж» 14:0. Три из четырёх побед — в гостях, а в основных турнирах это случается впервые (раньше так было только в квалификации), на фоне потери прямого билета в ЛЧ из-за Португалии и виртуально"
-  },
   {
    "time": "2026-10-23T09:40:54.808421+00:00",
    "title": "⚽ Эль‑класико уступает трон премьер‑лиге по рейтингам в США",
@@ -843,8 +840,13 @@
    "time": "2026-10-27T11:41:52.638420+00:00",
    "title": "🇵🇹 «Ньюкасл» назначил экс-директора «Спартака» Амарала главой рекрутинга",
    "body": "Португалец Томаш Амарал, полгода назад покинувший пост спортивного директора «Спартака», возглавил рекрутинг первой команды «Ньюкасла». За плечами 35-летнего эксперта — четыре года в «Бенфике» и всего полсезона в Москве, а теперь задача совсем другая: находить таланты для Премьер-лиги. Амарал заявил, что полностью разделяет амбиции клуба, и пообещал укрепить работу на ключевых рынках, так что рабо"
+  },
+  {
+   "time": "2026-10-27T13:55:37.426638+00:00",
+   "title": "⚽ Фрайбург за 8 дней «обогнал» «Леверкузен», «Монако» и «Баварию» — в столбце потерянных очков",
+   "body": "Идеальный старт рухнул под ударами трёх грандов за неделю: ноль очков в активе — больно, но Филипп Трою, вызванного в сборную, бесит не счёт, а разрыв в классе. Зато иммунитет к топ-клубам теперь вырабатывается по ускоренной программе. Главное — не переборщить с дозами реальности до следующего матча. 📉"
   }
  ],
- "last_post": "2026-10-27T11:41:52.638435+00:00",
+ "last_post": "2026-10-27T13:55:37.426655+00:00",
  "limit_day": "2026-10-25"
 }
