@@ -299,7 +299,8 @@
   "https://www.kicker.de/der-ballon-d-or-fuer-die-bundesliga-kane-versetzt-london-in-ekstase-1265556/video#omrss",
   "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes",
   "https://www.record.pt/internacional/paises/inglaterra/newcastle/detalhe/portugues-tomas-amaral-e-o-novo-diretor-de-recrutamento-do-newcastle",
-  "https://www.kicker.de/lehrreiche-tage-was-treu-ankotzt-und-freiburg-lernen-muss-1265508/artikel#omrss"
+  "https://www.kicker.de/lehrreiche-tage-was-treu-ankotzt-und-freiburg-lernen-muss-1265508/artikel#omrss",
+  "https://www.bbc.co.uk/sport/football/articles/c6lylnkzp772o?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -601,10 +602,10 @@
   "der ballon d or für die bundesliga kane versetzt london in ekstase",
   "kylian mbappé dropped by chinese brands for offending national sentiments",
   "português tomás amaral é o novo diretor de recrutamento do newcastle",
-  "lehrreiche tage was treu ankotzt und freiburg lernen muss"
+  "lehrreiche tage was treu ankotzt und freiburg lernen muss",
+  "how have best team north or south of border last season lost six in a row"
  ],
  "recent": [
-  "⚽ Эль‑класико уступает трон премьер‑лиге по рейтингам в США",
   "🚨 «Андерлехт» сбросил нули: 3:0 «Ягеллонии» и выдох Витора Бруно",
   "⚽ «ПСЖ» — «Лион» сдвинули на время «Золотого мяча»: полиция переиграла календарь",
   "💰 Кредиторы «Боависты» спасают клуб 720 тысячами и просьбой к суду",
@@ -643,14 +644,10 @@
   "⚽ Кейн вернул Бундеслиге «Золотой мяч» после 28-летнего перерыва",
   "🇨🇳 Шутка про Мао стоила Мбаппе двух контрактов в Китае",
   "🇵🇹 «Ньюкасл» назначил экс-директора «Спартака» Амарала главой рекрутинга",
-  "⚽ Фрайбург за 8 дней «обогнал» «Леверкузен», «Монако» и «Баварию» — в столбце потерянных очков"
+  "⚽ Фрайбург за 8 дней «обогнал» «Леверкузен», «Монако» и «Баварию» — в столбце потерянных очков",
+  "🏴󠁧󠁢󠁳󠁣󠁴󠁿 «Мазервелл»: от «лучшей команды» Саттона до шести поражений подряд"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-23T09:40:54.808421+00:00",
-   "title": "⚽ Эль‑класико уступает трон премьер‑лиге по рейтингам в США",
-   "body": "Апрельский «Манчестер Сити» — «Арсенал» собрал в Америке почти в два раза больше зрителей, чем октябрьский классикер, подтверждая доминирование английского чемпионата на экранах. Ямаль с 20 голевыми вкладами за 12 матчей и Мбаппе с 15 пытаются стать новыми Месси и Роналду, но до 26 голов الأرجنتينца в эль‑класико им ещё далеко. В воскресенье на «Камп Ноу» на кону — 9‑очковый отрыв Барсы или катали"
-  },
   {
    "time": "2026-10-23T11:39:30.802374+00:00",
    "title": "🚨 «Андерлехт» сбросил нули: 3:0 «Ягеллонии» и выдох Витора Бруно",
@@ -845,8 +842,13 @@
    "time": "2026-10-27T13:55:37.426638+00:00",
    "title": "⚽ Фрайбург за 8 дней «обогнал» «Леверкузен», «Монако» и «Баварию» — в столбце потерянных очков",
    "body": "Идеальный старт рухнул под ударами трёх грандов за неделю: ноль очков в активе — больно, но Филипп Трою, вызванного в сборную, бесит не счёт, а разрыв в классе. Зато иммунитет к топ-клубам теперь вырабатывается по ускоренной программе. Главное — не переборщить с дозами реальности до следующего матча. 📉"
+  },
+  {
+   "time": "2026-10-27T15:51:32.350419+00:00",
+   "title": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 «Мазервелл»: от «лучшей команды» Саттона до шести поражений подряд",
+   "body": "В прошлом сезоне Саттон называл «Мазервелл» лучшей командой в Британии, а сейчас клуб проигрывает шестой матч подряд — такой серии не было с времен Терри Батчера 23 года назад. Ушли Джаст, Уэлш, Уотт, Слаттери и тренер Аскоу, а xG вырос с 1,48 до 1,6, но забивают реже — 1,1 против 1,55 гола за игру. Аллан верно подметил: без агрессии без мяча и связи между линиями «стальники» выглядят ранимо, а ух"
   }
  ],
- "last_post": "2026-10-27T13:55:37.426655+00:00",
+ "last_post": "2026-10-27T15:51:32.350437+00:00",
  "limit_day": "2026-10-25"
 }
