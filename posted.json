@@ -305,7 +305,8 @@
   "https://football-italia.net/serie-a-sassuolo-2-6-lazio-amazing-aquile-hit/",
   "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
   "https://www.kicker.de/schnelle-antworten-am-laufenden-band-auch-malen-trifft-wieder-roma-feiert-4-2-1265921/video#omrss",
-  "https://www.theguardian.com/football/2026/oct/27/fleetwood-town-arsenal-carabao-cup-fourth-round-match-report"
+  "https://www.theguardian.com/football/2026/oct/27/fleetwood-town-arsenal-carabao-cup-fourth-round-match-report",
+  "https://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarez"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -613,10 +614,10 @@
   "serie a sassuolo 2 6 lazio unstoppable aquile hit six past 10 men",
   "fleetwood arsenal halted for eight minutes because of drone",
   "schnelle antworten am laufenden band auch malen trifft wieder roma feiert 4 2",
-  "fantastic fleetwood seal shootout success in carabao cup shock against arsenal"
+  "fantastic fleetwood seal shootout success in carabao cup shock against arsenal",
+  "barcelona fined 503 over their approach for atlético madrid star álvarez"
  ],
  "recent": [
-  "🎭 Юрич вернулся домой, а «Торино» устроило ему фейерверк: 3-2",
   "🌲 Форест доминировал, но недобивает: 2.31 xG, 17 ударов — 1:1 с Ипсвичем",
   "🧤 Расизм после красной карточки: «Милан» встаёт за Майньяна после 0:3",
   "⚽ Лала подарил «Ницце» победу, а Вахи проснулся вовремя",
@@ -655,14 +656,10 @@
   "🦅 «Лацио» разгромила «Сассоло» 6:2: четверо за 16 минут и два пробитых пенальти",
   "🚁 Дрон прилетел на «матч жизни» Флитвуда — судья спрятал команды на 8 минут",
   "⚡ «Рома» отвечает голами: 4:2 «Кальяри» и 9 матчей без поражений",
-  "🤯 Лига-2 съела «Арсенал»: «Флитвуд» выбил гранда на пенальти"
+  "🤯 Лига-2 съела «Арсенал»: «Флитвуд» выбил гранда на пенальти",
+  "💸 «Барселона» оштрафована на 503 фунта за попытку заманить Альвареса"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-23T21:34:33.007929+00:00",
-   "title": "🎭 Юрич вернулся домой, а «Торино» устроило ему фейерверк: 3-2",
-   "body": "Иван Юрич вернулся на «Олимпико» во главе «Монцы» после разгрома «Кальяри», но «Быки» не дали бывшему наставнику ностальгировать: Фиц-Джим открыл счёт, Бельгали забил голассо из-за штрафной, а Влашич поставил точку в матче. Автогол Паттерсона на 94-й минуте лишь приукрасил итог — 3:2 и вторая победа «Торино» подряд."
-  },
   {
    "time": "2026-10-23T23:32:21.793652+00:00",
    "title": "🌲 Форест доминировал, но недобивает: 2.31 xG, 17 ударов — 1:1 с Ипсвичем",
@@ -857,8 +854,13 @@
    "time": "2026-10-28T02:34:29.586646+00:00",
    "title": "🤯 Лига-2 съела «Арсенал»: «Флитвуд» выбил гранда на пенальти",
    "body": "«Арсенал» приехал в «Флитвуд» за лёгкой прогулкой, но улетел с позором после дрона, петард и серии пенальти, где бывший кладовщик Линч отбил удар бразильца, а Хагхи забил решающий. Артета пустил юношей, но 17-летний Салмон попал под прессинг Лупало-Би, а Даумен улетел на душ за глупость. «Флитвуд» заработал бы 400 тысяч фунтов, но получил бесценное: раз в жизни выбить гранда Премьер-лиги на своем "
+  },
+  {
+   "time": "2026-10-28T06:52:07.148987+00:00",
+   "title": "💸 «Барселона» оштрафована на 503 фунта за попытку заманить Альвареса",
+   "body": "Испанская федерация оштрафовала «Барселону» на символические €602 за контакты с Альваресом без уведомления «Атлетико», а ФИФА отказалась рассматривать дело. Хулиан извинился за слова о мечте играть за «Барсу» во время ЧМ-2026, забил второй матч подряд и получил овации на «Метаполитано» вместо свистов. «Атлетико» отстаёт от лидера на два очка, так что штраф каталонцев — самая дешёвая переброска лет"
   }
  ],
- "last_post": "2026-10-28T02:34:29.586662+00:00",
+ "last_post": "2026-10-28T06:52:07.149004+00:00",
  "limit_day": "2026-10-25"
 }
