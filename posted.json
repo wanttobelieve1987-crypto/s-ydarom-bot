@@ -308,7 +308,8 @@
   "https://www.theguardian.com/football/2026/oct/27/fleetwood-town-arsenal-carabao-cup-fourth-round-match-report",
   "https://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarez",
   "https://www.bbc.co.uk/sport/football/articles/c5398300x0nyo?at_medium=RSS&at_campaign=rss",
-  "https://www.bbc.co.uk/sport/football/articles/crgj902p68gno?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/sport/football/articles/crgj902p68gno?at_medium=RSS&at_campaign=rss",
+  "https://www.lequipe.fr/Football/Actualites/La-direction-de-l-arbitrage-valide-le-but-fantome-du-mans-a-auxerre-et-les-decisions-de-clement-turpin-lors-d-om-le-havre-en-ligue-1/1739249#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -619,10 +620,10 @@
   "fantastic fleetwood seal shootout success in carabao cup shock against arsenal",
   "barcelona fined 503 over their approach for atlético madrid star álvarez",
   "kuyt named fenerbahce interim boss before liverpool tie",
-  "all spanish cup matches suspended after madrid train collision"
+  "all spanish cup matches suspended after madrid train collision",
+  "la direction de l arbitrage valide le but fantôme du mans à auxerre et les décisions de clément turpin lors d om le havre en ligue 1"
  ],
  "recent": [
-  "⚽ Лала подарил «Ницце» победу, а Вахи проснулся вовремя",
   "📧 Донос на 15 листов: Проэнса давил на арбитров по просьбе Вильяш-Боаша",
   "🔥 5 голов за сезон у «Арсенала» — 12 пропущенных за две недели у «Сперз»: дерби выживания",
   "🤷‍♂️ Коллам признал: VAR провалился в двух матчах",
@@ -661,14 +662,10 @@
   "🤯 Лига-2 съела «Арсенал»: «Флитвуд» выбил гранда на пенальти",
   "💸 «Барселона» оштрафована на 503 фунта за попытку заманить Альвареса",
   "⚽ Куйт возглавил «Фенербахче» неделю до встречи с родным «Ливерпулем»",
-  "🚂 24 матча Кубка Испании перенесли из-за крушения поездов под Мадридом"
+  "🚂 24 матча Кубка Испании перенесли из-за крушения поездов под Мадридом",
+  "⚽ Французские арбитры нашли идеальный рецепт: не видеть проблемы — и их не существует"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-24T03:34:08.976741+00:00",
-   "title": "⚽ Лала подарил «Ницце» победу, а Вахи проснулся вовремя",
-   "body": "«Брест» проиграл «Ницце» 1:2: капитан Кенни Лала успел и дуэль потерять на голе сравнения, и пенальти в добавленное время не забить — Диуф угадал угол. Долго невидимый Эли Вахи за пять минут перевернул игру: сравнял с углового и спровоцировал победный момент. Французская пресса уже ищет слова, чтобы описать эту жестокость для капитана «Бреста»."
-  },
   {
    "time": "2026-10-24T05:35:07.967540+00:00",
    "title": "📧 Донос на 15 листов: Проэнса давил на арбитров по просьбе Вильяш-Боаша",
@@ -863,8 +860,13 @@
    "time": "2026-10-28T14:02:02.756321+00:00",
    "title": "🚂 24 матча Кубка Испании перенесли из-за крушения поездов под Мадридом",
    "body": "Все 24 матча первого раунда Кубка Испании в среду отменили в знак траура после столкновения поездов в провинции Толедо, где погибло более 30 человек — в поездах находилось около 500 пассажиров. Премьер Педро Санчес заявил о шоке, а РФЭФ назвала решение актом солидарности: на поле должны были выйти «Леванте», «Алавес», «Валенсия», «Сельта» и «Бетис», пока «Реал», «Барса» и «Атлетико» ждут вступлени"
+  },
+  {
+   "time": "2026-10-28T17:22:24.024874+00:00",
+   "title": "⚽ Французские арбитры нашли идеальный рецепт: не видеть проблемы — и их не существует",
+   "body": "На еженедельном дебрифинге Дирекция арбитража единогласно одобрила «призрачный гол» «Мана» в ворота «Осера» (1:1), хотя реплеи показывают серьезные сомнения в пересекшейся линии, — Вилли Делажод решил, что мяч залетел, и руководству этого достаточно. Тот же вердикт получили решения Клемента Тюрпена в матче «Марсель» — «Ле Авр», вызвавшие бурю негодования: ошибок нет, просто у вас плохое зрение. Уд"
   }
  ],
- "last_post": "2026-10-28T14:02:02.756339+00:00",
+ "last_post": "2026-10-28T17:22:24.024890+00:00",
  "limit_day": "2026-10-25"
 }
