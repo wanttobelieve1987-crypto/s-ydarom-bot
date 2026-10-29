@@ -311,7 +311,8 @@
   "https://www.bbc.co.uk/sport/football/articles/crgj902p68gno?at_medium=RSS&at_campaign=rss",
   "https://www.lequipe.fr/Football/Actualites/La-direction-de-l-arbitrage-valide-le-but-fantome-du-mans-a-auxerre-et-les-decisions-de-clement-turpin-lors-d-om-le-havre-en-ligue-1/1739249#at_medium=RSS_feeds",
   "https://football-italia.net/serie-a-milan-2-4-bologna-mbangula-hat-trick/",
-  "https://www.skysports.com/football/manchester-city-vs-brighton-and-hove-albion/live/578614"
+  "https://www.skysports.com/football/manchester-city-vs-brighton-and-hove-albion/live/578614",
+  "https://www.skysports.com/football/liverpool-vs-chelsea/report/578612"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -625,10 +626,10 @@
   "all spanish cup matches suspended after madrid train collision",
   "la direction de l arbitrage valide le but fantôme du mans à auxerre et les décisions de clément turpin lors d om le havre en ligue 1",
   "serie a milan 2 4 bologna mbangula hat trick inflicts first amorim league defeat",
-  "holders man city beat brighton on penalties live"
+  "holders man city beat brighton on penalties live",
+  "liverpool beat chelsea on penalties to reach last eight"
  ],
  "recent": [
-  "🤷‍♂️ Коллам признал: VAR провалился в двух матчах",
   "🍌 «Сити» привезли бананы, а в Вила-Парке ждёт четвёртое поражение подряд?",
   "⚡ «Астон Вилла» прервал серию «Сити» — Джексон решил всё дублем",
   "🏥 Компани в ауте: «Бавария» осталась без главного тренера",
@@ -667,14 +668,10 @@
   "🚂 24 матча Кубка Испании перенесли из-за крушения поездов под Мадридом",
   "⚽ Французские арбитры нашли идеальный рецепт: не видеть проблемы — и их не существует",
   "⚽ Аморим провалил дебют в Serie A: «Милан» разобрали хет-триком Мбангулы",
-  "⚽ «Сити» вырвался на пенальти, а блог Sky Sports — нет"
+  "⚽ «Сити» вырвался на пенальти, а блог Sky Sports — нет",
+  "🏆 Фофана подарил «Копу» драму: «Ливерпуль» выжил в серии из 11 метров"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-24T09:34:38.691482+00:00",
-   "title": "🤷‍♂️ Коллам признал: VAR провалился в двух матчах",
-   "body": "Глава шотландского судейства Вилли Коллам признал, что VAR Стивен Маклин должен был дать пенальти «Сент-Миррен» в матче с «Рейнджерс» (1:0) за наступившее Фернандесом на ногу Кабию, а в победе «Селтика» над «Мазервелл» (2:0) — за руку Фадингера после удара Макгрегора. Зато отмену гола «Хартс» у «Килмарнока» (1:1) Коллам назвал абсолютно верной: Мэнди задел руку в атакующей фазе, и по правилам тако"
-  },
   {
    "time": "2026-10-24T11:35:55.661237+00:00",
    "title": "🍌 «Сити» привезли бананы, а в Вила-Парке ждёт четвёртое поражение подряд?",
@@ -869,8 +866,13 @@
    "time": "2026-10-28T21:54:56.543947+00:00",
    "title": "⚽ «Сити» вырвался на пенальти, а блог Sky Sports — нет",
    "body": "«Манчестер Сити» в роли держателя кубка выбрался в четвертьфинал Кубка Лиги, обыграв «Брайтон» с точки, но лайв-блог трансляции умер раньше серии — так что деталей драмы нет, есть только голый факт победы."
+  },
+  {
+   "time": "2026-10-29T00:53:31.197607+00:00",
+   "title": "🏆 Фофана подарил «Копу» драму: «Ливерпуль» выжил в серии из 11 метров",
+   "body": "«Ливерпуль» обыграл «Челси» 6:5 по пенальти после 1:1 в основное время и вырвался в четвертьфинал Кубка лиги, где ждёт «Борнмут». Весли Фофана стал антигероем вечера: его рука подарила хозяевам реализованную Гакпо 11-метровку, а в серии он сам отправил мяч в «Коп» — уже пятый подряд провал «синих» в пенальти от «красных». Арне Слот доверил старт четверым юным игрокам — Ньони, Нгумоха, Макконнеллу "
   }
  ],
- "last_post": "2026-10-28T21:54:56.543965+00:00",
+ "last_post": "2026-10-29T00:53:31.197625+00:00",
  "limit_day": "2026-10-25"
 }
