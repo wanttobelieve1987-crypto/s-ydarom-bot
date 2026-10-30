@@ -323,7 +323,8 @@
   "https://www.theguardian.com/football/2026/oct/29/manchester-city-paris-saint-germain-womens-champions-league-match-report",
   "https://www.theguardian.com/football/2026/oct/29/everton-newcastle-carabao-cup-fourth-round-match-report",
   "https://football-italia.net/serie-a-fiorentina-2-2-atalanta-entertaining/",
-  "https://www.lequipe.fr/Football/Actualites/Au-revoir-san-siro-bonjour-generali-stadium-l-inter-et-l-ac-milan-devoilent-leur-futur-stade-commun/1739650#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Au-revoir-san-siro-bonjour-generali-stadium-l-inter-et-l-ac-milan-devoilent-leur-futur-stade-commun/1739650#at_medium=RSS_feeds",
+  "https://www.theguardian.com/football/live/2026/oct/30/premier-league-news-carabao-cup-and-wcl-reaction-and-more-football-live"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -649,10 +650,10 @@
   "psg claim late point after shaw penalty to hit manchester city s wcl top four hopes",
   "everton ease past newcastle to set up fleetwood trip after grealish is dropped",
   "serie a fiorentina 2 2 atalanta entertaining draw does little for either team",
-  "au revoir san siro bonjour generali stadium l inter et l ac milan dévoilent leur futur stade commun"
+  "au revoir san siro bonjour generali stadium l inter et l ac milan dévoilent leur futur stade commun",
+  "forest green launch legal proceedings against savage departure england win controversial u 15 world cup match and premier league news football live"
  ],
  "recent": [
-  "⚽ Баллон-д'Ор: 73 гола Кейна или «аура» Ямаля — кто заберет награду?",
   "🦁 Фоссу в Альваладе засыпали, а отрыв от лидера растёт: у «Спортинга» худший старт с 2012/13",
   "🎪 От «цирка» к уровню Ямаля: Хадж-Мусса ломает Эреdivisie",
   "🏥 Компани в больнице, «Бавария» на вершине — машина не сломалась",
@@ -691,14 +692,10 @@
   "😤 ПСЖ в 88-й минуте отобрал у Сити победу и шансы на топ-4",
   "⚽ Эвертон без Грилиша разгромил Ньюкасл и ушёл в 1/4 финала Кубка Лиги",
   "🤕 «Аталанта» привезла 7 больных, потеряла Кристенсена и судью: хаотичный 2:2 с «Фиорентиной»",
-  "🏟 Конец эпохи Сан-Сиро: «Интер» и «Милан» строят новый стадион"
+  "🏟 Конец эпохи Сан-Сиро: «Интер» и «Милан» строят новый стадион",
+  "⚽ Мареска vs «Брайтон», U-15 без вратаря, кража в Мюнхене"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-26T07:54:50.508348+00:00",
-   "title": "⚽ Баллон-д'Ор: 73 гола Кейна или «аура» Ямаля — кто заберет награду?",
-   "body": "Эксперты BBC раскололись: Балаге и Смит отдают фаворитом Ямалю за Ла Лигу, «Чемпионат мира» и ту самую «ауру», в то время как Лоранс и Уорнок называют Кварацхелию лучшим в Европе за двойной триумф ПСЖ в Лиге чемпионов и голы в каждом плей-офф матче. Проблема грузинца — голоса парижан разделят между Дембеле, Витиньей и Руисом, а Кейн с 73 голами за «Баварию» и сборную остается скромным гением, кото"
-  },
   {
    "time": "2026-10-26T09:47:40.970662+00:00",
    "title": "🦁 Фоссу в Альваладе засыпали, а отрыв от лидера растёт: у «Спортинга» худший старт с 2012/13",
@@ -893,8 +890,13 @@
    "time": "2026-10-30T10:26:12.433098+00:00",
    "title": "🏟 Конец эпохи Сан-Сиро: «Интер» и «Милан» строят новый стадион",
    "body": "«Интер» и «Милан» представили проект общего стадиона Generali Stadium стоимостью 1,2 миллиарда евро. Новую арену планируют открыть к сезону 2031/32, чтобы заменить легендарный Сан-Сиро, открытый еще в 1926 году. Знаменитую цитадель итальянского футбола планируют частично снести ради создания современного многофункционального комплекса. Впервые в истории два главных соперника Италии разделят не тол"
+  },
+  {
+   "time": "2026-10-30T14:07:14.026568+00:00",
+   "title": "⚽ Мареска vs «Брайтон», U-15 без вратаря, кража в Мюнхене",
+   "body": "«Манчестер Сити» готовится к реваншу с «Брайтоном» на «Этихаде» после пенальти в Кубке лиги: Мареска хвалит агрессию и 23 гола «чайников», признавая, что в АПЛ теперь можно потерять очки с кем угодно. На U-15 чемпионате мира Англия забирала Тир Б через небитый пенальти — вратарь Боливии не прыгнул в знак протеста, ФИФА изучает отчёт по 936-му матчу турнира. Параллельно в Мюнхене вандалы ограбили м"
   }
  ],
- "last_post": "2026-10-30T10:26:12.433118+00:00",
+ "last_post": "2026-10-30T14:07:14.026587+00:00",
  "limit_day": "2026-10-25"
 }
