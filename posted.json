@@ -324,7 +324,8 @@
   "https://www.theguardian.com/football/2026/oct/29/everton-newcastle-carabao-cup-fourth-round-match-report",
   "https://football-italia.net/serie-a-fiorentina-2-2-atalanta-entertaining/",
   "https://www.lequipe.fr/Football/Actualites/Au-revoir-san-siro-bonjour-generali-stadium-l-inter-et-l-ac-milan-devoilent-leur-futur-stade-commun/1739650#at_medium=RSS_feeds",
-  "https://www.theguardian.com/football/live/2026/oct/30/premier-league-news-carabao-cup-and-wcl-reaction-and-more-football-live"
+  "https://www.theguardian.com/football/live/2026/oct/30/premier-league-news-carabao-cup-and-wcl-reaction-and-more-football-live",
+  "https://nos.nl/l/2637322"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -651,10 +652,10 @@
   "everton ease past newcastle to set up fleetwood trip after grealish is dropped",
   "serie a fiorentina 2 2 atalanta entertaining draw does little for either team",
   "au revoir san siro bonjour generali stadium l inter et l ac milan dévoilent leur futur stade commun",
-  "forest green launch legal proceedings against savage departure england win controversial u 15 world cup match and premier league news football live"
+  "forest green launch legal proceedings against savage departure england win controversial u 15 world cup match and premier league news football live",
+  "ajax wil slechte reeks doorbreken tegen az dat van een herfstdip niets wil weten"
  ],
  "recent": [
-  "🦁 Фоссу в Альваладе засыпали, а отрыв от лидера растёт: у «Спортинга» худший старт с 2012/13",
   "🎪 От «цирка» к уровню Ямаля: Хадж-Мусса ломает Эреdivisie",
   "🏥 Компани в больнице, «Бавария» на вершине — машина не сломалась",
   "⚽ Аллегри может пропустить битву с «Юве»",
@@ -693,14 +694,10 @@
   "⚽ Эвертон без Грилиша разгромил Ньюкасл и ушёл в 1/4 финала Кубка Лиги",
   "🤕 «Аталанта» привезла 7 больных, потеряла Кристенсена и судью: хаотичный 2:2 с «Фиорентиной»",
   "🏟 Конец эпохи Сан-Сиро: «Интер» и «Милан» строят новый стадион",
-  "⚽ Мареска vs «Брайтон», U-15 без вратаря, кража в Мюнхене"
+  "⚽ Мареска vs «Брайтон», U-15 без вратаря, кража в Мюнхене",
+  "⚽ Аякс не побеждал АЗ 11 матчей подряд — Санчес обещает ломать серию доминированием"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-26T09:47:40.970662+00:00",
-   "title": "🦁 Фоссу в Альваладе засыпали, а отрыв от лидера растёт: у «Спортинга» худший старт с 2012/13",
-   "body": "Фоссу вокруг газона в Альваладе засыпали более года назад, но очковый разрыв до лидера не перестаёт расти. У «Спортинга» уже зафиксирован худший старт с катастрофического сезона 2012/13, и команда вместо игры демонстрирует удивительную настойчивость в подрыве собственных шансов на титул."
-  },
   {
    "time": "2026-10-26T11:46:36.387035+00:00",
    "title": "🎪 От «цирка» к уровню Ямаля: Хадж-Мусса ломает Эреdivisie",
@@ -895,8 +892,13 @@
    "time": "2026-10-30T14:07:14.026568+00:00",
    "title": "⚽ Мареска vs «Брайтон», U-15 без вратаря, кража в Мюнхене",
    "body": "«Манчестер Сити» готовится к реваншу с «Брайтоном» на «Этихаде» после пенальти в Кубке лиги: Мареска хвалит агрессию и 23 гола «чайников», признавая, что в АПЛ теперь можно потерять очки с кем угодно. На U-15 чемпионате мира Англия забирала Тир Б через небитый пенальти — вратарь Боливии не прыгнул в знак протеста, ФИФА изучает отчёт по 936-му матчу турнира. Параллельно в Мюнхене вандалы ограбили м"
+  },
+  {
+   "time": "2026-10-30T17:10:42.412748+00:00",
+   "title": "⚽ Аякс не побеждал АЗ 11 матчей подряд — Санчес обещает ломать серию доминированием",
+   "body": "Аякс принимает «неугодного соперника» АЗ, против которого амстердамцы не выигрывают уже 11 матчей подряд — последняя победа была в 2022 году в кубке. Мичель Санчес, отметивший 51-й день рождения, не паршится: «Плохие серии существуют, чтобы их ломать», и клянётся играть на опережение, а не прятаться в низком блоке. У АЗ официально отрицают «осенний спад», хотя статистика за 5 сезонов зловеща: в ок"
   }
  ],
- "last_post": "2026-10-30T14:07:14.026587+00:00",
+ "last_post": "2026-10-30T17:10:42.412763+00:00",
  "limit_day": "2026-10-25"
 }
