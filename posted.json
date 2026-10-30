@@ -322,7 +322,8 @@
   "https://www.theguardian.com/football/2026/oct/29/scottish-premiership-uk-leagues-tv-broadcast-blackout-football",
   "https://www.theguardian.com/football/2026/oct/29/manchester-city-paris-saint-germain-womens-champions-league-match-report",
   "https://www.theguardian.com/football/2026/oct/29/everton-newcastle-carabao-cup-fourth-round-match-report",
-  "https://football-italia.net/serie-a-fiorentina-2-2-atalanta-entertaining/"
+  "https://football-italia.net/serie-a-fiorentina-2-2-atalanta-entertaining/",
+  "https://www.lequipe.fr/Football/Actualites/Au-revoir-san-siro-bonjour-generali-stadium-l-inter-et-l-ac-milan-devoilent-leur-futur-stade-commun/1739650#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -647,10 +648,10 @@
   "scottish premiership makes first uk move to remove saturday 3pm broadcast blackout",
   "psg claim late point after shaw penalty to hit manchester city s wcl top four hopes",
   "everton ease past newcastle to set up fleetwood trip after grealish is dropped",
-  "serie a fiorentina 2 2 atalanta entertaining draw does little for either team"
+  "serie a fiorentina 2 2 atalanta entertaining draw does little for either team",
+  "au revoir san siro bonjour generali stadium l inter et l ac milan dévoilent leur futur stade commun"
  ],
  "recent": [
-  "⚽ «Сельтик» перевернул игру, «Рейнджерс» разорвали сеть — шотландская драма",
   "⚽ Баллон-д'Ор: 73 гола Кейна или «аура» Ямаля — кто заберет награду?",
   "🦁 Фоссу в Альваладе засыпали, а отрыв от лидера растёт: у «Спортинга» худший старт с 2012/13",
   "🎪 От «цирка» к уровню Ямаля: Хадж-Мусса ломает Эреdivisie",
@@ -689,14 +690,10 @@
   "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Шотландия первой в UK разослала тендер на все матчи, включая 15:00",
   "😤 ПСЖ в 88-й минуте отобрал у Сити победу и шансы на топ-4",
   "⚽ Эвертон без Грилиша разгромил Ньюкасл и ушёл в 1/4 финала Кубка Лиги",
-  "🤕 «Аталанта» привезла 7 больных, потеряла Кристенсена и судью: хаотичный 2:2 с «Фиорентиной»"
+  "🤕 «Аталанта» привезла 7 больных, потеряла Кристенсена и судью: хаотичный 2:2 с «Фиорентиной»",
+  "🏟 Конец эпохи Сан-Сиро: «Интер» и «Милан» строят новый стадион"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-26T05:39:04.404122+00:00",
-   "title": "⚽ «Сельтик» перевернул игру, «Рейнджерс» разорвали сеть — шотландская драма",
-   "body": "Камило Дуран забил десятый гол сезона, и «Сельтик» перевернул счёт с «Хиберниан» на «Эйстер-Роуд» (2:1) — девятая победа в десяти матчах и четыре очка отрыва от «Рейнджерс». «Рейнджерс» ответили сухим 4:0 над «Сент-Джонстоуном»: дубль Келси, красная карточка соперника и МакИннис, просивший «блестящую» игру, — получил, хоть и только после перерыва. «Хартс» отмылись за 1:7 от «Сельтика» победой 2:0 "
-  },
   {
    "time": "2026-10-26T07:54:50.508348+00:00",
    "title": "⚽ Баллон-д'Ор: 73 гола Кейна или «аура» Ямаля — кто заберет награду?",
@@ -891,8 +888,13 @@
    "time": "2026-10-30T07:05:30.507973+00:00",
    "title": "🤕 «Аталанта» привезла 7 больных, потеряла Кристенсена и судью: хаотичный 2:2 с «Фиорентиной»",
    "body": "Гости привезли лазарет из семерых и тут же потеряли Кристенсена на второй минуте — Скальвини пришлось выходить раньше срока. На перерыве сдался и судья Ла Пенна, уступив место четвёртому арбитру Маринелли. Де Кетелаере забил и сделал ассист, Де Геа чудом выхватил удар Крстовича со линии, а Жоао Марио оформил перевес случайным рикошетом, но Залевский сравнял точным ударом в ближний угол. Ничья прер"
+  },
+  {
+   "time": "2026-10-30T10:26:12.433098+00:00",
+   "title": "🏟 Конец эпохи Сан-Сиро: «Интер» и «Милан» строят новый стадион",
+   "body": "«Интер» и «Милан» представили проект общего стадиона Generali Stadium стоимостью 1,2 миллиарда евро. Новую арену планируют открыть к сезону 2031/32, чтобы заменить легендарный Сан-Сиро, открытый еще в 1926 году. Знаменитую цитадель итальянского футбола планируют частично снести ради создания современного многофункционального комплекса. Впервые в истории два главных соперника Италии разделят не тол"
   }
  ],
- "last_post": "2026-10-30T07:05:30.507991+00:00",
+ "last_post": "2026-10-30T10:26:12.433118+00:00",
  "limit_day": "2026-10-25"
 }
