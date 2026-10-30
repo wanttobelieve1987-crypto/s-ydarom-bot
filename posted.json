@@ -326,7 +326,8 @@
   "https://www.lequipe.fr/Football/Actualites/Au-revoir-san-siro-bonjour-generali-stadium-l-inter-et-l-ac-milan-devoilent-leur-futur-stade-commun/1739650#at_medium=RSS_feeds",
   "https://www.theguardian.com/football/live/2026/oct/30/premier-league-news-carabao-cup-and-wcl-reaction-and-more-football-live",
   "https://nos.nl/l/2637322",
-  "https://www.bbc.co.uk/sport/football/articles/cmkgkpexjzneo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/sport/football/articles/cmkgkpexjzneo?at_medium=RSS&at_campaign=rss",
+  "https://www.lequipe.fr/Football/Actualites/Achraf-hakimi-apres-son-triple-et-son-double-de-passes-decisives-avec-le-psg-face-au-havre-5-1-non-ce-n-est-pas-le-match-de-ma-vie/1739897#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -655,10 +656,10 @@
   "au revoir san siro bonjour generali stadium l inter et l ac milan dévoilent leur futur stade commun",
   "forest green launch legal proceedings against savage departure england win controversial u 15 world cup match and premier league news football live",
   "ajax wil slechte reeks doorbreken tegen az dat van een herfstdip niets wil weten",
-  "fears chelsea s lacroix could be out until january"
+  "fears chelsea s lacroix could be out until january",
+  "achraf hakimi après son triplé et son doublé de passes décisives avec le psg face au havre 5 1 non ce n est pas le match de ma vie"
  ],
  "recent": [
-  "🏥 Компани в больнице, «Бавария» на вершине — машина не сломалась",
   "⚽ Аллегри может пропустить битву с «Юве»",
   "😤 Аллегри сорвался на 3:3 — «Наполи» без тренера едет к «Ювентусу»",
   "🐴 Жеребец, суд и 20 лет боли: как Фергюсон отдал «Юнайтед» Глейзерам",
@@ -697,14 +698,10 @@
   "🏟 Конец эпохи Сан-Сиро: «Интер» и «Милан» строят новый стадион",
   "⚽ Мареска vs «Брайтон», U-15 без вратаря, кража в Мюнхене",
   "⚽ Аякс не побеждал АЗ 11 матчей подряд — Санчес обещает ломать серию доминированием",
-  "😱 Лакруа может пропасть до января: «Челси» теряет главного защитника за £52 млн"
+  "😱 Лакруа может пропасть до января: «Челси» теряет главного защитника за £52 млн",
+  "⚽ Хакими разнёс «Гавр» и заявил: «Не матч жизни»"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-26T13:57:53.881490+00:00",
-   "title": "🏥 Компани в больнице, «Бавария» на вершине — машина не сломалась",
-   "body": "«Бавария» обыграла «Фрайбург» и снова возглавила Бундеслигу. Винсент Компани всё ещё в больнице: он потерял сознание прямо на тренировке дубля. Игроки посвятили победу тренеру, показав, что механизм не заклинивает даже без главного на каскаде."
-  },
   {
    "time": "2026-10-26T15:11:16.208357+00:00",
    "title": "⚽ Аллегри может пропустить битву с «Юве»",
@@ -899,8 +896,13 @@
    "time": "2026-10-30T19:56:47.098178+00:00",
    "title": "😱 Лакруа может пропасть до января: «Челси» теряет главного защитника за £52 млн",
    "body": "«Челси» рискует остаться без Лакруа до января: француз за £52 млн, стартовавший в 10 из 11 матчей, потянул мышцу на спринте против «Ливерпуля» и, по BBC, пропустит до десяти игр. Чаби Алонсо сдерживается формулировкой «несколько недель», но внутри клуба уже подгоняют маску для Эмилиано Мартинеса и изучают шестерку центральных защитников, где двое — в больнице. «Синие» на пятом месте с 13 очками и "
+  },
+  {
+   "time": "2026-10-30T21:42:00.008322+00:00",
+   "title": "⚽ Хакими разнёс «Гавр» и заявил: «Не матч жизни»",
+   "body": "Ашраф Хакими наговорил три гола и отдал две голевые передачи в разгроме «Гавра» 5:1, но марокканец лишь усмехнулся: «Нет, это не матч моей жизни». Для латераля ПСЖ такая пятница — просто качественная смена, а не повод для мемуаров. Парк де Пренс видел шоу одного актёра, где даже вратарь соперника мог попросить автограф."
   }
  ],
- "last_post": "2026-10-30T19:56:47.098197+00:00",
+ "last_post": "2026-10-30T21:42:00.008338+00:00",
  "limit_day": "2026-10-25"
 }
