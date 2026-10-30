@@ -319,7 +319,8 @@
   "https://www.theguardian.com/football/2026/oct/29/ivan-toney-trial-during-euro-2028-denies-assault-charge",
   "https://www.theguardian.com/football/2026/oct/29/borussia-dortmund-fans-phones",
   "https://www.bbc.co.uk/sport/football/articles/c6n49v9ek1k9o?at_medium=RSS&at_campaign=rss",
-  "https://www.theguardian.com/football/2026/oct/29/scottish-premiership-uk-leagues-tv-broadcast-blackout-football"
+  "https://www.theguardian.com/football/2026/oct/29/scottish-premiership-uk-leagues-tv-broadcast-blackout-football",
+  "https://www.theguardian.com/football/2026/oct/29/manchester-city-paris-saint-germain-womens-champions-league-match-report"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -641,10 +642,10 @@
   "england s ivan toney to stand trial during euro 2028 after denying assault charge",
   "a phone free yellow wall are dortmund urging fans to be present or policing them",
   "celtic rangers scottish cup stadium closure upheld",
-  "scottish premiership makes first uk move to remove saturday 3pm broadcast blackout"
+  "scottish premiership makes first uk move to remove saturday 3pm broadcast blackout",
+  "psg claim late point after shaw penalty to hit manchester city s wcl top four hopes"
  ],
  "recent": [
-  "⚽ Мбаппэ забил 100-й и 101-й голы дублём — «Реал» сломил серию «Барселоны» 2:1 в Камп Ноу",
   "🔴 «Ливерпуль» прервал домашнюю серию: 2:0 «Брайтону» и прыжок в топ-4",
   "⚡ Модрич, быстрый фрикик и лекарство от краха: «Милан» обыграл «Удинезе» 0:2",
   "⚽ «Сельтик» перевернул игру, «Рейнджерс» разорвали сеть — шотландская драма",
@@ -683,14 +684,10 @@
   "⚖️ Тони судится на «Евро-2028»: судья извинился за 20-месячную очередь",
   "📵 «Дортмунд» платит за отказ от телефонов: забота или контроль?",
   "🏟️ Олд-Фирм в вакууме: «Кельтик» и «Рейнджерс» лишились трибун в Кубке",
-  "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Шотландия первой в UK разослала тендер на все матчи, включая 15:00"
+  "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Шотландия первой в UK разослала тендер на все матчи, включая 15:00",
+  "😤 ПСЖ в 88-й минуте отобрал у Сити победу и шансы на топ-4"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-25T23:28:18.050045+00:00",
-   "title": "⚽ Мбаппэ забил 100-й и 101-й голы дублём — «Реал» сломил серию «Барселоны» 2:1 в Камп Ноу",
-   "body": "Киллиан Мбаппэ отметил сотню в карьере решающим дублём, благодаря чему «Реал» прервал девятиматчевую победную серию каталонцев в Ла Лиге и сократил отрыв от лидера до трёх очков — «Барса» впервые за долгое время проигрывала на своем поле. Француз продолжает оправдывать статус суперзвезды именно в матчах, где цена ошибки максимальна."
-  },
   {
    "time": "2026-10-26T01:48:48.437573+00:00",
    "title": "🔴 «Ливерпуль» прервал домашнюю серию: 2:0 «Брайтону» и прыжок в топ-4",
@@ -885,8 +882,13 @@
    "time": "2026-10-29T21:59:23.720255+00:00",
    "title": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Шотландия первой в UK разослала тендер на все матчи, включая 15:00",
    "body": "Шотландская премьер-лига первой в Великобритании разослала тендер на права с 2029 года: бродкастеры могут претендовать на абсолютно все матчи, включая «священный» субботний блок в 15:00, который до сих пор прикрывает статья 48 УЕФА. Англия с ЕФЛ давно лижутся на отмену блэкаута — сейчас в эфире попадает всего 35% игр, а клубы жаждут денег от новых трансляций. Ричард Мастерс дал себе полтора года н"
+  },
+  {
+   "time": "2026-10-30T00:56:09.462582+00:00",
+   "title": "😤 ПСЖ в 88-й минуте отобрал у Сити победу и шансы на топ-4",
+   "body": "«Манчестер Сити» третий матч подряд не выигрывает в ЛЧ: Шоу с точки ставит 1:0 на 85-й, а суба Эльимби Жильбер через три минуты выручает ПСЖ — 1:1. Желец честно: «Заслуживали больше, но надо убивать игры», а в таблице «граждане» всего десятые, а прямой проход в четвертьфиналы тает. Непобеждённая во всём сезоне команда пока сухая в Европе, но впереди три «удобных» матча — последний шанс не утонуть."
   }
  ],
- "last_post": "2026-10-29T21:59:23.720266+00:00",
+ "last_post": "2026-10-30T00:56:09.462603+00:00",
  "limit_day": "2026-10-25"
 }
