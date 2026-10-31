@@ -333,7 +333,8 @@
   "https://www.walfoot.be/news/2026-10-31/lille-remporte-le-derby-du-nord-face-a-lens-nathan-ngoy-prend-le-dessus-sur-thorgan-hazard",
   "https://sporza.be/nl/2026/10/31/scoren-vader-worden-en-opnieuw-scoren-luis-enrique-geniet-mee-van-droomweek-mika-godts~1793435009530/",
   "https://football-italia.net/todays-papers-halloween-derby-shivers-for-inter-and-milan-spalletti-summons-yildiz/",
-  "https://www.lequipe.fr/Football/Actualites/Chelsea-enfonce-manchester-united-et-michael-carrick-dans-la-crise/1740021#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Chelsea-enfonce-manchester-united-et-michael-carrick-dans-la-crise/1740021#at_medium=RSS_feeds",
+  "https://www.kicker.de/live-upamecano-staubt-zum-2-1-ab-kane-verschiesst-elfmeter-und-trifft-den-pfosten-1266739/artikel#omrss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -669,10 +670,10 @@
   "lille remporte le derby du nord face à lens nathan ngoy prend le dessus sur thorgan hazard",
   "scoren vader worden en opnieuw scoren luis enrique geniet mee van droomweek mika godts",
   "today s papers halloween derby shivers for inter and milan spalletti summons yildiz",
-  "chelsea enfonce manchester united et michael carrick dans la crise"
+  "chelsea enfonce manchester united et michael carrick dans la crise",
+  "live upamecano staubt zum 2 1 ab kane verschießt elfmeter und trifft den pfosten"
  ],
  "recent": [
-  "🔄 Две замены — два гола: «ПСЖ» обыграл «Лион» 2-0 без звезд",
   "⚽ U15 World Cup: Англия ушла с поля из-за расизма на 90-й минуте при счёте 1:4",
   "⚽ Кейн вернул Бундеслиге «Золотой мяч» после 28-летнего перерыва",
   "🇨🇳 Шутка про Мао стоила Мбаппе двух контрактов в Китае",
@@ -711,14 +712,10 @@
   "🥖 Жиру в 86-й решил 125-е дерби Севера: «Лилль» оставил «Ланс» ни с чем",
   "🍼 Неделя-киллер Мики Годтса",
   "🎃 Дерби на Хэллоуин: «Милан» рискует -10, «Интер» 7 без побед, Пулисич до 2031",
-  "🔵 «Челси» закапал «МЮ» и Кэррика: 2:0 и кризис в полном разгаре"
+  "🔵 «Челси» закапал «МЮ» и Кэррика: 2:0 и кризис в полном разгаре",
+  "⚽ Классикер с пенальти в столб и «ударом в спину»: «Бавария» обыграла БВБ 2:1"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-27T01:46:44.567965+00:00",
-   "title": "🔄 Две замены — два гола: «ПСЖ» обыграл «Лион» 2-0 без звезд",
-   "body": "«ПСЖ» снова сыграл в понедельник: «Классик» с «Марселем» дождь перенёс на 22 сентября, а протесты в Париже сдвинули матч с «Лионом» на вечер вручения «Золотого мяча». Без Дембеле и Кварацхелии парижане 72 минуты тыкались в сухую оборону, и только Сафонов удержал ноль в своих воротах. Майюлу разорвал ничью ударом с 18 метров после паса Годтса, а сам бывший аяксовец в концовке забил дебютный гол за "
-  },
   {
    "time": "2026-10-27T05:37:06.713527+00:00",
    "title": "⚽ U15 World Cup: Англия ушла с поля из-за расизма на 90-й минуте при счёте 1:4",
@@ -913,8 +910,13 @@
    "time": "2026-10-31T16:18:57.082578+00:00",
    "title": "🔵 «Челси» закапал «МЮ» и Кэррика: 2:0 и кризис в полном разгаре",
    "body": "«Челси» разгромил «Манчестер Юнайтед» 2:0 на «Стэмфорд-Бридже» и отправил соперника в глубокий нокдаун — у «красных дьяволов» нет побед с 10 сентября, а во второй половине они играли так, будто уже готовили прощальный пир Кэррику. Тренер после такого кошмара держится на клее, и, судя по тому, что происходит на поле, терпение руководства скоро лопнет. Девятый тур, а «Юнайтед» уже ищет дно!"
+  },
+  {
+   "time": "2026-10-31T19:16:36.493406+00:00",
+   "title": "⚽ Классикер с пенальти в столб и «ударом в спину»: «Бавария» обыграла БВБ 2:1",
+   "body": "Упамекано подхватил отскок и забил победный 2:1, а Кейн умудрился промахнуться с пенальти, ударив в столб — так и решается битва за первое место. Обе команды вышли на поле с одинаковым числом очков, но только Мюнхен ушёл лидером, а Дортмунд — с головной болью. Классикер дал зрелище: драма, ирония и напоминание, что даже суперзвёзды иногда ошибаются."
   }
  ],
- "last_post": "2026-10-31T16:18:57.082596+00:00",
+ "last_post": "2026-10-31T19:16:36.493421+00:00",
  "limit_day": "2026-10-25"
 }
