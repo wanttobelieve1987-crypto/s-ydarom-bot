@@ -332,7 +332,8 @@
   "https://www.lequipe.fr/Football/Actualites/Malgre-ses-40-ans-et-son-statut-de-remplacant-olivier-giroud-continue-de-jouer-les-heros-a-lille/1739953#at_medium=RSS_feeds",
   "https://www.walfoot.be/news/2026-10-31/lille-remporte-le-derby-du-nord-face-a-lens-nathan-ngoy-prend-le-dessus-sur-thorgan-hazard",
   "https://sporza.be/nl/2026/10/31/scoren-vader-worden-en-opnieuw-scoren-luis-enrique-geniet-mee-van-droomweek-mika-godts~1793435009530/",
-  "https://football-italia.net/todays-papers-halloween-derby-shivers-for-inter-and-milan-spalletti-summons-yildiz/"
+  "https://football-italia.net/todays-papers-halloween-derby-shivers-for-inter-and-milan-spalletti-summons-yildiz/",
+  "https://www.lequipe.fr/Football/Actualites/Chelsea-enfonce-manchester-united-et-michael-carrick-dans-la-crise/1740021#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -667,10 +668,10 @@
   "malgré ses 40 ans et son statut de remplaçant olivier giroud continue de jouer les héros à lille",
   "lille remporte le derby du nord face à lens nathan ngoy prend le dessus sur thorgan hazard",
   "scoren vader worden en opnieuw scoren luis enrique geniet mee van droomweek mika godts",
-  "today s papers halloween derby shivers for inter and milan spalletti summons yildiz"
+  "today s papers halloween derby shivers for inter and milan spalletti summons yildiz",
+  "chelsea enfonce manchester united et michael carrick dans la crise"
  ],
  "recent": [
-  "🏆 Кейн — «Золотой мяч» 2026: 73 гола за 65 матчей и обгон Мбаппе с Ямалем",
   "🔄 Две замены — два гола: «ПСЖ» обыграл «Лион» 2-0 без звезд",
   "⚽ U15 World Cup: Англия ушла с поля из-за расизма на 90-й минуте при счёте 1:4",
   "⚽ Кейн вернул Бундеслиге «Золотой мяч» после 28-летнего перерыва",
@@ -709,14 +710,10 @@
   "⚽ Жиру в 40 лет решает дерби в добавке",
   "🥖 Жиру в 86-й решил 125-е дерби Севера: «Лилль» оставил «Ланс» ни с чем",
   "🍼 Неделя-киллер Мики Годтса",
-  "🎃 Дерби на Хэллоуин: «Милан» рискует -10, «Интер» 7 без побед, Пулисич до 2031"
+  "🎃 Дерби на Хэллоуин: «Милан» рискует -10, «Интер» 7 без побед, Пулисич до 2031",
+  "🔵 «Челси» закапал «МЮ» и Кэррика: 2:0 и кризис в полном разгаре"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-26T23:32:56.168167+00:00",
-   "title": "🏆 Кейн — «Золотой мяч» 2026: 73 гола за 65 матчей и обгон Мбаппе с Ямалем",
-   "body": "Гарри Кейн забрал «Золотой мяч» 2026 года в Лондоне, став пятым англичанином-лауреатом: 73 гола за 65 матчей за «Баварию» и третье место на чемпионате мира с Англией не оставили шансов конкурентам. Мбаппэ остановился на втором месте, Ямаль — на третьем, и статистика кейна окончательно закрыла все споры. Индивидуальная корона наконец нашла своего хозяина."
-  },
   {
    "time": "2026-10-27T01:46:44.567965+00:00",
    "title": "🔄 Две замены — два гола: «ПСЖ» обыграл «Лион» 2-0 без звезд",
@@ -911,8 +908,13 @@
    "time": "2026-10-31T13:39:01.213912+00:00",
    "title": "🎃 Дерби на Хэллоуин: «Милан» рискует -10, «Интер» 7 без побед, Пулисич до 2031",
    "body": "«Милан» рискует отстать от лидера на 10 очков, «Интер» подходит к матчу с серией из семи дерби без побед — Чиви в прошлом сезоне проиграл оба. Пулисич продлил контракт до 2031 года и пошутил, что продержится при ещё пяти португальских тренерах. «Ювентус» уехал на сбор в JHotel, где Спаллетти позвал даже травмированных Яндыза, Локателли и Кефрена Тюрама. Мален у «Ромы» реализует моменты с нереально"
+  },
+  {
+   "time": "2026-10-31T16:18:57.082578+00:00",
+   "title": "🔵 «Челси» закапал «МЮ» и Кэррика: 2:0 и кризис в полном разгаре",
+   "body": "«Челси» разгромил «Манчестер Юнайтед» 2:0 на «Стэмфорд-Бридже» и отправил соперника в глубокий нокдаун — у «красных дьяволов» нет побед с 10 сентября, а во второй половине они играли так, будто уже готовили прощальный пир Кэррику. Тренер после такого кошмара держится на клее, и, судя по тому, что происходит на поле, терпение руководства скоро лопнет. Девятый тур, а «Юнайтед» уже ищет дно!"
   }
  ],
- "last_post": "2026-10-31T13:39:01.213931+00:00",
+ "last_post": "2026-10-31T16:18:57.082596+00:00",
  "limit_day": "2026-10-25"
 }
