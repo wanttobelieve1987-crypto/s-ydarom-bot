@@ -335,7 +335,8 @@
   "https://football-italia.net/todays-papers-halloween-derby-shivers-for-inter-and-milan-spalletti-summons-yildiz/",
   "https://www.lequipe.fr/Football/Actualites/Chelsea-enfonce-manchester-united-et-michael-carrick-dans-la-crise/1740021#at_medium=RSS_feeds",
   "https://www.kicker.de/live-upamecano-staubt-zum-2-1-ab-kane-verschiesst-elfmeter-und-trifft-den-pfosten-1266739/artikel#omrss",
-  "https://football-italia.net/video-milan-surge-into-2-0-lead-over-inter/"
+  "https://football-italia.net/video-milan-surge-into-2-0-lead-over-inter/",
+  "https://www.bbc.co.uk/sport/football/videos/ckpdg3eq06z5o?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -673,10 +674,10 @@
   "today s papers halloween derby shivers for inter and milan spalletti summons yildiz",
   "chelsea enfonce manchester united et michael carrick dans la crise",
   "live upamecano staubt zum 2 1 ab kane verschießt elfmeter und trifft den pfosten",
-  "video milan surge into 2 0 lead over inter within first 10 minutes"
+  "video milan surge into 2 0 lead over inter within first 10 minutes",
+  "kane misses bayern penalty before late dortmund goal earns draw"
  ],
  "recent": [
-  "⚽ Кейн вернул Бундеслиге «Золотой мяч» после 28-летнего перерыва",
   "🇨🇳 Шутка про Мао стоила Мбаппе двух контрактов в Китае",
   "🇵🇹 «Ньюкасл» назначил экс-директора «Спартака» Амарала главой рекрутинга",
   "⚽ Фрайбург за 8 дней «обогнал» «Леверкузен», «Монако» и «Баварию» — в столбце потерянных очков",
@@ -715,14 +716,10 @@
   "🎃 Дерби на Хэллоуин: «Милан» рискует -10, «Интер» 7 без побед, Пулисич до 2031",
   "🔵 «Челси» закапал «МЮ» и Кэррика: 2:0 и кризис в полном разгаре",
   "⚽ Классикер с пенальти в столб и «ударом в спину»: «Бавария» обыграла БВБ 2:1",
-  "⚡ «Милан» шокировал «Интер» за 10 минут: исторический старт дерби"
+  "⚡ «Милан» шокировал «Интер» за 10 минут: исторический старт дерби",
+  "⚽ Кейн промахнулся с пенальти, Сильва вырвал ничью у «Баварии» — 2:2 в «Классикере»"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-27T07:50:01.929578+00:00",
-   "title": "⚽ Кейн вернул Бундеслиге «Золотой мяч» после 28-летнего перерыва",
-   "body": "По данным Kicker, Гарри Кейн стал первым игроком Бундеслиги с 1996 года, завоевавшим «Золотой мяч» — Лондон в полном ажиотаже. Пока англичане празднуют, «Бавария» уже настраивается на кубковый матч со «Магдебургом» в среду: голод не тётка. Репортёр Марио Кришель пишет: Кейн наслаждается триумфом, но в глазах у него уже горит жажда новых титулов. 🏆"
-  },
   {
    "time": "2026-10-27T09:43:53.617285+00:00",
    "title": "🇨🇳 Шутка про Мао стоила Мбаппе двух контрактов в Китае",
@@ -917,8 +914,13 @@
    "time": "2026-10-31T20:40:46.400751+00:00",
    "title": "⚡ «Милан» шокировал «Интер» за 10 минут: исторический старт дерби",
    "body": "«Милан» на старте дерби наголову опередил «Интер»: Пулисич открыл счёт на 3:45 — самый быстрый гол россонерри в Серии А против соперника со времен Пато в 2011 году, а Рабио с угловой Морейры удвоил преимущество на 11-й минуте. Такого молниеносного преимущества «Милан» не имел с 1932 года, когда всё равно умудрился проиграть 4:5. Сан-Сиро в шоке, а «нераззурри» уже думают, как не развалиться полнос"
+  },
+  {
+   "time": "2026-11-01T00:04:19.549951+00:00",
+   "title": "⚽ Кейн промахнулся с пенальти, Сильва вырвал ничью у «Баварии» — 2:2 в «Классикере»",
+   "body": "Победитель «Золотого мяча» Гарри Кейн неожиданно отправил 11-метровку мимо, а фабио Сильва в добавленное время сравнял счёт — 2:2 в главном дерби Германии. Мюнхенцы дважды вели, но не удержали преимущество над упорным «Дортмундом». Ещё одна драма в коллекции «Классикера», где нервы стоят дороже таланта."
   }
  ],
- "last_post": "2026-10-31T20:40:46.400767+00:00",
+ "last_post": "2026-11-01T00:04:19.549966+00:00",
  "limit_day": "2026-10-25"
 }
