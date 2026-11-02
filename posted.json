@@ -343,7 +343,8 @@
   "https://football-italia.net/serie-a-juventus-2-0-napoli-alajbegovic-boga/",
   "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&at_campaign=rss",
   "https://www.lequipe.fr/Football/Actualites/Le-sporting-portugal-officialise-sa-volonte-de-se-separer-de-son-entraineur-rui-borges-et-annoncera-prochainement-son-successeur-qui-pourrait-etre-paulo-fonseca/1740402#at_medium=RSS_feeds",
-  "https://www.theguardian.com/football/2026/nov/01/european-football-real-madrid-lazio-juventus-napoli-kylian-mbappe"
+  "https://www.theguardian.com/football/2026/nov/01/european-football-real-madrid-lazio-juventus-napoli-kylian-mbappe",
+  "https://www.lequipe.fr/Football/Actualites/Joueur-amateur-ancien-adjoint-de-guardiola-fan-de-bielsa-vire-de-braga-qui-est-carlos-vicens-pressenti-pour-succeder-a-paulo-fonseca-a-lyon/1740590#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -689,10 +690,10 @@
   "serie a juventus 2 0 napoli alajbegovic and boga magic revives juve",
   "giant curiosity hibs finally liberated from hearts sucker punch",
   "le sporting portugal officialise sa volonté de se séparer de son entraîneur rui borges et annoncera prochainement son successeur qui pourrait être paulo fonseca",
-  "european football mbappé penalty helps real madrid stroll to sixth straight win"
+  "european football mbappé penalty helps real madrid stroll to sixth straight win",
+  "joueur amateur ancien adjoint de guardiola fan de bielsa viré de braga qui est carlos vicens pressenti pour succéder à paulo fonseca à lyon"
  ],
  "recent": [
-  "⚡ «Рома» отвечает голами: 4:2 «Кальяри» и 9 матчей без поражений",
   "🤯 Лига-2 съела «Арсенал»: «Флитвуд» выбил гранда на пенальти",
   "💸 «Барселона» оштрафована на 503 фунта за попытку заманить Альвареса",
   "⚽ Куйт возглавил «Фенербахче» неделю до встречи с родным «Ливерпулем»",
@@ -731,14 +732,10 @@
   "⚽ Два удара в девятку и 10 неаполитанцев: «Ювентус» выбрался из ямы 2:0",
   "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Хибс впервые в истории победили Хартс на Хэмпдене — 2:1 и финал Кубка лиги!",
   "🦁 «Спортинг» расстаётся с Боржешем: Фонсека — главный кандидат на пост «счастливчика»",
-  "⚽️ Мбаппе отбивается от недели кошмаров победой над «Расингом»"
+  "⚽️ Мбаппе отбивается от недели кошмаров победой над «Расингом»",
+  "🇪🇸 Ассистент Пепа, фанат Бильсы и экс-Браги: Викенс возглавит «Лион»?"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-28T00:30:36.104762+00:00",
-   "title": "⚡ «Рома» отвечает голами: 4:2 «Кальяри» и 9 матчей без поражений",
-   "body": "«Рома» обыграла «Кальяри» 4:2 и продолжила беспроигрышную серию после девятого тура, держась в погоне за лидерами «Лацио» и «Интер». Дони Мален снова забил, а игра повторила безумный сценарий недавнего 3:3 с «Наполи» — атака Де Росси в разгаре, защита пока в тени. «Джаллоросси» забирают очки и устраивают шоу в одном флаконе."
-  },
   {
    "time": "2026-10-28T02:34:29.586646+00:00",
    "title": "🤯 Лига-2 съела «Арсенал»: «Флитвуд» выбил гранда на пенальти",
@@ -933,8 +930,13 @@
    "time": "2026-11-02T10:56:25.807962+00:00",
    "title": "⚽️ Мбаппе отбивается от недели кошмаров победой над «Расингом»",
    "body": "«Реал» сухо разобрался с «Расингом» 3:0 — Мбаппе реализовал пенальти, Беллингем и Диоманде дописали счёт, удерживая отставание от «Барселоны» в три очка. Килиану удалось выключить шум после проигрыша Канэ в гонке за «Золотой мяч» и китайского скандала с Мао Цзэдуном, из-за чего матч даже не показали по ЦТВ. При этом в тексте внезапно всплывает Жозе Моуринью с серией из шести побед, хотя «Реал» тре"
+  },
+  {
+   "time": "2026-11-02T19:46:32.763421+00:00",
+   "title": "🇪🇸 Ассистент Пепа, фанат Бильсы и экс-Браги: Викенс возглавит «Лион»?",
+   "body": "«Лион» готов доверить команду 43-летнему Карлосу Викенсу: бывший аматор, ассистент Гвардиолы и фанат Бильсы получит второй шанс в профи после года в «Браге» и увольнения. Места освобождает Паулу Фонсека, уходящий в «Спортинг». Посмотрим, сработает ли коктейль из «гвардиолизма» и «Эль Локо» на французской кухне. ⚽"
   }
  ],
- "last_post": "2026-11-02T10:56:25.807981+00:00",
+ "last_post": "2026-11-02T19:46:32.763437+00:00",
  "limit_day": "2026-10-25"
 }
