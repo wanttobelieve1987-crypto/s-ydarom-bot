@@ -345,7 +345,8 @@
   "https://www.lequipe.fr/Football/Actualites/Le-sporting-portugal-officialise-sa-volonte-de-se-separer-de-son-entraineur-rui-borges-et-annoncera-prochainement-son-successeur-qui-pourrait-etre-paulo-fonseca/1740402#at_medium=RSS_feeds",
   "https://www.theguardian.com/football/2026/nov/01/european-football-real-madrid-lazio-juventus-napoli-kylian-mbappe",
   "https://www.lequipe.fr/Football/Actualites/Joueur-amateur-ancien-adjoint-de-guardiola-fan-de-bielsa-vire-de-braga-qui-est-carlos-vicens-pressenti-pour-succeder-a-paulo-fonseca-a-lyon/1740590#at_medium=RSS_feeds",
-  "https://football-italia.net/official-udinese-sack-runjaic-with-zanetti/"
+  "https://football-italia.net/official-udinese-sack-runjaic-with-zanetti/",
+  "https://www.theguardian.com/football/2026/nov/02/arsenal-liverpool-premier-league"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -693,10 +694,10 @@
   "le sporting portugal officialise sa volonté de se séparer de son entraîneur rui borges et annoncera prochainement son successeur qui pourrait être paulo fonseca",
   "european football mbappé penalty helps real madrid stroll to sixth straight win",
   "joueur amateur ancien adjoint de guardiola fan de bielsa viré de braga qui est carlos vicens pressenti pour succéder à paulo fonseca à lyon",
-  "official udinese sack runjaic with zanetti lined up"
+  "official udinese sack runjaic with zanetti lined up",
+  "arsenal have everything they need to repeat as premier league champions jonathan wilson"
  ],
  "recent": [
-  "💸 «Барселона» оштрафована на 503 фунта за попытку заманить Альвареса",
   "⚽ Куйт возглавил «Фенербахче» неделю до встречи с родным «Ливерпулем»",
   "🚂 24 матча Кубка Испании перенесли из-за крушения поездов под Мадридом",
   "⚽ Французские арбитры нашли идеальный рецепт: не видеть проблемы — и их не существует",
@@ -735,14 +736,10 @@
   "🦁 «Спортинг» расстаётся с Боржешем: Фонсека — главный кандидат на пост «счастливчика»",
   "⚽️ Мбаппе отбивается от недели кошмаров победой над «Расингом»",
   "🇪🇸 Ассистент Пепа, фанат Бильсы и экс-Браги: Викенс возглавит «Лион»?",
-  "🦓 Удинезе уволила Руняйца после 2:5: Занетти до июня на жестких условиях"
+  "🦓 Удинезе уволила Руняйца после 2:5: Занетти до июня на жестких условиях",
+  "🏆 «Арсенал» уже 7 раз переворачивал ничьи на перерыве"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-28T06:52:07.148987+00:00",
-   "title": "💸 «Барселона» оштрафована на 503 фунта за попытку заманить Альвареса",
-   "body": "Испанская федерация оштрафовала «Барселону» на символические €602 за контакты с Альваресом без уведомления «Атлетико», а ФИФА отказалась рассматривать дело. Хулиан извинился за слова о мечте играть за «Барсу» во время ЧМ-2026, забил второй матч подряд и получил овации на «Метаполитано» вместо свистов. «Атлетико» отстаёт от лидера на два очка, так что штраф каталонцев — самая дешёвая переброска лет"
-  },
   {
    "time": "2026-10-28T10:02:44.970731+00:00",
    "title": "⚽ Куйт возглавил «Фенербахче» неделю до встречи с родным «Ливерпулем»",
@@ -937,8 +934,13 @@
    "time": "2026-11-02T20:46:31.575175+00:00",
    "title": "🦓 Удинезе уволила Руняйца после 2:5: Занетти до июня на жестких условиях",
    "body": "Удинезе наконец расторгла контракт с Руняйцем, который за два с лишним года так и не научил команду выигрывать: всего 5 очков за 10 туров и серия из 8 матчей без побед. Домашнее 2:5 от «Ромы» стало последней каплей, и теперь спасать «зебру» от вылета будет Паоло Занетти — безработный с февраля, когда его уволила «Верона». По данным Sky Sport Italia, новый наставник подпишет контракт только до июня"
+  },
+  {
+   "time": "2026-11-03T02:54:09.763283+00:00",
+   "title": "🏆 «Арсенал» уже 7 раз переворачивал ничьи на перерыве",
+   "body": "«Арсенал» впервые с 2012 года взял «Ливерпуль» на «Энфилде» и ушел в одиночку: три очка от «Сити» и пять от «Брайтона». Козырь Артеты — характер: уже семь раз ганнеры уходили на перерыв вничью, а забирали победу. «Сити» ждёт вычет очков, соперники не выглядят угрозой — титул, кажется, сам лезет в руки лондонцам? ⚽"
   }
  ],
- "last_post": "2026-11-02T20:46:31.575218+00:00",
+ "last_post": "2026-11-03T02:54:09.763301+00:00",
  "limit_day": "2026-10-25"
 }
