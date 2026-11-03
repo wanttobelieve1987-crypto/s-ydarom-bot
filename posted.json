@@ -346,7 +346,8 @@
   "https://www.theguardian.com/football/2026/nov/01/european-football-real-madrid-lazio-juventus-napoli-kylian-mbappe",
   "https://www.lequipe.fr/Football/Actualites/Joueur-amateur-ancien-adjoint-de-guardiola-fan-de-bielsa-vire-de-braga-qui-est-carlos-vicens-pressenti-pour-succeder-a-paulo-fonseca-a-lyon/1740590#at_medium=RSS_feeds",
   "https://football-italia.net/official-udinese-sack-runjaic-with-zanetti/",
-  "https://www.theguardian.com/football/2026/nov/02/arsenal-liverpool-premier-league"
+  "https://www.theguardian.com/football/2026/nov/02/arsenal-liverpool-premier-league",
+  "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -695,10 +696,10 @@
   "european football mbappé penalty helps real madrid stroll to sixth straight win",
   "joueur amateur ancien adjoint de guardiola fan de bielsa viré de braga qui est carlos vicens pressenti pour succéder à paulo fonseca à lyon",
   "official udinese sack runjaic with zanetti lined up",
-  "arsenal have everything they need to repeat as premier league champions jonathan wilson"
+  "arsenal have everything they need to repeat as premier league champions jonathan wilson",
+  "tenerife striker de miguel dies after on field collision"
  ],
  "recent": [
-  "⚽ Куйт возглавил «Фенербахче» неделю до встречи с родным «Ливерпулем»",
   "🚂 24 матча Кубка Испании перенесли из-за крушения поездов под Мадридом",
   "⚽ Французские арбитры нашли идеальный рецепт: не видеть проблемы — и их не существует",
   "⚽ Аморим провалил дебют в Serie A: «Милан» разобрали хет-триком Мбангулы",
@@ -737,14 +738,10 @@
   "⚽️ Мбаппе отбивается от недели кошмаров победой над «Расингом»",
   "🇪🇸 Ассистент Пепа, фанат Бильсы и экс-Браги: Викенс возглавит «Лион»?",
   "🦓 Удинезе уволила Руняйца после 2:5: Занетти до июня на жестких условиях",
-  "🏆 «Арсенал» уже 7 раз переворачивал ничьи на перерыве"
+  "🏆 «Арсенал» уже 7 раз переворачивал ничьи на перерыве",
+  "💔 Трагедия на поле: ушёл из жизни Хесус де Мигель"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-28T10:02:44.970731+00:00",
-   "title": "⚽ Куйт возглавил «Фенербахче» неделю до встречи с родным «Ливерпулем»",
-   "body": "Дерк Куйт, забивший 71 гол за «Красных» за шесть сезонов, стал и.о. тренера «Фенербахче» после ухода Исмаила Картала, не выдержавшего поражения в дерби от «Галатасарая» (1:2). У нового-старого любимца стамбульской публики баптизм огнём: в субботу — матч с Гёзтепе, а 4 ноября на «Шюкрю Сарачоглу» ждёт «Ливерпуль» в Лиге чемпионов. «Жёлто-синие» всего пятые в Суперлиге и отстают от лидера на шесть о"
-  },
   {
    "time": "2026-10-28T14:02:02.756321+00:00",
    "title": "🚂 24 матча Кубка Испании перенесли из-за крушения поездов под Мадридом",
@@ -939,8 +936,13 @@
    "time": "2026-11-03T02:54:09.763283+00:00",
    "title": "🏆 «Арсенал» уже 7 раз переворачивал ничьи на перерыве",
    "body": "«Арсенал» впервые с 2012 года взял «Ливерпуль» на «Энфилде» и ушел в одиночку: три очка от «Сити» и пять от «Брайтона». Козырь Артеты — характер: уже семь раз ганнеры уходили на перерыв вничью, а забирали победу. «Сити» ждёт вычет очков, соперники не выглядят угрозой — титул, кажется, сам лезет в руки лондонцам? ⚽"
+  },
+  {
+   "time": "2026-11-03T10:45:11.548002+00:00",
+   "title": "💔 Трагедия на поле: ушёл из жизни Хесус де Мигель",
+   "body": "Нападающий «Тенерифе» скончался в больнице после жёсткого столкновения с вратарем «Андорры» Хесусом Овоно в матче Второй дивизии: форвард получил травмы головы и груди, в машине скорой случилась остановка сердца. Матч прервали на 97-й минуте при счёте 2:2, Овоно получил «красную», а игроки обеих команд не сдерживали слёз. 30-летний де Мигель, который за сезон в «Тенерифе» забил 11 мячей в 29 играх"
   }
  ],
- "last_post": "2026-11-03T02:54:09.763301+00:00",
+ "last_post": "2026-11-03T10:45:11.548022+00:00",
  "limit_day": "2026-10-25"
 }
