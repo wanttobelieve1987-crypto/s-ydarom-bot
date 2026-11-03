@@ -347,7 +347,8 @@
   "https://www.lequipe.fr/Football/Actualites/Joueur-amateur-ancien-adjoint-de-guardiola-fan-de-bielsa-vire-de-braga-qui-est-carlos-vicens-pressenti-pour-succeder-a-paulo-fonseca-a-lyon/1740590#at_medium=RSS_feeds",
   "https://football-italia.net/official-udinese-sack-runjaic-with-zanetti/",
   "https://www.theguardian.com/football/2026/nov/02/arsenal-liverpool-premier-league",
-  "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+  "https://sporza.be/nl/2026/11/03/-de-tijd-van-selfies-nemen-is-voorbij-ivan-leko-wil-belgische-opmars-in-champions-league-bevestigd-zien-tegen-psv~1793723304208/"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -697,10 +698,10 @@
   "joueur amateur ancien adjoint de guardiola fan de bielsa viré de braga qui est carlos vicens pressenti pour succéder à paulo fonseca à lyon",
   "official udinese sack runjaic with zanetti lined up",
   "arsenal have everything they need to repeat as premier league champions jonathan wilson",
-  "tenerife striker de miguel dies after on field collision"
+  "tenerife striker de miguel dies after on field collision",
+  "de tijd van selfies nemen is voorbij ivan leko wil belgische opmars in champions league bevestigd zien tegen psv"
  ],
  "recent": [
-  "🚂 24 матча Кубка Испании перенесли из-за крушения поездов под Мадридом",
   "⚽ Французские арбитры нашли идеальный рецепт: не видеть проблемы — и их не существует",
   "⚽ Аморим провалил дебют в Serie A: «Милан» разобрали хет-триком Мбангулы",
   "⚽ «Сити» вырвался на пенальти, а блог Sky Sports — нет",
@@ -739,14 +740,10 @@
   "🇪🇸 Ассистент Пепа, фанат Бильсы и экс-Браги: Викенс возглавит «Лион»?",
   "🦓 Удинезе уволила Руняйца после 2:5: Занетти до июня на жестких условиях",
   "🏆 «Арсенал» уже 7 раз переворачивал ничьи на перерыве",
-  "💔 Трагедия на поле: ушёл из жизни Хесус де Мигель"
+  "💔 Трагедия на поле: ушёл из жизни Хесус де Мигель",
+  "⚔️ «Селфи в ЛЧ — в прошлом»: Леко требует победы над ПСВ"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-28T14:02:02.756321+00:00",
-   "title": "🚂 24 матча Кубка Испании перенесли из-за крушения поездов под Мадридом",
-   "body": "Все 24 матча первого раунда Кубка Испании в среду отменили в знак траура после столкновения поездов в провинции Толедо, где погибло более 30 человек — в поездах находилось около 500 пассажиров. Премьер Педро Санчес заявил о шоке, а РФЭФ назвала решение актом солидарности: на поле должны были выйти «Леванте», «Алавес», «Валенсия», «Сельта» и «Бетис», пока «Реал», «Барса» и «Атлетико» ждут вступлени"
-  },
   {
    "time": "2026-10-28T17:22:24.024874+00:00",
    "title": "⚽ Французские арбитры нашли идеальный рецепт: не видеть проблемы — и их не существует",
@@ -941,8 +938,13 @@
    "time": "2026-11-03T10:45:11.548002+00:00",
    "title": "💔 Трагедия на поле: ушёл из жизни Хесус де Мигель",
    "body": "Нападающий «Тенерифе» скончался в больнице после жёсткого столкновения с вратарем «Андорры» Хесусом Овоно в матче Второй дивизии: форвард получил травмы головы и груди, в машине скорой случилась остановка сердца. Матч прервали на 97-й минуте при счёте 2:2, Овоно получил «красную», а игроки обеих команд не сдерживали слёз. 30-летний де Мигель, который за сезон в «Тенерифе» забил 11 мячей в 29 играх"
+  },
+  {
+   "time": "2026-11-03T18:25:42.995490+00:00",
+   "title": "⚔️ «Селфи в ЛЧ — в прошлом»: Леко требует победы над ПСВ",
+   "body": "«Брюгге» с 6 очками прилетает к ПСВ (4 очка), чтобы подтвердить: бельгийский футбол больше не ездит в Лигу чемпионов за селфи — Леко чётко поставил задачу забирать три очка. Кстати, Бельгия недавно обогнала Нидерланды в рейтинге УЕФА, став седьмой, что Ванакен назвал лучшим доказательством прогресса. Обе команды обожают атаку, но Леко охлаждает ардор: ПСВ под Бошом — «победоносная машина», так что"
   }
  ],
- "last_post": "2026-11-03T10:45:11.548022+00:00",
+ "last_post": "2026-11-03T18:25:42.995506+00:00",
  "limit_day": "2026-10-25"
 }
