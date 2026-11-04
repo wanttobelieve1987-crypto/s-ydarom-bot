@@ -349,7 +349,8 @@
   "https://www.theguardian.com/football/2026/nov/02/arsenal-liverpool-premier-league",
   "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
   "https://sporza.be/nl/2026/11/03/-de-tijd-van-selfies-nemen-is-voorbij-ivan-leko-wil-belgische-opmars-in-champions-league-bevestigd-zien-tegen-psv~1793723304208/",
-  "https://www.espn.com/soccer/story/_/id/50329034/uefa-champions-league-live-updates-atletico-madrid-bayern-munich-manchester-united-roma-barcelona-aston-villa"
+  "https://www.espn.com/soccer/story/_/id/50329034/uefa-champions-league-live-updates-atletico-madrid-bayern-munich-manchester-united-roma-barcelona-aston-villa",
+  "https://www.kicker.de/lamine-yamal-eingeladen-joao-cancelo-zaubert-barca-schlaegt-aston-villa-souveraen-1268281/video#omrss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -701,10 +702,10 @@
   "arsenal have everything they need to repeat as premier league champions jonathan wilson",
   "tenerife striker de miguel dies after on field collision",
   "de tijd van selfies nemen is voorbij ivan leko wil belgische opmars in champions league bevestigd zien tegen psv",
-  "champions league recap cunha leads man united in comeback win vs roma"
+  "champions league recap cunha leads man united in comeback win vs roma",
+  "lamine yamal eingeladen joao cancelo zaubert barca schlägt aston villa souverän"
  ],
  "recent": [
-  "⚽ Аморим провалил дебют в Serie A: «Милан» разобрали хет-триком Мбангулы",
   "⚽ «Сити» вырвался на пенальти, а блог Sky Sports — нет",
   "🏆 Фофана подарил «Копу» драму: «Ливерпуль» выжил в серии из 11 метров",
   "🎯 Руссо разнесла «Бенфику» хет-триком: «Арсенал» второе в Лиге чемпионов",
@@ -743,14 +744,10 @@
   "🏆 «Арсенал» уже 7 раз переворачивал ничьи на перерыве",
   "💔 Трагедия на поле: ушёл из жизни Хесус де Мигель",
   "⚔️ «Селфи в ЛЧ — в прошлом»: Леко требует победы над ПСВ",
-  "🔥 ЛЧ: «МЮ» перевернуло «Рому» с 0:2, ПСЖ разгромил «Вильярреал» 6:0"
+  "🔥 ЛЧ: «МЮ» перевернуло «Рому» с 0:2, ПСЖ разгромил «Вильярреал» 6:0",
+  "⚽ Ямаль и Канселу устроили шоу: «Барселона» разобрала «Астон Виллу» 3:0"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-28T20:16:45.989609+00:00",
-   "title": "⚽ Аморим провалил дебют в Serie A: «Милан» разобрали хет-триком Мбангулы",
-   "body": "«Милан» Аморима рассыпался от травм и ошибок, уступив «Болонье» 2:4 — Мбангула набрал хет-трик, а Бартесаги отметился автоголом. Россонери вели 2:1 благодаря дублю юного Сиссе, но за пару минут пропустили два гола, а к финишу получили четвёртый. Перед дерби с «Интером» в субботу у Аморима болит голова не только от поражения, но и от лазарета, где уже восемь человек."
-  },
   {
    "time": "2026-10-28T21:54:56.543947+00:00",
    "title": "⚽ «Сити» вырвался на пенальти, а блог Sky Sports — нет",
@@ -945,8 +942,13 @@
    "time": "2026-11-03T23:58:34.695162+00:00",
    "title": "🔥 ЛЧ: «МЮ» перевернуло «Рому» с 0:2, ПСЖ разгромил «Вильярреал» 6:0",
    "body": "«МЮ» вырвало победу у «Ромы» 3:2 после 0:2 — дубль Матеуса Куни в конце матча спасло команду. За вечер «Барселона» размотала «Астон Виллу» 3:0, «Бавария» обыграла «Атлетико» 2:0, а ПСЖ устроил разгром «Вильярреалю» — 6:0. «Интер» (3:0 «Фейеноорду»), «Спортинг» (1:0 «Шахтёру»), «Галатасарай» (2:0 «Штутгарту») и ЛАСК (4:0 «Словану») взяли сухие победы, а «Бёдо/Глимт» с «Лиллем» умудрились сыграть 0:"
+  },
+  {
+   "time": "2026-11-04T07:28:46.225918+00:00",
+   "title": "⚽ Ямаль и Канселу устроили шоу: «Барселона» разобрала «Астон Виллу» 3:0",
+   "body": "Каталонцы не оставили шансов Виллам — сухой 3:0, яркие моменты Ямаля и волшебство Канселу на фланге сделали матч односторонним. Видео с голами уже ждёт в ленте."
   }
  ],
- "last_post": "2026-11-03T23:58:34.695182+00:00",
+ "last_post": "2026-11-04T07:28:46.225933+00:00",
  "limit_day": "2026-10-25"
 }
