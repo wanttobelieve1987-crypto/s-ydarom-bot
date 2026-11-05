@@ -352,7 +352,8 @@
   "https://www.espn.com/soccer/story/_/id/50329034/uefa-champions-league-live-updates-atletico-madrid-bayern-munich-manchester-united-roma-barcelona-aston-villa",
   "https://www.kicker.de/lamine-yamal-eingeladen-joao-cancelo-zaubert-barca-schlaegt-aston-villa-souveraen-1268281/video#omrss",
   "https://www.skysports.com/tennis/news/12040/13607900/real-madrid-rafael-nadal-appointed-to-laliga-clubs-board-of-directors",
-  "https://www.theguardian.com/football/2026/nov/04/champions-league-roundup-aek-athens-real-madrid-borussia-dortmund-napoli"
+  "https://www.theguardian.com/football/2026/nov/04/champions-league-roundup-aek-athens-real-madrid-borussia-dortmund-napoli",
+  "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -707,10 +708,10 @@
   "champions league recap cunha leads man united in comeback win vs roma",
   "lamine yamal eingeladen joao cancelo zaubert barca schlägt aston villa souverän",
   "nadal appointed to real madrid board",
-  "valverde s late winner breaks aek athens hearts as real madrid twice come from behind"
+  "valverde s late winner breaks aek athens hearts as real madrid twice come from behind",
+  "haaland scores winner as man city beat leipzig"
  ],
  "recent": [
-  "🎯 Руссо разнесла «Бенфику» хет-триком: «Арсенал» второе в Лиге чемпионов",
   "⚽️ «Селтик» упустил шестиочковый задел, но сохранил отрыв",
   "⚽ «Бавария» 6:1 без Кейна, Компани дома, «Интер» лидер, «Лех» провалился",
   "⚖️ Тони судится на «Евро-2028»: судья извинился за 20-месячную очередь",
@@ -749,14 +750,10 @@
   "🔥 ЛЧ: «МЮ» перевернуло «Рому» с 0:2, ПСЖ разгромил «Вильярреал» 6:0",
   "⚽ Ямаль и Канселу устроили шоу: «Барселона» разобрала «Астон Виллу» 3:0",
   "🎾 Надаль вошёл в совет директоров «Реала»: 22 «Больших шлема» и новая роль у Переса",
-  "⚽ «Реал» дважды отыгравался с АЭК, а Вальверде решил исход в 92-й: 3:2"
+  "⚽ «Реал» дважды отыгравался с АЭК, а Вальверде решил исход в 92-й: 3:2",
+  "⚽ Хааланд спас «Сити» на американских горках в Лейпциге"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-29T02:50:57.593216+00:00",
-   "title": "🎯 Руссо разнесла «Бенфику» хет-триком: «Арсенал» второе в Лиге чемпионов",
-   "body": "Алессия Руссо вписалась в историю, став лучшей английской бомбардиром Женской Лиги чемпионов: её хет-трик принёс «Арсеналу» сухую победу 3:0 над «Бенфикой» и второе место в таблице. Форвард набрала десять голов за последние семь матчей за клуб и сборную — форма пугает соперников больше, чем защитники. Рене Слегерс назвала капитана матча ролевой моделью и неформальным лидером, а «пушкари» наконец-т"
-  },
   {
    "time": "2026-10-29T07:03:59.267752+00:00",
    "title": "⚽️ «Селтик» упустил шестиочковый задел, но сохранил отрыв",
@@ -951,8 +948,13 @@
    "time": "2026-11-04T22:52:06.463409+00:00",
    "title": "⚽ «Реал» дважды отыгравался с АЭК, а Вальверде решил исход в 92-й: 3:2",
    "body": "«Реал» в Афинах дважды отыграл отставание от АЭК, а Вальверде на 92-й минуте забил с дальней дистанции победный — 3:2. Мбаппе во второй раз сравнял счёт и забил четвёртый гол за четыре матча ЛЧ, а мадридцы продолжили серию до семи побед подряд. Команда Моуриньо спасла идеальный старт в группе, пусть и ценой жутких нервов."
+  },
+  {
+   "time": "2026-11-05T00:21:56.681634+00:00",
+   "title": "⚽ Хааланд спас «Сити» на американских горках в Лейпциге",
+   "body": "«Манчестер Сити» дважды упускало преимущество, но вырвало победу над «Лейпцигом» 3:2 на четвёртом туре ЛЧ — решающий гол забил Эрлинг Хааланд. Гвардиола получил порцию адреналина вместо спокойного вечера, а саксоны умудрились проиграть настолько зрелищно, что даже фанаты «Сити» пережили три сердечных приступа за матч. 🎢"
   }
  ],
- "last_post": "2026-11-04T22:52:06.463425+00:00",
+ "last_post": "2026-11-05T00:21:56.681646+00:00",
  "limit_day": "2026-10-25"
 }
