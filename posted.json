@@ -364,7 +364,8 @@
   "https://www.skysports.com/football/news/12040/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up",
   "https://www.lequipe.fr/Football/Actualites/La-belgique-avec-mika-godts-kevin-de-bruyne-et-romelu-lukaku-pour-la-ligue-des-nations-malick-fofana-et-matias-fernandez-pardo-absents/1741632#at_medium=RSS_feeds",
   "https://www.lequipe.fr/Football/Actualites/Bukayo-saka-sera-absent-plusieurs-semaines-apres-sa-blessure-contre-le-bayern/1741651#at_medium=RSS_feeds",
-  "https://www.lequipe.fr/Football/Article/Physique-hors-norme-vitesse-d-execution-feintes-comment-la-licorne-yan-diomande-fait-la-difference/1741741#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Article/Physique-hors-norme-vitesse-d-execution-feintes-comment-la-licorne-yan-diomande-fait-la-difference/1741741#at_medium=RSS_feeds",
+  "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -731,10 +732,10 @@
   "palmer left out of england squad as jobe and king called up",
   "la belgique avec mika godts kevin de bruyne et romelu lukaku pour la ligue des nations malick fofana et matias fernandez pardo absents",
   "bukayo saka sera absent plusieurs semaines après sa blessure contre le bayern",
-  "diomandé la licorne du real madrid"
+  "diomandé la licorne du real madrid",
+  "barry scores twice as everton fight back to beat coventry"
  ],
  "recent": [
-  "⚽ Аякс не побеждал АЗ 11 матчей подряд — Санчес обещает ломать серию доминированием",
   "😱 Лакруа может пропасть до января: «Челси» теряет главного защитника за £52 млн",
   "⚽ Хакими разнёс «Гавр» и заявил: «Не матч жизни»",
   "⚖️ «Астон Вилла» подаёт в суд на Каррагера за оскорбления фанатов и фразу «никогда не станете Ман Юнайтед»",
@@ -773,14 +774,10 @@
   "🤔 Тухель выкинул Палмера и Фодена, зато позвал брата Беллингема",
   "🇧🇪 Ван Боммель вызвал Годтса, а Фофану и Фернандеса-Пардо оставил дома",
   "🤕 Сака выбыл на недели: «Арсенал» без крыла до сборной паузы",
-  "⚠️ Ошибка загрузки: статья о Диоманде недоступна"
+  "⚠️ Ошибка загрузки: статья о Диоманде недоступна",
+  "⚽ Барри дублем вытащил «Эвертон» в топ-5 Премьер-лиги"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-30T17:10:42.412748+00:00",
-   "title": "⚽ Аякс не побеждал АЗ 11 матчей подряд — Санчес обещает ломать серию доминированием",
-   "body": "Аякс принимает «неугодного соперника» АЗ, против которого амстердамцы не выигрывают уже 11 матчей подряд — последняя победа была в 2022 году в кубке. Мичель Санчес, отметивший 51-й день рождения, не паршится: «Плохие серии существуют, чтобы их ломать», и клянётся играть на опережение, а не прятаться в низком блоке. У АЗ официально отрицают «осенний спад», хотя статистика за 5 сезонов зловеща: в ок"
-  },
   {
    "time": "2026-10-30T19:56:47.098178+00:00",
    "title": "😱 Лакруа может пропасть до января: «Челси» теряет главного защитника за £52 млн",
@@ -975,8 +972,13 @@
    "time": "2026-11-06T22:04:28.325005+00:00",
    "title": "⚠️ Ошибка загрузки: статья о Диоманде недоступна",
    "body": "Статья L'Équipe о Диоманде не загрузилась — получены только заголовок и ссылки на ошибку. Пришлите полный текст материала, тогда подготовим качественный пост для канала. Без исходника нельзя проверить факты, имена и детали для дерзкого спортивного контента."
+  },
+  {
+   "time": "2026-11-06T23:49:02.503097+00:00",
+   "title": "⚽ Барри дублем вытащил «Эвертон» в топ-5 Премьер-лиги",
+   "body": "Тьерно Барри забил дубль, обеспечив «Эвертону» переворот над «Ковентри» — 3:1, что подвинуло «тоффи» на пятую строчку таблицы Премьер-лиги. Нападающий в отличной форме, а синие показали характер, вырвав победу после проигрыша. «Ковентри» сопротивлялся достойно, но два точных удара Барри решили всё — три очка и неожиданный полёт вверх."
   }
  ],
- "last_post": "2026-11-06T22:04:28.325018+00:00",
+ "last_post": "2026-11-06T23:49:02.503112+00:00",
  "limit_day": "2026-10-25"
 }
