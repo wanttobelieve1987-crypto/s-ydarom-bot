@@ -362,7 +362,8 @@
   "https://football-italia.net/uel-milan-0-2-ferencvaros-dismal-rossoneri/",
   "https://www.skysports.com/football/celtic-vs-besiktas/report/577800",
   "https://www.skysports.com/football/news/12040/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up",
-  "https://www.lequipe.fr/Football/Actualites/La-belgique-avec-mika-godts-kevin-de-bruyne-et-romelu-lukaku-pour-la-ligue-des-nations-malick-fofana-et-matias-fernandez-pardo-absents/1741632#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/La-belgique-avec-mika-godts-kevin-de-bruyne-et-romelu-lukaku-pour-la-ligue-des-nations-malick-fofana-et-matias-fernandez-pardo-absents/1741632#at_medium=RSS_feeds",
+  "https://www.lequipe.fr/Football/Actualites/Bukayo-saka-sera-absent-plusieurs-semaines-apres-sa-blessure-contre-le-bayern/1741651#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -727,10 +728,10 @@
   "uel milan 0 2 ferencvaros dismal rossoneri risk quick europa exit",
   "celtic claim dramatic europa league win against besiktas",
   "palmer left out of england squad as jobe and king called up",
-  "la belgique avec mika godts kevin de bruyne et romelu lukaku pour la ligue des nations malick fofana et matias fernandez pardo absents"
+  "la belgique avec mika godts kevin de bruyne et romelu lukaku pour la ligue des nations malick fofana et matias fernandez pardo absents",
+  "bukayo saka sera absent plusieurs semaines après sa blessure contre le bayern"
  ],
  "recent": [
-  "🏟 Конец эпохи Сан-Сиро: «Интер» и «Милан» строят новый стадион",
   "⚽ Мареска vs «Брайтон», U-15 без вратаря, кража в Мюнхене",
   "⚽ Аякс не побеждал АЗ 11 матчей подряд — Санчес обещает ломать серию доминированием",
   "😱 Лакруа может пропасть до января: «Челси» теряет главного защитника за £52 млн",
@@ -769,14 +770,10 @@
   "🤦 «Милан» умудрился проиграть венграм дома с третьим вратарем",
   "⚽ О'Нилл спас «Сельтик» тройной заменой: 3:2 над «Бешикташ» и конец черной полосы",
   "🤔 Тухель выкинул Палмера и Фодена, зато позвал брата Беллингема",
-  "🇧🇪 Ван Боммель вызвал Годтса, а Фофану и Фернандеса-Пардо оставил дома"
+  "🇧🇪 Ван Боммель вызвал Годтса, а Фофану и Фернандеса-Пардо оставил дома",
+  "🤕 Сака выбыл на недели: «Арсенал» без крыла до сборной паузы"
  ],
  "day_posts": [
-  {
-   "time": "2026-10-30T10:26:12.433098+00:00",
-   "title": "🏟 Конец эпохи Сан-Сиро: «Интер» и «Милан» строят новый стадион",
-   "body": "«Интер» и «Милан» представили проект общего стадиона Generali Stadium стоимостью 1,2 миллиарда евро. Новую арену планируют открыть к сезону 2031/32, чтобы заменить легендарный Сан-Сиро, открытый еще в 1926 году. Знаменитую цитадель итальянского футбола планируют частично снести ради создания современного многофункционального комплекса. Впервые в истории два главных соперника Италии разделят не тол"
-  },
   {
    "time": "2026-10-30T14:07:14.026568+00:00",
    "title": "⚽ Мареска vs «Брайтон», U-15 без вратаря, кража в Мюнхене",
@@ -971,8 +968,13 @@
    "time": "2026-11-06T16:45:25.152758+00:00",
    "title": "🇧🇪 Ван Боммель вызвал Годтса, а Фофану и Фернандеса-Пардо оставил дома",
    "body": "Марк ван Боммель опубликовал второй список «красных дьяволов» на Лигу наций: Де Брюйне и Лукаку на месте, к ним присоединились парижанин Годтс и Доку. Фофану и Фернандеса-Пардо не стало в заявке — тренер решил, что на этом этапе опыт важнее юных талантов. Ван Боммель балансирует между старыми конями и молодежью, но весовые категории пока за ветеранами."
+  },
+  {
+   "time": "2026-11-06T18:23:31.618755+00:00",
+   "title": "🤕 Сака выбыл на недели: «Арсенал» без крыла до сборной паузы",
+   "body": "Букайо Сака получил травму квадрицепса в матче с «Баварией» и пропустит несколько недель — на индивидуальные тренировки он вернётся лишь после сборной паузы. «Арсенал» теряет главного флангового атакующего в решающем этапе сезона, так что Артете придётся изобретать схемы без своего главной «двигателя»."
   }
  ],
- "last_post": "2026-11-06T16:45:25.152773+00:00",
+ "last_post": "2026-11-06T18:23:31.618773+00:00",
  "limit_day": "2026-10-25"
 }
