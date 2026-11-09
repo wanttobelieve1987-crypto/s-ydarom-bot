@@ -375,7 +375,8 @@
   "https://www.dailyrecord.co.uk/sport/football/football-match-reports/rangers-cure-away-day-blues-37854368",
   "https://football-italia.net/serie-a-roma-3-0-sassuolo-aquilani-swept-aside/",
   "https://nos.nl/l/2638581",
-  "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone"
+  "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone",
+  "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -753,10 +754,10 @@
   "rangers cure away day blues with st mirren victory as naderi and neil goals close the gap on celtic big match verdict",
   "serie a roma 3 0 sassuolo aquilani comfortably swept aside",
   "ajax grijpt op de valreep naast koppositie door dikverdiende gelijkmaker weghorst",
-  "scottish roundup flying falkirk hit five to shatter hearts long unbeaten home run"
+  "scottish roundup flying falkirk hit five to shatter hearts long unbeaten home run",
+  "crystal palace poised to sack pierre sage and target frank after liverpool defeat"
  ],
  "recent": [
-  "⚽ Кейн промахнулся с пенальти, Сильва вырвал ничью у «Баварии» — 2:2 в «Классикере»",
   "⚽ «Рейнджерс» вырвали финал в 83-й: «Абердин» пал от неудач",
   "⚽ 0:9 и 5 ассистов: Твенте устроил Эксельсиору худший кошмар в истории Ереdivisie",
   "🔴 Арсенал разбил проклятие Анфилда: первая лиговая победа с 2012 года",
@@ -795,14 +796,10 @@
   "⚽ «Рейнджерс» вылечили туристическую хворьбу: 2:0 «Сент-Миррену» и очко до «Селтика»",
   "🐺 Рома разгромила Сассоло без Дыбалы и с промахами Суле",
   "⚽ «Аякс» 546 дней ждал трона — автогол и Вегораст всё сгубили",
-  "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Фолкёрк разгромил Хартс 5:2 и прервал 18-месячную серию непобед хозяев на Тинкасле"
+  "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Фолкёрк разгромил Хартс 5:2 и прервал 18-месячную серию непобед хозяев на Тинкасле",
+  "⚽ Сейдж на отсечке: «Кристал» ищет спасения у бывшего тренера «Тоттенхэма»"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-01T00:04:19.549951+00:00",
-   "title": "⚽ Кейн промахнулся с пенальти, Сильва вырвал ничью у «Баварии» — 2:2 в «Классикере»",
-   "body": "Победитель «Золотого мяча» Гарри Кейн неожиданно отправил 11-метровку мимо, а фабио Сильва в добавленное время сравнял счёт — 2:2 в главном дерби Германии. Мюнхенцы дважды вели, но не удержали преимущество над упорным «Дортмундом». Ещё одна драма в коллекции «Классикера», где нервы стоят дороже таланта."
-  },
   {
    "time": "2026-11-01T07:28:54.268617+00:00",
    "title": "⚽ «Рейнджерс» вырвали финал в 83-й: «Абердин» пал от неудач",
@@ -997,8 +994,13 @@
    "time": "2026-11-08T21:08:00.730211+00:00",
    "title": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Фолкёрк разгромил Хартс 5:2 и прервал 18-месячную серию непобед хозяев на Тинкасле",
    "body": "Ваутер Вранккен назвал первый тайм «безумием и позором», а его команда, лишённая 11 футболистов, пропустила пятерку к 50-й минуте — Фолкёрк одержал пятую победу подряд в премьер-лиге впервые с 1995 года. Сельтик с трудом обыграл Килмарнок 1:0 головой Скайлса, а Каспер Хёг удлинил безголие до 16 матчей после хет-трика на втором матче карьеры. Рейнджерс без проблем победил Сент-Миррен 2:0 (Надери, Н"
+  },
+  {
+   "time": "2026-11-09T00:51:15.245595+00:00",
+   "title": "⚽ Сейдж на отсечке: «Кристал» ищет спасения у бывшего тренера «Тоттенхэма»",
+   "body": "«Кристал Пэлас» готов уволить Пьера Сейджа после поражения от «Ливерпуля», опустившего клуб на дно Премьер-лиги впервые с декабря 2017 года: за 16 матчей француз взял лишь две победы и пропустил 24 гола — хуже никого в лиге. Главным кандидатом называют Томаса Фрэнка, которого, по данным The Guardian, «Тоттенхэм» уволил в феврале, а летом он уже переговаривался с «Кристалом». Пока Сейдж открыто тре"
   }
  ],
- "last_post": "2026-11-08T21:08:00.730226+00:00",
+ "last_post": "2026-11-09T00:51:15.245611+00:00",
  "limit_day": "2026-10-25"
 }
