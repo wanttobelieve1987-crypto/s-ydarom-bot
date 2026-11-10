@@ -377,7 +377,8 @@
   "https://nos.nl/l/2638581",
   "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone",
   "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park",
-  "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report"
+  "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
+  "https://www.lequipe.fr/Football/Actualites/Virgil-van-dijk-et-brian-brobbey-forfaits-avec-les-pays-bas-pour-les-deux-prochaines-rencontres-de-ligue-des-nations/1742580#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -757,10 +758,10 @@
   "ajax grijpt op de valreep naast koppositie door dikverdiende gelijkmaker weghorst",
   "scottish roundup flying falkirk hit five to shatter hearts long unbeaten home run",
   "crystal palace poised to sack pierre sage and target frank after liverpool defeat",
-  "barcelona move clear at the top after fermín lópez s double stuns atlético madrid"
+  "barcelona move clear at the top after fermín lópez s double stuns atlético madrid",
+  "virgil van dijk et brian brobbey forfait avec les pays bas pour les deux prochaines rencontres de ligue des nations"
  ],
  "recent": [
-  "⚽ 0:9 и 5 ассистов: Твенте устроил Эксельсиору худший кошмар в истории Ереdivisie",
   "🔴 Арсенал разбил проклятие Анфилда: первая лиговая победа с 2012 года",
   "⚽ Два удара в девятку и 10 неаполитанцев: «Ювентус» выбрался из ямы 2:0",
   "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Хибс впервые в истории победили Хартс на Хэмпдене — 2:1 и финал Кубка лиги!",
@@ -799,14 +800,10 @@
   "⚽ «Аякс» 546 дней ждал трона — автогол и Вегораст всё сгубили",
   "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Фолкёрк разгромил Хартс 5:2 и прервал 18-месячную серию непобед хозяев на Тинкасле",
   "⚽ Сейдж на отсечке: «Кристал» ищет спасения у бывшего тренера «Тоттенхэма»",
-  "😱 Лопес дублем ограбил «Атлетико», и «Барса» улетела в лидеры"
+  "😱 Лопес дублем ограбил «Атлетико», и «Барса» улетела в лидеры",
+  "🤕 Ван Дейк и Бробби выбыли из Нидерландов перед играми с Грецией и Германией"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-01T16:02:23.808276+00:00",
-   "title": "⚽ 0:9 и 5 ассистов: Твенте устроил Эксельсиору худший кошмар в истории Ереdivisie",
-   "body": "Твенте разгромил Эксельсиор 0:9, поставив клубный рекорд крупнейшей победы в Ереdivisie, а роттердамцам подарил антирекорд — самое сокрушительное поражение за всю историю чемпионата. Хозяева провели 85 минут в меньшинстве после красной карты Несто Гроена за карате-удар в Робина Проппера, и Вехорст безжалостно наказал: хет-трик за 33 минуты, ещё один гол и реализованный пенальти — покер на счету фо"
-  },
   {
    "time": "2026-11-01T21:13:21.683022+00:00",
    "title": "🔴 Арсенал разбил проклятие Анфилда: первая лиговая победа с 2012 года",
@@ -1001,8 +998,13 @@
    "time": "2026-11-09T07:54:42.430251+00:00",
    "title": "😱 Лопес дублем ограбил «Атлетико», и «Барса» улетела в лидеры",
    "body": "На «Метрополитано» «Барселона» перевернула матч 2:1 дублем Фермина Лопеса — по голу в каждом тайме — и ушла в одиночное лидерство Ла Лиги, прервав серию «матрасников» из семи побед подряд. «Атлетико» открыл счёт через Джулиано Симеоне и в первом тайме выглядел лучше, но Ханси Флик нашёл ключ к хаосу соперника: на поле было десять чемпионов мира, а в финале Ян Облак лишь констатировал: «Надо забива"
+  },
+  {
+   "time": "2026-11-10T03:30:42.944270+00:00",
+   "title": "🤕 Ван Дейк и Бробби выбыли из Нидерландов перед играми с Грецией и Германией",
+   "body": "Капитан «Ливерпуля» Вирджиль ван Дейк и форвард «Аякса» Брайан Бробби пропустят ближайшие два матча «оранжевых» в Лиге наций — против Греции в пятницу и Германии 16 ноября. Тренерский штаб Рональда Комана потерял сразу двух ключевых игроков прямо перед топовым окном. Жаль, что сборная осталась без лидера обороны и главной атакующей надежды именно в решающих поединках."
   }
  ],
- "last_post": "2026-11-09T07:54:42.430266+00:00",
+ "last_post": "2026-11-10T03:30:42.944285+00:00",
  "limit_day": "2026-10-25"
 }
