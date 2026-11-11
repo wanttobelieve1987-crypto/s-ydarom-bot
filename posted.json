@@ -382,7 +382,8 @@
   "https://nos.nl/l/2638838",
   "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
   "https://www.kicker.de/transferticker-953155/artikel#omrss",
-  "https://www.lequipe.fr/Football/Article/Nouvelle-revolution-a-lens-deux-mois-apres-le-renvoi-precoce-de-toppmoller-cahuzac-est-lui-aussi-debarque-une-premiere-dans-l-histoire-du-club/1742807#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Article/Nouvelle-revolution-a-lens-deux-mois-apres-le-renvoi-precoce-de-toppmoller-cahuzac-est-lui-aussi-debarque-une-premiere-dans-l-histoire-du-club/1742807#at_medium=RSS_feeds",
+  "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -767,10 +768,10 @@
   "kompany weer aan het werk bij bayern münchen na onwelwording",
   "mctominay reveals heart treatment at world cup",
   "pochettino offenbar an carrick nachfolge bei united interessiert",
-  "seulement six matches pour toppmöller et neuf pour cahuzac lens fait encore sa révolution en attendant pierre sage"
+  "seulement six matches pour toppmöller et neuf pour cahuzac lens fait encore sa révolution en attendant pierre sage",
+  "man city thrash inter to claim first cl win of season"
  ],
  "recent": [
-  "⚽️ Мбаппе отбивается от недели кошмаров победой над «Расингом»",
   "🇪🇸 Ассистент Пепа, фанат Бильсы и экс-Браги: Викенс возглавит «Лион»?",
   "🦓 Удинезе уволила Руняйца после 2:5: Занетти до июня на жестких условиях",
   "🏆 «Арсенал» уже 7 раз переворачивал ничьи на перерыве",
@@ -809,14 +810,10 @@
   "🏥 Компани вернулся на базу: «Бавария» вылечила тренера и выжила без него",
   "⚡ Мактоминей играл на ЧМ после шока для сердца за два дня до старта",
   "⚽ Kicker: Покеттино претендует на пост преемника Кэррика в «Юнайтед»",
-  "🔄 «Ланс» меняет тренеров как носки: два ухода за полгода"
+  "🔄 «Ланс» меняет тренеров как носки: два ухода за полгода",
+  "🔄 Женское «Сити» переиграло «Интер» с перевесом и завело первую победу в ЛЧ"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-02T10:56:25.807962+00:00",
-   "title": "⚽️ Мбаппе отбивается от недели кошмаров победой над «Расингом»",
-   "body": "«Реал» сухо разобрался с «Расингом» 3:0 — Мбаппе реализовал пенальти, Беллингем и Диоманде дописали счёт, удерживая отставание от «Барселоны» в три очка. Килиану удалось выключить шум после проигрыша Канэ в гонке за «Золотой мяч» и китайского скандала с Мао Цзэдуном, из-за чего матч даже не показали по ЦТВ. При этом в тексте внезапно всплывает Жозе Моуринью с серией из шести побед, хотя «Реал» тре"
-  },
   {
    "time": "2026-11-02T19:46:32.763421+00:00",
    "title": "🇪🇸 Ассистент Пепа, фанат Бильсы и экс-Браги: Викенс возглавит «Лион»?",
@@ -1011,8 +1008,13 @@
    "time": "2026-11-11T02:46:57.374506+00:00",
    "title": "🔄 «Ланс» меняет тренеров как носки: два ухода за полгода",
    "body": "«Ланс» уволил Яника Каюзака всего через 9 матчей. Дино Топпмёллера держали ещё меньше — аж 6 игр. Теперь клуб ждёт Пьера Сажа, надеясь, что третий раз получится. Французский клуб устраивает карусель кадров, которой позавидует любой парк аттракционов. 🎢"
+  },
+  {
+   "time": "2026-11-11T08:20:34.315760+00:00",
+   "title": "🔄 Женское «Сити» переиграло «Интер» с перевесом и завело первую победу в ЛЧ",
+   "body": "Женская команда «Манчестер Сити» отбила у «Интера» преимущество и разгромила соперника на его поле — 4:1, зафиксировав первый триумф в Лиге чемпионов сезона. «Ситизенки» провели переворот со стилем и ушли с тремя очками в активе. 😎"
   }
  ],
- "last_post": "2026-11-11T02:46:57.374520+00:00",
+ "last_post": "2026-11-11T08:20:34.315776+00:00",
  "limit_day": "2026-10-25"
 }
