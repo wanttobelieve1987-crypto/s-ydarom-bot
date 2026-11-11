@@ -381,7 +381,8 @@
   "https://www.lequipe.fr/Football/Actualites/Virgil-van-dijk-et-brian-brobbey-forfaits-avec-les-pays-bas-pour-les-deux-prochaines-rencontres-de-ligue-des-nations/1742580#at_medium=RSS_feeds",
   "https://nos.nl/l/2638838",
   "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
-  "https://www.kicker.de/transferticker-953155/artikel#omrss"
+  "https://www.kicker.de/transferticker-953155/artikel#omrss",
+  "https://www.lequipe.fr/Football/Article/Nouvelle-revolution-a-lens-deux-mois-apres-le-renvoi-precoce-de-toppmoller-cahuzac-est-lui-aussi-debarque-une-premiere-dans-l-histoire-du-club/1742807#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -765,10 +766,10 @@
   "virgil van dijk et brian brobbey forfait avec les pays bas pour les deux prochaines rencontres de ligue des nations",
   "kompany weer aan het werk bij bayern münchen na onwelwording",
   "mctominay reveals heart treatment at world cup",
-  "pochettino offenbar an carrick nachfolge bei united interessiert"
+  "pochettino offenbar an carrick nachfolge bei united interessiert",
+  "seulement six matches pour toppmöller et neuf pour cahuzac lens fait encore sa révolution en attendant pierre sage"
  ],
  "recent": [
-  "🦁 «Спортинг» расстаётся с Боржешем: Фонсека — главный кандидат на пост «счастливчика»",
   "⚽️ Мбаппе отбивается от недели кошмаров победой над «Расингом»",
   "🇪🇸 Ассистент Пепа, фанат Бильсы и экс-Браги: Викенс возглавит «Лион»?",
   "🦓 Удинезе уволила Руняйца после 2:5: Занетти до июня на жестких условиях",
@@ -807,14 +808,10 @@
   "🤕 Ван Дейк и Бробби выбыли из Нидерландов перед играми с Грецией и Германией",
   "🏥 Компани вернулся на базу: «Бавария» вылечила тренера и выжила без него",
   "⚡ Мактоминей играл на ЧМ после шока для сердца за два дня до старта",
-  "⚽ Kicker: Покеттино претендует на пост преемника Кэррика в «Юнайтед»"
+  "⚽ Kicker: Покеттино претендует на пост преемника Кэррика в «Юнайтед»",
+  "🔄 «Ланс» меняет тренеров как носки: два ухода за полгода"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-02T08:16:00.800971+00:00",
-   "title": "🦁 «Спортинг» расстаётся с Боржешем: Фонсека — главный кандидат на пост «счастливчика»",
-   "body": "Лисабонский «Спортинг» официально подтвердил уход Руя Боржеша и пообещал скоро назвать преемника — основным фаворитом считается Паулу Фонсека. Португалец отказался комментировать слухи о возвращении на родину, а клуб меняет наставников так часто, что в стадионе уже пора ставить вращающиеся двери. Остаётся ждать анонса того самого «счастливчика», которому достанется горячее место."
-  },
   {
    "time": "2026-11-02T10:56:25.807962+00:00",
    "title": "⚽️ Мбаппе отбивается от недели кошмаров победой над «Расингом»",
@@ -1009,8 +1006,13 @@
    "time": "2026-11-11T01:29:41.185823+00:00",
    "title": "⚽ Kicker: Покеттино претендует на пост преемника Кэррика в «Юнайтед»",
    "body": "По данным Kicker, Покеттино заинтересован ролью преемника Кэррика в «Манчестер Юнайтед». Аргентинец рассматривает главную скамью «красных дьяволов», хотя конкретных переговоров пока нет. Слухи по Манчестеру всё равно разлетаются быстрее контратак «Сити»."
+  },
+  {
+   "time": "2026-11-11T02:46:57.374506+00:00",
+   "title": "🔄 «Ланс» меняет тренеров как носки: два ухода за полгода",
+   "body": "«Ланс» уволил Яника Каюзака всего через 9 матчей. Дино Топпмёллера держали ещё меньше — аж 6 игр. Теперь клуб ждёт Пьера Сажа, надеясь, что третий раз получится. Французский клуб устраивает карусель кадров, которой позавидует любой парк аттракционов. 🎢"
   }
  ],
- "last_post": "2026-11-11T01:29:41.185843+00:00",
+ "last_post": "2026-11-11T02:46:57.374520+00:00",
  "limit_day": "2026-10-25"
 }
