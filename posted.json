@@ -383,7 +383,8 @@
   "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
   "https://www.kicker.de/transferticker-953155/artikel#omrss",
   "https://www.lequipe.fr/Football/Article/Nouvelle-revolution-a-lens-deux-mois-apres-le-renvoi-precoce-de-toppmoller-cahuzac-est-lui-aussi-debarque-une-premiere-dans-l-histoire-du-club/1742807#at_medium=RSS_feeds",
-  "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
+  "https://www.lequipe.fr/Football/Actualites/Bleus-kylian-mbappe-absent-de-la-seance-et-en-soins-a-la-veille-du-match-de-ligue-des-nations-contre-l-italie/1742943#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -769,10 +770,10 @@
   "mctominay reveals heart treatment at world cup",
   "pochettino offenbar an carrick nachfolge bei united interessiert",
   "seulement six matches pour toppmöller et neuf pour cahuzac lens fait encore sa révolution en attendant pierre sage",
-  "man city thrash inter to claim first cl win of season"
+  "man city thrash inter to claim first cl win of season",
+  "bleus kylian mbappé absent de la séance et en soins à la veille du match de ligue des nations contre l italie"
  ],
  "recent": [
-  "🇪🇸 Ассистент Пепа, фанат Бильсы и экс-Браги: Викенс возглавит «Лион»?",
   "🦓 Удинезе уволила Руняйца после 2:5: Занетти до июня на жестких условиях",
   "🏆 «Арсенал» уже 7 раз переворачивал ничьи на перерыве",
   "💔 Трагедия на поле: ушёл из жизни Хесус де Мигель",
@@ -811,14 +812,10 @@
   "⚡ Мактоминей играл на ЧМ после шока для сердца за два дня до старта",
   "⚽ Kicker: Покеттино претендует на пост преемника Кэррика в «Юнайтед»",
   "🔄 «Ланс» меняет тренеров как носки: два ухода за полгода",
-  "🔄 Женское «Сити» переиграло «Интер» с перевесом и завело первую победу в ЛЧ"
+  "🔄 Женское «Сити» переиграло «Интер» с перевесом и завело первую победу в ЛЧ",
+  "⚽ Мбаппе пропустил тренировку перед Италией: лечится вместо бега"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-02T19:46:32.763421+00:00",
-   "title": "🇪🇸 Ассистент Пепа, фанат Бильсы и экс-Браги: Викенс возглавит «Лион»?",
-   "body": "«Лион» готов доверить команду 43-летнему Карлосу Викенсу: бывший аматор, ассистент Гвардиолы и фанат Бильсы получит второй шанс в профи после года в «Браге» и увольнения. Места освобождает Паулу Фонсека, уходящий в «Спортинг». Посмотрим, сработает ли коктейль из «гвардиолизма» и «Эль Локо» на французской кухне. ⚽"
-  },
   {
    "time": "2026-11-02T20:46:31.575175+00:00",
    "title": "🦓 Удинезе уволила Руняйца после 2:5: Занетти до июня на жестких условиях",
@@ -1013,8 +1010,13 @@
    "time": "2026-11-11T08:20:34.315760+00:00",
    "title": "🔄 Женское «Сити» переиграло «Интер» с перевесом и завело первую победу в ЛЧ",
    "body": "Женская команда «Манчестер Сити» отбила у «Интера» преимущество и разгромила соперника на его поле — 4:1, зафиксировав первый триумф в Лиге чемпионов сезона. «Ситизенки» провели переворот со стилем и ушли с тремя очками в активе. 😎"
+  },
+  {
+   "time": "2026-11-11T10:54:04.071406+00:00",
+   "title": "⚽ Мбаппе пропустил тренировку перед Италией: лечится вместо бега",
+   "body": "Килиан Мбаппе пропустил утреннюю тренировку сборной Франции накануне матча Лиги наций с Италией — форвард остался в лазарете. Уже сегодня днём команда улетает в Милан, где вечером (20:45) и начнётся игра. Итальянская оборона уже выдыхает с облегчением, а французам остаётся надеяться, что лечение — лишь перестраховка, а не конец турнира. Ответ на главный вопрос — сыграет ли Мбаппе — узнаем только и"
   }
  ],
- "last_post": "2026-11-11T08:20:34.315776+00:00",
+ "last_post": "2026-11-11T10:54:04.071422+00:00",
  "limit_day": "2026-10-25"
 }
