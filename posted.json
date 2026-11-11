@@ -384,7 +384,8 @@
   "https://www.kicker.de/transferticker-953155/artikel#omrss",
   "https://www.lequipe.fr/Football/Article/Nouvelle-revolution-a-lens-deux-mois-apres-le-renvoi-precoce-de-toppmoller-cahuzac-est-lui-aussi-debarque-une-premiere-dans-l-histoire-du-club/1742807#at_medium=RSS_feeds",
   "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
-  "https://www.lequipe.fr/Football/Actualites/Bleus-kylian-mbappe-absent-de-la-seance-et-en-soins-a-la-veille-du-match-de-ligue-des-nations-contre-l-italie/1742943#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Bleus-kylian-mbappe-absent-de-la-seance-et-en-soins-a-la-veille-du-match-de-ligue-des-nations-contre-l-italie/1742943#at_medium=RSS_feeds",
+  "https://www.record.pt/modalidades/hoquei-em-patins/detalhe/20261111-195640-hoquei-em-patins-em-direto-siga-o-fc-porto-benfica"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -771,10 +772,10 @@
   "pochettino offenbar an carrick nachfolge bei united interessiert",
   "seulement six matches pour toppmöller et neuf pour cahuzac lens fait encore sa révolution en attendant pierre sage",
   "man city thrash inter to claim first cl win of season",
-  "bleus kylian mbappé absent de la séance et en soins à la veille du match de ligue des nations contre l italie"
+  "bleus kylian mbappé absent de la séance et en soins à la veille du match de ligue des nations contre l italie",
+  "grande golo de gonçalo alves dá vitória ao fc porto sobre o benfica no arranque do campeonato"
  ],
  "recent": [
-  "🦓 Удинезе уволила Руняйца после 2:5: Занетти до июня на жестких условиях",
   "🏆 «Арсенал» уже 7 раз переворачивал ничьи на перерыве",
   "💔 Трагедия на поле: ушёл из жизни Хесус де Мигель",
   "⚔️ «Селфи в ЛЧ — в прошлом»: Леко требует победы над ПСВ",
@@ -813,14 +814,10 @@
   "⚽ Kicker: Покеттино претендует на пост преемника Кэррика в «Юнайтед»",
   "🔄 «Ланс» меняет тренеров как носки: два ухода за полгода",
   "🔄 Женское «Сити» переиграло «Интер» с перевесом и завело первую победу в ЛЧ",
-  "⚽ Мбаппе пропустил тренировку перед Италией: лечится вместо бега"
+  "⚽ Мбаппе пропустил тренировку перед Италией: лечится вместо бега",
+  "⚡ «Порту» перевернул «Бенфику» в финале чемпионата: 3:2 и дубль Алвеша в концовке"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-02T20:46:31.575175+00:00",
-   "title": "🦓 Удинезе уволила Руняйца после 2:5: Занетти до июня на жестких условиях",
-   "body": "Удинезе наконец расторгла контракт с Руняйцем, который за два с лишним года так и не научил команду выигрывать: всего 5 очков за 10 туров и серия из 8 матчей без побед. Домашнее 2:5 от «Ромы» стало последней каплей, и теперь спасать «зебру» от вылета будет Паоло Занетти — безработный с февраля, когда его уволила «Верона». По данным Sky Sport Italia, новый наставник подпишет контракт только до июня"
-  },
   {
    "time": "2026-11-03T02:54:09.763283+00:00",
    "title": "🏆 «Арсенал» уже 7 раз переворачивал ничьи на перерыве",
@@ -1015,8 +1012,13 @@
    "time": "2026-11-11T10:54:04.071406+00:00",
    "title": "⚽ Мбаппе пропустил тренировку перед Италией: лечится вместо бега",
    "body": "Килиан Мбаппе пропустил утреннюю тренировку сборной Франции накануне матча Лиги наций с Италией — форвард остался в лазарете. Уже сегодня днём команда улетает в Милан, где вечером (20:45) и начнётся игра. Итальянская оборона уже выдыхает с облегчением, а французам остаётся надеяться, что лечение — лишь перестраховка, а не конец турнира. Ответ на главный вопрос — сыграет ли Мбаппе — узнаем только и"
+  },
+  {
+   "time": "2026-11-11T23:40:49.750943+00:00",
+   "title": "⚡ «Порту» перевернул «Бенфику» в финале чемпионата: 3:2 и дубль Алвеша в концовке",
+   "body": "В открывающем матче сезона «драконы» дома отставали 0:1 после гола Жуана Родригеша, но к перерыву сравняли счёт, а во втором тайме дважды вели — и дважды пропускали, пока Гонсалу Алвеш не забил голеадорскую шайбу за шесть минут до сирены, оформив дубль и подарив «Порту» первые три очка в дерби. 🏑"
   }
  ],
- "last_post": "2026-11-11T10:54:04.071422+00:00",
+ "last_post": "2026-11-11T23:40:49.750960+00:00",
  "limit_day": "2026-10-25"
 }
