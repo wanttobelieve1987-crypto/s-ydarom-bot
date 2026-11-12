@@ -388,7 +388,8 @@
   "https://www.record.pt/modalidades/hoquei-em-patins/detalhe/20261111-195640-hoquei-em-patins-em-direto-siga-o-fc-porto-benfica",
   "https://www.skysports.com/football/news/12040/13611225/arsenal-chelsea-and-liverpool-chase-bournemouth-star-alex-scott-paper-talk",
   "https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live",
-  "https://sporza.be/nl/2026/11/12/bij-psv-durfde-niemand-dit-te-dromen-maar-waarom-overweegt-kevin-de-bruyne-echt-een-transfer-naar-eindhoven~1794484119087/"
+  "https://sporza.be/nl/2026/11/12/bij-psv-durfde-niemand-dit-te-dromen-maar-waarom-overweegt-kevin-de-bruyne-echt-een-transfer-naar-eindhoven~1794484119087/",
+  "https://nos.nl/l/2639134"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -779,10 +780,10 @@
   "grande golo de gonçalo alves dá vitória ao fc porto sobre o benfica no arranque do campeonato",
   "papers arsenal chelsea and liverpool chase bournemouth star scott",
   "carrick sacked by manchester united with team in premier league relegation zone live",
-  "bij psv durfde niemand dit te dromen maar waarom overweegt kevin de bruyne écht een transfer naar eindhoven"
+  "bij psv durfde niemand dit te dromen maar waarom overweegt kevin de bruyne écht een transfer naar eindhoven",
+  "zak geld en ek vangnet dit staat er op het spel voor oranje in de nations league"
  ],
  "recent": [
-  "🔥 ЛЧ: «МЮ» перевернуло «Рому» с 0:2, ПСЖ разгромил «Вильярреал» 6:0",
   "⚽ Ямаль и Канселу устроили шоу: «Барселона» разобрала «Астон Виллу» 3:0",
   "🎾 Надаль вошёл в совет директоров «Реала»: 22 «Больших шлема» и новая роль у Переса",
   "⚽ «Реал» дважды отыгравался с АЭК, а Вальверде решил исход в 92-й: 3:2",
@@ -821,14 +822,10 @@
   "⚡ «Порту» перевернул «Бенфику» в финале чемпионата: 3:2 и дубль Алвеша в концовке",
   "⚡️ «Арсенал», «Челси» и «Ливерпуль» за Скоттом, США мечтают о Гвардиоле, а «Юнайтед» охотится на тройку защитников",
   "⚽️ «МЮ» уволил Каррика из зоны вылета: Почетино на подходе?",
-  "⚡ Де Бройне в ПСВ: 50 минут до дома и «матч, созданный на небесах»"
+  "⚡ Де Бройне в ПСВ: 50 минут до дома и «матч, созданный на небесах»",
+  "💰 «Оранье» за 10 млн и страховка на Евро-2028: что на кону в Лиге наций?"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-03T23:58:34.695162+00:00",
-   "title": "🔥 ЛЧ: «МЮ» перевернуло «Рому» с 0:2, ПСЖ разгромил «Вильярреал» 6:0",
-   "body": "«МЮ» вырвало победу у «Ромы» 3:2 после 0:2 — дубль Матеуса Куни в конце матча спасло команду. За вечер «Барселона» размотала «Астон Виллу» 3:0, «Бавария» обыграла «Атлетико» 2:0, а ПСЖ устроил разгром «Вильярреалю» — 6:0. «Интер» (3:0 «Фейеноорду»), «Спортинг» (1:0 «Шахтёру»), «Галатасарай» (2:0 «Штутгарту») и ЛАСК (4:0 «Словану») взяли сухие победы, а «Бёдо/Глимт» с «Лиллем» умудрились сыграть 0:"
-  },
   {
    "time": "2026-11-04T07:28:46.225918+00:00",
    "title": "⚽ Ямаль и Канселу устроили шоу: «Барселона» разобрала «Астон Виллу» 3:0",
@@ -1023,8 +1020,13 @@
    "time": "2026-11-12T17:46:53.657091+00:00",
    "title": "⚡ Де Бройне в ПСВ: 50 минут до дома и «матч, созданный на небесах»",
    "body": "Журналист AD Рик Эльфринк заявляет, что ПСВ ведёт конкретные переговоры с Де Бройне о переходе в январе — и называет этот союз «матчем, созданным на небесах»: бельгиец хочет сбежать от «динозаврского футбола» Аллегри в Неаполе, а Эйндховен находится всего в 50 минутах езды от его семейного дома в Болдерберге. Атакующая система Бош, при которой «фармеры» три года подряд забирают титул, идеально вер"
+  },
+  {
+   "time": "2026-11-12T18:52:45.073791+00:00",
+   "title": "💰 «Оранье» за 10 млн и страховка на Евро-2028: что на кону в Лиге наций?",
+   "body": "Победа над Грецией в Амстердаме почти гарантирует Нидерландам место в «Финале-8», где на кону кубок, около 10 миллионов евро и главное — запасной аэродром для отбора на Евро-2028 через плей-офф. Голландцы уже принимали «Финал-4» в 2023 году, но на 2027-й не подали заявку, уступив Бернабеу испанцам. Получается, «скучное оффсезонное турнир» стало билетом в большую жизнь — осталось только не слить оч"
   }
  ],
- "last_post": "2026-11-12T17:46:53.657108+00:00",
+ "last_post": "2026-11-12T18:52:45.073809+00:00",
  "limit_day": "2026-10-25"
 }
