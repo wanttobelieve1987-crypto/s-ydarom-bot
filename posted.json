@@ -386,7 +386,8 @@
   "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
   "https://www.lequipe.fr/Football/Actualites/Bleus-kylian-mbappe-absent-de-la-seance-et-en-soins-a-la-veille-du-match-de-ligue-des-nations-contre-l-italie/1742943#at_medium=RSS_feeds",
   "https://www.record.pt/modalidades/hoquei-em-patins/detalhe/20261111-195640-hoquei-em-patins-em-direto-siga-o-fc-porto-benfica",
-  "https://www.skysports.com/football/news/12040/13611225/arsenal-chelsea-and-liverpool-chase-bournemouth-star-alex-scott-paper-talk"
+  "https://www.skysports.com/football/news/12040/13611225/arsenal-chelsea-and-liverpool-chase-bournemouth-star-alex-scott-paper-talk",
+  "https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -775,10 +776,10 @@
   "man city thrash inter to claim first cl win of season",
   "bleus kylian mbappé absent de la séance et en soins à la veille du match de ligue des nations contre l italie",
   "grande golo de gonçalo alves dá vitória ao fc porto sobre o benfica no arranque do campeonato",
-  "papers arsenal chelsea and liverpool chase bournemouth star scott"
+  "papers arsenal chelsea and liverpool chase bournemouth star scott",
+  "carrick sacked by manchester united with team in premier league relegation zone live"
  ],
  "recent": [
-  "💔 Трагедия на поле: ушёл из жизни Хесус де Мигель",
   "⚔️ «Селфи в ЛЧ — в прошлом»: Леко требует победы над ПСВ",
   "🔥 ЛЧ: «МЮ» перевернуло «Рому» с 0:2, ПСЖ разгромил «Вильярреал» 6:0",
   "⚽ Ямаль и Канселу устроили шоу: «Барселона» разобрала «Астон Виллу» 3:0",
@@ -817,14 +818,10 @@
   "🔄 Женское «Сити» переиграло «Интер» с перевесом и завело первую победу в ЛЧ",
   "⚽ Мбаппе пропустил тренировку перед Италией: лечится вместо бега",
   "⚡ «Порту» перевернул «Бенфику» в финале чемпионата: 3:2 и дубль Алвеша в концовке",
-  "⚡️ «Арсенал», «Челси» и «Ливерпуль» за Скоттом, США мечтают о Гвардиоле, а «Юнайтед» охотится на тройку защитников"
+  "⚡️ «Арсенал», «Челси» и «Ливерпуль» за Скоттом, США мечтают о Гвардиоле, а «Юнайтед» охотится на тройку защитников",
+  "⚽️ «МЮ» уволил Каррика из зоны вылета: Почетино на подходе?"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-03T10:45:11.548002+00:00",
-   "title": "💔 Трагедия на поле: ушёл из жизни Хесус де Мигель",
-   "body": "Нападающий «Тенерифе» скончался в больнице после жёсткого столкновения с вратарем «Андорры» Хесусом Овоно в матче Второй дивизии: форвард получил травмы головы и груди, в машине скорой случилась остановка сердца. Матч прервали на 97-й минуте при счёте 2:2, Овоно получил «красную», а игроки обеих команд не сдерживали слёз. 30-летний де Мигель, который за сезон в «Тенерифе» забил 11 мячей в 29 играх"
-  },
   {
    "time": "2026-11-03T18:25:42.995490+00:00",
    "title": "⚔️ «Селфи в ЛЧ — в прошлом»: Леко требует победы над ПСВ",
@@ -1019,8 +1016,13 @@
    "time": "2026-11-12T01:29:57.203809+00:00",
    "title": "⚡️ «Арсенал», «Челси» и «Ливерпуль» за Скоттом, США мечтают о Гвардиоле, а «Юнайтед» охотится на тройку защитников",
    "body": "«Депечи», «блюзы» и «красные» уже постучались в «Борнмут» за Алексом Скоттом, а «МЮ» по данным Mail готовит рейд на Коллинса («Брентфорд»), Басси («Фулхэм») и Брантвейта («Эвертон»). США при этом ждут решения Почеттино — если аргентинец уйдёт в Манчестер, главным кандидатом на пост селекционера станет Гвардиола, пишет The Athletic. Параллельно «Челси» с мадридскими гигантами следит за Зубименди, к"
+  },
+  {
+   "time": "2026-11-12T10:58:20.752925+00:00",
+   "title": "⚽️ «МЮ» уволил Каррика из зоны вылета: Почетино на подходе?",
+   "body": "«МЮ» отправил Каррика в отставку после безумного 4:4 с «Астон Виллой» — красно-белые на 18-м месте с одной победой в 11 матчах. Легенда клуба всего несколько месяцев назад вывел команду на третье место, собрав максимум очков за 17 матчей сезона-2025/26, но два камбэка от 0:2 против «виллов» не спасли голову тренера. Почетино уже готовится к прилёту, но на фоне токсичной атмосферы на «Олд Траффорде"
   }
  ],
- "last_post": "2026-11-12T01:29:57.203827+00:00",
+ "last_post": "2026-11-12T10:58:20.752941+00:00",
  "limit_day": "2026-10-25"
 }
