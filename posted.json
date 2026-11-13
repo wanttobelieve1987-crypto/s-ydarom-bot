@@ -389,7 +389,8 @@
   "https://www.skysports.com/football/news/12040/13611225/arsenal-chelsea-and-liverpool-chase-bournemouth-star-alex-scott-paper-talk",
   "https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live",
   "https://sporza.be/nl/2026/11/12/bij-psv-durfde-niemand-dit-te-dromen-maar-waarom-overweegt-kevin-de-bruyne-echt-een-transfer-naar-eindhoven~1794484119087/",
-  "https://nos.nl/l/2639134"
+  "https://nos.nl/l/2639134",
+  "https://www.skysports.com/football/england-vs-croatia/report/554088"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -781,10 +782,10 @@
   "papers arsenal chelsea and liverpool chase bournemouth star scott",
   "carrick sacked by manchester united with team in premier league relegation zone live",
   "bij psv durfde niemand dit te dromen maar waarom overweegt kevin de bruyne écht een transfer naar eindhoven",
-  "zak geld en ek vangnet dit staat er op het spel voor oranje in de nations league"
+  "zak geld en ek vangnet dit staat er op het spel voor oranje in de nations league",
+  "kane the hero on historic night as england book nations league qf spot"
  ],
  "recent": [
-  "⚽ Ямаль и Канселу устроили шоу: «Барселона» разобрала «Астон Виллу» 3:0",
   "🎾 Надаль вошёл в совет директоров «Реала»: 22 «Больших шлема» и новая роль у Переса",
   "⚽ «Реал» дважды отыгравался с АЭК, а Вальверде решил исход в 92-й: 3:2",
   "⚽ Хааланд спас «Сити» на американских горках в Лейпциге",
@@ -823,14 +824,10 @@
   "⚡️ «Арсенал», «Челси» и «Ливерпуль» за Скоттом, США мечтают о Гвардиоле, а «Юнайтед» охотится на тройку защитников",
   "⚽️ «МЮ» уволил Каррика из зоны вылета: Почетино на подходе?",
   "⚡ Де Бройне в ПСВ: 50 минут до дома и «матч, созданный на небесах»",
-  "💰 «Оранье» за 10 млн и страховка на Евро-2028: что на кону в Лиге наций?"
+  "💰 «Оранье» за 10 млн и страховка на Евро-2028: что на кону в Лиге наций?",
+  "⚽ Кейн — король истории: Англия в 1/4 финала Лиги наций 2:1"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-04T07:28:46.225918+00:00",
-   "title": "⚽ Ямаль и Канселу устроили шоу: «Барселона» разобрала «Астон Виллу» 3:0",
-   "body": "Каталонцы не оставили шансов Виллам — сухой 3:0, яркие моменты Ямаля и волшебство Канселу на фланге сделали матч односторонним. Видео с голами уже ждёт в ленте."
-  },
   {
    "time": "2026-11-04T17:13:49.695277+00:00",
    "title": "🎾 Надаль вошёл в совет директоров «Реала»: 22 «Больших шлема» и новая роль у Переса",
@@ -1025,8 +1022,13 @@
    "time": "2026-11-12T18:52:45.073791+00:00",
    "title": "💰 «Оранье» за 10 млн и страховка на Евро-2028: что на кону в Лиге наций?",
    "body": "Победа над Грецией в Амстердаме почти гарантирует Нидерландам место в «Финале-8», где на кону кубок, около 10 миллионов евро и главное — запасной аэродром для отбора на Евро-2028 через плей-офф. Голландцы уже принимали «Финал-4» в 2023 году, но на 2027-й не подали заявку, уступив Бернабеу испанцам. Получается, «скучное оффсезонное турнир» стало билетом в большую жизнь — осталось только не слить оч"
+  },
+  {
+   "time": "2026-11-13T00:14:45.826576+00:00",
+   "title": "⚽ Кейн — король истории: Англия в 1/4 финала Лиги наций 2:1",
+   "body": "Англия выбралась в четвертьфинал Лиги наций 2:1 над Хорватией, показав футбол, который хочется забыть сразу после свистка — совсем не та команда, что месяц назад разнесла соперника 7:0. Всё исправил Кейн: в 126-м матче он стал рекордсменом Англии по играм, обогнав Шилтона, и забил 92-й гол с точки после горки Квенса, который сначала подарил Хорватии гол, а потом сам выиграл пенальти. Матч назвали "
   }
  ],
- "last_post": "2026-11-12T18:52:45.073809+00:00",
+ "last_post": "2026-11-13T00:14:45.826594+00:00",
  "limit_day": "2026-10-25"
 }
