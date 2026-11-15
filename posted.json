@@ -400,7 +400,8 @@
   "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
   "https://sporza.be/nl/matches/voetbal/eur/uefa-nations-league/2026-2027/groep-4/05/portugal-denemarken-live-feest-voor-ronaldo-slaat-om-in-een-pijnlijke-avond-portugal-0-3-achter-tegen-denemarken~1770982622329/",
   "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
-  "https://www.walfoot.be/news/2026-11-15/un-grand-decu-et-deux-retours-voici-les-absents-et-les-revenants-de-mark-van-bommel-pour-affronter-litalie"
+  "https://www.walfoot.be/news/2026-11-15/un-grand-decu-et-deux-retours-voici-les-absents-et-les-revenants-de-mark-van-bommel-pour-affronter-litalie",
+  "https://www.kicker.de/live-die-dfb-pk-mit-klopp-und-havertz-1271751/artikel#omrss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -803,10 +804,10 @@
   "de la fuente feels the strain as lamine yamal club v country debate rages in spain",
   "live feest voor ronaldo slaat om in een pijnlijke avond portugal 0 3 achter tegen denemarken",
   "no racism in spain de la fuente message for tuchel",
-  "un grand déçu et deux retours voici les absents et les revenants de mark van bommel pour affronter l italie"
+  "un grand déçu et deux retours voici les absents et les revenants de mark van bommel pour affronter l italie",
+  "live die dfb pk mit klopp und havertz"
  ],
  "recent": [
-  "🤔 Тухель выкинул Палмера и Фодена, зато позвал брата Беллингема",
   "🇧🇪 Ван Боммель вызвал Годтса, а Фофану и Фернандеса-Пардо оставил дома",
   "🤕 Сака выбыл на недели: «Арсенал» без крыла до сборной паузы",
   "⚠️ Ошибка загрузки: статья о Диоманде недоступна",
@@ -845,14 +846,10 @@
   "🇪🇸 Де ла Фуэнте против софистов: «врут» про привилегии Ямаля, а «Фурия» 43 матча не проигрывает в основное время",
   "⚽ Португалия надела форму Роналду, а Дания ответила тройкой: 0–3 после перерыва",
   "🇪🇸 Де ла Фуэнте: в Испании нет расизма — просто не смотрите на штрафы РФС и приговоры фанатам «Валенсии»",
-  "🇧🇪 Лукаку возвращается, Конголо — нет"
+  "🇧🇪 Лукаку возвращается, Конголо — нет",
+  "🎙 Клопп и Хаверц на ПК перед «финалом» Лиги наций с Нидерландами"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-06T11:28:09.580472+00:00",
-   "title": "🤔 Тухель выкинул Палмера и Фодена, зато позвал брата Беллингема",
-   "body": "Томас Тухель объявил состав сборной Англии на Лигу наций без Коула Палмера, Фила Фодена и Кобби Майну. Зато в сборную впервые вызвали Джоба Беллингема и полузащитника «Фулхэма» Джоша Кинга. Тухель объяснил отсутствие Палмера тем, что тот «упускает слишком много возможностей впечатлить», но добавил, что дверь для игрока всегда открыта.\n\nВ защите вернулись Бен Уайт и Джед Спенс, а из-за травм Сака, "
-  },
   {
    "time": "2026-11-06T16:45:25.152758+00:00",
    "title": "🇧🇪 Ван Боммель вызвал Годтса, а Фофану и Фернандеса-Пардо оставил дома",
@@ -1047,8 +1044,13 @@
    "time": "2026-11-15T10:44:10.053266+00:00",
    "title": "🇧🇪 Лукаку возвращается, Конголо — нет",
    "body": "Марк ван Боммел достает козыри перед битвой с Италией: в заявку вернулись опытный Ромелу Лукаку и Ромео Лавия. А вот Жосуэ Конголо, которого позвали в сборную только из-за отказа Кони Де Винтера, так и не дождался дебюта, оставшись вне списка на матч. Теперь «красным дьяволам» с их 9 очками жизненно необходима победа, чтобы гарантировать себе выход в четвертьфинал Лиги наций."
+  },
+  {
+   "time": "2026-11-15T17:42:23.542482+00:00",
+   "title": "🎙 Клопп и Хаверц на ПК перед «финалом» Лиги наций с Нидерландами",
+   "body": "Завтра в Берлине «Маншафт» играет с Нидерландами в решающем матче Лиги наций, а сегодня «Кекер» тикает пресс-конференцию Клоппа с Хаверцем. Новый Bundestrainer и лидер атаки разбирают вопросы за день до «финала». Читаем главные цитаты — и ждём, включится ли прессинг уже на словах. ⚽"
   }
  ],
- "last_post": "2026-11-15T10:44:10.053284+00:00",
+ "last_post": "2026-11-15T17:42:23.542500+00:00",
  "limit_day": "2026-10-25"
 }
