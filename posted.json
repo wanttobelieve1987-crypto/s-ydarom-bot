@@ -402,7 +402,8 @@
   "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
   "https://www.walfoot.be/news/2026-11-15/un-grand-decu-et-deux-retours-voici-les-absents-et-les-revenants-de-mark-van-bommel-pour-affronter-litalie",
   "https://www.kicker.de/live-die-dfb-pk-mit-klopp-und-havertz-1271751/artikel#omrss",
-  "https://sporza.be/nl/matches/voetbal/eur/uefa-nations-league/2026-2027/groep-1/06/belgie-italie-rode-duivels-verpletteren-italie-met-knalprestatie-en-swingen-naar-kwartfinales-nations-league~1770981782507/"
+  "https://sporza.be/nl/matches/voetbal/eur/uefa-nations-league/2026-2027/groep-1/06/belgie-italie-rode-duivels-verpletteren-italie-met-knalprestatie-en-swingen-naar-kwartfinales-nations-league~1770981782507/",
+  "https://www.espn.com/soccer/story/_/id/50491487/ronaldinho-comeback-300-goals-ravenna-serie-c"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -807,10 +808,10 @@
   "no racism in spain de la fuente message for tuchel",
   "un grand déçu et deux retours voici les absents et les revenants de mark van bommel pour affronter l italie",
   "live die dfb pk mit klopp und havertz",
-  "rode duivels verpletteren italië met knalprestatie en swingen naar kwartfinales nations league"
+  "rode duivels verpletteren italië met knalprestatie en swingen naar kwartfinales nations league",
+  "brazil great ronaldinho 46 subbed at half in return for serie c s ravenna"
  ],
  "recent": [
-  "🤕 Сака выбыл на недели: «Арсенал» без крыла до сборной паузы",
   "⚠️ Ошибка загрузки: статья о Диоманде недоступна",
   "⚽ Барри дублем вытащил «Эвертон» в топ-5 Премьер-лиги",
   "⚽ «Юнион СЖ» победил и влёз в топ-4 Лиги Европы — пока фавориты считают сценарии, белгийцы просто забирают очки",
@@ -849,14 +850,10 @@
   "🇪🇸 Де ла Фуэнте: в Испании нет расизма — просто не смотрите на штрафы РФС и приговоры фанатам «Валенсии»",
   "🇧🇪 Лукаку возвращается, Конголо — нет",
   "🎙 Клопп и Хаверц на ПК перед «финалом» Лиги наций с Нидерландами",
-  "🇧🇪 «Дьяволы» разнесли Италию в пух и прах: 4-1 и в четвертьфиналы"
+  "🇧🇪 «Дьяволы» разнесли Италию в пух и прах: 4-1 и в четвертьфиналы",
+  "🎩 Роналдиньо в 46 лет вернул магию в Serie C — но 300-й гол подождёт"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-06T18:23:31.618755+00:00",
-   "title": "🤕 Сака выбыл на недели: «Арсенал» без крыла до сборной паузы",
-   "body": "Букайо Сака получил травму квадрицепса в матче с «Баварией» и пропустит несколько недель — на индивидуальные тренировки он вернётся лишь после сборной паузы. «Арсенал» теряет главного флангового атакующего в решающем этапе сезона, так что Артете придётся изобретать схемы без своего главной «двигателя»."
-  },
   {
    "time": "2026-11-06T22:04:28.325005+00:00",
    "title": "⚠️ Ошибка загрузки: статья о Диоманде недоступна",
@@ -1051,8 +1048,13 @@
    "time": "2026-11-15T23:24:01.217369+00:00",
    "title": "🇧🇪 «Дьяволы» разнесли Италию в пух и прах: 4-1 и в четвертьфиналы",
    "body": "Бельгия после быстрого 0:1 разнесла Италию 4:1, забив три за 26 минут — Доку оставил в памяти сольный прогон мимо трёх защитников и Доннаруммы, Де Брюйне управлял игрой и бил в штангу, а Морейра поставил точку. В доповремени Ламменс отразил пенальти Эспозито, а гол Сиссе отменили за абсайдом. Ван Боммель получает билет в плей-офф Лиги наций и крепкий кредит доверия, а «скуадра азурра» улетает домо"
+  },
+  {
+   "time": "2026-11-16T03:03:07.722583+00:00",
+   "title": "🎩 Роналдиньо в 46 лет вернул магию в Serie C — но 300-й гол подождёт",
+   "body": "Бразильский волшебник провёл 45 минут за «Равенну» в дерби с «Форли», отдал голевой пас Джулио Донати и ушёл на замену, так и не добив заветный трехсотый мяч в карьере; став акционером клуба, он не исключает новых выходов: «Если президент будет звонить — я приду. Футбол — самая прекрасная вещь в жизни». ⚽"
   }
  ],
- "last_post": "2026-11-15T23:24:01.217387+00:00",
+ "last_post": "2026-11-16T03:03:07.722609+00:00",
  "limit_day": "2026-10-25"
 }
