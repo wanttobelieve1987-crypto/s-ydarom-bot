@@ -413,7 +413,8 @@
   "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
   "https://sporza.be/nl/matches/voetbal/eur/uefa-nations-league/2026-2027/groep-4/06/wales-portugal-zo-eer-je-het-nummer-7-bruggeling-carlos-forbs-is-redder-van-portugal-dat-met-veel-moeite-groepswinnaar-wordt-tegen-wales~1770982682447/",
   "https://www.espn.com/soccer/story/_/id/50513761/erling-haaland-sends-norway-nations-league-quarterfinals",
-  "https://www.lequipe.fr/Football/Actualites/Arda-guler-prolonge-son-contrat-avec-le-real-madrid-jusqu-en-2032/1744417#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Arda-guler-prolonge-son-contrat-avec-le-real-madrid-jusqu-en-2032/1744417#at_medium=RSS_feeds",
+  "https://www.kicker.de/comeback-gegen-koeln-kompany-sitzt-wieder-auf-der-bayern-bank-1272669/artikel#omrss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -829,10 +830,10 @@
   "blackburn boss mowbray steps back over health issues",
   "zo eer je het nummer 7 bruggeling carlos forbs is redder van portugal dat met veel moeite groepswinnaar wordt tegen wales",
   "haaland sends norway to nations league quarters on last minute penalty",
-  "arda güler prolonge son contrat avec le real madrid jusqu en 2032"
+  "arda güler prolonge son contrat avec le real madrid jusqu en 2032",
+  "comeback gegen köln kompany sitzt wieder auf der bayern bank"
  ],
  "recent": [
-  "⚽ «Аякс» 546 дней ждал трона — автогол и Вегораст всё сгубили",
   "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Фолкёрк разгромил Хартс 5:2 и прервал 18-месячную серию непобед хозяев на Тинкасле",
   "⚽ Сейдж на отсечке: «Кристал» ищет спасения у бывшего тренера «Тоттенхэма»",
   "😱 Лопес дублем ограбил «Атлетико», и «Барса» улетела в лидеры",
@@ -871,14 +872,10 @@
   "⚽ 900-й матч и день рождения без Мувбрея: «Блэкберн» остался без тренера за здоровьем",
   "⚽ Форбс надел «7» Роналду и спас Португалию у валлийцев — 3:2",
   "⚽ Холанд на 96-й минуте вытащил Норвегию в 1/4 финала Лиги наций",
-  "🇹🇷 Гюлер до 2032-го: «Реал» закрепил турка, а «Л'Экип» — Муреньо в Мадриде"
+  "🇹🇷 Гюлер до 2032-го: «Реал» закрепил турка, а «Л'Экип» — Муреньо в Мадриде",
+  "⚽ Компани возвращается: от обморока — к пресс-конференции и скамейке против Кёльна"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-08T16:01:33.880955+00:00",
-   "title": "⚽ «Аякс» 546 дней ждал трона — автогол и Вегораст всё сгубили",
-   "body": "«Аякс» уже обнюховал золото после разгрома «Фейеноорда» в Гейренвеене (3:5), но в Энсхеде «Твенте» расстроил планы: Арокодаре и подменный Бунида выставили 0:2, Тер Штеген творил чудеса, а Янсе забил в свои ворота — 1:2. VAR сначала простил Вегорасту руку в своём штрафном, а через минуту наказал Розу за удержание Зерруки — Вегораст реализовал пенальти и уравнял: 2:2. Обе серии побед прервались (у «"
-  },
   {
    "time": "2026-11-08T21:08:00.730211+00:00",
    "title": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Фолкёрк разгромил Хартс 5:2 и прервал 18-месячную серию непобед хозяев на Тинкасле",
@@ -1073,8 +1070,13 @@
    "time": "2026-11-18T13:55:44.154128+00:00",
    "title": "🇹🇷 Гюлер до 2032-го: «Реал» закрепил турка, а «Л'Экип» — Муреньо в Мадриде",
    "body": "Арда Гюлер продлил контракт с «Реалом» до 2032 года, официально подтвердил клуб в среду. «Л'Экип» при этом утверждает, что 19-летний турок стал неоспоримым основным игроком «с приходом Жозе Муреньо» — удивительная новость для всех, кто помнит, что португалец ушёл из Мадрида ещё в 2013-м. Финансовые детали не раскрываются, но сам факт такой долгосрочной сделки показывает: в «Реале» серьезно строят "
+  },
+  {
+   "time": "2026-11-18T22:34:17.007777+00:00",
+   "title": "⚽ Компани возвращается: от обморока — к пресс-конференции и скамейке против Кёльна",
+   "body": "Винсент Компани постепенно возвращается в рабочий ритм после обморока: в четверг он впервые выйдет на пресс-конференцию, а в пятницу уже сядет на скамейку «Баварии» в матче с Кёльном. Здоровье в порядке — работа продолжается."
   }
  ],
- "last_post": "2026-11-18T13:55:44.154143+00:00",
+ "last_post": "2026-11-18T22:34:17.007790+00:00",
  "limit_day": "2026-10-25"
 }
