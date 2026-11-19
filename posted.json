@@ -414,7 +414,8 @@
   "https://sporza.be/nl/matches/voetbal/eur/uefa-nations-league/2026-2027/groep-4/06/wales-portugal-zo-eer-je-het-nummer-7-bruggeling-carlos-forbs-is-redder-van-portugal-dat-met-veel-moeite-groepswinnaar-wordt-tegen-wales~1770982682447/",
   "https://www.espn.com/soccer/story/_/id/50513761/erling-haaland-sends-norway-nations-league-quarterfinals",
   "https://www.lequipe.fr/Football/Actualites/Arda-guler-prolonge-son-contrat-avec-le-real-madrid-jusqu-en-2032/1744417#at_medium=RSS_feeds",
-  "https://www.kicker.de/comeback-gegen-koeln-kompany-sitzt-wieder-auf-der-bayern-bank-1272669/artikel#omrss"
+  "https://www.kicker.de/comeback-gegen-koeln-kompany-sitzt-wieder-auf-der-bayern-bank-1272669/artikel#omrss",
+  "https://www.espn.com/soccer/story/_/id/50519330/juan-mata-retires-spain-world-cup-man-united"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -831,10 +832,10 @@
   "zo eer je het nummer 7 bruggeling carlos forbs is redder van portugal dat met veel moeite groepswinnaar wordt tegen wales",
   "haaland sends norway to nations league quarters on last minute penalty",
   "arda güler prolonge son contrat avec le real madrid jusqu en 2032",
-  "comeback gegen köln kompany sitzt wieder auf der bayern bank"
+  "comeback gegen köln kompany sitzt wieder auf der bayern bank",
+  "mata retires aged 38 after winning world cup champions league euros fa cup"
  ],
  "recent": [
-  "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Фолкёрк разгромил Хартс 5:2 и прервал 18-месячную серию непобед хозяев на Тинкасле",
   "⚽ Сейдж на отсечке: «Кристал» ищет спасения у бывшего тренера «Тоттенхэма»",
   "😱 Лопес дублем ограбил «Атлетико», и «Барса» улетела в лидеры",
   "🤕 Ван Дейк и Бробби выбыли из Нидерландов перед играми с Грецией и Германией",
@@ -873,14 +874,10 @@
   "⚽ Форбс надел «7» Роналду и спас Португалию у валлийцев — 3:2",
   "⚽ Холанд на 96-й минуте вытащил Норвегию в 1/4 финала Лиги наций",
   "🇹🇷 Гюлер до 2032-го: «Реал» закрепил турка, а «Л'Экип» — Муреньо в Мадриде",
-  "⚽ Компани возвращается: от обморока — к пресс-конференции и скамейке против Кёльна"
+  "⚽ Компани возвращается: от обморока — к пресс-конференции и скамейке против Кёльна",
+  "⚽ Хуан Мата завершил карьеру в 38 лет: полный набор трофеев и финал в Австралии"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-08T21:08:00.730211+00:00",
-   "title": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Фолкёрк разгромил Хартс 5:2 и прервал 18-месячную серию непобед хозяев на Тинкасле",
-   "body": "Ваутер Вранккен назвал первый тайм «безумием и позором», а его команда, лишённая 11 футболистов, пропустила пятерку к 50-й минуте — Фолкёрк одержал пятую победу подряд в премьер-лиге впервые с 1995 года. Сельтик с трудом обыграл Килмарнок 1:0 головой Скайлса, а Каспер Хёг удлинил безголие до 16 матчей после хет-трика на втором матче карьеры. Рейнджерс без проблем победил Сент-Миррен 2:0 (Надери, Н"
-  },
   {
    "time": "2026-11-09T00:51:15.245595+00:00",
    "title": "⚽ Сейдж на отсечке: «Кристал» ищет спасения у бывшего тренера «Тоттенхэма»",
@@ -1075,8 +1072,13 @@
    "time": "2026-11-18T22:34:17.007777+00:00",
    "title": "⚽ Компани возвращается: от обморока — к пресс-конференции и скамейке против Кёльна",
    "body": "Винсент Компани постепенно возвращается в рабочий ритм после обморока: в четверг он впервые выйдет на пресс-конференцию, а в пятницу уже сядет на скамейку «Баварии» в матче с Кёльном. Здоровье в порядке — работа продолжается."
+  },
+  {
+   "time": "2026-11-19T04:07:05.576379+00:00",
+   "title": "⚽ Хуан Мата завершил карьеру в 38 лет: полный набор трофеев и финал в Австралии",
+   "body": "Испанский полузащитник повесил ботинки на гвоздь, унеся в копилку Чемпионат мира, Евро, Лигу чемпионов, Лигу Европы и Кубок Англии — за «Челси» и 285 матчей за «Манчестер Юнайтед». После турецкого «Галатасарая» и японского «Виссел Кобе» он прошёл два сезона в Австралии за «Вестерн Сидней» и «Мельборн Виктори». Сооснователь Common Goal, сдавший процент зарплаты на благотворительность, прощался фраз"
   }
  ],
- "last_post": "2026-11-18T22:34:17.007790+00:00",
+ "last_post": "2026-11-19T04:07:05.576393+00:00",
  "limit_day": "2026-10-25"
 }
