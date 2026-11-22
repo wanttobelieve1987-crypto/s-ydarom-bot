@@ -425,7 +425,8 @@
   "https://www.espn.com/soccer/story/_/id/50542238/nfl-legend-tom-brady-buys-shares-chelsea-sources",
   "https://football-italia.net/serie-a-parma-1-5-roma-malen-hero-four-goals/",
   "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
-  "https://www.scotsman.com/sport/football/international/scott-mctominay-nets-napoli-winner-major-announcement-man-utd-real-madrid-rumours-9366168"
+  "https://www.scotsman.com/sport/football/international/scott-mctominay-nets-napoli-winner-major-announcement-man-utd-real-madrid-rumours-9366168",
+  "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -853,10 +854,10 @@
   "sources tom brady buys stake in chelsea after birmingham exit",
   "serie a parma 1 5 roma malen hero with four goals as big names return",
   "arsenal go six points clear after lively draw at newcastle",
-  "scott mctominay nets napoli winner days after major announcement as man utd and real madrid rumours emerge"
+  "scott mctominay nets napoli winner days after major announcement as man utd and real madrid rumours emerge",
+  "not the right time fernandes pauses man utd contract talks"
  ],
  "recent": [
-  "⚡️ «Арсенал», «Челси» и «Ливерпуль» за Скоттом, США мечтают о Гвардиоле, а «Юнайтед» охотится на тройку защитников",
   "⚽️ «МЮ» уволил Каррика из зоны вылета: Почетино на подходе?",
   "⚡ Де Бройне в ПСВ: 50 минут до дома и «матч, созданный на небесах»",
   "💰 «Оранье» за 10 млн и страховка на Евро-2028: что на кону в Лиге наций?",
@@ -895,14 +896,10 @@
   "🏈 Брэди обменял «Бирмингем» на «Челси»: 7 колец Суперкубка и ноль голосов в совете",
   "⚽ «Рома» разнесла «Парму» 5:1: Малён забил четверку, Весли раздал четыре ассиста",
   "⚽ «Арсенал» вырвал 2:2 и ушёл на +6: Мадьюк спас Артету",
-  "🤰 Мактоминей ждёт пополнение, забил и услышал зов «Милана» и «Реала»"
+  "🤰 Мактоминей ждёт пополнение, забил и услышал зов «Милана» и «Реала»",
+  "⏸️ Фернандес заморозил контракт: «Юнайтед» 19-й, 75 голов и отказ от денег"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-12T01:29:57.203809+00:00",
-   "title": "⚡️ «Арсенал», «Челси» и «Ливерпуль» за Скоттом, США мечтают о Гвардиоле, а «Юнайтед» охотится на тройку защитников",
-   "body": "«Депечи», «блюзы» и «красные» уже постучались в «Борнмут» за Алексом Скоттом, а «МЮ» по данным Mail готовит рейд на Коллинса («Брентфорд»), Басси («Фулхэм») и Брантвейта («Эвертон»). США при этом ждут решения Почеттино — если аргентинец уйдёт в Манчестер, главным кандидатом на пост селекционера станет Гвардиола, пишет The Athletic. Параллельно «Челси» с мадридскими гигантами следит за Зубименди, к"
-  },
   {
    "time": "2026-11-12T10:58:20.752925+00:00",
    "title": "⚽️ «МЮ» уволил Каррика из зоны вылета: Почетино на подходе?",
@@ -1097,8 +1094,13 @@
    "time": "2026-11-22T08:45:58.274638+00:00",
    "title": "🤰 Мактоминей ждёт пополнение, забил и услышал зов «Милана» и «Реала»",
    "body": "Скотт Мактоминей оформил идеальную неделю: объявил, что станет папой, и забил единственный гол в ворота «Торино», принесший «Наполи» три очка. Итальянские СМИ пишут, что за шотландцем уже дежурят «Милан» (из-за общих связей с Adidas), «Реал Мадрид» и даже «Манчестер Юнайтед», пока переговоры о новом контракте с неаполитанцами висят на паузе «по финансовым причинам». Аллегри признался, что просто п"
+  },
+  {
+   "time": "2026-11-22T11:09:57.265137+00:00",
+   "title": "⏸️ Фернандес заморозил контракт: «Юнайтед» 19-й, 75 голов и отказ от денег",
+   "body": "Бруно поставил переговоры на паузу — «не время», говорит капитан, пока «Юнайтед» 19-й перед дерби с «Ливерпулем». Клуб предложил новый контракт и держит опцию продления до 2028-го, но 32-летний португалец напомнил: три лета подряд отказывал в уходе за большие деньги и на солнце. На фоне 75 голов в АПЛ с 2020-го и рекорда по передачам прошлый сезон — провал формы и скамья запасных у Карикка. Почети"
   }
  ],
- "last_post": "2026-11-22T08:45:58.274657+00:00",
+ "last_post": "2026-11-22T11:09:57.265156+00:00",
  "limit_day": "2026-10-25"
 }
