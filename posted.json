@@ -424,7 +424,8 @@
   "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
   "https://www.espn.com/soccer/story/_/id/50542238/nfl-legend-tom-brady-buys-shares-chelsea-sources",
   "https://football-italia.net/serie-a-parma-1-5-roma-malen-hero-four-goals/",
-  "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
+  "https://www.scotsman.com/sport/football/international/scott-mctominay-nets-napoli-winner-major-announcement-man-utd-real-madrid-rumours-9366168"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -851,10 +852,10 @@
   "bayern munich confirm harry kane out for next few months with ankle injury",
   "sources tom brady buys stake in chelsea after birmingham exit",
   "serie a parma 1 5 roma malen hero with four goals as big names return",
-  "arsenal go six points clear after lively draw at newcastle"
+  "arsenal go six points clear after lively draw at newcastle",
+  "scott mctominay nets napoli winner days after major announcement as man utd and real madrid rumours emerge"
  ],
  "recent": [
-  "⚡ «Порту» перевернул «Бенфику» в финале чемпионата: 3:2 и дубль Алвеша в концовке",
   "⚡️ «Арсенал», «Челси» и «Ливерпуль» за Скоттом, США мечтают о Гвардиоле, а «Юнайтед» охотится на тройку защитников",
   "⚽️ «МЮ» уволил Каррика из зоны вылета: Почетино на подходе?",
   "⚡ Де Бройне в ПСВ: 50 минут до дома и «матч, созданный на небесах»",
@@ -893,14 +894,10 @@
   "🤕 Кейн выбывает на месяцы: «Бавария» теряет капитана перед адским декабрем",
   "🏈 Брэди обменял «Бирмингем» на «Челси»: 7 колец Суперкубка и ноль голосов в совете",
   "⚽ «Рома» разнесла «Парму» 5:1: Малён забил четверку, Весли раздал четыре ассиста",
-  "⚽ «Арсенал» вырвал 2:2 и ушёл на +6: Мадьюк спас Артету"
+  "⚽ «Арсенал» вырвал 2:2 и ушёл на +6: Мадьюк спас Артету",
+  "🤰 Мактоминей ждёт пополнение, забил и услышал зов «Милана» и «Реала»"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-11T23:40:49.750943+00:00",
-   "title": "⚡ «Порту» перевернул «Бенфику» в финале чемпионата: 3:2 и дубль Алвеша в концовке",
-   "body": "В открывающем матче сезона «драконы» дома отставали 0:1 после гола Жуана Родригеша, но к перерыву сравняли счёт, а во втором тайме дважды вели — и дважды пропускали, пока Гонсалу Алвеш не забил голеадорскую шайбу за шесть минут до сирены, оформив дубль и подарив «Порту» первые три очка в дерби. 🏑"
-  },
   {
    "time": "2026-11-12T01:29:57.203809+00:00",
    "title": "⚡️ «Арсенал», «Челси» и «Ливерпуль» за Скоттом, США мечтают о Гвардиоле, а «Юнайтед» охотится на тройку защитников",
@@ -1095,8 +1092,13 @@
    "time": "2026-11-22T01:13:03.144962+00:00",
    "title": "⚽ «Арсенал» вырвал 2:2 и ушёл на +6: Мадьюк спас Артету",
    "body": "На «Сент-Джеймс Парке» «Арсенал» дважды отыгрывал ничью, и гол Мадьюка во втором тайме спас команду от поражения — 2:2. К перерыву лондонцы проигрывали, но в таблице у них уже шесть очков запаса. «Ньюкасл» был у шага от сенсации, но «пушки» снова доказали: сдаваться — не их метод."
+  },
+  {
+   "time": "2026-11-22T08:45:58.274638+00:00",
+   "title": "🤰 Мактоминей ждёт пополнение, забил и услышал зов «Милана» и «Реала»",
+   "body": "Скотт Мактоминей оформил идеальную неделю: объявил, что станет папой, и забил единственный гол в ворота «Торино», принесший «Наполи» три очка. Итальянские СМИ пишут, что за шотландцем уже дежурят «Милан» (из-за общих связей с Adidas), «Реал Мадрид» и даже «Манчестер Юнайтед», пока переговоры о новом контракте с неаполитанцами висят на паузе «по финансовым причинам». Аллегри признался, что просто п"
   }
  ],
- "last_post": "2026-11-22T01:13:03.144977+00:00",
+ "last_post": "2026-11-22T08:45:58.274657+00:00",
  "limit_day": "2026-10-25"
 }
