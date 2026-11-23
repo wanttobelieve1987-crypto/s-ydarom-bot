@@ -430,7 +430,8 @@
   "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
   "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
   "https://football-italia.net/serie-a-atalanta-4-4-inter-incredible-comeback/",
-  "https://www.lequipe.fr/Football/Actualites/Patrick-videira-apres-la-victoire-du-mans-a-marseille-un-grand-coup-de-chapeau-a-ces-20-garcons/1745505#at_medium=RSS_feeds"
+  "https://www.lequipe.fr/Football/Actualites/Patrick-videira-apres-la-victoire-du-mans-a-marseille-un-grand-coup-de-chapeau-a-ces-20-garcons/1745505#at_medium=RSS_feeds",
+  "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -863,10 +864,10 @@
   "european football barcelona roar back from two goals down to sink villarreal",
   "liverpool hand pochettino nightmare manchester united start after yoro sees red",
   "serie a atalanta 4 4 inter incredible comeback pio hat trick not enough",
-  "patrick videira après la victoire du mans à marseille un grand coup de chapeau à ces 20 garçons"
+  "patrick videira après la victoire du mans à marseille un grand coup de chapeau à ces 20 garçons",
+  "mcburnie stoppage time double earns hull win over 10 man brighton"
  ],
  "recent": [
-  "⚽ Зидан провалил дебют, а Доннарумма подарил Олизе пятый гол за пять матчей",
   "😭 Почетино в слезах, «Юнайтед» платит 7,4 млн — и это после десяти лет уговоров",
   "⚽ Макгинн-герой, Гилмур-антигерой: «Шотландия» выбралась из ямы против Македонии",
   "🇩🇪 «Манншафт» разгромил Сербию вдевятером и ждёт «Оранье» в Берлине",
@@ -905,14 +906,10 @@
   "🤯 Барса отыграла 0:2 и победила «Вильярреал» 3:2 — Ямаль промахнулся с пенальти",
   "🔴 Дебют Почеттино: 0:4, красная карточка и антирекорд 1926 года",
   "🤯 Интер вел 3:1, Аталанта вырвала 4:4 — хет-трик Эспозито сгорел дотла",
-  "🏟 «Ле Ман» сенсационно выбил «Марсель» с «Вельдрома» — 3:2"
+  "🏟 «Ле Ман» сенсационно выбил «Марсель» с «Вельдрома» — 3:2",
+  "⚽ Макберни за 5 минут: «Халл» разгромил второе «Брайтон» вдесятером 2:0"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-13T07:52:30.624205+00:00",
-   "title": "⚽ Зидан провалил дебют, а Доннарумма подарил Олизе пятый гол за пять матчей",
-   "body": "Италия перевернула Францию 3:1 на «Сан-Сиро», вручив Зидану первое поражение во главе «трехколорных», а Доннарумма ошибочной подачей Олизе оформил пятый гол француза за пять матчей Лиги наций. Пио Эспозито забил дубль (один с точки), а брат Себастьяно промахнулся с пенальти — чистая семейная драма. «Скуадра адзурра» возглавила группу А1 с 10 очками, обыграла французов дома впервые с 1962 года и ра"
-  },
   {
    "time": "2026-11-13T17:09:13.405289+00:00",
    "title": "😭 Почетино в слезах, «Юнайтед» платит 7,4 млн — и это после десяти лет уговоров",
@@ -1107,8 +1104,13 @@
    "time": "2026-11-23T01:37:39.498935+00:00",
    "title": "🏟 «Ле Ман» сенсационно выбил «Марсель» с «Вельдрома» — 3:2",
    "body": "«Ле Ман» приехал на «Вельдром» и выбил «Марсель» из Кубка Франции со счётом 3:2, устраивая хозяевам ночной кошмар. Патрик Видейра не стал прятать эмоции: «Снимаю шляпу перед всеми 20 парнями» — так тренер отдал дань духу команды, оказавшемуся крепче репутации хозяев. Кубок Франции снова доказал: имена не выигрывают матчи, а сенсации любят подлодок."
+  },
+  {
+   "time": "2026-11-23T03:58:26.640026+00:00",
+   "title": "⚽ Макберни за 5 минут: «Халл» разгромил второе «Брайтон» вдесятером 2:0",
+   "body": "Оли Макберни устроил шоу в компенсированное время — дубль за пару минут и «Халл» обыграл второе в таблице АПЛ «Брайтон», игравшее вдесятером, со счётом 2:0. «Морщины» молчали 90 минут, а потом ударили дважды, когда «чайки» уже готовились к точке. Классика жанра: лидерство в лиге не гарантирует иммунитета от поздних сюрпризов. ⚡"
   }
  ],
- "last_post": "2026-11-23T01:37:39.498950+00:00",
+ "last_post": "2026-11-23T03:58:26.640043+00:00",
  "limit_day": "2026-10-25"
 }
