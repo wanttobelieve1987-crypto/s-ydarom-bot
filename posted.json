@@ -431,7 +431,8 @@
   "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
   "https://football-italia.net/serie-a-atalanta-4-4-inter-incredible-comeback/",
   "https://www.lequipe.fr/Football/Actualites/Patrick-videira-apres-la-victoire-du-mans-a-marseille-un-grand-coup-de-chapeau-a-ces-20-garcons/1745505#at_medium=RSS_feeds",
-  "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
+  "https://www.lequipe.fr/Football/Actualites/Fc-barcelone-touche-a-une-cheville-lamine-yamal-manquera-la-rencontre-de-ligue-des-champions-contre-sabah/1745549#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -865,10 +866,10 @@
   "liverpool hand pochettino nightmare manchester united start after yoro sees red",
   "serie a atalanta 4 4 inter incredible comeback pio hat trick not enough",
   "patrick videira après la victoire du mans à marseille un grand coup de chapeau à ces 20 garçons",
-  "mcburnie stoppage time double earns hull win over 10 man brighton"
+  "mcburnie stoppage time double earns hull win over 10 man brighton",
+  "fc barcelone touché à une cheville lamine yamal manquera la rencontre de ligue des champions contre sabah"
  ],
  "recent": [
-  "😭 Почетино в слезах, «Юнайтед» платит 7,4 млн — и это после десяти лет уговоров",
   "⚽ Макгинн-герой, Гилмур-антигерой: «Шотландия» выбралась из ямы против Македонии",
   "🇩🇪 «Манншафт» разгромил Сербию вдевятером и ждёт «Оранье» в Берлине",
   "⚽ Пинто разобрал Жешуса: снова вопросы про Роналду",
@@ -907,14 +908,10 @@
   "🔴 Дебют Почеттино: 0:4, красная карточка и антирекорд 1926 года",
   "🤯 Интер вел 3:1, Аталанта вырвала 4:4 — хет-трик Эспозито сгорел дотла",
   "🏟 «Ле Ман» сенсационно выбил «Марсель» с «Вельдрома» — 3:2",
-  "⚽ Макберни за 5 минут: «Халл» разгромил второе «Брайтон» вдесятером 2:0"
+  "⚽ Макберни за 5 минут: «Халл» разгромил второе «Брайтон» вдесятером 2:0",
+  "🤕 Ямаль пропускает выезд в Баку"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-13T17:09:13.405289+00:00",
-   "title": "😭 Почетино в слезах, «Юнайтед» платит 7,4 млн — и это после десяти лет уговоров",
-   "body": "Почетино не удержал слёз на пресс-конференции, уходя из сборной США в «Манчестер Юнайтед» за 7,4 млн фунтов выкупа — «одно из самых сложных решений карьеры», признался аргентинец, подписавший контракт на 2,5 года. «Красные дьяволы» добивались его целую декаду, обойдя стороной Ван Гаала, Моуринью, Сольшёра, Тен Хага и Аморима, а теперь Почетино наследует команду на 18-м месте после худшего старта з"
-  },
   {
    "time": "2026-11-14T03:32:18.086482+00:00",
    "title": "⚽ Макгинн-герой, Гилмур-антигерой: «Шотландия» выбралась из ямы против Македонии",
@@ -1109,8 +1106,13 @@
    "time": "2026-11-23T03:58:26.640026+00:00",
    "title": "⚽ Макберни за 5 минут: «Халл» разгромил второе «Брайтон» вдесятером 2:0",
    "body": "Оли Макберни устроил шоу в компенсированное время — дубль за пару минут и «Халл» обыграл второе в таблице АПЛ «Брайтон», игравшее вдесятером, со счётом 2:0. «Морщины» молчали 90 минут, а потом ударили дважды, когда «чайки» уже готовились к точке. Классика жанра: лидерство в лиге не гарантирует иммунитета от поздних сюрпризов. ⚡"
+  },
+  {
+   "time": "2026-11-23T12:19:04.839055+00:00",
+   "title": "🤕 Ямаль пропускает выезд в Баку",
+   "body": "«Барселона» подтвердила: Ламин Ямаль не полетит в Азербайджан на матч Лиги чемпионов против «Сабаха» из-за проблем с правой лодыжкой. Каталонцы лишаются своего главного юного мага в игре, где терять очки нельзя — теперь время остальным доказывать свою полезность. Надеемся, что это просто осторожность штаба, а не серьезная травма."
   }
  ],
- "last_post": "2026-11-23T03:58:26.640043+00:00",
+ "last_post": "2026-11-23T12:19:04.839072+00:00",
  "limit_day": "2026-10-25"
 }
