@@ -429,7 +429,8 @@
   "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
   "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
   "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
-  "https://football-italia.net/serie-a-atalanta-4-4-inter-incredible-comeback/"
+  "https://football-italia.net/serie-a-atalanta-4-4-inter-incredible-comeback/",
+  "https://www.lequipe.fr/Football/Actualites/Patrick-videira-apres-la-victoire-du-mans-a-marseille-un-grand-coup-de-chapeau-a-ces-20-garcons/1745505#at_medium=RSS_feeds"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -861,10 +862,10 @@
   "not the right time fernandes pauses man utd contract talks",
   "european football barcelona roar back from two goals down to sink villarreal",
   "liverpool hand pochettino nightmare manchester united start after yoro sees red",
-  "serie a atalanta 4 4 inter incredible comeback pio hat trick not enough"
+  "serie a atalanta 4 4 inter incredible comeback pio hat trick not enough",
+  "patrick videira après la victoire du mans à marseille un grand coup de chapeau à ces 20 garçons"
  ],
  "recent": [
-  "⚽ Кейн — король истории: Англия в 1/4 финала Лиги наций 2:1",
   "⚽ Зидан провалил дебют, а Доннарумма подарил Олизе пятый гол за пять матчей",
   "😭 Почетино в слезах, «Юнайтед» платит 7,4 млн — и это после десяти лет уговоров",
   "⚽ Макгинн-герой, Гилмур-антигерой: «Шотландия» выбралась из ямы против Македонии",
@@ -903,14 +904,10 @@
   "⏸️ Фернандес заморозил контракт: «Юнайтед» 19-й, 75 голов и отказ от денег",
   "🤯 Барса отыграла 0:2 и победила «Вильярреал» 3:2 — Ямаль промахнулся с пенальти",
   "🔴 Дебют Почеттино: 0:4, красная карточка и антирекорд 1926 года",
-  "🤯 Интер вел 3:1, Аталанта вырвала 4:4 — хет-трик Эспозито сгорел дотла"
+  "🤯 Интер вел 3:1, Аталанта вырвала 4:4 — хет-трик Эспозито сгорел дотла",
+  "🏟 «Ле Ман» сенсационно выбил «Марсель» с «Вельдрома» — 3:2"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-13T00:14:45.826576+00:00",
-   "title": "⚽ Кейн — король истории: Англия в 1/4 финала Лиги наций 2:1",
-   "body": "Англия выбралась в четвертьфинал Лиги наций 2:1 над Хорватией, показав футбол, который хочется забыть сразу после свистка — совсем не та команда, что месяц назад разнесла соперника 7:0. Всё исправил Кейн: в 126-м матче он стал рекордсменом Англии по играм, обогнав Шилтона, и забил 92-й гол с точки после горки Квенса, который сначала подарил Хорватии гол, а потом сам выиграл пенальти. Матч назвали "
-  },
   {
    "time": "2026-11-13T07:52:30.624205+00:00",
    "title": "⚽ Зидан провалил дебют, а Доннарумма подарил Олизе пятый гол за пять матчей",
@@ -1105,8 +1102,13 @@
    "time": "2026-11-22T22:45:40.009552+00:00",
    "title": "🤯 Интер вел 3:1, Аталанта вырвала 4:4 — хет-трик Эспозито сгорел дотла",
    "body": "Пио Эспозито нарисовал дебютный хет-трик в Серии А и вывел «Интер» на 3:1, но «Аталанта» сошла с ума: дубль Де Кетелаере, гол Эльмаса и пенальти Кесси на 91-й минуте сделали из матча цирк с конями. Кальханоглу свалился прямо во время игры, Карнесекки не вышел в старт из-за колена, а на скамейке «нераццури» разогревались только что выздоровевшие Лаутаро, Джонс и Стоунс. Статистика беспросветная: Бе"
+  },
+  {
+   "time": "2026-11-23T01:37:39.498935+00:00",
+   "title": "🏟 «Ле Ман» сенсационно выбил «Марсель» с «Вельдрома» — 3:2",
+   "body": "«Ле Ман» приехал на «Вельдром» и выбил «Марсель» из Кубка Франции со счётом 3:2, устраивая хозяевам ночной кошмар. Патрик Видейра не стал прятать эмоции: «Снимаю шляпу перед всеми 20 парнями» — так тренер отдал дань духу команды, оказавшемуся крепче репутации хозяев. Кубок Франции снова доказал: имена не выигрывают матчи, а сенсации любят подлодок."
   }
  ],
- "last_post": "2026-11-22T22:45:40.009571+00:00",
+ "last_post": "2026-11-23T01:37:39.498950+00:00",
  "limit_day": "2026-10-25"
 }
