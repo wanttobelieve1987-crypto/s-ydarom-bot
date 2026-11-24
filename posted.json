@@ -437,7 +437,8 @@
   "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
   "https://football-italia.net/serie-a-monza-3-0-fiorentina-viola-misery/",
   "https://www.theguardian.com/football/2026/nov/24/kevin-de-bruyne-napoli-manchester-city-champions-league",
-  "https://sporza.be/nl/2026/11/19/-club-kan-vrijuit-voetballen-simon-mignolet-gelooft-in-club-brugge-tegen-liverpool-en-spreekt-zich-uit-over-afscheid-lukaku~1795085944774/"
+  "https://sporza.be/nl/2026/11/19/-club-kan-vrijuit-voetballen-simon-mignolet-gelooft-in-club-brugge-tegen-liverpool-en-spreekt-zich-uit-over-afscheid-lukaku~1795085944774/",
+  "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -877,10 +878,10 @@
   "janelt scores stunner as brentford beat 10 man everton",
   "serie a monza 3 0 fiorentina viola misery as varela hits 11 goals in 11 games",
   "de bruyne s napoli return will remind manchester city what they are missing",
-  "club kan vrijuit voetballen simon mignolet gelooft in club brugge tegen liverpool en spreekt zich uit over afscheid lukaku"
+  "club kan vrijuit voetballen simon mignolet gelooft in club brugge tegen liverpool en spreekt zich uit over afscheid lukaku",
+  "gul swoops late for buoyant galatasaray to condemn aston villa to champions league loss"
  ],
  "recent": [
-  "⚽ Португалия надела форму Роналду, а Дания ответила тройкой: 0–3 после перерыва",
   "🇪🇸 Де ла Фуэнте: в Испании нет расизма — просто не смотрите на штрафы РФС и приговоры фанатам «Валенсии»",
   "🇧🇪 Лукаку возвращается, Конголо — нет",
   "🎙 Клопп и Хаверц на ПК перед «финалом» Лиги наций с Нидерландами",
@@ -919,14 +920,10 @@
   "⚽ Янельт оформил шедевр, «Брентфорд» разгромил «Эвертон» 3:0 вдесятерке",
   "🎯 Варела — 11 за 11: «Монца» разгромила «Фиорентину» и толкнула в зону вылета",
   "🇧🇪 Де Бройне возвращается на Этихад: Сити вспомнит, чего не хватает за £55 млн",
-  "⚽ Миньоле: «Брюгге» играет без комплексов, а уход Лукаку — не эмоции"
+  "⚽ Миньоле: «Брюгге» играет без комплексов, а уход Лукаку — не эмоции",
+  "⚽ «Галатасарай» ударил в конце, а «Вилла» — шестая без победы"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-14T21:25:30.856360+00:00",
-   "title": "⚽ Португалия надела форму Роналду, а Дания ответила тройкой: 0–3 после перерыва",
-   "body": "Португальцы вышли в футболках с именем ушедшего капитана и номером 7, но Хёйлунд arruinó трибьют дублем — волей и ударом в «девятую», а Хёйберг реализовал пенальти после руки Диаша. На 7-й минуте стадион «Брага» встал и аплодировал отсутствующему Роналду целую минуту, но даже «Обрагадо, капитан» на экранах не помогло — форбс из «Брюгге» с почётной семёркой на спине бессилен остановить датский праз"
-  },
   {
    "time": "2026-11-15T02:35:51.410126+00:00",
    "title": "🇪🇸 Де ла Фуэнте: в Испании нет расизма — просто не смотрите на штрафы РФС и приговоры фанатам «Валенсии»",
@@ -1121,8 +1118,13 @@
    "time": "2026-11-24T14:16:57.130392+00:00",
    "title": "⚽ Миньоле: «Брюгге» играет без комплексов, а уход Лукаку — не эмоции",
    "body": "Симон Миньоле, бывший вратарь «Ливерпуля» и «Брюгге», ныне технический директор бельгийской федерации, уверен: 9 очков из 12 позволяют «Клуб Брюгге» выйти к матчу с «Ливерпулем» без лишнего уважения — тем более что клубы помнят общие финалы 70-х, а фанаты почти родственны по менталитету. В «Брюгге» сменили установку с «попробуем-поиграем» на жесткую цель — выход в плей-офф, и вера в свои силы сейч"
+  },
+  {
+   "time": "2026-11-24T21:07:38.968163+00:00",
+   "title": "⚽ «Галатасарай» ударил в конце, а «Вилла» — шестая без победы",
+   "body": "«Галатасарай» обыграл «Астон Вилла» 1:0 голом Дениза Гуля на 77-й минуте, причем форвард ушёл с поля с ботинком в лице от Николаса Джексона — решающий гол обошёлся ему очень дорого. У Эмери уже шестая игра подряд без победы во всех турнирах, а на этом стадионе «Галатасарай» проигрывал англичанам только раз за 11 встреч — «Арсеналу» в 2014 году. «Вилла» создал первый опасный момент и первый удар в "
   }
  ],
- "last_post": "2026-11-24T14:16:57.130408+00:00",
+ "last_post": "2026-11-24T21:07:38.968183+00:00",
  "limit_day": "2026-10-25"
 }
