@@ -433,7 +433,8 @@
   "https://www.lequipe.fr/Football/Actualites/Patrick-videira-apres-la-victoire-du-mans-a-marseille-un-grand-coup-de-chapeau-a-ces-20-garcons/1745505#at_medium=RSS_feeds",
   "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
   "https://www.lequipe.fr/Football/Actualites/Fc-barcelone-touche-a-une-cheville-lamine-yamal-manquera-la-rencontre-de-ligue-des-champions-contre-sabah/1745549#at_medium=RSS_feeds",
-  "https://www.espn.com/soccer/story/_/id/50571732/womens-world-cup-united-states-united-kindgom"
+  "https://www.espn.com/soccer/story/_/id/50571732/womens-world-cup-united-states-united-kindgom",
+  "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -869,10 +870,10 @@
   "patrick videira après la victoire du mans à marseille un grand coup de chapeau à ces 20 garçons",
   "mcburnie stoppage time double earns hull win over 10 man brighton",
   "fc barcelone touché à une cheville lamine yamal manquera la rencontre de ligue des champions contre sabah",
-  "u s to co host women s world cup in 2031 u k wins bid for 2035"
+  "u s to co host women s world cup in 2031 u k wins bid for 2035",
+  "janelt scores stunner as brentford beat 10 man everton"
  ],
  "recent": [
-  "🇩🇪 «Манншафт» разгромил Сербию вдевятером и ждёт «Оранье» в Берлине",
   "⚽ Пинто разобрал Жешуса: снова вопросы про Роналду",
   "🇵🇹 Эпоха CR7 окончена: Португалия без главного бренда",
   "🇪🇸 Де ла Фуэнте против софистов: «врут» про привилегии Ямаля, а «Фурия» 43 матча не проигрывает в основное время",
@@ -911,14 +912,10 @@
   "🏟 «Ле Ман» сенсационно выбил «Марсель» с «Вельдрома» — 3:2",
   "⚽ Макберни за 5 минут: «Халл» разгромил второе «Брайтон» вдесятером 2:0",
   "🤕 Ямаль пропускает выезд в Баку",
-  "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Женский Мундиаль-2035 в UK: первый турнир с 1966 года и 19 стадионов в заявке"
+  "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Женский Мундиаль-2035 в UK: первый турнир с 1966 года и 19 стадионов в заявке",
+  "⚽ Янельт оформил шедевр, «Брентфорд» разгромил «Эвертон» 3:0 вдесятерке"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-14T07:35:05.529397+00:00",
-   "title": "🇩🇪 «Манншафт» разгромил Сербию вдевятером и ждёт «Оранье» в Берлине",
-   "body": "Германия обыграла Сербию 3:1 в Белграде, где хозяева забили автогол и закончили матч в девятером после удалений Драгойевича и Зивковича. Дебютант Брайан Груда (22) забил красивый гол и обогнал по дриблингам в топ-лигах всех, кроме Ямаля, Диоманде и Мбаппе. Клопп всё ещё ищет идеальную формулу, но в понедельник в Берлине у немцев есть шанс выбить билет в плей-офф уже при ничьей — если Греция просед"
-  },
   {
    "time": "2026-11-14T10:54:02.842873+00:00",
    "title": "⚽ Пинто разобрал Жешуса: снова вопросы про Роналду",
@@ -1113,8 +1110,13 @@
    "time": "2026-11-23T16:26:35.983784+00:00",
    "title": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Женский Мундиаль-2035 в UK: первый турнир с 1966 года и 19 стадионов в заявке",
    "body": "FIFA раздала права на два женских Чемпионата мира: в 2031 году соорганизаторами станут США, Мексика, Коста-Рика и Ямайка, а в 2035-м — все четыре британские нации, что станет первым домашним Мундиалом с 1966-го. Британцы подали 19 стадионов — от «Уэмбли» до нового «Пауэрхауса» в Бирмингеме на 62 тысячи — и получили от FIFA 4,3 из 5 баллов, хотя юридическую часть оценили как «средний риск». При это"
+  },
+  {
+   "time": "2026-11-24T00:47:28.294766+00:00",
+   "title": "⚽ Янельт оформил шедевр, «Брентфорд» разгромил «Эвертон» 3:0 вдесятерке",
+   "body": "«Брентфорд» уверенно обыграл «Эвертон» 3:0, воспользовавшись удалением у «Тоффи», а Виталий Янельт забил гол, который по праву можно назвать шедевром матча. Гости вдесятерке практически не создали угроз, превращая встречу в лёгкую прогулку для лондонцев."
   }
  ],
- "last_post": "2026-11-23T16:26:35.983800+00:00",
+ "last_post": "2026-11-24T00:47:28.294782+00:00",
  "limit_day": "2026-10-25"
 }
