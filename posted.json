@@ -440,7 +440,8 @@
   "https://sporza.be/nl/2026/11/19/-club-kan-vrijuit-voetballen-simon-mignolet-gelooft-in-club-brugge-tegen-liverpool-en-spreekt-zich-uit-over-afscheid-lukaku~1795085944774/",
   "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
   "https://nos.nl/l/2640896",
-  "https://www.espn.com/soccer/story/_/id/50574152/uefa-champions-league-live-updates"
+  "https://www.espn.com/soccer/story/_/id/50574152/uefa-champions-league-live-updates",
+  "https://www.bbc.co.uk/sport/football/articles/cw808pyyxgzjo?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -883,10 +884,10 @@
   "club kan vrijuit voetballen simon mignolet gelooft in club brugge tegen liverpool en spreekt zich uit over afscheid lukaku",
   "gul swoops late for buoyant galatasaray to condemn aston villa to champions league loss",
   "energiek feyenoord verliest in champions league nipt van fc porto",
-  "champions league recap arsenal drop points vs dortmund madrid go top"
+  "champions league recap arsenal drop points vs dortmund madrid go top",
+  "rangers dug it out despite naivety complacency mcinnes"
  ],
  "recent": [
-  "🎙 Клопп и Хаверц на ПК перед «финалом» Лиги наций с Нидерландами",
   "🇧🇪 «Дьяволы» разнесли Италию в пух и прах: 4-1 и в четвертьфиналы",
   "🎩 Роналдиньо в 46 лет вернул магию в Serie C — но 300-й гол подождёт",
   "⚽ 34 минуты боли в Берлине — и Вейрман улетел в «Боруссию»",
@@ -925,14 +926,10 @@
   "⚽ Миньоле: «Брюгге» играет без комплексов, а уход Лукаку — не эмоции",
   "⚽ «Галатасарай» ударил в конце, а «Вилла» — шестая без победы",
   "⚽ «Фейеноорд» проиграл «Порто» по автоголу и застрял на 32-м месте из 36",
-  "⚽ Арсенал и Сити теряют очки, Реал разгромил ПСВ — обычный вторник ЛЧ"
+  "⚽ Арсенал и Сити теряют очки, Реал разгромил ПСВ — обычный вторник ЛЧ",
+  "🎢 «Рейнджерс» забил тройку за 11 минут и едва спас победу над «Абердином»"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-15T17:42:23.542482+00:00",
-   "title": "🎙 Клопп и Хаверц на ПК перед «финалом» Лиги наций с Нидерландами",
-   "body": "Завтра в Берлине «Маншафт» играет с Нидерландами в решающем матче Лиги наций, а сегодня «Кекер» тикает пресс-конференцию Клоппа с Хаверцем. Новый Bundestrainer и лидер атаки разбирают вопросы за день до «финала». Читаем главные цитаты — и ждём, включится ли прессинг уже на словах. ⚽"
-  },
   {
    "time": "2026-11-15T23:24:01.217369+00:00",
    "title": "🇧🇪 «Дьяволы» разнесли Италию в пух и прах: 4-1 и в четвертьфиналы",
@@ -1127,8 +1124,13 @@
    "time": "2026-11-25T04:11:13.481065+00:00",
    "title": "⚽ Арсенал и Сити теряют очки, Реал разгромил ПСВ — обычный вторник ЛЧ",
    "body": "Арсенал и Сити вдвоём уронили очки дома — 1:1 с Дортмундом и 2:2 с Наполи, а Реал без церемоний разгромил ПСВ 5:1 и возглавил лиг-фазу. Астон Вилла продолжило стамбульские страдания, проиграв Галатасараю 0:1, а Бодё/Глимт с Комо тихо собирают победы сухим счётом. Обычный вечер ЛЧ: фавориты спотыкаются, а мадридское королевство напоминает, кто здесь главный."
+  },
+  {
+   "time": "2026-11-25T10:26:53.612037+00:00",
+   "title": "🎢 «Рейнджерс» забил тройку за 11 минут и едва спас победу над «Абердином»",
+   "body": "«Рейнджерс» проигрывал к перерыву, но тройная замена перевернула матч: за 11 минут Надери, Гассама и Раскин забили трижды, хотя Клемен после игры критиковал команду за наивность и обратные передачи. «Абердин» сократил разрыв через юного Маршалла и давил до последней секунды, но 3:2 осталось в силе. Надери уже набрал 13 голевых вкладов за 13 матчей лиги и тянет клуб к первому титулу за шесть лет — "
   }
  ],
- "last_post": "2026-11-25T04:11:13.481083+00:00",
+ "last_post": "2026-11-25T10:26:53.612055+00:00",
  "limit_day": "2026-10-25"
 }
