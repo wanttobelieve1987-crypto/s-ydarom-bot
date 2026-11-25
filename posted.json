@@ -438,7 +438,8 @@
   "https://football-italia.net/serie-a-monza-3-0-fiorentina-viola-misery/",
   "https://www.theguardian.com/football/2026/nov/24/kevin-de-bruyne-napoli-manchester-city-champions-league",
   "https://sporza.be/nl/2026/11/19/-club-kan-vrijuit-voetballen-simon-mignolet-gelooft-in-club-brugge-tegen-liverpool-en-spreekt-zich-uit-over-afscheid-lukaku~1795085944774/",
-  "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report"
+  "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
+  "https://nos.nl/l/2640896"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -879,10 +880,10 @@
   "serie a monza 3 0 fiorentina viola misery as varela hits 11 goals in 11 games",
   "de bruyne s napoli return will remind manchester city what they are missing",
   "club kan vrijuit voetballen simon mignolet gelooft in club brugge tegen liverpool en spreekt zich uit over afscheid lukaku",
-  "gul swoops late for buoyant galatasaray to condemn aston villa to champions league loss"
+  "gul swoops late for buoyant galatasaray to condemn aston villa to champions league loss",
+  "energiek feyenoord verliest in champions league nipt van fc porto"
  ],
  "recent": [
-  "🇪🇸 Де ла Фуэнте: в Испании нет расизма — просто не смотрите на штрафы РФС и приговоры фанатам «Валенсии»",
   "🇧🇪 Лукаку возвращается, Конголо — нет",
   "🎙 Клопп и Хаверц на ПК перед «финалом» Лиги наций с Нидерландами",
   "🇧🇪 «Дьяволы» разнесли Италию в пух и прах: 4-1 и в четвертьфиналы",
@@ -921,14 +922,10 @@
   "🎯 Варела — 11 за 11: «Монца» разгромила «Фиорентину» и толкнула в зону вылета",
   "🇧🇪 Де Бройне возвращается на Этихад: Сити вспомнит, чего не хватает за £55 млн",
   "⚽ Миньоле: «Брюгге» играет без комплексов, а уход Лукаку — не эмоции",
-  "⚽ «Галатасарай» ударил в конце, а «Вилла» — шестая без победы"
+  "⚽ «Галатасарай» ударил в конце, а «Вилла» — шестая без победы",
+  "⚽ «Фейеноорд» проиграл «Порто» по автоголу и застрял на 32-м месте из 36"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-15T02:35:51.410126+00:00",
-   "title": "🇪🇸 Де ла Фуэнте: в Испании нет расизма — просто не смотрите на штрафы РФС и приговоры фанатам «Валенсии»",
-   "body": "На неделю до матча с Англией в Мадриде де ла Фуэнте заявил, что расизма в Испании нет, «точно так же, как в Англии», — хотя РФС только что получил штраф и закрытие сектора за ксенофобию на игре с Египтом, а три фаната «Валенсии» отсиживают восемь месяцев за оскорбления Винисиуса. Тухель дипломатично надеется на дружескую атмосферу, но всё равно напомнит игрокам протокол УЕФА — на всякий случай. А "
-  },
   {
    "time": "2026-11-15T10:44:10.053266+00:00",
    "title": "🇧🇪 Лукаку возвращается, Конголо — нет",
@@ -1123,8 +1120,13 @@
    "time": "2026-11-24T21:07:38.968163+00:00",
    "title": "⚽ «Галатасарай» ударил в конце, а «Вилла» — шестая без победы",
    "body": "«Галатасарай» обыграл «Астон Вилла» 1:0 голом Дениза Гуля на 77-й минуте, причем форвард ушёл с поля с ботинком в лице от Николаса Джексона — решающий гол обошёлся ему очень дорого. У Эмери уже шестая игра подряд без победы во всех турнирах, а на этом стадионе «Галатасарай» проигрывал англичанам только раз за 11 встреч — «Арсеналу» в 2014 году. «Вилла» создал первый опасный момент и первый удар в "
+  },
+  {
+   "time": "2026-11-25T00:06:52.092477+00:00",
+   "title": "⚽ «Фейеноорд» проиграл «Порто» по автоголу и застрял на 32-м месте из 36",
+   "body": "«Фейеноорд» умудрился проиграть «Порто» 0:1 дома уже на второй минуте из-за автогола Таргаллина, а потом весь матч бил в закрытые ворота Диого Коста. Хадж-Мусса, Лопес и замена Ферри создавали моменты, но лучший случай — головной удар в штангу, который часы судьи сначала засчитали, а VAR отменил — идеально резюмирует европейскую кампанию роттердамцев. Итог: 3 очка из 15, 32-я строчка в таблице и н"
   }
  ],
- "last_post": "2026-11-24T21:07:38.968183+00:00",
+ "last_post": "2026-11-25T00:06:52.092494+00:00",
  "limit_day": "2026-10-25"
 }
