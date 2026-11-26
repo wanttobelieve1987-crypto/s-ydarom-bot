@@ -443,7 +443,8 @@
   "https://www.espn.com/soccer/story/_/id/50574152/uefa-champions-league-live-updates",
   "https://www.bbc.co.uk/sport/football/articles/cw808pyyxgzjo?at_medium=RSS&at_campaign=rss",
   "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
-  "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal"
+  "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
+  "https://www.theguardian.com/football/2026/nov/25/sporting-lisbon-manchester-united-champions-league-match-report"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -889,10 +890,10 @@
   "champions league recap arsenal drop points vs dortmund madrid go top",
   "rangers dug it out despite naivety complacency mcinnes",
   "raheem sterling from national icon to suspended jail sentence",
-  "champions league gordon twice on target in barcelona s cruise at sabah"
+  "champions league gordon twice on target in barcelona s cruise at sabah",
+  "lammens errors cost manchester united victory in frantic finale at sporting"
  ],
  "recent": [
-  "⚽ 34 минуты боли в Берлине — и Вейрман улетел в «Боруссию»",
   "⚽ Лукаку ушёл по-своему: 94 гола и тихое «до свидания» сборной",
   "🇫🇷 УЕФА ставит на «серого кардинала»: Диалло вызовет Инфантино на выборах в ФИФА",
   "🇩🇪 Клопп разгромил Нидерланды 5:0 — и попрощался с Адидасом на 10 лет",
@@ -931,14 +932,10 @@
   "⚽ Арсенал и Сити теряют очки, Реал разгромил ПСВ — обычный вторник ЛЧ",
   "🎢 «Рейнджерс» забил тройку за 11 минут и едва спас победу над «Абердином»",
   "⚖️ От героя Уэмбли до условного срока: падение Стерлинга",
-  "⚽ Без Ямаля, но с дублем Гордона: «Барса» разгромила дебиютанта 4:1"
+  "⚽ Без Ямаля, но с дублем Гордона: «Барса» разгромила дебиютанта 4:1",
+  "⚽ «Юнайтед» отдал победу «Спортингу»: Лемменс раздал подарки, Марчинак отобрал гол"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-16T07:55:44.261879+00:00",
-   "title": "⚽ 34 минуты боли в Берлине — и Вейрман улетел в «Боруссию»",
-   "body": "В июне 2024 на «Евро» «Оранжевые» проиграли Австрии 2:3, а Коэман снёс Вейрмана на 34-й минуте за «необъяснимые» потери мяча — игрок ушёл в слезах под ругань экспертов, предрекавших конец карьеры в сборной. Неделю спустя Нидерланды разгромили Румынию 3:0 в Мюнхене, фанаты скандировали имя Вейрмана, а к концу турнира он стал важным игроком ротации. Друг Хенк Вейрман помог выговориться, а летом полу"
-  },
   {
    "time": "2026-11-16T11:59:49.644867+00:00",
    "title": "⚽ Лукаку ушёл по-своему: 94 гола и тихое «до свидания» сборной",
@@ -1133,8 +1130,13 @@
    "time": "2026-11-25T20:40:04.277968+00:00",
    "title": "⚽ Без Ямаля, но с дублем Гордона: «Барса» разгромила дебиютанта 4:1",
    "body": "«Барселона» без травмированного Ямаля разгромила азербайджанский «Сабах» 4:1 в Лиге чемпионов — уже четвёртая победа за пять матчей лиг-фазы. Энтони Гордон забил дубль, а Карим Адеями с Габриэлем Жесусом добавили по голу за пять минут второго тайма, укрепив каталонцев на четвёртом месте в таблице из 36 команд. Разница мячей может стать решающей для прямого попадания в 1/8 финала, поэтому Флик не о"
+  },
+  {
+   "time": "2026-11-26T00:59:42.284907+00:00",
+   "title": "⚽ «Юнайтед» отдал победу «Спортингу»: Лемменс раздал подарки, Марчинак отобрал гол",
+   "body": "«Юнайтед» вел 2:1 за 10 минут до финала с «Спортингом», но Лемменс уронил мяч под «велосипед» Суареса — 2:2, а Марчинак отменил автогол Кайке Перейры за фол Доргу на вратаре. Тилеманс получил вторую «желтую» за несуществующий фол (уже пятая красная у команды за шесть недель), и тот же судья"
   }
  ],
- "last_post": "2026-11-25T20:40:04.277986+00:00",
+ "last_post": "2026-11-26T00:59:42.284924+00:00",
  "limit_day": "2026-10-25"
 }
