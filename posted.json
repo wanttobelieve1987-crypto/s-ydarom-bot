@@ -444,7 +444,8 @@
   "https://www.bbc.co.uk/sport/football/articles/cw808pyyxgzjo?at_medium=RSS&at_campaign=rss",
   "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
   "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
-  "https://www.theguardian.com/football/2026/nov/25/sporting-lisbon-manchester-united-champions-league-match-report"
+  "https://www.theguardian.com/football/2026/nov/25/sporting-lisbon-manchester-united-champions-league-match-report",
+  "https://www.espn.com/soccer/story/_/id/50595091/bayern-munich-jamal-musiala-fainting-injuries"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -891,10 +892,10 @@
   "rangers dug it out despite naivety complacency mcinnes",
   "raheem sterling from national icon to suspended jail sentence",
   "champions league gordon twice on target in barcelona s cruise at sabah",
-  "lammens errors cost manchester united victory in frantic finale at sporting"
+  "lammens errors cost manchester united victory in frantic finale at sporting",
+  "bayern munich made a mistake taking jamal musiala s injuries public"
  ],
  "recent": [
-  "⚽ Лукаку ушёл по-своему: 94 гола и тихое «до свидания» сборной",
   "🇫🇷 УЕФА ставит на «серого кардинала»: Диалло вызовет Инфантино на выборах в ФИФА",
   "🇩🇪 Клопп разгромил Нидерланды 5:0 — и попрощался с Адидасом на 10 лет",
   "😱 Шотландия 0:4 Швейцария: второй состав разгромил «клетку»",
@@ -933,14 +934,10 @@
   "🎢 «Рейнджерс» забил тройку за 11 минут и едва спас победу над «Абердином»",
   "⚖️ От героя Уэмбли до условного срока: падение Стерлинга",
   "⚽ Без Ямаля, но с дублем Гордона: «Барса» разгромила дебиютанта 4:1",
-  "⚽ «Юнайтед» отдал победу «Спортингу»: Лемменс раздал подарки, Марчинак отобрал гол"
+  "⚽ «Юнайтед» отдал победу «Спортингу»: Лемменс раздал подарки, Марчинак отобрал гол",
+  "💸 «Бавария» заработала миллиард, но требует скидку на Мусиалу"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-16T11:59:49.644867+00:00",
-   "title": "⚽ Лукаку ушёл по-своему: 94 гола и тихое «до свидания» сборной",
-   "body": "Ромелу Лукаку неожиданно объявил об уходе из «Красных Дьяволов» сразу после матча с Италией, где просидел весь матч на скамейке из-за травмы. За 16 лет и 135 матчей он стал лучшим бомбардиром истории сборной с 94 голами, обогнав даже легенд «Золотого поколения» Азара и Де Бройне. Герой бронзового М‑2018 уходит красиво: «наслаждался каждой минутой» и обрёл покой с принятым решением. Бельгия теряет "
-  },
   {
    "time": "2026-11-16T19:31:46.161442+00:00",
    "title": "🇫🇷 УЕФА ставит на «серого кардинала»: Диалло вызовет Инфантино на выборах в ФИФА",
@@ -1135,8 +1132,13 @@
    "time": "2026-11-26T00:59:42.284907+00:00",
    "title": "⚽ «Юнайтед» отдал победу «Спортингу»: Лемменс раздал подарки, Марчинак отобрал гол",
    "body": "«Юнайтед» вел 2:1 за 10 минут до финала с «Спортингом», но Лемменс уронил мяч под «велосипед» Суареса — 2:2, а Марчинак отменил автогол Кайке Перейры за фол Доргу на вратаре. Тилеманс получил вторую «желтую» за несуществующий фол (уже пятая красная у команды за шесть недель), и тот же судья"
+  },
+  {
+   "time": "2026-11-26T03:46:20.473260+00:00",
+   "title": "💸 «Бавария» заработала миллиард, но требует скидку на Мусиалу",
+   "body": "«Бавария» представила отчёт с рекордным миллиардом выручки и 34-м годом подряд в плюсе, но триумф затенён нелепой войной с Джамалом Мусиалой: Руменниге и Хёнес публично призвали пересмотреть контракт на €25 млн в год из-за проблем со здоровьем, не проведя ни одного приватного разговора. ФИФПРО и даже невролог с трибуны годового собрания назвали это позором и угрозой для восстановления футболиста, "
   }
  ],
- "last_post": "2026-11-26T00:59:42.284924+00:00",
+ "last_post": "2026-11-26T03:46:20.473279+00:00",
  "limit_day": "2026-10-25"
 }
