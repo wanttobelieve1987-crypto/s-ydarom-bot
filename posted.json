@@ -445,7 +445,8 @@
   "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
   "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
   "https://www.theguardian.com/football/2026/nov/25/sporting-lisbon-manchester-united-champions-league-match-report",
-  "https://www.espn.com/soccer/story/_/id/50595091/bayern-munich-jamal-musiala-fainting-injuries"
+  "https://www.espn.com/soccer/story/_/id/50595091/bayern-munich-jamal-musiala-fainting-injuries",
+  "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -893,10 +894,10 @@
   "raheem sterling from national icon to suspended jail sentence",
   "champions league gordon twice on target in barcelona s cruise at sabah",
   "lammens errors cost manchester united victory in frantic finale at sporting",
-  "bayern munich made a mistake taking jamal musiala s injuries public"
+  "bayern munich made a mistake taking jamal musiala s injuries public",
+  "martinez secures inter win against stuttgart"
  ],
  "recent": [
-  "🇫🇷 УЕФА ставит на «серого кардинала»: Диалло вызовет Инфантино на выборах в ФИФА",
   "🇩🇪 Клопп разгромил Нидерланды 5:0 — и попрощался с Адидасом на 10 лет",
   "😱 Шотландия 0:4 Швейцария: второй состав разгромил «клетку»",
   "💷 Райс до 2031: «Арсенал» закрепил капитана за £105 млн заранее",
@@ -935,14 +936,10 @@
   "⚖️ От героя Уэмбли до условного срока: падение Стерлинга",
   "⚽ Без Ямаля, но с дублем Гордона: «Барса» разгромила дебиютанта 4:1",
   "⚽ «Юнайтед» отдал победу «Спортингу»: Лемменс раздал подарки, Марчинак отобрал гол",
-  "💸 «Бавария» заработала миллиард, но требует скидку на Мусиалу"
+  "💸 «Бавария» заработала миллиард, но требует скидку на Мусиалу",
+  "⚽ Лаутаро с лавки запасных принес «Интеру» три очка"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-16T19:31:46.161442+00:00",
-   "title": "🇫🇷 УЕФА ставит на «серого кардинала»: Диалло вызовет Инфантино на выборах в ФИФА",
-   "body": "УЕФА единогласно поддержал кандидатуру президента ФФФ Филиппа Диалло на выборах в ФИФА против Инфантино, хотя изначально охотились за медийную звезду — Венгера или Дрогбу. Карьерист Диалло, 30 лет курировавший лобби французских клубов и ставший главой федерации почти случайно, уже называл действующего президента того, кто «серьезно повредил имидж и единство футбола». Главный риск теперь — раздробл"
-  },
   {
    "time": "2026-11-16T23:01:16.421562+00:00",
    "title": "🇩🇪 Клопп разгромил Нидерланды 5:0 — и попрощался с Адидасом на 10 лет",
@@ -1137,8 +1134,13 @@
    "time": "2026-11-26T03:46:20.473260+00:00",
    "title": "💸 «Бавария» заработала миллиард, но требует скидку на Мусиалу",
    "body": "«Бавария» представила отчёт с рекордным миллиардом выручки и 34-м годом подряд в плюсе, но триумф затенён нелепой войной с Джамалом Мусиалой: Руменниге и Хёнес публично призвали пересмотреть контракт на €25 млн в год из-за проблем со здоровьем, не проведя ни одного приватного разговора. ФИФПРО и даже невролог с трибуны годового собрания назвали это позором и угрозой для восстановления футболиста, "
+  },
+  {
+   "time": "2026-11-26T09:28:06.124346+00:00",
+   "title": "⚽ Лаутаро с лавки запасных принес «Интеру» три очка",
+   "body": "«Интер» обыграл «Штутгарт» 2:0 и укрепился в зоне плей-офф Лиги чемпионов: Лаутаро Мартинес вышел на замену и забил решающий гол, напомнив, зачем его называют лучшим сменщиком турнира. Миланский клуб сделал гигантский шаг к 1/8 финала."
   }
  ],
- "last_post": "2026-11-26T03:46:20.473279+00:00",
+ "last_post": "2026-11-26T09:28:06.124364+00:00",
  "limit_day": "2026-10-25"
 }
