@@ -453,7 +453,8 @@
   "https://www.skysports.com/football/torreense-vs-celtic/report/577828",
   "https://www.lequipe.fr/Football/Actualites/Incidents-et-blesses-a-marseille-lors-d-om-levski-sofia-la-bulgarie-et-la-france-condamnent-avec-la-plus-grande-fermete/1746532#at_medium=RSS_feeds",
   "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
-  "https://www.espn.com/soccer/story/_/id/50610066/transfer-rumors-news-nico-paz-man-united-real-madrid-como"
+  "https://www.espn.com/soccer/story/_/id/50610066/transfer-rumors-news-nico-paz-man-united-real-madrid-como",
+  "https://www.theguardian.com/football/2026/nov/27/nottingham-forest-chelsea-premier-league-match-report"
  ],
  "src_titles": [
   "ever feel you ve been cheated consequences could be profound after manchester city guilty verdict jonathan wilson",
@@ -909,10 +910,10 @@
   "duran scores late celtic winner to keep europa league hopes alive",
   "incidents et blessés à marseille lors d om levski sofia la bulgarie et la france condamnent avec la plus grande fermeté",
   "man utd trigger fernandes one year contract extension",
-  "transfer rumors news nico paz open to man united against real madrid return"
+  "transfer rumors news nico paz open to man united against real madrid return",
+  "gibbs white and igor jesus fire nottingham forest past shaky chelsea"
  ],
  "recent": [
-  "⚽ Компани возвращается: от обморока — к пресс-конференции и скамейке против Кёльна",
   "⚽ Хуан Мата завершил карьеру в 38 лет: полный набор трофеев и финал в Австралии",
   "⚖️ АПЛ застраховала директоров на случай исков от спонсоров «Манчестер Сити»",
   "⚽ Зиркзе за 40 млн и два гола: Юве и Наполи хотят вернуть голландца в серию А",
@@ -951,14 +952,10 @@
   "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Дуран спас «Сельтик» в 85-й: 2:1 и 15-й гол сезона",
   "🔥 На «Вельдроме» ультрасы ОМ и «Левски» разнеслись в драке до матча Лиги Европы",
   "⚽ «Юнайтед» продлил Фернандеса до 2028 года: саудовцы предлагали состояние",
-  "⚽ Пас откажется от возвращения в «Реал» ради «МЮ», а «Челси» с «Сперз» разберутся за Кумбеди"
+  "⚽ Пас откажется от возвращения в «Реал» ради «МЮ», а «Челси» с «Сперз» разберутся за Кумбеди",
+  "🌲 «Лес» вырубил «Челси» 3:1: Фофана стал изгоем, Алонсо — 4-е поражение из 5"
  ],
  "day_posts": [
-  {
-   "time": "2026-11-18T22:34:17.007777+00:00",
-   "title": "⚽ Компани возвращается: от обморока — к пресс-конференции и скамейке против Кёльна",
-   "body": "Винсент Компани постепенно возвращается в рабочий ритм после обморока: в четверг он впервые выйдет на пресс-конференцию, а в пятницу уже сядет на скамейку «Баварии» в матче с Кёльном. Здоровье в порядке — работа продолжается."
-  },
   {
    "time": "2026-11-19T04:07:05.576379+00:00",
    "title": "⚽ Хуан Мата завершил карьеру в 38 лет: полный набор трофеев и финал в Австралии",
@@ -1153,8 +1150,13 @@
    "time": "2026-11-27T20:16:51.614824+00:00",
    "title": "⚽ Пас откажется от возвращения в «Реал» ради «МЮ», а «Челси» с «Сперз» разберутся за Кумбеди",
    "body": "Аргентинец Нико Пас (22) не хочет возвращаться в «Реал» за биэквот в 80 млн евро и мечтает сменить Бруно Фернандеса в «МЮ», пишет The Athletic. Параллельно 42-летний Тьяго Сильва продлевает контракт с «Флуминенсе» до 2027 года, доказывая, что возраст — просто цифра. «Челси» и «Тоттенхэм» устраивают аукцион за вольфсбургского латérale Сайля Кумбеди (21), а «Боруссия» ставит за 19-летнего Гаду ценни"
+  },
+  {
+   "time": "2026-11-27T23:24:09.678810+00:00",
+   "title": "🌲 «Лес» вырубил «Челси» 3:1: Фофана стал изгоем, Алонсо — 4-е поражение из 5",
+   "body": "«Ноттингем Форест» обыграл «Челси» 3:1 и, следуя за победой над «Сити», полез на 14-ю строчку таблицы, а Морган Гиббс-Уайт забил дубль — с пенальти и после красивого подвеса. Весли Фофана пережил кошмар: бывший лестерский защитник потерял Делапа, подарил 11-метровку и услышал от своих фанатов: «Ты нам не нужен». «Синие» под руководством Хаби Алонсо провалили четвёртый матч за пять — в прессинге ко"
   }
  ],
- "last_post": "2026-11-27T20:16:51.614841+00:00",
+ "last_post": "2026-11-27T23:24:09.678827+00:00",
  "limit_day": "2026-10-25"
 }
